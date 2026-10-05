@@ -7,11 +7,15 @@
  *
  * Reports:
  *   - page count ("## Page N") and post count ("## Post N")
- *   - FAQ count (numbered bold questions inside "FAQs" sections)
+ *   - YAML block count (one per page and post; the 404 page has none)
+ *   - FAQ count: numbered bold questions ending in "?" ("1. **Question?**")
  *   - every [CONFIRM: ...] token with its page or post
  *   - titles over 60 characters and descriptions over 155 (from the yaml block)
  *   - duplicate urls
- * Exits 1 when the file is missing or required checks fail.
+ * Exits 1 when the file is missing, 2 when checks fail.
+ *
+ * Expected for the EVE content file: 46 pages, 3 posts, 48 yaml blocks,
+ * about 249 FAQs, about 164 [CONFIRM] tokens, 0 over-length fields.
  */
 
 import { readFileSync, existsSync } from 'node:fs';
@@ -43,6 +47,7 @@ for (const line of lines) {
 
 const pages = blocks.filter((b) => b.kind === 'page');
 const posts = blocks.filter((b) => b.kind === 'post');
+const yamlCount = blocks.filter((b) => b.kind !== 'preamble' && /```yaml\n[\s\S]*?```/.test(b.lines.join('\n'))).length;
 
 const yamlValue = (block, key) => {
   const text = block.lines.join('\n');
@@ -59,12 +64,9 @@ const longDescriptions = [];
 const urls = new Map();
 
 for (const block of blocks) {
-  // FAQs: numbered bold questions under a "### FAQs" heading or a bare "FAQs:" line.
-  let inFaq = false;
+  // FAQs: numbered bold questions ending in "?" anywhere in the block.
   for (const line of block.lines) {
-    if (/^#{1,4}\s/.test(line) && !/^#{1,4}\s*FAQs?/i.test(line)) inFaq = false;
-    if (/^FAQs?:\s*$/i.test(line.trim()) || /^#{1,4}\s*FAQs?/i.test(line)) inFaq = true;
-    else if (inFaq && /^\d+\.\s+\*\*/.test(line)) faqTotal++;
+    if (/^\d+\.\s+\*\*[^*]*\?\*\*/.test(line)) faqTotal++;
   }
 
   // [CONFIRM: ...] tokens, with line numbers.
@@ -102,7 +104,7 @@ const byTheme = Map.groupBy(confirms, (c) => themeOf(c.note));
 console.log('CONTENT AUDIT');
 console.log(`file: ${file}`);
 console.log('---');
-console.log(`pages: ${pages.length}   posts: ${posts.length}   faqs: ${faqTotal}`);
+console.log(`pages: ${pages.length}   posts: ${posts.length}   yaml blocks: ${yamlCount}   faqs: ${faqTotal}`);
 console.log(`[CONFIRM] tokens: ${confirms.length}`);
 console.log('---');
 console.log('[CONFIRM] by theme:');
