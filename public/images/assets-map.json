@@ -1,0 +1,902 @@
+{
+  "badge-adenomyosis.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-adolescent-gynaecology.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-cervical-screening.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-contraception.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-doctor.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-early-pregnancy-scan.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-egg-freezing.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-endometrial-biopsy.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-endometriosis.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-female-infertility.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-fertility-evaluation.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-fibroids.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-follicular-monitoring.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-hsg.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-iui.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-ivf.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-male-fertility.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-menopause.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-menstrual.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-natural-conception.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-ovarian-reserve.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-pcos.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-pregnancy-loss.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-reproductive-immunology.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-tesa-pesa.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "badge-thyroid.png": {
+    "widths": [
+      112,
+      224
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "botanical-corner.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "botanical-divider-vine.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 512
+    }
+  },
+  "botanical-pattern-tile.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "cat-all.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "cat-conditions.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "cat-getting-started.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "cat-treatments.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "cat-womens-health.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "faq-booking.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "faq-fertility.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "faq-payment-privacy.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "faq-treatments.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "faq-womens-health.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "glance-limits.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "glance-prepare.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "glance-rules.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "glance-time.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "glance-what.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "glance-when.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "glance-where.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "glance-who.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "illus-404.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "illus-blog.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "illus-cta-band.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "illus-faq.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "illus-finding-us.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "illus-journey.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "illus-route-outstation.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "illus-thank-you.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "lead-adenomyosis.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "lead-egg-freezing.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "lead-endometrial-biopsy.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "lead-female-factor-infertility.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "lead-fibroids.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "lead-ovarian-reserve.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "lead-thyroid.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1536,
+      "h": 1024
+    }
+  },
+  "sparkle-cluster.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "sprig-1.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "sprig-2.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "sprig-3.png": {
+    "widths": [
+      320,
+      640
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "stage-after.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "stage-treat.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "stage-treatment.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "stage-understand.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-blood-test.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-consent.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-consultation.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-early-scan.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-egg-collection.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-embryo-culture.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-embryo-transfer.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-fertilisation.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-freezing.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-insemination.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-medicine.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-monitoring.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-pregnancy-test.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-scan.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-sperm-prep.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "step-trigger.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "why-evaluation.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "why-experience.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "why-options.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "why-time.png": {
+    "widths": [
+      64,
+      128
+    ],
+    "source": {
+      "w": 1024,
+      "h": 1024
+    }
+  }
+}

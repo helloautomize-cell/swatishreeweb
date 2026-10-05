@@ -49,3 +49,8 @@ next-env.d.ts
 resources/images/_hold/
 resources/images/_originals-as-received/
 resources/images/credentials-reference/
+
+# test and server artifacts
+test-results/
+server.log
+artifacts/
