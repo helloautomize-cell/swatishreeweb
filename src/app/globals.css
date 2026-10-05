@@ -1,26 +1,159 @@
 @import "tailwindcss";
 
+/* Locked design tokens. Values come from the approved visual reference.
+   Do not change a value. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --primary: #5c7450;
+  --secondary: #26382c;
+  --primary-500: #4f6445;
+  --primary-700: #3e5236;
+  --primary-100: #e5ecdf;
+  --primary-50: #f4f7f1;
+  --blush-100: #fce4e8;
+  --blush-50: #fff6f8;
+  --rose: #a24560;
+  --glow: #a8c49a;
+  --accent: #f4b3c1;
+  --ink: #1f2d26;
+  --ink-2: #55655b;
+  --line: #e3e8df;
+  --bg: #ffffff;
+  --alert: #c8302a;
+  --success: #2f7d5b;
+  --star: #f2b233;
+  --grad-brand: linear-gradient(90deg, #5c7450 0%, #26382c 100%);
+  --grad-btn: linear-gradient(90deg, #5c7450, #26382c, #5c7450);
+  --shadow-card:
+    0 1px 2px rgba(31, 45, 38, 0.04), 0 12px 32px -12px rgba(38, 56, 44, 0.18);
+  --shadow-hover: 0 20px 48px -16px rgba(38, 56, 44, 0.28);
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-primary-500: var(--primary-500);
+  --color-primary-700: var(--primary-700);
+  --color-primary-100: var(--primary-100);
+  --color-primary-50: var(--primary-50);
+  --color-blush-100: var(--blush-100);
+  --color-blush-50: var(--blush-50);
+  --color-rose: var(--rose);
+  --color-glow: var(--glow);
+  --color-accent: var(--accent);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-line: var(--line);
+  --color-bg: var(--bg);
+  --color-alert: var(--alert);
+  --color-success: var(--success);
+  --color-star: var(--star);
+  --font-sans: var(--font-figtree), ui-sans-serif, system-ui, sans-serif;
+  --font-accent: var(--font-instrument), Georgia, serif;
+  --shadow-card: var(--shadow-card);
+  --shadow-hover: var(--shadow-hover);
+  --ease-eve: var(--ease);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* One serif accent word per heading at most. */
+em.acc,
+.acc {
+  font-family: var(--font-accent);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: var(--rose);
+}
+
+/* Glass. Only over glows, tints or photos, never flat white. */
+.glass {
+  background: rgba(255, 255, 255, 0.62);
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  box-shadow:
+    var(--shadow-card),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+@supports not (backdrop-filter: blur(1px)) {
+  .glass {
+    background: rgba(255, 255, 255, 0.94);
+  }
+}
+
+/* Focus ring on every interactive element. Never removed. */
+:focus-visible {
+  outline: 3px solid rgba(79, 100, 69, 0.45);
+  outline-offset: 2px;
+}
+
+.container-eve {
+  width: 100%;
+  max-width: 1240px;
+  margin-inline: auto;
+  padding-inline: 24px;
+}
+@media (min-width: 1024px) {
+  .container-eve {
+    padding-inline: 40px;
+  }
+}
+
+.eyebrow {
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--primary-500);
+}
+@media (max-width: 767px) {
+  .eyebrow {
+    font-size: 12px;
+  }
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+p {
+  text-wrap: pretty;
+}
+
+/* Reveal on scroll. Content is visible at rest; JS adds the animation. */
+@keyframes eve-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.reveal-in {
+  animation: eve-reveal 500ms var(--ease) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
