@@ -1,0 +1,675 @@
+/* Home page (Part 7.1) — Phase 4. Reuses the v2 signature classes. */
+
+.hm {
+  overflow-x: clip;
+}
+
+.hm-sec {
+  padding: clamp(48px, 7vw, 80px) 0 0;
+}
+
+.hm .sec-h {
+  display: grid;
+  gap: 12px;
+  max-width: 780px;
+  margin-bottom: 28px;
+}
+
+.hm .sec-h h2 {
+  font-size: clamp(28px, 4vw, 40px);
+  line-height: 1.15;
+  font-weight: 700;
+  text-wrap: balance;
+}
+
+.hm .sec-h p {
+  margin: 0;
+  color: var(--ink-2);
+}
+
+.hm-hero {
+  border-radius: 32px;
+  margin-top: 24px;
+}
+
+/* answer-first line directly under the hero */
+
+.hm-answer {
+  max-width: 72ch;
+  margin: 24px auto 0;
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: color-mix(in srgb, var(--ink) 82%, transparent);
+}
+
+/* hero chips row (desktop only) */
+
+.hm-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.hm-chips > span {
+  padding: 7px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--primary-500);
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.hm-dchip > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 16px 5px 6px;
+  border-color: var(--primary-100);
+}
+
+.hm-dchip-av {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--primary-100);
+  color: var(--primary-700);
+  display: grid;
+  place-items: center;
+  flex: 0 0 28px;
+}
+
+.hm-dchip-av img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* 02 / About EVE */
+
+.hm-about-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr);
+  gap: clamp(24px, 4vw, 48px);
+  align-items: center;
+}
+
+.hm-about-photo {
+  position: relative;
+  border-radius: 24px;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, var(--primary-100), var(--blush-50));
+  display: grid;
+  place-items: center;
+}
+
+.hm-about-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hm-labels {
+  position: absolute;
+  inset: auto 16px 16px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  z-index: 2;
+}
+
+.hm-labels .glasschip {
+  padding: 8px 12px;
+  font-size: 0.82rem;
+}
+
+.hm-about-body p {
+  margin: 0 0 18px;
+  line-height: 1.7;
+}
+
+.hm-row {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  padding: 14px 0;
+  border-top: 1px solid var(--line);
+}
+
+.hm-row-badge {
+  flex: 0 0 56px;
+  width: 56px;
+  height: 56px;
+}
+
+.hm-row-badge img {
+  width: 100%;
+  height: auto;
+}
+
+.hm-row p {
+  margin: 0;
+}
+
+/* visit band: desktop sticky photo + frosted card; mobile compact */
+
+.hm-band {
+  position: relative;
+  margin-top: clamp(48px, 7vw, 80px);
+  min-height: 60vh;
+  display: grid;
+  align-items: center;
+  isolation: isolate;
+}
+
+.hm-band-media {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  background:
+    radial-gradient(80% 90% at 20% 15%, rgba(168, 196, 154, 0.55), transparent 60%),
+    linear-gradient(120deg, #35493b, #26382c 70%);
+}
+
+.hm-band-media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(38, 56, 44, 0.4);
+}
+
+.hm-band-media img,
+.hm-band-media .hm-band-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hm-band-card {
+  width: min(440px, calc(100% - 48px));
+  margin: 0 auto;
+  padding: 28px;
+  border-radius: 24px;
+  background: var(--glass);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+  border: 1px solid var(--glass-b);
+  box-shadow: var(--shadow-card);
+}
+
+.hm-band-card h2 {
+  margin: 0 0 10px;
+}
+
+.hm-band-card p {
+  margin: 0 0 14px;
+  line-height: 1.65;
+}
+
+.hm-band-hours {
+  font-weight: 600;
+  color: var(--primary-700);
+}
+
+.hm-band-card .btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* 05 / doctor card on home */
+
+.hm-doctor {
+  margin-top: 8px;
+}
+
+.hm-quals {
+  font-size: 0.95rem;
+  color: var(--ink-2);
+  margin: 4px 0 0;
+}
+
+/* 06 / plan panel */
+
+.hm-plan-panel {
+  max-width: 780px;
+  padding: 28px;
+  border-radius: 24px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--primary) 5%, transparent);
+}
+
+.hm-plan-panel p {
+  margin: 0 0 14px;
+  line-height: 1.7;
+}
+
+/* 07 / conditions marquee */
+
+.hm-marquee {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  padding: 4px 2px 12px;
+  scrollbar-width: none;
+}
+
+.hm-marquee::-webkit-scrollbar {
+  display: none;
+}
+
+.hm-pill {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--ink);
+  text-decoration: none;
+  white-space: nowrap;
+  box-shadow: 0 1px 2px rgba(31, 45, 38, 0.05);
+}
+
+.hm-pill:hover {
+  border-color: var(--primary);
+  color: var(--primary-700);
+}
+
+/* 08 / blog cards */
+
+.hm-blog {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.hm-post {
+  display: grid;
+  gap: 10px;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background: #fff;
+  text-decoration: none;
+  color: var(--ink);
+  transition: box-shadow 0.25s var(--ease), transform 0.25s var(--ease);
+}
+
+.hm-post:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-3px);
+}
+
+.hm-post-cover {
+  width: 72px;
+  height: 72px;
+}
+
+.hm-post-cover img {
+  width: 100%;
+  height: auto;
+}
+
+.hm-post-cat {
+  justify-self: start;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--primary-100);
+  color: var(--primary-700);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.hm-post-t {
+  font-size: 1.1rem;
+  font-weight: 650;
+  line-height: 1.35;
+}
+
+.hm-post-meta {
+  font-size: 0.85rem;
+  color: var(--ink-2);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hm-more {
+  margin: 20px 0 0;
+}
+
+.hm-more .link {
+  font-weight: 600;
+  color: var(--primary);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+}
+
+/* contact block */
+
+.hm-contact-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: clamp(24px, 4vw, 48px);
+  align-items: start;
+}
+
+.hm-contact-rows {
+  display: grid;
+  gap: 4px;
+}
+
+.hm-crow {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.hm-crow svg {
+  color: var(--primary);
+  margin-top: 2px;
+  flex: 0 0 auto;
+}
+
+.hm-crow b {
+  display: block;
+  color: var(--secondary);
+}
+
+.hm-crow p {
+  margin: 2px 0 0;
+}
+
+.hm-crow a {
+  color: var(--primary-700);
+}
+
+.hm-emergency {
+  margin: 16px 0 0;
+  color: var(--alert);
+  font-weight: 600;
+}
+
+.hm-emergency a {
+  color: inherit;
+}
+
+.hm-contact-photo {
+  border-radius: 24px;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, var(--primary-100), var(--blush-50));
+  display: grid;
+  place-items: center;
+}
+
+.hm-contact-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* contact photo card with click-to-load map */
+
+.map-card {
+  position: relative;
+  border-radius: 24px;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, var(--primary-100), var(--blush-50));
+  display: grid;
+  place-items: center;
+}
+
+.map-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.map-card iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
+
+.map-card .map-btn {
+  position: absolute;
+  left: 50%;
+  bottom: 14px;
+  transform: translateX(-50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 18px;
+  border: 1px solid var(--glass-b);
+  border-radius: 999px;
+  background: var(--glass);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--secondary);
+  cursor: pointer;
+  box-shadow: var(--shadow-card);
+}
+
+.map-card > .confirm {
+  position: absolute;
+  bottom: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@media (max-width: 900px) {
+  .hm-about-grid,
+  .hm-contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 767px) {
+  .hm-sec {
+    padding-top: 20px;
+  }
+  .hm .sec-h {
+    margin-bottom: 10px;
+    gap: 8px;
+  }
+  .hm .sec-h h2 {
+    font-size: 26px;
+  }
+  .hm-hero {
+    margin-top: 12px;
+    border-radius: 24px;
+  }
+  .hm-chips {
+    display: none;
+  }
+  /* concern rows scroll sideways as pills on mobile (Part 7.1) */
+  .hm .cwrap {
+    padding: 18px 16px;
+    gap: 12px;
+  }
+  .hm .cwrap .cwrap-label {
+    font-size: 19px;
+  }
+  .hm .concern-b {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding-bottom: 6px;
+    scrollbar-width: none;
+  }
+  .hm .concern-b::-webkit-scrollbar {
+    display: none;
+  }
+  .hm .crow {
+    flex: 0 0 auto;
+    grid-template-columns: 32px auto;
+    min-height: 0;
+    padding: 10px 14px;
+    gap: 10px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--bg);
+  }
+  .hm .crow .ci {
+    width: 32px;
+    height: 32px;
+    border-radius: 10px;
+  }
+  .hm .crow .ci svg {
+    width: 17px;
+    height: 17px;
+  }
+  .hm .crow b {
+    font-size: 13.5px;
+    white-space: nowrap;
+  }
+  .hm .crow small,
+  .hm .crow .go {
+    display: none;
+  }
+  .hm-answer {
+    margin-top: 16px;
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+  .hm-about-photo {
+    aspect-ratio: 16 / 9;
+    max-height: 150px;
+  }
+  .hm .trk-card {
+    padding: 14px 16px 16px;
+  }
+  .hm-about-body p {
+    line-height: 1.58;
+  }
+  .hm-row {
+    padding: 10px 0;
+  }
+  .hm .bento {
+    grid-auto-rows: minmax(140px, auto);
+    gap: 12px;
+  }
+  .hm .gcard {
+    padding: 18px;
+  }
+  .hm-contact-photo,
+  .map-card {
+    aspect-ratio: 16 / 9;
+    max-height: 150px;
+  }
+  .hm-doctor .da {
+    padding: 16px;
+    gap: 12px;
+  }
+  .hm-doctor .da-media {
+    max-width: 200px;
+  }
+  .hm-doctor .da-body {
+    gap: 10px;
+  }
+  .hm-doctor .da-body h3.nm {
+    font-size: 26px;
+  }
+  .hm-doctor .da-body .role {
+    font-size: 15px;
+  }
+  .hm-doctor .chips {
+    gap: 6px;
+  }
+  .hm .trk-card {
+    padding: 16px 18px 18px;
+    border-radius: 20px;
+  }
+  .hm .trk-card .trk-num {
+    font-size: 44px;
+  }
+  .hm .trk-ill {
+    height: 84px;
+    width: 84px;
+  }
+  .hm .trk-ill svg {
+    width: 84px;
+    height: 84px;
+  }
+  .hm .faq details summary {
+    padding: 11px 0;
+    font-size: 15px;
+    min-height: 46px;
+  }
+  .hm .faq details {
+    padding-inline: 14px;
+  }
+  .hm .trk-card .trk-lab {
+    font-size: 17px;
+  }
+  .hm-crow {
+    padding: 10px 0;
+  }
+  .hm-plan-panel {
+    padding: 20px;
+  }
+  .hm-plan-panel p {
+    line-height: 1.6;
+  }
+  .hm-pill {
+    padding: 10px 18px;
+    font-size: 0.9rem;
+  }
+  .hm-post {
+    padding: 16px;
+  }
+  .pg-cta {
+    margin-top: 28px;
+    padding: 32px 20px;
+  }
+  .hm .wc .bento > .gcard {
+    min-height: 300px;
+  }
+  .hm-band {
+    min-height: 0;
+    padding: 0;
+    background: var(--primary-50);
+  }
+  .hm-band-media {
+    display: none;
+  }
+  .hm-band-card {
+    width: 100%;
+    padding: 22px;
+    border-radius: 20px;
+    background: #fff;
+    border: 1px solid var(--line);
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+  .hm-blog {
+    display: flex;
+    overflow-x: auto;
+    gap: 14px;
+    padding-bottom: 8px;
+    scroll-snap-type: x proximity;
+  }
+  .hm-post {
+    flex: 0 0 min(82vw, 320px);
+    scroll-snap-align: start;
+  }
+}

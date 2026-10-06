@@ -21,6 +21,12 @@ export type ImageEntry = {
   alt: string;
   treatment?: string;
   slots?: ImageSlot[];
+  id?: string;
+  caption?: string | null;
+  illustrative?: boolean;
+  objectPosition?: string;
+  withheld?: boolean;
+  altApproved?: boolean;
   blur: { color: string; dataUrl: string };
   restricted?: boolean;
   devOnly?: boolean;
@@ -43,8 +49,10 @@ const toSrcSet = (rel: string, widths: number[], ext: "avif" | "webp") => {
 
 /** Resolve a manifest image ("doctor/foo.png") to render data. */
 export function imageEntry(rel: string) {
-  const e = images[rel];
-  if (!e || e.missing) return null;
+  const key = images[rel] ? rel : Object.keys(images).find((file) => images[file].id === rel);
+  const e = key ? images[key] : null;
+  if (!e || !key || e.missing || e.withheld) return null;
+  rel = key;
   const widest = Math.max(...e.widths);
   return {
     ...e,
@@ -57,10 +65,10 @@ export function imageEntry(rel: string) {
 }
 
 /** Resolve a generated asset file name ("badge-pcos.png") to render data. */
-export function assetEntry(file: string) {
+export function assetEntry(file: string, requestedWidth = 224) {
   const a = assets[file];
   if (!a) return null;
-  const widest = Math.max(...a.widths);
+  const widest = a.widths.find((width) => width >= requestedWidth) ?? Math.max(...a.widths);
   const base = file.replace(/\.[^.]+$/, "");
   return {
     ...a,
@@ -71,3 +79,22 @@ export function assetEntry(file: string) {
 }
 
 export const allAssets = Object.keys(assets);
+
+/*
+ * Page URL -> manifest image file for the detail-page split hero.
+ * Derived from the manifest slot `page` field at module scope.
+ */
+const PAGE_IMAGE: Record<string, string> = Object.fromEntries(
+  Object.entries(images)
+    .flatMap(([file, e]) =>
+      (e.slots ?? []).flatMap((s) =>
+        (s.page.match(/\/[\w-]+(?:\/[\w-]+)*\//g) ?? []).map((url) => [url, file]),
+      ),
+    ),
+);
+
+/** Lead image file for a page URL, if the manifest assigns one. */
+export function pageLeadImage(url: string): string | null {
+  const file = PAGE_IMAGE[url];
+  return file && imageEntry(file) ? file : null;
+}

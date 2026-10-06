@@ -1,6 +1,12 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Figtree, Instrument_Serif } from "next/font/google";
-import { site } from "@/lib/site-config";
+import { site, siteUrl } from "@/lib/site-config";
+import UtilityBar from "@/components/shell/UtilityBar";
+import SiteHeader from "@/components/shell/SiteHeader";
+import SiteFooter from "@/components/shell/SiteFooter";
+import MobileActionBar from "@/components/shell/MobileActionBar";
+import WhatsAppFab from "@/components/shell/WhatsAppFab";
+import CookieBanner from "@/components/shell/CookieBanner";
 import "./globals.css";
 
 const figtree = Figtree({
@@ -17,8 +23,22 @@ const instrument = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: site.name,
   description: `${site.name}, Gunjur, Bangalore.`,
+  openGraph: {
+    siteName: site.name,
+    locale: "en_IN",
+    type: "website",
+    images: [{ url: "/og/default.png", width: 1200, height: 630, alt: site.name }],
+  },
+  twitter: { card: "summary_large_image" },
+  robots: process.env.SITE_INDEXABLE === "1" ? undefined : { index: false, follow: false },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -27,7 +47,18 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en-IN"
       className={`${figtree.variable} ${instrument.variable} h-full antialiased`}
     >
-      <body className="flex min-h-full flex-col bg-bg text-ink">{children}</body>
+      <body className="flex min-h-full flex-col bg-bg text-ink">
+        <a className="skip" href="#main">
+          Skip to content
+        </a>
+        <UtilityBar />
+        <SiteHeader />
+        {children}
+        <SiteFooter />
+        <MobileActionBar />
+        <WhatsAppFab />
+        <CookieBanner />
+      </body>
     </html>
   );
 }

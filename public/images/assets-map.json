@@ -1,8 +1,12 @@
 {
   "badge-adenomyosis.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -11,8 +15,12 @@
   },
   "badge-adolescent-gynaecology.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -21,8 +29,12 @@
   },
   "badge-cervical-screening.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -31,8 +43,12 @@
   },
   "badge-contraception.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -41,8 +57,12 @@
   },
   "badge-doctor.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -51,8 +71,12 @@
   },
   "badge-early-pregnancy-scan.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -61,8 +85,12 @@
   },
   "badge-egg-freezing.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -71,8 +99,12 @@
   },
   "badge-endometrial-biopsy.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -81,8 +113,12 @@
   },
   "badge-endometriosis.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -91,8 +127,12 @@
   },
   "badge-female-infertility.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -101,8 +141,12 @@
   },
   "badge-fertility-evaluation.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -111,8 +155,12 @@
   },
   "badge-fibroids.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -121,8 +169,12 @@
   },
   "badge-follicular-monitoring.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -131,8 +183,12 @@
   },
   "badge-hsg.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -141,8 +197,12 @@
   },
   "badge-iui.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -151,8 +211,12 @@
   },
   "badge-ivf.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -161,8 +225,12 @@
   },
   "badge-male-fertility.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -171,8 +239,12 @@
   },
   "badge-menopause.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -181,8 +253,12 @@
   },
   "badge-menstrual.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -191,8 +267,12 @@
   },
   "badge-natural-conception.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -201,8 +281,12 @@
   },
   "badge-ovarian-reserve.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -211,8 +295,12 @@
   },
   "badge-pcos.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -221,8 +309,12 @@
   },
   "badge-pregnancy-loss.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -231,8 +323,12 @@
   },
   "badge-reproductive-immunology.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -241,8 +337,12 @@
   },
   "badge-tesa-pesa.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,
@@ -251,8 +351,12 @@
   },
   "badge-thyroid.png": {
     "widths": [
+      56,
+      80,
       112,
-      224
+      200,
+      224,
+      400
     ],
     "source": {
       "w": 1024,

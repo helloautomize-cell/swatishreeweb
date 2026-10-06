@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { imageEntry } from "@/lib/images";
 import ConfirmChip from "./ConfirmChip";
 
@@ -32,27 +33,25 @@ export default function EveImage({
   if (e.restricted && process.env.NODE_ENV === "production") return null;
 
   const img = (
-    <picture className={className}>
-      <source type="image/avif" srcSet={e.srcSetAvif} sizes={sizes} />
-      <img
+    <span className={className}>
+      <Image
         src={e.src}
-        srcSet={e.srcSetWebp}
         sizes={sizes}
         alt={e.alt}
         width={e.source.w}
         height={e.source.h}
         loading={priority ? "eager" : "lazy"}
         fetchPriority={priority ? "high" : "auto"}
-        decoding="async"
+        quality={80}
+        placeholder="blur"
+        blurDataURL={e.blur.dataUrl}
         className={imgClassName}
-        style={{
-          objectPosition,
-          backgroundImage: `url(${e.blur.dataUrl})`,
-          backgroundSize: "cover",
-        }}
+        style={{ objectPosition: objectPosition ?? e.objectPosition, maxWidth: e.source.w }}
       />
-    </picture>
+    </span>
   );
+
+  caption ??= e.illustrative ? "Illustrative image" : e.caption ?? undefined;
 
   const flag =
     e.restricted || e.devOnly ? (

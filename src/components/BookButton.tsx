@@ -2,7 +2,7 @@ import { CalendarDays } from "lucide-react";
 
 /** The two-part Book button: sage icon block, deep moss label, one line. */
 export default function BookButton({
-  label = "Book Appointment",
+  label = "Book Consultation",
   href = "/contact/#book",
 }: {
   label?: string;

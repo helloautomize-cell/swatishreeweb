@@ -1,15 +1,16 @@
 import { CalendarDays, MessageCircle, Phone } from "lucide-react";
-import EveImage from "./EveImage";
+import Image from "next/image";
+import DoctorPortrait from "./DoctorPortrait";
 import { heroCopy } from "@/lib/specimen";
 
 /** The mobile action bar specimen inside a phone frame. */
 export default function PhoneFrame() {
   return (
     <div className="phonewrap">
-      <div className="phone">
+      <div className="phone" aria-label="Mobile action bar specimen">
         <div className="scr">
           <div className="mh">
-            <img src="/images/brand/logo-full-transparent.png" alt="EVE Women and Fertility Clinic" />
+            <Image src="/images/brand/logo-full-transparent.png" alt="EVE Women and Fertility Clinic" width={130} height={40} loading="lazy" unoptimized style={{ width: "auto", height: 30 }} />
           </div>
           <div className="mhero">
             <span className="eyebrow">Gunjur, Bangalore</span>
@@ -17,11 +18,7 @@ export default function PhoneFrame() {
               {heroCopy.h1Before}
               <em className="acc">{heroCopy.h1Accent}</em>
             </b>
-            <EveImage
-              src="doctor/doctor-hero-portrait-4x5-INTERIM.png"
-              sizes="272px"
-              objectPosition="50% 12%"
-            />
+            <div className="mmedia"><div className="hb-blob" /><DoctorPortrait slot="D1" id="phone-portrait" /></div>
           </div>
         </div>
         <div className="bar" role="group" aria-label="Quick actions">

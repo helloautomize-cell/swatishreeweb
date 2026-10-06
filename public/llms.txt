@@ -1,0 +1,70 @@
+# EVE Women and Fertility Clinic
+
+> EVE Women and Fertility Clinic is an outpatient fertility and women’s health clinic at LG Complex Towers, Gunjur, Bengaluru (Bangalore), Karnataka 560087, founded in December 2024 by Dr. Swati Shree, MBBS, DNB (Obstetrics and Gynaecology), MRCOG (UK), a reproductive medicine specialist with a fellowship in reproductive medicine. The clinic offers fertility evaluation, natural conception support, follicular monitoring, tubal patency testing, male fertility evaluation, IUI, IVF with lab procedures carried out at associated ART centres, egg freezing and TESA/PESA, along with gynaecological care for PCOS, endometriosis, menstrual disorders, recurrent pregnancy loss, fibroids, adenomyosis, thyroid problems that affect fertility, menopause, early pregnancy scans, cervical screening and HPV vaccination. Patients come from Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and other parts of East Bengaluru, and from other cities in India.
+
+Doctor-led fertility and women's health clinic in Gunjur, Bengaluru, founded by Dr. Swati Shree (MBBS, DNB O&G, MRCOG). Appointment-only outpatient clinic; IVF lab procedures are carried out at associated ART centres.
+
+## Core
+
+- [Fertility care built around you](http://localhost:3000/): Fertility and women's health clinic in Gunjur, Bangalore. Dr. Swati Shree, MRCOG (UK): evaluation, IUI, IVF, egg freezing, PCOS and miscarriage care
+- [About EVE Women and Fertility Clinic](http://localhost:3000/about/): How EVE began, how Dr. Swati Shree works, and what to expect: a founder-led fertility and women's health clinic in Gunjur, East Bangalore, since 2024
+- [Fertility and women's health library](http://localhost:3000/blog/): Doctor-reviewed articles on fertility tests, PCOS, IUI, IVF, egg freezing, periods and menopause by Dr. Swati Shree, EVE Women and Fertility Clinic
+- [Coming to EVE from outside Bangalore](http://localhost:3000/coming-from-outside-bangalore/): Planning a fertility consultation with Dr. Swati Shree from another city? How to plan a visit, what to bring, and how follow-up works from far away
+- [Book a consultation or contact us](http://localhost:3000/contact/): Book with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur. Call 72049 21212 or 72049 21516. We aim to reply within 24 hours
+- [Dr. Swati Shree, MRCOG (UK)](http://localhost:3000/dr-swati-shree/): Dr. Swati Shree: MBBS, DNB (OBG), MRCOG (UK), fellowship in reproductive medicine. Fertility and gynaecology specialist at EVE, Gunjur, Bangalore
+- [Questions patients often ask](http://localhost:3000/faqs/): Answers to common questions on fertility tests, IUI, IVF, PCOS, miscarriage, egg freezing, booking, privacy and the ART Act, from EVE, Gunjur, Bangalore
+- [Plan your visit](http://localhost:3000/plan-your-visit/): Address, timings, directions, what to bring and how to prepare for your first consultation at EVE Women and Fertility Clinic, Gunjur, Bangalore
+- [Your fertility journey, step by step](http://localhost:3000/your-fertility-journey/): How a fertility journey works, step by step: tests, simple options, IUI, IVF and how to decide. Honest guidance from Dr. Swati Shree, Gunjur, Bangalore
+
+## Services
+
+- [Care for every stage, every question](http://localhost:3000/services/): Fertility evaluation, follicular monitoring, HSG, male fertility testing, early pregnancy scans, cervical screening and more with Dr. Swati Shree, Gunjur
+- [Adolescent Gynaecologist in Bangalore](http://localhost:3000/services/adolescent-gynaecology/): A gentle first gynaecology visit for teenage girls: periods, PCOS, pain, HPV vaccine and questions, with Dr. Swati Shree at EVE, Gunjur, Bangalore
+- [Pap Smear and HPV Vaccine in Bangalore](http://localhost:3000/services/cervical-cancer-screening-hpv-vaccination/): Cervical cancer screening (Pap smear, HPV test) and HPV vaccination advice with Dr. Swati Shree at EVE, Gunjur, Bangalore. Who, when and what to expect
+- [Contraceptive Counselling in Bangalore](http://localhost:3000/services/contraceptive-counselling/): Honest, judgment-free contraception advice with Dr. Swati Shree at EVE, Gunjur, Bangalore: pills, IUDs, implants, emergency contraception and more
+- [Early Pregnancy Scan in Bangalore](http://localhost:3000/services/early-pregnancy-scan/): Early pregnancy scan to confirm location, heartbeat and dates, with Dr. Swati Shree at EVE, Gunjur, Bangalore. What to expect and when to scan
+- [Endometrial Biopsy in Bangalore](http://localhost:3000/services/endometrial-biopsy/): Endometrial biopsy checks the uterine lining for abnormal bleeding, thickening or infection. What happens and what to expect, with Dr. Swati Shree, Gunjur
+- [Fertility Evaluation in Bangalore](http://localhost:3000/services/fertility-evaluation/): A complete fertility evaluation for both partners: AMH, scans, tubal check and semen analysis, explained by Dr. Swati Shree at EVE, Gunjur, Bangalore
+- [Follicular Monitoring in Bangalore](http://localhost:3000/services/follicular-monitoring/): Follicular study with serial ultrasound to time ovulation and plan IUI or natural attempts, with Dr. Swati Shree at EVE, Gunjur, Bangalore
+- [Male Fertility Test in Bangalore](http://localhost:3000/services/male-fertility-evaluation/): Semen analysis, examination and counselling for male infertility with Dr. Swati Shree at EVE, Gunjur, Bangalore. What results mean and what can help
+- [Natural Conception Support in Bangalore](http://localhost:3000/services/natural-conception-support/): Ovulation tracking, cycle mapping and preconception advice to help you conceive naturally, guided by Dr. Swati Shree at EVE, Gunjur, Bangalore
+- [Reproductive Immunology in Bangalore](http://localhost:3000/services/reproductive-immunology/): Immune factors in miscarriage and implantation failure, explained honestly by Dr. Swati Shree at EVE, Gunjur. What is tested, what helps, what is unproven
+- [HSG Test in Bangalore](http://localhost:3000/services/tubal-patency-test-hsg/): HSG checks whether your fallopian tubes are open. What happens, how to prepare, risks and results, explained by Dr. Swati Shree, Gunjur, Bangalore
+
+## Treatments
+
+- [Fertility treatments, explained before you decide](http://localhost:3000/treatments/): IUI, IVF, egg freezing and TESA/PESA explained by Dr. Swati Shree, MRCOG, in Gunjur, Bangalore. Honest options, clear steps, no pressure
+- [Egg Freezing in Bangalore](http://localhost:3000/treatments/egg-freezing/): Egg freezing (oocyte cryopreservation) explained: who, when, steps, limits and legal rules, with Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore
+- [IUI Treatment in Bangalore](http://localhost:3000/treatments/iui/): IUI (intrauterine insemination) explained: who it suits, steps, risks, timing and what to expect, with Dr. Swati Shree at EVE, Gunjur, Bangalore
+- [IVF Treatment in Bangalore](http://localhost:3000/treatments/ivf/): IVF explained step by step: who needs it, the process, risks, timing and ART Act rules, with Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore
+- [TESA PESA in Bangalore](http://localhost:3000/treatments/tesa-pesa/): TESA and PESA retrieve sperm for men with no sperm in the semen. How they work, who needs them, risks and next steps, with EVE, Gunjur, Bangalore
+
+## Conditions
+
+- [Know what you are dealing with](http://localhost:3000/conditions/): Plain-English guides to PCOS, endometriosis, recurrent miscarriage, fibroids, thyroid, low AMH and menopause, reviewed by Dr. Swati Shree, Bangalore
+- [Adenomyosis Treatment in Bangalore](http://localhost:3000/conditions/adenomyosis/): Adenomyosis: painful, heavy periods and fertility effects, diagnosis by ultrasound or MRI, and treatment options with Dr. Swati Shree, Gunjur, Bangalore
+- [Endometriosis Treatment in Bangalore](http://localhost:3000/conditions/endometriosis/): Endometriosis: symptoms, diagnosis, pain care, surgery and fertility, explained by Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore
+- [Female Infertility Causes and Care in Bangalore](http://localhost:3000/conditions/female-factor-infertility/): Why a woman may not conceive: ovulation, tubes, uterus, ovarian reserve and age. Evaluation and options with Dr. Swati Shree, EVE, Gunjur, Bangalore
+- [Fibroids Treatment in Bangalore](http://localhost:3000/conditions/fibroids/): Uterine fibroids: symptoms, scan, treatment options and effects on pregnancy, explained by Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur
+- [Menopause Clinic in Bangalore](http://localhost:3000/conditions/menopause-and-perimenopause/): Perimenopause and menopause: symptoms, tests, hormone therapy and bone and heart health, with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur
+- [Irregular and Heavy Periods Treatment Bangalore](http://localhost:3000/conditions/menstrual-disorders/): Irregular, heavy, painful or missed periods: causes, tests and treatment with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore
+- [PCOS Treatment in Bangalore](http://localhost:3000/conditions/pcos/): PCOS explained: symptoms, diagnosis, treatment and getting pregnant with PCOS. Evidence-based care by Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore
+- [Recurrent Miscarriage Treatment in Bangalore](http://localhost:3000/conditions/recurrent-pregnancy-loss/): Two or more miscarriages? Causes, tests and care for recurrent pregnancy loss with Dr. Swati Shree, MRCOG, at EVE Women and Fertility Clinic, Gunjur
+- [Low AMH and Thin Endometrium Care in Bangalore](http://localhost:3000/conditions/thin-endometrium-and-low-ovarian-reserve/): Low ovarian reserve (low AMH) and thin endometrium: causes, tests and options with Dr. Swati Shree, MRCOG, at EVE Women and Fertility Clinic, Gunjur
+- [Thyroid and Fertility in Bangalore](http://localhost:3000/conditions/thyroid-and-fertility/): How thyroid problems affect periods, fertility and pregnancy, which tests to have, and how treatment helps, with Dr. Swati Shree, EVE Clinic, Gunjur
+
+## Articles
+
+- [Fertility tests explained: AMH, semen analysis, HSG and scans](http://localhost:3000/blog/fertility-tests-explained/): What each fertility test measures, what the numbers mean and what they cannot tell you: AMH, antral follicle count, semen analysis, HSG and thyroid tests
+- [PCOS and getting pregnant: what the evidence says](http://localhost:3000/blog/pcos-and-getting-pregnant/): Can you get pregnant with PCOS? How ovulation is treated, what lifestyle changes help, when IUI or IVF is needed, and what to avoid. By Dr. Swati Shree
+- [When to see a fertility doctor: 12 months, 6 months, or sooner](http://localhost:3000/blog/when-to-see-a-fertility-doctor/): When to see a fertility specialist: the 12-month and 6-month rules, signs to act sooner, what to bring, and what happens at the first visit
+
+## Legal
+
+- [Accessibility statement](http://localhost:3000/accessibility/): How EVE works to make its website and clinic accessible to everyone, what we have done, known gaps and how to ask for help
+- [Appointments, cancellation and refund](http://localhost:3000/appointments-cancellation-refund/): How booking works at EVE Women and Fertility Clinic, how to reschedule or cancel, and when fees are refunded
+- [Editorial and medical review policy](http://localhost:3000/editorial-policy/): How EVE writes, sources, reviews and updates its medical content, who reviews it, and how to report an error
+- [Medical Disclaimer](http://localhost:3000/medical-disclaimer/): General information on this website is educational and does not replace a consultation. Read the medical disclaimer for EVE, Gunjur, Bangalore
+- [Patient rights and responsibilities](http://localhost:3000/patient-rights/): Your rights as a patient at EVE Women and Fertility Clinic, including consent, privacy and information, and what we ask of you
+- [Privacy Policy](http://localhost:3000/privacy-policy/): How EVE Women and Fertility Clinic collects, uses, stores and protects your personal data, and your rights under the DPDP Act 2023
+- [Terms of Use](http://localhost:3000/terms-of-use/): The terms for using the EVE Women and Fertility Clinic website, including content, bookings, links and limits of liability

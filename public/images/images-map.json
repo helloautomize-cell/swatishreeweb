@@ -1,86 +1,163 @@
 {
-  "doctor/doctor-hero-portrait-4x5-INTERIM.png": {
-    "widths": [
-      320,
-      480
-    ],
-    "source": {
-      "w": 496,
-      "h": 620
-    },
-    "alt": "Dr. Swati Shree, reproductive medicine specialist, smiling in a white coat",
-    "treatment": "The ONLY image that is preloaded (LCP). Never animated. Show in the single large portrait card (aspect 4/5, radius 28px). object-position 50% 20%. Frosted name pill over the lower third, off the face.",
-    "slots": [
-      {
-        "page": "/",
-        "section": "Hero portrait card",
-        "crop": "4:5",
-        "object_position": "50% 20%",
-        "priority": true
-      },
-      {
-        "page": "/dr-swati-shree/",
-        "section": "Hero (split, right)",
-        "crop": "4:5",
-        "object_position": "50% 20%"
-      }
-    ],
-    "blur": {
-      "color": "#e8e8f8",
-      "dataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoGAAgAA4BaJZwC7ADdIjTXAAD4/BF94meo3OEoRznLqFYI1rMyWilAL9xTCo2i0BpcIE9fAmhgFLAA"
-    },
-    "restricted": false,
-    "devOnly": true
-  },
-  "doctor/doctor-avatar-1x1.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 460,
-      "h": 460
-    },
-    "alt": "Dr. Swati Shree",
-    "treatment": "Display at 40 to 120px only. Circle crop, object-position 50% 30%.",
-    "slots": [
-      {
-        "page": "/",
-        "section": "Hero doctor chip"
-      },
-      {
-        "page": "all",
-        "section": "Mega-menu doctor card, mobile menu card"
-      },
-      {
-        "page": "/blog/*",
-        "section": "Author chip"
-      }
-    ],
-    "blur": {
-      "color": "#c8c8b8",
-      "dataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoIAAgAA4BaJZQCdADdKFQNAAD8/SIXu/xyCdfFgrHOHJZPBSxgK6D1FAMdMMTl+uk2vnK3/G6zISiBbyqQRAAA"
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "doctor/doctor-portrait-landscape-name-tag-fixed-7x5.png": {
+  "doctor-hero-cutout.avif": {
     "widths": [
       320,
       480,
       768
     ],
     "source": {
+      "w": 800,
+      "h": 1000
+    },
+    "original": {
+      "w": 800,
+      "h": 1000
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 800,
+      "height": 1000
+    },
+    "id": "D1",
+    "alt": "Dr. Swati Shree standing in a white coat in front of the clinic's wall sign.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:5",
+    "caption": null,
+    "illustrative": false,
+    "withheld": true,
+    "slots": [
+      {
+        "id": "D1",
+        "page": "Home / Hero B (cut-out, image left)",
+        "crop": "4:5"
+      }
+    ],
+    "blur": {
+      "color": "#c8b8a8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoGAAgAA4BaJQBOgBu011k/wAD+W2ixIPzm4CQM6HPw2Xdk4kUha+/J5vFdhkegAAA="
+    },
+    "restricted": true,
+    "devOnly": true
+  },
+  "doctor-meet-cutout.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 4480,
+      "h": 5600
+    },
+    "original": {
+      "w": 4480,
+      "h": 6720
+    },
+    "crop": {
+      "left": 0,
+      "top": 560,
+      "width": 4480,
+      "height": 5600
+    },
+    "id": "D2",
+    "alt": "Dr. Swati Shree standing behind a table decorated with flower garlands.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:5",
+    "caption": null,
+    "illustrative": false,
+    "withheld": true,
+    "slots": [
+      {
+        "id": "D2",
+        "page": "Home / 05 Meet your doctor (cut-out over double arch)",
+        "crop": "4:5"
+      }
+    ],
+    "blur": {
+      "color": "#98b8a8",
+      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoFAAgAA4BaJbACdGuAAoe8BdoAAP3wY95hgQLmyAKvpvOH3urkfBsQd+DZTtM1fRSQAAAA"
+    },
+    "restricted": true,
+    "devOnly": false
+  },
+  "doctor-profile-portrait-4x5.avif": {
+    "widths": [
+      320,
+      480,
+      768
+    ],
+    "source": {
+      "w": 800,
+      "h": 1000
+    },
+    "original": {
+      "w": 800,
+      "h": 1000
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 800,
+      "height": 1000
+    },
+    "id": "D3",
+    "alt": "Dr. Swati Shree standing in a white coat in front of the clinic's wall sign.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:5",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "D3",
+        "page": "/dr-swati-shree/ split hero",
+        "crop": "4:5"
+      }
+    ],
+    "blur": {
+      "color": "#c8b8a8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoGAAgAA4BaJQBOgBu011k/wAD+W2ixIPzm4CQM6HPw2Xdk4kUha+/J5vFdhkegAAA="
+    },
+    "restricted": false,
+    "devOnly": true
+  },
+  "doctor-avatar-1x1.png": {
+    "widths": [
+      320,
+      480
+    ],
+    "source": {
+      "w": 620,
+      "h": 620
+    },
+    "original": {
       "w": 866,
       "h": 620
     },
-    "alt": "Dr. Swati Shree smiling, with the clinic reception softly blurred behind her",
-    "treatment": "Keep the corrected name tag visible. Do not crop below the chest. Not for the hero.",
+    "crop": {
+      "left": 123,
+      "top": 0,
+      "width": 620,
+      "height": 620
+    },
+    "id": "D4",
+    "alt": "Portrait of Dr. Swati Shree in a white coat.",
+    "altApproved": false,
+    "objectPosition": "50% 28%",
+    "ratio": "1:1",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/about/",
-        "section": "The founder (side image, 4:3 crop)",
-        "crop": "4:3",
-        "object_position": "50% 25%"
+        "id": "D4",
+        "page": "DoctorChip, blog author chip, reviewer box",
+        "crop": "1:1"
       }
     ],
     "blur": {
@@ -90,105 +167,7 @@
     "restricted": false,
     "devOnly": false
   },
-  "doctor/doctor-standing-clinic-arms-crossed-4x3.png": {
-    "widths": [
-      320,
-      480
-    ],
-    "source": {
-      "w": 610,
-      "h": 452
-    },
-    "alt": "Dr. Swati Shree in a white coat with her arms crossed, in the clinic",
-    "treatment": "Max display 360px wide. Crop 4:5 for the home card (362x452 source area), 4:3 elsewhere. Background shows framed certificates: do not enlarge or sharpen.",
-    "slots": [
-      {
-        "page": "/",
-        "section": "05 Meet your doctor (card photo)",
-        "crop": "4:5",
-        "object_position": "50% 30%"
-      },
-      {
-        "page": "/dr-swati-shree/",
-        "section": "About (side image)",
-        "crop": "4:3",
-        "object_position": "50% 30%"
-      }
-    ],
-    "blur": {
-      "color": "#e8e8f8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAYAA4BaJZQAAqsbBhQAAP64BviZuzRGclQygrsr46+O9PPxVQAC/nAAAA=="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "doctor/doctor-consultation-writing-notes-16x9.png": {
-    "widths": [
-      320,
-      480,
-      768
-    ],
-    "source": {
-      "w": 790,
-      "h": 432
-    },
-    "alt": "Dr. Swati Shree listening and writing notes while a patient speaks with her",
-    "treatment": "Patient is seen from behind (no face). Soft daylight, natural pose. Best \"in action\" image. Crop 16:9 or 4:3 (object-position 55% 40%).",
-    "slots": [
-      {
-        "page": "/",
-        "section": "04 Your first visit, step 5 Your options",
-        "crop": "4:3",
-        "object_position": "55% 40%"
-      },
-      {
-        "page": "/services/fertility-evaluation/",
-        "section": "What happens at EVE (inline)",
-        "crop": "16:9",
-        "object_position": "55% 40%"
-      }
-    ],
-    "blur": {
-      "color": "#f8f8f8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoIAAQAA4BaJZwAAp02MSAA/ursgtqcUV/P12eTvY+V0h9otO3cjBBB+PhAAA=="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "doctor/doctor-consultation-couple-warm-room-5x3.png": {
-    "widths": [
-      320,
-      480,
-      768
-    ],
-    "source": {
-      "w": 997,
-      "h": 595
-    },
-    "alt": "A couple talking with a woman doctor in a warm consultation room",
-    "treatment": "Warm tones match the blush palette. Never beside the booking form. Do not present as real patients. Crop 4:3 object-position 50% 45%.",
-    "slots": [
-      {
-        "page": "/",
-        "section": "04 Your first visit, step 3 Consultation",
-        "crop": "4:3",
-        "object_position": "50% 45%"
-      },
-      {
-        "page": "/your-fertility-journey/",
-        "section": "Stage 1 Understand why (side image)",
-        "crop": "4:3",
-        "object_position": "50% 45%"
-      }
-    ],
-    "blur": {
-      "color": "#f8f8f8",
-      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoIAAUAA4BaJQBOj+ACuFexUAD8dQkiNDZjF8VWv0/XulyRS0n2e2VBAstJaJcrzsAAAA=="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "doctor/doctor-mrcog-ceremony-rcog-1x1.png": {
+  "doctor-mrcog-ceremony-4x3.avif": {
     "widths": [
       320,
       480,
@@ -196,32 +175,41 @@
     ],
     "source": {
       "w": 866,
+      "h": 649
+    },
+    "original": {
+      "w": 866,
       "h": 815
     },
-    "alt": "Dr. Swati Shree in a graduation gown shaking hands on stage at a Royal College of Obstetricians and Gynaecologists ceremony",
-    "treatment": "Keep both faces and the handshake in frame. Do not blur the screen text. Not for hero, menu or avatar. Caption below.",
+    "crop": {
+      "left": 0,
+      "top": 83,
+      "width": 866,
+      "height": 649
+    },
+    "id": "D5",
+    "alt": "Dr. Swati Shree in graduation robes receiving a certificate at a ceremony.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/dr-swati-shree/",
-        "section": "Education timeline, MRCOG entry",
-        "crop": "4:5",
-        "object_position": "30% 25%"
-      },
-      {
-        "page": "/about/",
-        "section": "The founder",
-        "crop": "1:1",
-        "object_position": "35% 30%"
+        "id": "D5",
+        "page": "/dr-swati-shree/ education timeline (MRCOG entry)",
+        "crop": "4:3"
       }
     ],
     "blur": {
       "color": "#c8b8a8",
-      "dataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoIAAgAA4BaJbACdADzevxgAP4BLlgD5Hb6PsDAlDU8f60g/uv/AFUeQFPpJHWYlY8xPQG8AyGLyrw9Fgy+mB/chMb5bugwAAA="
+      "dataUrl": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4WAoAAAAQAAAABwAABwAAQUxQSAsAAAABD9D/iAgUMKL/AQBWUDggTgAAALABAJ0BKggACAADgFolsAJ0APN7tRAA/gEuWAPkdvo+wMCUNTx/rSD+6/8AVR5AU+kisNrYAPnrMunE10nn+qTN3Of7ini+L6uefcAAAA=="
     },
-    "restricted": true,
+    "restricted": false,
     "devOnly": false
   },
-  "doctor/doctor-gcu-womens-day-award-1x1.png": {
+  "doctor-award-4x3.avif": {
     "widths": [
       320,
       480,
@@ -229,378 +217,391 @@
     ],
     "source": {
       "w": 898,
+      "h": 673
+    },
+    "original": {
+      "w": 898,
       "h": 834
     },
-    "alt": "Dr. Swati Shree receiving the 16th GCU International Women's Day Award at Garden City University",
-    "treatment": "Keep Dr. Swati and the plaque centred. The slide names the award; keep it visible.",
+    "crop": {
+      "left": 0,
+      "top": 81,
+      "width": 898,
+      "height": 673
+    },
+    "id": "D6",
+    "alt": "People standing together with an award at a Garden City University event.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/dr-swati-shree/",
-        "section": "Teaching, talks and award",
-        "crop": "1:1",
-        "object_position": "42% 62%"
-      },
-      {
-        "page": "/about/",
-        "section": "The founder (small)",
-        "crop": "4:3",
-        "object_position": "42% 62%"
+        "id": "D6",
+        "page": "/dr-swati-shree/ teaching and award (GCU award)",
+        "crop": "4:3"
       }
     ],
     "blur": {
       "color": "#c8d8d8",
-      "dataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoIAAcAA4BaJZACdAD5ek5xoAD5UUHo2OkyoD6c0/zvpzkq/Se2wNRboRTXDLqfanb6DXwAAAA="
+      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoIAAcAA4BaJZACdAD5ek5xoAD5UUHo2OkyoD6c0/zvpzkq/Se2wNRZN2u/LOp9qdvoNfAA"
     },
-    "restricted": true,
+    "restricted": false,
     "devOnly": false
   },
-  "clinic/clinic-reception-logo-wall-4x3.png": {
+  "doctor-consulting-4x3.png": {
     "widths": [
       320,
       480
     ],
     "source": {
-      "w": 727,
-      "h": 542
+      "w": 576,
+      "h": 432
     },
-    "alt": "Reception desk and waiting area at EVE Women and Fertility Clinic, with the clinic logo on the wall",
-    "treatment": "On-brand: sage desk and sofa match the palette. Keep the whole wall logo in every crop except the 1:1 step crop. Never hero, never og:image. Until a building exterior photo arrives it also stands in for the Visit band with a 40% deep-moss overlay.",
+    "original": {
+      "w": 790,
+      "h": 432
+    },
+    "crop": {
+      "left": 107,
+      "top": 0,
+      "width": 576,
+      "height": 432
+    },
+    "id": "D7",
+    "alt": "A doctor speaking with a woman across a consultation desk.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/",
-        "section": "02 About EVE (photo)",
-        "crop": "4:5 mobile, 4:3 desktop",
-        "object_position": "45% 50%"
-      },
-      {
-        "page": "/",
-        "section": "04 step 2 Arrive and register",
-        "crop": "1:1",
-        "object_position": "40% 60%"
-      },
-      {
-        "page": "/",
-        "section": "Visit band (interim)",
-        "crop": "16:9",
-        "object_position": "50% 40%"
-      },
-      {
-        "page": "/about/",
-        "section": "The clinic",
+        "id": "D7",
+        "page": "About / how we work",
         "crop": "4:3"
-      },
+      }
+    ],
+    "blur": {
+      "color": "#f8f8f8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoIAAQAA4BaJZwAAp02MSAA/ursgtqcUV/P12eTvY+V0h9otO3cjBBB+PhAAA=="
+    },
+    "restricted": false,
+    "devOnly": true
+  },
+  "about-founder-4x3.png": {
+    "widths": [
+      320,
+      480
+    ],
+    "source": {
+      "w": 602,
+      "h": 452
+    },
+    "original": {
+      "w": 610,
+      "h": 452
+    },
+    "crop": {
+      "left": 4,
+      "top": 0,
+      "width": 602,
+      "height": 452
+    },
+    "id": "D8",
+    "alt": "A woman in a white coat seated in a consultation room.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
       {
-        "page": "/plan-your-visit/",
-        "section": "Finding us",
+        "id": "D8",
+        "page": "About / the founder",
         "crop": "4:3"
-      },
+      }
+    ],
+    "blur": {
+      "color": "#e8e8f8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAYAA4BaJZQAAqsbBhQAAP64BviZuzRGclQygrsr46+O9PPxVQAC/nAAAA=="
+    },
+    "restricted": false,
+    "devOnly": true
+  },
+  "clinic-reception-4x3.jpg": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 4032,
+      "h": 3024
+    },
+    "original": {
+      "w": 4032,
+      "h": 3024
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 4032,
+      "height": 3024
+    },
+    "id": "C1",
+    "alt": "Clinic reception desk and green waiting-room seating beneath the EVE wall sign.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
       {
-        "page": "/contact/",
-        "section": "Image behind the contact cards, 40% deep-moss overlay",
-        "crop": "3:2"
+        "id": "C1",
+        "page": "Home / 02 About EVE; About / clinic; Contact interim",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#c8c8b8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoIAAYAA4BaJZQCdAEegjZChwAA/mhULHO9+tHnxS0zPMnOyg7t0UWKgAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "clinic-visit-band-16x9.jpg": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 5712,
+      "h": 3213
+    },
+    "original": {
+      "w": 5712,
+      "h": 3213
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 5712,
+      "height": 3213
+    },
+    "id": "C2",
+    "alt": "The EVE reception area with the clinic wall sign and a woman behind the desk.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "C2",
+        "page": "Home / Visit band (sticky photo, moss overlay)",
+        "crop": "16:9"
       }
     ],
     "blur": {
       "color": "#d8d8d8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoIAAYAA4BaJZQC7AEUlDrwAAD+yOX4C7zB2RQXFR6EWwNGytoM1qqb5wAAAA=="
+      "dataUrl": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADwAQCdASoIAAQAA4BaJZwCdH8AGKOuJiAA/sUZmUIy1whm46vqoAAA"
     },
     "restricted": false,
     "devOnly": false
   },
-  "services/fertility-evaluation-exam-room-probes-4x3.png": {
+  "clinic-exterior-4x3.jpg": {
     "widths": [
       320,
       480
     ],
     "source": {
-      "w": 568,
-      "h": 426
+      "w": 720,
+      "h": 540
     },
-    "alt": "An examination couch with ultrasound probes, gloves and a sterile pack in a bright room",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo. Mint wall is close to sage; no correction needed.",
+    "original": {
+      "w": 720,
+      "h": 1280
+    },
+    "crop": {
+      "left": 0,
+      "top": 259,
+      "width": 720,
+      "height": 540
+    },
+    "id": "C3",
+    "alt": "The clinic entrance decorated with flower garlands, with seating visible through the glass.",
+    "altApproved": false,
+    "objectPosition": "50% 35%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/services/fertility-evaluation/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "50% 50%"
-      },
-      {
-        "page": "/",
-        "section": "04 step 4 Tests (alternative)",
+        "id": "C3",
+        "page": "Plan your visit lead; Home contact block photo card; schema image",
         "crop": "4:3"
       }
     ],
     "blur": {
-      "color": "#d8c8c8",
-      "dataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoIAAYAA4BaJYwCsAD0oGnzgAD+6GCLDRcKbhkDmJXDLSamaLPUAA=="
+      "color": "#d8c8b8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoFAAgAA4BaJQBOgCHNBngAAP5mx41wUrnBo3e4N7lxgOafLQgogDJgjTQNIgAA"
     },
     "restricted": false,
     "devOnly": false
   },
-  "services/natural-conception-doctor-patient-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "A doctor with a clipboard talking with a patient in a bright consultation room",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
-    "slots": [
-      {
-        "page": "/services/natural-conception-support/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "60% 40%"
-      }
-    ],
-    "blur": {
-      "color": "#d8d8c8",
-      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoIAAYAA4BaJZQCdAELX5DmAAD88hk/X/b0d9BWESd3hOj4RKHaQxabkb6zMRRgAAA="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "services/follicular-monitoring-ultrasound-probe-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "An ultrasound machine with a transvaginal probe and monitor",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
-    "slots": [
-      {
-        "page": "/services/follicular-monitoring/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "40% 50%"
-      },
-      {
-        "page": "/",
-        "section": "04 step 4 Tests",
-        "crop": "4:3",
-        "object_position": "40% 50%"
-      }
-    ],
-    "blur": {
-      "color": "#c8b8b8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAYAA4BaJZwAApy7DUIAAP5rDRai25b0WUFrPLcLKpEvcFjUGKXV0AAAAA=="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "services/tubal-patency-hsg-xray-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "A pelvic X-ray taken during a tubal patency test",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo. Show only as a small inline figure if licence is not confirmed; fall back to the badge panel.",
-    "slots": [
-      {
-        "page": "/services/tubal-patency-test-hsg/",
-        "section": "Lead image or inline figure",
-        "crop": "4:3",
-        "object_position": "50% 50%"
-      }
-    ],
-    "blur": {
-      "color": "#888888",
-      "dataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoIAAYAA4BaJaQAAv+wceLkAAD2hMvTgOxaKSiUNWdAxoAAAAA="
-    },
-    "restricted": true,
-    "devOnly": false
-  },
-  "services/male-fertility-evaluation-lab-tray-microscope-4x3.png": {
+  "clinic-consultation-room-4x3.png": {
     "widths": [
       320,
-      480
+      480,
+      768,
+      1028
     ],
     "source": {
-      "w": 568,
-      "h": 426
+      "w": 1448,
+      "h": 1086
     },
-    "alt": "A laboratory tray with sample slides beside a microscope",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "C4",
+    "alt": "Illustration of a consultation room with a desk, chairs and wall artwork.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
     "slots": [
       {
-        "page": "/services/male-fertility-evaluation/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "50% 50%"
-      },
-      {
-        "page": "/treatments/tesa-pesa/",
-        "section": "Inline (What happens at the procedure)",
+        "id": "C4",
+        "page": "Contact lead (beside form); schema image",
         "crop": "4:3"
       }
     ],
     "blur": {
-      "color": "#d8d8e8",
-      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoIAAYAA4BaJZwCdAD0oTpTKAAA/t8UEVZb6M4emWnsl5BNFKxqA6JP5LzJtDbAAAA="
+      "color": "#d8c8b8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoIAAYAA4BaJQBOgBraNQAA/gQEsa4EJi2YTUAqllxY/P8O00grF89aLwImfIAA"
     },
     "restricted": false,
     "devOnly": false
   },
-  "services/contraceptive-counselling-methods-tray-4x3.png": {
+  "clinic-ultrasound-room-4x3.png": {
     "widths": [
-      320
+      320,
+      480,
+      768,
+      1028
     ],
     "source": {
-      "w": 461,
-      "h": 346
+      "w": 1448,
+      "h": 1086
     },
-    "alt": "A tray with contraceptive options laid out: condoms, an intrauterine device and a pill pack",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo. Neutral flat-lay; very clean.",
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "C5",
+    "alt": "Illustration of an examination room with an ultrasound machine and examination couch.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
     "slots": [
       {
-        "page": "/services/contraceptive-counselling/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "50% 50%"
+        "id": "C5",
+        "page": "Follicular monitoring / Early pregnancy scan support image",
+        "crop": "4:3"
       }
     ],
     "blur": {
-      "color": "#e8e8e8",
-      "dataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoIAAYAA4BaJZwAA1Yx2VEZeAD+8HAlW9Csw5AshxHnxZg4MbcUAA=="
+      "color": "#c8b898",
+      "dataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoIAAYAA4BaJQBOgBtkEzAAAP6aZ2VvCEpQB2ivxcvlIsRCbiL5f5XGS47jmBJz3N3tMFcoAAA="
     },
     "restricted": false,
     "devOnly": false
   },
-  "services/early-pregnancy-scan-ultrasound-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "An ultrasound screen showing an early pregnancy scan, with a probe held in gloved hands",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo. Do not zoom into the screen.",
+  "C6": {
+    "missing": true,
+    "alt": "",
     "slots": [
       {
-        "page": "/services/early-pregnancy-scan/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "50% 40%"
+        "id": "C6",
+        "page": "Coming from outside Bangalore lead",
+        "crop": "4:3"
+      }
+    ],
+    "ratio": "4:3"
+  },
+  "hub-services-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "H1",
+    "alt": "A notebook, pen and small plant arranged on a consultation desk.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "H1",
+        "page": "/services/",
+        "crop": "4:3"
       }
     ],
     "blur": {
-      "color": "#181818",
-      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoIAAYAA4BaJZwAApexH0AA/kRLjnX/pFTM0xEdEsbwNNLhhDNMQ4HcBnY3qEVEwG7oUAAA"
+      "color": "#e8d8c8",
+      "dataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoIAAYAA4BaJYgCdAEXfbGkVgAA+SKF2Zd19obC3xp5QJeLUkq4eyYghgviNLFUAEx6NMibsqgAAA=="
     },
     "restricted": false,
     "devOnly": false
   },
-  "services/reproductive-immunology-doctor-patient-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "A doctor showing a patient an illustrated chart in a consultation",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo. The chart shows a body outline: keep at 4:3, do not enlarge.",
-    "slots": [
-      {
-        "page": "/services/reproductive-immunology/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "60% 40%"
-      }
-    ],
-    "blur": {
-      "color": "#d8d8d8",
-      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoIAAYAA4BaJZwCdAED/ZI5oxAA+Xp72T01frQWsm2VXdVUZPCG8VzZhUCVAAAA"
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "services/cervical-screening-hpv-leaflet-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "A doctor holding an HPV information leaflet while talking with a patient",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo. Purple wall is off-palette but soft; leave unedited.",
-    "slots": [
-      {
-        "page": "/services/cervical-cancer-screening-hpv-vaccination/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "70% 40%"
-      }
-    ],
-    "blur": {
-      "color": "#d8c8d8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoIAAYAA4BaJZwC7AEVwoeWzAAA/m0IFGOUqWqYUQs2n69RfNL8QRccf0bgAA=="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "services/adolescent-gynaecology-illustration-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "An illustration of a teenage girl talking with a woman doctor",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
-    "slots": [
-      {
-        "page": "/services/adolescent-gynaecology/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "50% 50%"
-      }
-    ],
-    "blur": {
-      "color": "#f8f8e8",
-      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAYAA4BaJYwAAppnPyhgAP7tZ6BwAHUp1tDNCQ1/11FOuJF2Zh4OHKcdAAAA"
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "treatments/iui-microscope-lab-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "A laboratory microscope on a clean bench",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
-    "slots": [
-      {
-        "page": "/treatments/iui/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "50% 50%"
-      }
-    ],
-    "blur": {
-      "color": "#b8c8c8",
-      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoIAAYAA4BaJZwCdAD0XguxQAD+W/FG3j5Bde/YDsV7quI34hJWNPnPA8n1AvfeeXMAAA=="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "treatments/iui-sperm-prep-test-tubes-4x3.png": {
+  "hub-treatments-4x3.avif": {
     "widths": [
       320,
       480
@@ -609,12 +610,28 @@
       "w": 568,
       "h": 426
     },
-    "alt": "A rack of laboratory test tubes and a pipette",
-    "treatment": "Inline image under \"Sperm preparation\". Do not use as a lead. No contrast boost.",
+    "original": {
+      "w": 568,
+      "h": 426
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 568,
+      "height": 426
+    },
+    "id": "H2",
+    "alt": "Laboratory test tubes and equipment on a workbench.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
     "slots": [
       {
-        "page": "/treatments/iui/",
-        "section": "What happens at EVE, step 6 Sperm preparation",
+        "id": "H2",
+        "page": "/treatments/",
         "crop": "4:3"
       }
     ],
@@ -625,32 +642,262 @@
     "restricted": false,
     "devOnly": false
   },
-  "treatments/ivf-embryologist-pipette-4x3.png": {
+  "hub-conditions-4x3.avif": {
     "widths": [
-      320
+      320,
+      480,
+      768,
+      1028
     ],
     "source": {
-      "w": 461,
-      "h": 346
+      "w": 1028,
+      "h": 771
     },
-    "alt": "An embryologist in a white coat working with a pipette in a laboratory",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
+    "original": {
+      "w": 1028,
+      "h": 772
+    },
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 1028,
+      "height": 771
+    },
+    "id": "H3",
+    "alt": "Two adults speaking with a doctor across a desk.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/treatments/ivf/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "60% 40%"
+        "id": "H3",
+        "page": "/conditions/",
+        "crop": "4:3"
       }
     ],
     "blur": {
-      "color": "#98a8a8",
-      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAYAA4BaJaQAAp/hrXBQAP6UQDWEiWA9QtOH4cHKAsiimfklUTjAAAA="
+      "color": "#c8c8b8",
+      "dataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoIAAYAA4BaJYwCdADze0w0AM4OgwhESDNH0oRB3s6Ob/FgUa2hjsP1ps25jMhLj/qk1ZQBGCEAAA=="
     },
     "restricted": false,
     "devOnly": false
   },
-  "treatments/ivf-lab-equipment-4x3.png": {
+  "journey-lead-4x3.avif": {
+    "widths": [
+      320,
+      480
+    ],
+    "source": {
+      "w": 767,
+      "h": 575
+    },
+    "original": {
+      "w": 767,
+      "h": 576
+    },
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 767,
+      "height": 575
+    },
+    "id": "H4",
+    "alt": "White daisies and other flowers in a sunlit garden.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "H4",
+        "page": "/your-fertility-journey/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#382818",
+      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoIAAYAA4BaJbACdAEfbPfAokAA4nZbS4J2XFgLWrA97Hpx2dIOj6D6pg+x4z3ZnpzFTqgA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "service-fertility-evaluation-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768
+    ],
+    "source": {
+      "w": 793,
+      "h": 595
+    },
+    "original": {
+      "w": 997,
+      "h": 595
+    },
+    "crop": {
+      "left": 102,
+      "top": 0,
+      "width": 793,
+      "height": 595
+    },
+    "id": "S1",
+    "alt": "Two adults speaking with a doctor in a consultation room.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "S1",
+        "page": "/services/fertility-evaluation/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8f8",
+      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoIAAUAA4BaJQBOj+ACuFexUAD8dQkiNDZjF8VWv0/XulyRS0n2e2VBAstJaJcrzsAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "service-natural-conception-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "S2",
+    "alt": "Illustration of the uterus, fallopian tubes and ovaries.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "S2",
+        "page": "/services/natural-conception-support/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8e8d8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoIAAYAA4BaJYgCdADz22VcAAD+8BHgUiH7BTUUjRpR73lVZu915ZO8QAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "service-follicular-monitoring-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "S3",
+    "alt": "Illustration of an ovary with follicles at different sizes.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "S3",
+        "page": "/services/follicular-monitoring/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8e8d8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoIAAYAA4BaJQBOgCKUpxVXsAD+2C950wVAqYGiHoyq8JJPQ2YKkuhnrcAoMLRAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "service-hsg-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "S4",
+    "alt": "Illustration of the uterus and fallopian tubes with a magnified anatomical inset.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "S4",
+        "page": "/services/tubal-patency-test-hsg/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8e8d8",
+      "dataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoIAAYAA4BaJQBOgB6K54RwAP7whD7CdHpNUw+A3DqF5lAZ+FFE/AAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "service-male-fertility-4x3.avif": {
     "widths": [
       320,
       480
@@ -659,113 +906,521 @@
       "w": 568,
       "h": 426
     },
-    "alt": "Laboratory equipment with touchscreens",
-    "treatment": "Inline under \"The IVF process\" only, labelled \"Illustrative image\" so it does not imply EVE's own laboratory.",
+    "original": {
+      "w": 568,
+      "h": 426
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 568,
+      "height": 426
+    },
+    "id": "S5",
+    "alt": "A laboratory microscope and sample slides on a workbench.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
     "slots": [
       {
-        "page": "/treatments/ivf/",
-        "section": "Inline under The IVF process",
+        "id": "S5",
+        "page": "/services/male-fertility-evaluation/",
         "crop": "4:3"
       }
     ],
     "blur": {
-      "color": "#8898a8",
-      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoIAAYAA4BaJYwCdAD0oL4S8AD+ZVW99swOzajXuTLwM7FnoibK20RD1Ch5dhDsRhnWAAAA"
+      "color": "#d8d8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoIAAYAA4BaJZwCdAD0oTpTKAAA/t8UEVZb6M4emWnsl5BNFKxqA6JP5LzJtDbAAAA="
     },
     "restricted": false,
     "devOnly": false
   },
-  "treatments/tesa-pesa-procedure-room-4x3.png": {
+  "service-contraception-4x3.avif": {
     "widths": [
       320
     ],
     "source": {
       "w": 461,
-      "h": 346
+      "h": 345
     },
-    "alt": "A nurse preparing a bright procedure room",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
-    "slots": [
-      {
-        "page": "/treatments/tesa-pesa/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "60% 50%"
-      }
-    ],
-    "blur": {
-      "color": "#d8d8c8",
-      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoIAAYAA4BaJZQCdAEPEMPWKwAA/usjV5jIHP1wyoTeNkNgRs+Ru5mggAA="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "conditions/pcos-uterus-ovary-illustration-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
+    "original": {
       "w": 461,
       "h": 346
     },
-    "alt": "An illustration of the uterus and ovaries with an enlarged ovary showing small follicles",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 461,
+      "height": 345
+    },
+    "id": "S6",
+    "alt": "Contraceptive devices arranged on a clinical tray.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/conditions/pcos/",
-        "section": "Lead image",
+        "id": "S6",
+        "page": "/services/contraceptive-counselling/",
         "crop": "4:3"
-      },
-      {
-        "page": "/blog/pcos-and-getting-pregnant/",
-        "section": "Inline"
       }
     ],
     "blur": {
-      "color": "#e8e8d8",
-      "dataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAAAQAgCdASoIAAYAA4BaJYwCdAEfbWbBu/gAAP7yLx5jjD1NRe9GLUD23TJ2GAAA"
+      "color": "#e8e8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoIAAYAA4BaJZwAA1Yx2VEZeAD+8HAlW9Csw5AshxHnxZg4MbcUAA=="
     },
     "restricted": false,
     "devOnly": false
   },
-  "conditions/endometriosis-uterus-illustration-4x3.png": {
+  "service-early-pregnancy-scan-4x3.avif": {
     "widths": [
-      320
+      320,
+      480
     ],
     "source": {
-      "w": 461,
-      "h": 346
+      "w": 568,
+      "h": 426
     },
-    "alt": "An illustration of the uterus and ovaries with endometriosis lesions",
-    "treatment": "Darker lesions are graphic: do not use as the lead or on a card. Inline figure only, 4:3, with the caption \"Illustration\".",
+    "original": {
+      "w": 568,
+      "h": 426
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 568,
+      "height": 426
+    },
+    "id": "S7",
+    "alt": "An ultrasound probe and controls beside an examination couch.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
     "slots": [
       {
-        "page": "/conditions/endometriosis/",
-        "section": "Inline under What is endometriosis?",
+        "id": "S7",
+        "page": "/services/early-pregnancy-scan/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#d8c8c8",
+      "dataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoIAAYAA4BaJYwCsAD0o0N3mAD+6GCLDRcKbhkDmzUtC6YlsSdAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "service-reproductive-immunology-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "S8",
+    "alt": "Illustration of cells and blood vessels in a tissue cross-section.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "S8",
+        "page": "/services/reproductive-immunology/",
         "crop": "4:3"
       }
     ],
     "blur": {
       "color": "#f8e8d8",
-      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoIAAYAA4BaJQBOgCHeVSWusAD+662NxsnfOmTfiHKK+sfCk4zV/NlKV5e/aG1L99v4IAAA"
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoIAAYAA4BaJaACdAERF8BRVgD+562QjFBPlI9UD7Q8PqH6kulzXOBM/ci4AAAA"
     },
     "restricted": false,
     "devOnly": false
   },
-  "conditions/menstrual-disorders-uterus-illustration-4x3.png": {
+  "service-cervical-screening-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "S9",
+    "alt": "Illustration of a cervix with adjacent anatomical cross-sections.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "S9",
+        "page": "/services/cervical-cancer-screening-hpv-vaccination/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8e8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABwAQCdASoIAAYAA4BaJZQCdAF1AAD+8hU5wZSlXlfCqzKZMy2gzV+kjHAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "service-endometrial-biopsy-4x3.avif": {
     "widths": [
       320
     ],
     "source": {
       "w": 461,
+      "h": 345
+    },
+    "original": {
+      "w": 461,
       "h": 346
     },
-    "alt": "An illustration of the uterus, tubes and ovaries on a soft peach background",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 461,
+      "height": 345
+    },
+    "id": "S10",
+    "alt": "A gloved hand holding a sampling instrument above a clinical tray.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
     "slots": [
       {
+        "id": "S10",
+        "page": "/services/endometrial-biopsy/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#e8e8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoIAAYAA4BaJZQAAxO/wuw8UAD+8GpvnDsxAMoAT2ahP7v+mEOy/gXuAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "service-adolescent-gynaecology-4x3.avif": {
+    "widths": [
+      320
+    ],
+    "source": {
+      "w": 461,
+      "h": 345
+    },
+    "original": {
+      "w": 461,
+      "h": 346
+    },
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 461,
+      "height": 345
+    },
+    "id": "S11",
+    "alt": "Illustration of a young person speaking with a doctor in a consultation room.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "S11",
+        "page": "/services/adolescent-gynaecology/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAYAA4BaJYwAAppnKjWAAP7tZ6BwAHUp1tDNCQ1/2Q7os3gcNSkETcqU6ZAAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "treatment-iui-4x3.avif": {
+    "widths": [
+      320
+    ],
+    "source": {
+      "w": 461,
+      "h": 345
+    },
+    "original": {
+      "w": 461,
+      "h": 346
+    },
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 461,
+      "height": 345
+    },
+    "id": "T1",
+    "alt": "A microscope and sample slides on a laboratory workbench.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "T1",
+        "page": "/treatments/iui/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#b8c8c8",
+      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoIAAYAA4BaJZwCdAD0XguxQAD+W/FG3j5Bde/YDsV7quI34hJWNPnPA8n1AvfeeXMAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "treatment-ivf-4x3.avif": {
+    "widths": [
+      320
+    ],
+    "source": {
+      "w": 461,
+      "h": 345
+    },
+    "original": {
+      "w": 461,
+      "h": 346
+    },
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 461,
+      "height": 345
+    },
+    "id": "T2",
+    "alt": "A laboratory worker using a pipette at a workbench.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "T2",
+        "page": "/treatments/ivf/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#98a8a8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAYAA4BaJZwAAp/hrXBQAP6UQDWEiWA9QtOH4cHKAsiimfklUTjAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "treatment-tesa-pesa-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "T4",
+    "alt": "Illustration of male reproductive anatomy with magnified anatomical details.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "T4",
+        "page": "/treatments/tesa-pesa/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoIAAYAA4BaJZQCdAEO7Wj0wAD+8jTyDXY+SHSRFU2+RgSwAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "condition-pcos-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "K1",
+    "alt": "Illustration of the uterus and ovaries with a magnified view of ovarian follicles.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "K1",
+        "page": "/conditions/pcos/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8e8d8",
+      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoIAAYAA4BaJZACdAD0rsKQgAD+7WpTu1Tb2cEsY76y8bVpYl/03UtmzeDrOtmqacIAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "condition-endometriosis-4x3.avif": {
+    "widths": [
+      320
+    ],
+    "source": {
+      "w": 461,
+      "h": 345
+    },
+    "original": {
+      "w": 461,
+      "h": 346
+    },
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 461,
+      "height": 345
+    },
+    "id": "K2",
+    "alt": "Illustration of the uterus and surrounding tissue.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "K2",
+        "page": "/conditions/endometriosis/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8e8d8",
+      "dataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoIAAYAA4BaJQBOgCHeU8i0jAAA/uutjcbJ4HYQZzc7lG9NLTYIePIkQAOFe9u0r6QcM1MAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "condition-menstrual-4x3.avif": {
+    "widths": [
+      320
+    ],
+    "source": {
+      "w": 461,
+      "h": 345
+    },
+    "original": {
+      "w": 461,
+      "h": 346
+    },
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 461,
+      "height": 345
+    },
+    "id": "K3",
+    "alt": "Illustration of the uterus on a soft peach background.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "K3",
         "page": "/conditions/menstrual-disorders/",
-        "section": "Lead image",
         "crop": "4:3"
       }
     ],
@@ -776,84 +1431,7 @@
     "restricted": false,
     "devOnly": false
   },
-  "conditions/recurrent-pregnancy-loss-consultation-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "A doctor listening to a patient in a calm consultation room",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
-    "slots": [
-      {
-        "page": "/conditions/recurrent-pregnancy-loss/",
-        "section": "Lead image",
-        "crop": "4:3",
-        "object_position": "40% 40%"
-      }
-    ],
-    "blur": {
-      "color": "#b8d8d8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoIAAYAA4BaJZwAApZCS4AA/mu303oFGkE64oN/IM88oNUqA1qiuFXlQAGgAA=="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "conditions/menopause-illustration-consultation-4x3.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 461,
-      "h": 346
-    },
-    "alt": "An illustration of a woman on a sofa talking with a doctor",
-    "treatment": "Lead image beside the answer-first intro: right column on desktop (max 460px wide, 4:3, radius 24px, 1px var(--line) border, blush-50 behind), full width on mobile. loading=lazy. sizes=\"(min-width:1024px) 460px, 100vw\". No filter, no tint, no text over the photo.",
-    "slots": [
-      {
-        "page": "/conditions/menopause-and-perimenopause/",
-        "section": "Lead image",
-        "crop": "4:3"
-      }
-    ],
-    "blur": {
-      "color": "#f8f8f8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoIAAYAA4BaJYwCdAD0u+D8PcAA/t/2pC5DZ4itCeu950tTYYVERsRsEwEAAA=="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "blog/blog-fertility-tests-explained-cover-woman-reading-report-4x3.png": {
-    "widths": [
-      320,
-      480,
-      768,
-      1028
-    ],
-    "source": {
-      "w": 1228,
-      "h": 920
-    },
-    "alt": "A woman reading a medical report at a table",
-    "treatment": "Cover and index card. Post badge chip top-right (thought bubble is top-left). No text over the image. Best blog image: Indian-looking subject, blush palette, readable emotion.",
-    "slots": [
-      {
-        "page": "/blog/fertility-tests-explained/",
-        "section": "Cover and blog index card",
-        "crop": "3:2 desktop, 4:3 card",
-        "object_position": "50% 40%"
-      }
-    ],
-    "blur": {
-      "color": "#d8c8c8",
-      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoIAAYAA4BaJYgCdADygGoAAP7uDCxPg2OQ13jUyaqJPGk9xMFqLlP1AwmqBakZeS0AAA=="
-    },
-    "restricted": true,
-    "devOnly": false
-  },
-  "blog/blog-when-to-see-doctor-cover-woman-pregnancy-test-4x3.png": {
+  "condition-pregnancy-loss-4x3.avif": {
     "widths": [
       320,
       480,
@@ -862,52 +1440,84 @@
     ],
     "source": {
       "w": 1028,
+      "h": 771
+    },
+    "original": {
+      "w": 1028,
       "h": 772
     },
-    "alt": "A woman sitting on a bed looking thoughtfully at a pregnancy test",
-    "treatment": "Cover and index card. Badge chip top-right. Do not show a result on the test (none visible).",
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 1028,
+      "height": 771
+    },
+    "id": "K4",
+    "alt": "A woman seated at a table holding a small flower.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/blog/when-to-see-a-fertility-doctor/",
-        "section": "Cover and blog index card",
-        "crop": "3:2 desktop, 4:3 card",
-        "object_position": "50% 40%"
+        "id": "K4",
+        "page": "/conditions/recurrent-pregnancy-loss/",
+        "crop": "4:3"
       }
     ],
     "blur": {
       "color": "#e8d8d8",
-      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAYAA4BaJZgCdADyfvaAAP7wQLgrPbbDa/vlsaFNSnvTke3/4mV+R4jHek4QAAA="
-    },
-    "restricted": true,
-    "devOnly": false
-  },
-  "blog/blog-pcos-cover-daisies-4x3.png": {
-    "widths": [
-      320,
-      480
-    ],
-    "source": {
-      "w": 767,
-      "h": 576
-    },
-    "alt": "White daisies in soft morning light",
-    "treatment": "Source is small: max 767px wide, never full-bleed. Badge chip top-left.",
-    "slots": [
-      {
-        "page": "/blog/pcos-and-getting-pregnant/",
-        "section": "Cover and blog index card",
-        "crop": "3:2 desktop, 4:3 card",
-        "object_position": "60% 60%"
-      }
-    ],
-    "blur": {
-      "color": "#382818",
-      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoIAAYAA4BaJbACdAEfbPfAokAA4nZbS4J2XFgLWrA97Hpx2dIOj6D6pg+x4z3ZnpzFTqgA"
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAYAA4BaJZgCdADyfwCwAP7wQLgrPbbDa/vlsaFNSnvTke3/5YWCpRToEPYgAAA="
     },
     "restricted": false,
     "devOnly": false
   },
-  "blog/blog-first-visit-couple-with-doctor-4x3.png": {
+  "condition-menopause-4x3.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028
+    ],
+    "source": {
+      "w": 1448,
+      "h": 1086
+    },
+    "original": {
+      "w": 1448,
+      "h": 1086
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1448,
+      "height": 1086
+    },
+    "id": "K5",
+    "alt": "Illustration of the uterus, ovaries and anatomical details surrounded by leaves.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "4:3",
+    "caption": "Illustrative image",
+    "illustrative": true,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "K5",
+        "page": "/conditions/menopause-and-perimenopause/",
+        "crop": "4:3"
+      }
+    ],
+    "blur": {
+      "color": "#f8e8d8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAYAA4BaJQBOgB6W0LoAAP7qya0gdbQXB4QW8qlUIta6QfGVrse1wAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-when-to-see-3x2.avif": {
     "widths": [
       320,
       480,
@@ -916,70 +1526,79 @@
     ],
     "source": {
       "w": 1228,
+      "h": 818
+    },
+    "original": {
+      "w": 1228,
       "h": 920
     },
-    "alt": "A couple talking with a woman doctor at a desk",
-    "treatment": "Inline only under \"What happens at the first visit\". Never a hero, never beside the booking form, never presented as real patients.",
+    "crop": {
+      "left": 0,
+      "top": 51,
+      "width": 1228,
+      "height": 818
+    },
+    "id": "B1",
+    "alt": "Two adults speaking with a doctor across a desk.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "3:2",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
+        "id": "B1",
         "page": "/blog/when-to-see-a-fertility-doctor/",
-        "section": "Inline under What happens at the first visit",
-        "crop": "16:9",
-        "object_position": "50% 45%"
+        "crop": "3:2"
       }
     ],
     "blur": {
       "color": "#d8c8b8",
       "dataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoIAAYAA4BaJYwCdAD0MayFAADODoMIREgzR9KEQd7Ojm/xYFGtoY7FhOPw12sfjH8g6oaYIQAAAA=="
     },
-    "restricted": true,
-    "devOnly": false
-  },
-  "journey/journey-couple-holding-hands-park-6x5.png": {
-    "widths": [
-      320
-    ],
-    "source": {
-      "w": 443,
-      "h": 376
-    },
-    "alt": "A couple holding hands while walking in a park",
-    "treatment": "Max 443px wide. Faceless, so no consent issue and no outcome promise. Use under \"What helps you cope\".",
-    "slots": [
-      {
-        "page": "/your-fertility-journey/",
-        "section": "What helps you cope",
-        "crop": "6:5",
-        "object_position": "50% 50%"
-      }
-    ],
-    "blur": {
-      "color": "#988878",
-      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoIAAcAA4BaJYgCdADdk97BU4AAyuX3hwzaZIAqBMd4T7pYpM0gzoUikZ6O7Z5MAAA="
-    },
     "restricted": false,
     "devOnly": false
   },
-  "journey/general-calm-flowers-table-6x5.png": {
+  "blog-fertility-tests-3x2.avif": {
     "widths": [
-      320
+      320,
+      480,
+      768,
+      1028
     ],
     "source": {
-      "w": 443,
-      "h": 376
+      "w": 1228,
+      "h": 818
     },
-    "alt": "Flowers in a vase on a wooden table in morning light",
-    "treatment": "Calm background panel for the Thank you page and the empty state of the blog index. Max 443px; for a larger panel use it at 60% opacity over blush-50.",
+    "original": {
+      "w": 1228,
+      "h": 920
+    },
+    "crop": {
+      "left": 0,
+      "top": 51,
+      "width": 1228,
+      "height": 818
+    },
+    "id": "B2",
+    "alt": "A woman reading a paper at a table with a drawn thought bubble above her.",
+    "altApproved": false,
+    "objectPosition": "50% 50%",
+    "ratio": "3:2",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
     "slots": [
       {
-        "page": "/thank-you/",
-        "section": "Panel beside the confirmation text",
-        "crop": "6:5"
+        "id": "B2",
+        "page": "/blog/fertility-tests-explained/",
+        "crop": "3:2"
       }
     ],
     "blur": {
-      "color": "#a89888",
-      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoIAAcAA4BaJQBOgB6WHJj2AAD+4nSI/zknoWxqZ0/fzHPX2wp2PhriN3g2iJeaAAA="
+      "color": "#d8c8c8",
+      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoIAAYAA4BaJZACdADygGoAAP7uDCxQ1m+Rezr3+AR2a979EPnYwSIE2vxPT8bo4YAAAA=="
     },
     "restricted": false,
     "devOnly": false

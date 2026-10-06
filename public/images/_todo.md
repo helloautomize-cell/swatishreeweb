@@ -1,31 +1,60 @@
 # Image todo
 
-Generated 2026-10-05 by scripts/process-images.mjs.
+Generated 2026-10-06 by scripts/process-images.mjs.
 
 ## Missing files (slot has no source)
-- none
+- C6: Coming from outside Bangalore lead
 
 ## Interim or development-only files
-- doctor/doctor-hero-portrait-4x5-INTERIM.png :: USE FOR DEVELOPMENT ONLY. Replace with the photographer's original (4:5, at least 2000px tall) before launch. 1x quality only.
+- doctor-hero-cutout.avif :: Background removal required before use (hero cut-out). Interim resolution (half spec). Replace with ≥3000px tall source when available.
+- doctor-hero-cutout.avif: draft alt text pending review
+- doctor-meet-cutout.png: draft alt text pending review
+- doctor-profile-portrait-4x5.avif :: Low res interim; replace with hi-res original
+- doctor-profile-portrait-4x5.avif: draft alt text pending review
+- doctor-avatar-1x1.png: draft alt text pending review
+- doctor-mrcog-ceremony-4x3.avif: draft alt text pending review
+- doctor-award-4x3.avif: draft alt text pending review
+- doctor-consulting-4x3.png :: Low res; crop to 576x432 from 790x432 source
+- doctor-consulting-4x3.png: draft alt text pending review
+- about-founder-4x3.png :: Low res
+- about-founder-4x3.png: draft alt text pending review
+- clinic-reception-4x3.jpg: draft alt text pending review
+- clinic-visit-band-16x9.jpg: draft alt text pending review
+- clinic-exterior-4x3.jpg: draft alt text pending review
+- clinic-consultation-room-4x3.png: draft alt text pending review
+- clinic-ultrasound-room-4x3.png: draft alt text pending review
+- hub-services-4x3.png: draft alt text pending review
+- hub-treatments-4x3.avif: draft alt text pending review
+- hub-conditions-4x3.avif: draft alt text pending review
+- journey-lead-4x3.avif: draft alt text pending review
+- service-fertility-evaluation-4x3.png: draft alt text pending review
+- service-natural-conception-4x3.png: draft alt text pending review
+- service-follicular-monitoring-4x3.png: draft alt text pending review
+- service-hsg-4x3.png: draft alt text pending review
+- service-male-fertility-4x3.avif: draft alt text pending review
+- service-contraception-4x3.avif: draft alt text pending review
+- service-early-pregnancy-scan-4x3.avif: draft alt text pending review
+- service-reproductive-immunology-4x3.png: draft alt text pending review
+- service-cervical-screening-4x3.png: draft alt text pending review
+- service-endometrial-biopsy-4x3.avif: draft alt text pending review
+- service-adolescent-gynaecology-4x3.avif: draft alt text pending review
+- treatment-iui-4x3.avif: draft alt text pending review
+- treatment-ivf-4x3.avif: draft alt text pending review
+- treatment-tesa-pesa-4x3.png: draft alt text pending review
+- condition-pcos-4x3.png: draft alt text pending review
+- condition-endometriosis-4x3.avif: draft alt text pending review
+- condition-menstrual-4x3.avif: draft alt text pending review
+- condition-pregnancy-loss-4x3.avif: draft alt text pending review
+- condition-menopause-4x3.png: draft alt text pending review
+- blog-when-to-see-3x2.avif: draft alt text pending review
+- blog-fertility-tests-3x2.avif: draft alt text pending review
 
 ## Restricted (render behind confirm, excluded from production)
-- doctor/doctor-mrcog-ceremony-rcog-1x1.png :: USE after permission (another person visible)
-- doctor/doctor-gcu-womens-day-award-1x1.png :: USE after permission (several people visible)
-- services/tubal-patency-hsg-xray-4x3.png :: USE WITH CAUTION: looks like a real patient radiograph. Confirm licence or AI origin in writing before launch.
-- blog/blog-fertility-tests-explained-cover-woman-reading-report-4x3.png :: USE after Dr. Swati's written approval (appears AI-generated)
-- blog/blog-when-to-see-doctor-cover-woman-pregnancy-test-4x3.png :: USE after Dr. Swati's written approval (appears AI-generated)
-- blog/blog-first-visit-couple-with-doctor-4x3.png :: OPTIONAL, inline after written approval (appears AI-generated, shows worry)
+- doctor-hero-cutout.avif :: Background removal required before use (hero cut-out). Interim resolution (half spec). Replace with ≥3000px tall source when available.
+- doctor-meet-cutout.png :: Background removal required before use; inauguration photo with marigold garlands
 
 ## Still needed from client (manifest missing_and_still_needed)
-- Doctor hero portrait: original file, 4:5, at least 2000px tall (launch-critical)
-- Square face photo, at least 1000x1000
-- Clinic building exterior with the signboard (home Visit band, Contact, Google profile)
-- Ultrasound room (empty)
-- Team photo
-- Straight-on photo of the printed hours sign at reception
-- Written approval from Dr. Swati for every AI-generated image above
-- Permission for the two ceremony photos (other people visible)
-- Confirmation of licence or AI origin for the HSG X-ray
+- none
 
 ## Assets
 - asset-manifest.json pending; alt text and final slots not set for resources/assets/

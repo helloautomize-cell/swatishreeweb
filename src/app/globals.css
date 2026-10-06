@@ -1,5 +1,9 @@
 @import "tailwindcss";
 @import "./components.css";
+@import "./v2.css";
+@import "./shell.css";
+@import "./pages.css";
+@import "./home.css";
 
 /* Locked design tokens. Values come from the approved visual reference.
    Do not change a value. */

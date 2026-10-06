@@ -1,21 +1,12 @@
 import ConfirmChip from "./ConfirmChip";
 
 const rows: { label: string; iui: string; ivf: string }[] = [
-  {
-    label: "In one line",
-    iui: "A gentler first step",
-    ivf: "Planned around your profile",
-  },
-  {
-    label: "What it involves",
-    iui: "Prepared sperm is placed in the uterus around ovulation",
-    ivf: "Eggs are fertilised in a laboratory and an embryo is transferred",
-  },
-  {
-    label: "Where it happens",
-    iui: "At EVE",
-    ivf: "Planned with you at EVE, with laboratory procedures at associated ART centres",
-  },
+  { label: "What it does", iui: "Places prepared sperm in the uterus", ivf: "Fertilises eggs in a laboratory and transfers an embryo" },
+  { label: "Fallopian tubes", iui: "At least one open tube needed", ivf: "Tubes do not need to be open" },
+  { label: "Usual reasons", iui: "Unexplained infertility, mild male factor, ovulation problems, cervical factor", ivf: "Blocked tubes, severe male factor, endometriosis, low reserve, failed IUI" },
+  { label: "Medicines", iui: "Often mild or none", ivf: "Several, with close monitoring" },
+  { label: "Time", iui: "A few days in one cycle", ivf: "A few weeks per cycle" },
+  { label: "Where", iui: "At the clinic", ivf: "Planned with you at EVE, with laboratory steps at associated ART centres" },
 ];
 
 /** Comparison table: a real table on desktop, stacked key-value on mobile. */
@@ -36,7 +27,7 @@ export default function ComparisonTable() {
             <td data-th="IUI">{r.iui}</td>
             <td data-th="IVF">
               {r.ivf}
-              {r.label === "Where it happens" ? (
+              {r.label === "Where" ? (
                 <>
                   {" "}
                   <ConfirmChip note="ART centre wording" />

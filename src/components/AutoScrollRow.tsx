@@ -1,7 +1,8 @@
 "use client";
 
-import { useEffect, useRef, useState, type ReactNode } from "react";
-import { Pause, Play } from "lucide-react";
+import { useCallback, useEffect, useRef, useState, type ReactNode } from "react";
+import { ArrowLeft, ArrowRight, Pause, Play } from "lucide-react";
+import { useCarouselMotion } from "@/lib/use-carousel-motion";
 
 /**
  * Auto-moving scroll row (master prompt Part 4.6): advances every 4.5s,
@@ -23,98 +24,45 @@ export default function AutoScrollRow({
   children: ReactNode;
 }) {
   const rowRef = useRef<HTMLDivElement>(null);
-  const barRef = useRef<HTMLElement>(null);
-  const userHold = useRef(false);
-  const pausedRef = useRef(false);
-  const [paused, setPaused] = useState(false);
-
-  useEffect(() => {
-    pausedRef.current = paused;
-  }, [paused]);
-
+  const [progress, setProgress] = useState(0);
+  const move = useCallback((direction: number) => {
+    const row = rowRef.current;
+    const card = row?.children[0] as HTMLElement | undefined;
+    if (!row || !card || !row.offsetWidth) return;
+    const width = card.getBoundingClientRect().width + parseFloat(getComputedStyle(row).gap || "0");
+    const max = row.scrollWidth - row.clientWidth;
+    const next = row.scrollLeft + direction * width;
+    row.scrollTo({ left: next > max + 2 ? 0 : next < -2 ? max : next, behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth" });
+  }, []);
+  const advance = useCallback(() => move(1), [move]);
+  const { regionRef, events, paused, toggle } = useCarouselMotion(advance, mobileOnly);
   useEffect(() => {
     const row = rowRef.current;
     if (!row) return;
-    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    let resume: ReturnType<typeof setTimeout> | undefined;
-
-    const active = () =>
-      !reduce &&
-      !pausedRef.current &&
-      !userHold.current &&
-      !document.hidden &&
-      (!mobileOnly || window.innerWidth < 768);
-
-    const step = () => {
-      const card = row.children[0] as HTMLElement | undefined;
-      if (!card) return;
-      const gap = parseFloat(getComputedStyle(row).gap || "0");
-      const w = card.getBoundingClientRect().width + gap;
+    const update = () => {
       const max = row.scrollWidth - row.clientWidth;
-      const left = row.scrollLeft + w > max + 2 ? 0 : row.scrollLeft + w;
-      row.scrollTo({ left, behavior: "smooth" });
+      setProgress(max > 0 ? Math.min(100, row.scrollLeft / max * 100) : 100);
     };
-    const timer = setInterval(() => {
-      if (active()) step();
-    }, 4500);
-
-    const hold = () => {
-      userHold.current = true;
-      clearTimeout(resume);
-      resume = setTimeout(() => {
-        userHold.current = false;
-      }, 6000);
-    };
-    const events = ["pointerenter", "focusin", "touchstart", "wheel"] as const;
-    events.forEach((e) => row.addEventListener(e, hold, { passive: true }));
-
-    const upd = () => {
-      const bar = barRef.current;
-      if (!bar) return;
-      const max = row.scrollWidth - row.clientWidth;
-      bar.style.width = `${max > 0 ? Math.min(100, (row.scrollLeft / max) * 100) : 100}%`;
-    };
-    row.addEventListener("scroll", upd, { passive: true });
-    upd();
-
-    return () => {
-      clearInterval(timer);
-      clearTimeout(resume);
-      events.forEach((e) => row.removeEventListener(e, hold));
-      row.removeEventListener("scroll", upd);
-    };
-  }, [mobileOnly]);
+    row.addEventListener("scroll", update, { passive: true });
+    const observer = new ResizeObserver(update);
+    observer.observe(row);
+    return () => { row.removeEventListener("scroll", update); observer.disconnect(); };
+  }, []);
 
   return (
-    <>
-      <div
-        id={id}
-        ref={rowRef}
-        className={className}
-        role="region"
-        aria-label={ariaLabel}
-        tabIndex={0}
-      >
+    <div className="carousel-group" ref={regionRef} {...events}>
+      <div id={id} ref={rowRef} className={className} role="region" aria-label={ariaLabel} tabIndex={0}
+        onKeyDown={(event) => { if (event.key === "ArrowRight" || event.key === "ArrowLeft") { event.preventDefault(); move(event.key === "ArrowRight" ? 1 : -1); } }}>
         {children}
       </div>
       <div className={`ctrl${mobileOnly ? " mobile-only" : ""}`}>
-        <button
-          type="button"
-          className="pp"
-          onClick={() => setPaused((p) => !p)}
-          aria-label={paused ? "Play slideshow" : "Pause slideshow"}
-          aria-pressed={paused}
-        >
-          {paused ? (
-            <Play size={18} strokeWidth={1.75} aria-hidden />
-          ) : (
-            <Pause size={18} strokeWidth={1.75} aria-hidden />
-          )}
+        <button type="button" className="pp" aria-label="Previous cards" onClick={() => move(-1)}><ArrowLeft size={18} strokeWidth={1.75} aria-hidden /></button>
+        <button type="button" className="pp" onClick={toggle} aria-label={paused ? "Play slideshow" : "Pause slideshow"} aria-pressed={paused}>
+          {paused ? <Play size={18} strokeWidth={1.75} aria-hidden /> : <Pause size={18} strokeWidth={1.75} aria-hidden />}
         </button>
-        <span className="prog" aria-hidden>
-          <i ref={barRef} />
-        </span>
+        <button type="button" className="pp" aria-label="Next cards" onClick={() => move(1)}><ArrowRight size={18} strokeWidth={1.75} aria-hidden /></button>
+        <span className="prog" aria-hidden><i style={{ width: `${progress}%` }} /></span>
       </div>
-    </>
+    </div>
   );
 }

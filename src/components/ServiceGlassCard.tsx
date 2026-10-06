@@ -1,4 +1,5 @@
 import { ArrowRight } from "lucide-react";
+import Image from "next/image";
 import { assetEntry } from "@/lib/images";
 import { badgeFor } from "@/lib/service-badges";
 
@@ -31,9 +32,9 @@ export default function ServiceGlassCard({
         <span className="badge">
           <span className="coin">
             {badge ? (
-              <img
+              <Image
                 src={badge.src}
-                srcSet={badge.srcSetWebp}
+                unoptimized
                 sizes="112px"
                 alt=""
                 width={112}

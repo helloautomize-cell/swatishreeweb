@@ -16,18 +16,19 @@ export function MaybeConfirm({ value }: { value: ConfirmOr<ReactNode> }) {
   return <>{value}</>;
 }
 
-/** Render text containing inline "[CONFIRM: ...]" tokens. */
+/** Render text containing inline "[CONFIRM: ...]" or "[date]" tokens. */
 export function WithConfirms({ text }: { text: string }) {
-  const parts = text.split(/\[CONFIRM(?::([^\]]*))?\]/g);
-  const out: ReactNode[] = [];
-  for (let i = 0; i < parts.length; i += 2) {
-    out.push(parts[i]);
-    if (i + 1 < parts.length) {
-      out.push(<ConfirmChip key={i} note={parts[i + 1]?.trim()} />);
-    }
-  }
   if (process.env.NODE_ENV === "production") {
-    return <>{text.replace(/\s*\[CONFIRM(?::[^\]]*)?\]/g, "")}</>;
+    return <>{text.replace(/\s*(?:\[CONFIRM(?::[^\]]*)?\]|\[date\])/g, "")}</>;
   }
+  const out: ReactNode[] = [];
+  let last = 0;
+  for (const m of text.matchAll(/\[CONFIRM(?::([^\]]*))?\]|\[(date)\]/g)) {
+    const i = m.index ?? 0;
+    if (i > last) out.push(text.slice(last, i));
+    out.push(<ConfirmChip key={i} note={(m[1] ?? m[2])?.trim()} />);
+    last = i + m[0].length;
+  }
+  out.push(text.slice(last));
   return <>{out}</>;
 }

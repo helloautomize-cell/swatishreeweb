@@ -42,6 +42,8 @@ next-env.d.ts
 
 # source archives and local installers
 /*.zip
+/eve-legacy-phase0-*.tar
+/phase0-reference-*.png
 /nvm-setup.exe
 /masterprompt.md
 
@@ -54,3 +56,6 @@ resources/images/credentials-reference/
 test-results/
 server.log
 artifacts/
+.devin/archive/
+.devin/image-preview/
+/phase1-image-review.png

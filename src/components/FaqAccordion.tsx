@@ -1,6 +1,8 @@
+import type { ReactNode } from "react";
 import { Plus } from "lucide-react";
+import { WithConfirms } from "./ConfirmChip";
 
-export type Faq = { q: string; a: string };
+export type Faq = { q: string; a: string | ReactNode };
 
 /** FAQ accordion built on native details/summary so it works without JS. */
 export default function FaqAccordion({ items }: { items: Faq[] }) {
@@ -14,7 +16,9 @@ export default function FaqAccordion({ items }: { items: Faq[] }) {
               <Plus size={16} strokeWidth={1.75} />
             </span>
           </summary>
-          <div className="a">{f.a}</div>
+          <div className="a">
+            {typeof f.a === "string" ? <WithConfirms text={f.a} /> : f.a}
+          </div>
         </details>
       ))}
     </div>

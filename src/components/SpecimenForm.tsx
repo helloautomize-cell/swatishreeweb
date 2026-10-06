@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useState } from "react";
 import { CircleAlert } from "lucide-react";
 import BookButton from "./BookButton";
@@ -84,16 +85,15 @@ export default function SpecimenForm() {
       {under18 && (
         <div className="field">
           <label htmlFor="f-guardian">Parent or guardian name</label>
-          <input id="f-guardian" name="guardian" autoComplete="off" />
-          <span className="hint">A guardian must come along for the visit.</span>
+          <input id="f-guardian" name="guardian" autoComplete="off" required />
+          <span className="hint">I am the parent or legal guardian and I consent to EVE Women and Fertility Clinic using these details to arrange care for this patient.</span>
         </div>
       )}
 
       <label className="checkline">
         <input type="checkbox" />
         <span>
-          I agree to the clinic contacting me about my request, as described in
-          the <a href="#">Privacy Policy</a>.
+          I agree that EVE Women and Fertility Clinic may use these details to contact me about my appointment, as explained in the <Link href="/privacy-policy/">Privacy Policy</Link>.
         </span>
       </label>
 

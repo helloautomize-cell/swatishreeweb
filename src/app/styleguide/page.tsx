@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import Image from "next/image";
+import AssetImage from "@/components/AssetImage";
 import {
   ArrowLeft,
   ArrowRight,
@@ -22,21 +24,19 @@ import {
   Star,
   X,
 } from "lucide-react";
-import AutoScrollRow from "@/components/AutoScrollRow";
+import { HeroB, ConcernRows, WhyBento } from "@/components/SignatureSpecimens";
 import BookButton from "@/components/BookButton";
 import Callout from "@/components/Callout";
 import CenteredCarousel from "@/components/CenteredCarousel";
 import ComparisonTable from "@/components/ComparisonTable";
-import ConfirmChip, { WithConfirms } from "@/components/ConfirmChip";
+import ConfirmChip from "@/components/ConfirmChip";
 import DoctorCard from "@/components/DoctorCard";
-import EveImage from "@/components/EveImage";
 import FaqAccordion from "@/components/FaqAccordion";
 import PhoneFrame from "@/components/PhoneFrame";
 import SpecimenForm from "@/components/SpecimenForm";
 import StepTracker from "@/components/StepTracker";
 import ServiceTabs from "@/components/ServiceTabs";
 import { allAssets, assetEntry } from "@/lib/images";
-import { heroCopy, whyCards } from "@/lib/specimen";
 
 export const metadata: Metadata = {
   title: "Style guide",
@@ -75,31 +75,24 @@ const dot = (hex: string): React.CSSProperties => ({
 });
 
 const contrast: [React.ReactNode, string, string, boolean][] = [
-  [<span className="pv" style={{ color: "#1F2D26" }}>Ink #1F2D26</span>, "White / sage wash / blush wash", "14.37 / 13.29 / 13.54", true],
-  [<span className="pv" style={{ color: "#55655B" }}>Ink soft #55655B</span>, "White / sage tint / blush", "6.18 / 5.12 / 5.12", true],
-  [<span className="pv" style={{ color: "#4F6445" }}>Sage text #4F6445</span>, "White / wash / tint", "6.48 / 5.99 / 5.37", true],
-  [<span className="pv" style={{ color: "#5C7450" }}>Sage #5C7450</span>, "White / sage wash", "5.16 / 4.77", true],
-  [<span className="pv" style={{ background: "#5C7450", color: "#fff" }}>White on sage</span>, "#5C7450", "5.16", true],
-  [<span className="pv" style={{ background: "#26382C", color: "#fff" }}>White on deep moss</span>, "#26382C", "12.47", true],
-  [<span className="pv" style={{ color: "#A24560" }}>Rose #A24560</span>, "White / blush wash / blush", "5.90 / 5.56 / 4.89", true],
-  [<span className="pv" style={{ color: "#C8302A" }}>Alert #C8302A</span>, "White", "5.37", true],
-  [<span className="pv" style={{ color: "var(--ink)" }}><i style={dot("#A8C49A")} />Sage light #A8C49A</span>, "White", "1.90", false],
-  [<span className="pv" style={{ color: "var(--ink)" }}><i style={dot("#F4B3C1")} />Blush rose #F4B3C1</span>, "White", "1.74", false],
+  [<span key="contrast" className="pv" style={{ color: "#1F2D26" }}>Ink #1F2D26</span>, "White / sage wash / blush wash", "14.37 / 13.29 / 13.54", true],
+  [<span key="contrast" className="pv" style={{ color: "#55655B" }}>Ink soft #55655B</span>, "White / sage tint / blush", "6.18 / 5.12 / 5.12", true],
+  [<span key="contrast" className="pv" style={{ color: "#4F6445" }}>Sage text #4F6445</span>, "White / wash / tint", "6.48 / 5.99 / 5.37", true],
+  [<span key="contrast" className="pv" style={{ color: "#5C7450" }}>Sage #5C7450</span>, "White / sage wash", "5.16 / 4.77", true],
+  [<span key="contrast" className="pv" style={{ background: "#5C7450", color: "#fff" }}>White on sage</span>, "#5C7450", "5.16", true],
+  [<span key="contrast" className="pv" style={{ background: "#26382C", color: "#fff" }}>White on deep moss</span>, "#26382C", "12.47", true],
+  [<span key="contrast" className="pv" style={{ color: "#A24560" }}>Rose #A24560</span>, "White / blush wash / blush", "5.90 / 5.56 / 4.89", true],
+  [<span key="contrast" className="pv" style={{ color: "#C8302A" }}>Alert #C8302A</span>, "White", "5.37", true],
+  [<span key="contrast" className="pv" style={{ color: "var(--ink)" }}><i style={dot("#A8C49A")} />Sage light #A8C49A</span>, "White", "1.90", false],
+  [<span key="contrast" className="pv" style={{ color: "var(--ink)" }}><i style={dot("#F4B3C1")} />Blush rose #F4B3C1</span>, "White", "1.74", false],
 ];
 
 const faqs = [
-  {
-    q: "How do I book a consultation?",
-    a: "Use the form, call 72049 21212 or 72049 21516. We confirm your slot as soon as we can.",
-  },
-  {
-    q: "What should I bring to my first visit?",
-    a: "Bring past reports, scans and prescriptions. If you are trying to conceive, note the dates of your last few periods. Partners are welcome.",
-  },
-  {
-    q: "Who will I see at EVE?",
-    a: "Dr. Swati listens first, asks about your history and examines you. There is time for every question.",
-  },
+  { q: "When should I see a fertility specialist?", a: "See a specialist if you have not conceived after 12 months of trying, or after 6 months if the woman is 35 or older. See one sooner if periods are very irregular or absent, you have known endometriosis, fibroids or tubal problems, you have had two or more miscarriages, or the male partner has a known semen problem." },
+  { q: "Do I need IVF to get pregnant?", a: "Not necessarily. Many couples conceive with ovulation tracking, treatment of a hormone problem, or IUI. IVF is usually advised when the tubes are blocked, sperm counts are very low, other treatments have not worked, or age and ovarian reserve leave little time. Dr. Swati recommends the starting point after your evaluation." },
+  { q: "Does EVE offer IVF?", a: "Dr. Swati plans and guides IVF with you at EVE. The laboratory procedures, such as egg collection, embryo culture and embryo transfer, are carried out at associated ART centres that are registered under Indian law. [CONFIRM: exact arrangement and wording]" },
+  { q: "Can my partner come to the visit?", a: "Yes, and we encourage it. Fertility involves both partners, and the male partner's semen analysis is one of the first tests. Partners are welcome in the consultation room, and you can also come alone if you prefer." },
+  { q: "Do you tell the sex of the baby on a scan?", a: "No. Disclosing or testing for the sex of the baby is prohibited by Indian law, and we never do it. A scan at EVE is for checking location, growth and the heartbeat." },
 ];
 
 const badgeSample = ["badge-fertility-evaluation.png", "badge-ivf.png", "badge-pcos.png"];
@@ -135,13 +128,20 @@ function Section({
 
 export default function StyleguidePage() {
   return (
-    <main className="sg">
+    <main className="sg" id="main">
       <div className="container-eve" style={{ paddingBlock: "40px 120px" }}>
         <p style={{ fontSize: 14, color: "var(--ink-2)", maxWidth: 560 }}>
           Style guide for the EVE Women and Fertility Clinic website. Locked
           colours, type, buttons, glass cards, badges and motion, using real
           EVE content. Internal page, never indexed.
         </p>
+
+        <Section eyebrow="Hero B" title={<>Portrait on the left, words on the <em className="acc">right</em></>} intro="The photo stays still. The sage line draws once, the heart beats twice, and background shapes move gently.">
+          <HeroB />
+        </Section>
+        <Section eyebrow="Find care by concern" title={<>What brings you <em className="acc">here</em> today</>}>
+          <ConcernRows />
+        </Section>
 
         <Section
           eyebrow="Colour · locked"
@@ -195,15 +195,15 @@ export default function StyleguidePage() {
         >
           <div className="logos">
             <figure>
-              <img src="/images/brand/logo-full-transparent.png" alt="EVE full logo" />
+              <Image src="/images/brand/logo-full-transparent.png" alt="EVE full logo" width={280} height={86} loading="lazy" unoptimized style={{ width: "auto", height: "auto" }} />
               <figcaption>Full · on white</figcaption>
             </figure>
             <figure className="on-grad">
-              <img src="/images/brand/logo-white-transparent.png" alt="EVE white logo" />
+              <Image src="/images/brand/logo-white-transparent.png" alt="EVE white logo" width={280} height={86} loading="lazy" unoptimized style={{ width: "auto", height: "auto" }} />
               <figcaption>White · on gradient or deep moss</figcaption>
             </figure>
             <figure>
-              <img src="/images/brand/logo-mark-transparent.png" alt="EVE mother and child mark" style={{ maxHeight: 80 }} />
+              <Image src="/images/brand/logo-mark-transparent.png" alt="EVE mother and child mark" width={253} height={338} loading="lazy" unoptimized style={{ objectFit: "contain", width: "auto", height: 80 }} />
               <figcaption>Mark · favicon, app icon</figcaption>
             </figure>
           </div>
@@ -279,18 +279,6 @@ export default function StyleguidePage() {
             </a>
           </div>
           <div className="btns">
-            <a className="gchip" href="#">
-              <Star size={16} strokeWidth={1.75} aria-hidden />
-              <b>
-                <ConfirmChip note="rating" />
-              </b>{" "}
-              on Google · <ConfirmChip note="count" /> reviews
-            </a>
-            <span style={{ fontSize: 14, color: "var(--ink-2)" }}>
-              Google rating chip: Visit band, Contact block and footer only. Never in the hero or next to Dr. Swati.
-            </span>
-          </div>
-          <div className="btns">
             <button className="btn btn-p" type="button" disabled>
               Disabled
             </button>
@@ -300,92 +288,22 @@ export default function StyleguidePage() {
           </div>
         </Section>
 
-        <Section
-          eyebrow="Hero"
-          title={<>One doctor, one <em className="acc">portrait</em></>}
-          intro="The hero is a single large portrait card. No fan, no swap. The interim portrait is preloaded and never animated."
-        >
-          <div className="hero">
-            <div>
-              <span className="eyebrow">{heroCopy.eyebrow}</span>
-              <h1>
-                {heroCopy.h1Before}
-                <em className="acc">{heroCopy.h1Accent}</em>
-              </h1>
-              <p className="sub">{heroCopy.sub}</p>
-              <div className="btns">
-                <BookButton />
-                <a className="btn btn-s" href="#">
-                  Call 72049 21212
-                </a>
-              </div>
-              <div className="hchips">
-                {heroCopy.chips.map((c) => (
-                  <span className="chip" key={c}>
-                    {c}
-                  </span>
-                ))}
-              </div>
-              <div className="chip-doc">
-                <EveImage src="doctor/doctor-avatar-1x1.png" sizes="42px" />
-                <span>
-                  Doctor-led care
-                  <small>Dr. Swati Shree, MRCOG (UK)</small>
-                </span>
-              </div>
-            </div>
-            <div className="portrait">
-              <span className="tag">
-                <Clock size={18} strokeWidth={1.8} aria-hidden />
-                {heroCopy.tag}
-              </span>
-              <figure>
-                <EveImage
-                  src="doctor/doctor-hero-portrait-4x5-INTERIM.png"
-                  sizes="(min-width: 900px) 400px, 100vw"
-                  objectPosition="50% 12%"
-                  priority
-                />
-                <figcaption>
-                  Dr. Swati Shree
-                  <small>MBBS · DNB (OBG) · MRCOG (UK)</small>
-                </figcaption>
-              </figure>
-            </div>
-          </div>
+        <Section eyebrow="Doctor chip" title={<>Doctor-led <em className="acc">care</em></>}>
+          <div className="doctor-chip-panel"><div className="chip-doc"><span className="avatar-placeholder" aria-hidden><Shield size={24} strokeWidth={1.75} /></span><span>Doctor-led care<small>Dr. Swati Shree, MRCOG (UK)</small></span></div></div>
         </Section>
 
         <Section
           eyebrow="01 / Why EVE"
           title={<>Time, honesty and <em className="acc">options</em></>}
-          intro="Glass cards over a blush tint with a rose glow, so the blur reads. Facts only. They lift on hover."
+          intro="A bento layout over blush, with one doctor throughout as the deep-moss feature tile. Mobile cards can be swiped or paused."
         >
-          <div className="bgsoft">
-            <AutoScrollRow id="whycards" className="cards swipe" mobileOnly>
-              {whyCards.map((c) => (
-                <div className="gcard" key={c.title}>
-                  <span className="i">
-                    {(() => {
-                      const a = assetEntry(c.icon);
-                      return a ? (
-                        <img src={a.src} alt="" width={28} height={28} style={{ objectFit: "contain" }} />
-                      ) : (
-                        <Info size={24} strokeWidth={1.75} />
-                      );
-                    })()}
-                  </span>
-                  <h3>{c.title}</h3>
-                  <p>{c.text}</p>
-                </div>
-              ))}
-            </AutoScrollRow>
-          </div>
+          <WhyBento />
         </Section>
 
         <Section
           eyebrow="03 / How we can help"
           title={<>Care for every stage, every <em className="acc">question</em></>}
-          intro="Each service is a glass arch card carrying its illustrated badge, with a slow living gradient behind it. Hover: the orbit ring spins once, the badge lifts and turns like a coin, and a sheen passes."
+          intro="Plain white service cards, with an illustrated badge at the top-left and a View service link at the bottom. No arches, glass or moving backgrounds."
         >
           <ServiceTabs />
         </Section>
@@ -393,7 +311,7 @@ export default function StyleguidePage() {
         <Section
           eyebrow="04 / Your first visit"
           title={<>Your first visit, step by <em className="acc">step</em></>}
-          intro="On the site this follows your scroll. Click a step or scroll the page. Inactive steps stay readable."
+          intro="Steps on the left and a sticky guide card on the right. Click a step or scroll. Inactive steps stay readable."
         >
           <StepTracker />
         </Section>
@@ -409,7 +327,7 @@ export default function StyleguidePage() {
         <Section
           eyebrow="05 / Meet your doctor"
           title={<>Meet <em className="acc">Dr. Swati Shree</em></>}
-          intro="One doctor, so one wide feature card. Both card sizes shown. No star ratings."
+          intro="Editorial doctor profile, with double frames, qualification seals and a training path. Both sizes shown. No ratings."
         >
           <div id="doctor" style={{ display: "grid", gap: 24 }}>
             <DoctorCard />
@@ -423,8 +341,8 @@ export default function StyleguidePage() {
           <Callout variant="em">
             <b>When to get help straight away.</b> Call 108 or 112, or go to the
             nearest hospital emergency, if you have very heavy bleeding, sudden
-            severe pelvic or abdominal pain, fainting, or any bleeding with pain
-            during pregnancy.
+            severe pain in the lower abdomen or shoulder, fainting or dizziness,
+            or any bleeding with pain in early pregnancy. Do not wait for a clinic appointment.
           </Callout>
           <Callout variant="info">
             <b>Medically reviewed by</b> Dr. Swati Shree, MBBS, DNB (OBG), MRCOG
@@ -454,8 +372,8 @@ export default function StyleguidePage() {
                 const a = assetEntry(f);
                 if (!a) return null;
                 return (
-                  <figure key={sz} className={sz}>
-                    <img src={a.src} alt="" />
+                  <figure key={`${f}-${sz}`} className={sz}>
+                    <AssetImage file={f} size={sz === "sz-sm" ? 56 : sz === "sz-md" ? 112 : 200} />
                     <figcaption>
                       {f.replace("badge-", "").replace(".png", "")} · {sz.replace("sz-", "")}
                     </figcaption>
@@ -471,7 +389,7 @@ export default function StyleguidePage() {
               if (!a) return null;
               return (
                 <figure key={f}>
-                  <img src={a.src} alt="" />
+                  <AssetImage file={f} size={48} />
                   <figcaption>{f.replace(".png", "")}</figcaption>
                 </figure>
               );
@@ -493,13 +411,13 @@ export default function StyleguidePage() {
           title={<>Every state, one <em className="acc">form</em></>}
           intro="Labels above, helpers under, validation on blur, error summary on submit, unticked consent."
         >
-          <SpecimenForm />
+          <div id="styleguide-form"><SpecimenForm /></div>
         </Section>
 
         <Section
           eyebrow="FAQs"
           title={<>Quick <em className="acc">answers</em></>}
-          intro="Native details and summary, so it works without JavaScript. Specimen questions pending the content file."
+          intro="Native details and summary, so the supplied answers work without JavaScript."
         >
           <FaqAccordion items={faqs} />
         </Section>
