@@ -26,3 +26,6 @@ Generated 2026-10-05 by scripts/process-images.mjs.
 - Written approval from Dr. Swati for every AI-generated image above
 - Permission for the two ceremony photos (other people visible)
 - Confirmation of licence or AI origin for the HSG X-ray
+
+## Assets
+- asset-manifest.json pending; alt text and final slots not set for resources/assets/

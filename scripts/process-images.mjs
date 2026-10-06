@@ -100,6 +100,46 @@ for (const entry of manifest.images) {
   };
 }
 
+// Generated assets (resources/assets/*.png -> public/images/assets/).
+// Provisional size tiers until asset-manifest.json arrives:
+//   badge-* 112/224 (md plus 2x) · spot icons 64/128 · scenes and leads 320/640.
+// Transparent PNGs keep alpha; no blur placeholder (dominant colour is
+// meaningless on alpha). Alt text waits for asset-manifest.json.
+const ASSETS = join(root, 'resources', 'assets');
+const assetTodo = [];
+if (existsSync(ASSETS)) {
+  const assetMap = {};
+  const { readdirSync } = await import('node:fs');
+  const files = readdirSync(ASSETS).filter((f) => f.endsWith('.png'));
+  const tiers = (f) =>
+    f.startsWith('badge-') ? [112, 224]
+    : /^(why|step|glance|stage|faq|cat|visit)-/.test(f) ? [64, 128]
+    : [320, 640];
+  for (const f of files) {
+    const src = join(ASSETS, f);
+    const base = basename(f, '.png');
+    const image = sharp(src).rotate().toColorspace('srgb');
+    const meta = await image.metadata();
+    const sourceW = meta.width ?? 1024;
+    const widths = tiers(f).filter((w) => w <= sourceW);
+    if (!widths.length) widths.push(sourceW);
+    const outDir = join(OUT, 'assets');
+    mkdirSync(outDir, { recursive: true });
+    for (const w of widths) {
+      const h = Math.round(((meta.height ?? sourceW) * w) / sourceW);
+      await image.clone().resize({ width: w, height: h, withoutEnlargement: true })
+        .avif({ quality: QUALITY }).toFile(join(outDir, `${base}-w${w}.avif`));
+      await image.clone().resize({ width: w, height: h, withoutEnlargement: true })
+        .webp({ quality: QUALITY }).toFile(join(outDir, `${base}-w${w}.webp`));
+    }
+    assetMap[f] = { widths, source: { w: sourceW, h: meta.height ?? sourceW } };
+  }
+  writeFileSync(join(OUT, 'assets-map.json'), JSON.stringify(assetMap, null, 2));
+  if (!existsSync(join(ASSETS, 'asset-manifest.json'))) {
+    assetTodo.push('asset-manifest.json pending; alt text and final slots not set for resources/assets/');
+  }
+}
+
 // Brand logos: copied unprocessed to preserve alpha and full resolution.
 const brandDir = join(SRC, 'brand');
 if (existsSync(brandDir)) {
@@ -131,6 +171,9 @@ const lines = [
   '',
   '## Still needed from client (manifest missing_and_still_needed)',
   ...(todo.stillNeeded.length ? todo.stillNeeded.map((f) => `- ${f}`) : ['- none']),
+  '',
+  '## Assets',
+  ...(assetTodo.length ? assetTodo.map((f) => `- ${f}`) : ['- none']),
   '',
 ];
 writeFileSync(join(OUT, '_todo.md'), lines.join('\n'));
