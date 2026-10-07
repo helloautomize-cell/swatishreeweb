@@ -34,7 +34,7 @@ export const site = {
    */
   opensTime: confirm("OPD opening time, 24-hour HH:MM"),
   closesTime: confirm("OPD closing time, 24-hour HH:MM"),
-  whatsapp: confirm("WhatsApp number"),
+  whatsapp: "+91 72049 21212",
   email: confirm("clinic email"),
   mapsUrl: "https://maps.app.goo.gl/8mygXauk59VyVmMN6",
   /* Keyless embed for iframes (share links refuse framing). The cid pins

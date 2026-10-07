@@ -49,8 +49,9 @@ export default function EveImage({
         alt={e.alt}
         width={e.source.w}
         height={e.source.h}
-        loading={priority ? "eager" : "lazy"}
-        fetchPriority={priority ? "high" : "auto"}
+        priority={priority}
+        loading={priority ? undefined : "lazy"}
+        fetchPriority={priority ? undefined : "auto"}
         quality={80}
         placeholder="blur"
         blurDataURL={e.blur.dataUrl}

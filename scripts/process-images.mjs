@@ -195,7 +195,7 @@ if (existsSync(ASSETS)) {
   const { readdirSync } = await import('node:fs');
   const files = readdirSync(ASSETS).filter((f) => f.endsWith('.png'));
   const tiers = (f) =>
-    f.startsWith('badge-') ? [56, 80, 112, 200, 224, 400]
+    f.startsWith('badge-') ? [56, 80, 112, 160, 200, 224, 400]
     : /^(why|step|glance|stage|faq|cat|visit)-/.test(f) ? [64, 128]
     : [320, 640];
   for (const f of files) {

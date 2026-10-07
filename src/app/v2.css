@@ -25,7 +25,7 @@
 .hb-blob { position:absolute; inset:16% 4% 0; background:radial-gradient(120% 90% at 30% 20%,var(--blush-100),var(--blush-50) 50%,var(--primary-100)); border-radius:58% 42% 48% 52%/52% 46% 54% 48%; animation:v2-morph 16s ease-in-out 2 alternate paused; }
 .hb-blob2 { position:absolute; inset:6% -2% -4% 4%; background:radial-gradient(closest-side at 55% 42%,var(--blush-100),transparent 74%); }
 .onscreen .hb-blob { animation-play-state:running; }
-@keyframes v2-morph { 50% { border-radius:44% 56% 56% 44%/46% 58% 42% 54%; } 100% { border-radius:52% 48% 40% 60%/58% 44% 56% 42%; } }
+@keyframes v2-morph { 50% { transform:scale(1.05) rotate(-4deg); } 100% { transform:scale(1.02) rotate(3deg); } }
 .hb-stage { position:absolute; inset:0; }
 .hb .hb-line { z-index:3; }
 @keyframes v2-draw { from { stroke-dashoffset:1; } to { stroke-dashoffset:0; } }

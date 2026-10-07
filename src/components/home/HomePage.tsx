@@ -60,7 +60,7 @@ function Hero({ d }: { d: ReturnType<typeof homeData> }) {
             heartD="M398 294c-4-6-13-4-13 3 0 6 13 13 13 13s13-7 13-13c0-7-9-9-13-3z"
           />
           <div className="hb-fig">
-            <EveImage src="doctor-hero-whitecoat-4x5.jpg" priority sizes="(max-width: 860px) 92vw, 480px" imgClassName="hb-photo" />
+            <EveImage src="doctor-hero-whitecoat-4x5.jpg" priority sizes="(max-width: 860px) 78vw, 480px" imgClassName="hb-photo" />
           </div>
         </div>
         <div className="hb-chips">

@@ -4,7 +4,7 @@ Source: 9 client documents plus the logo PNG. This file is the single source of 
 
 ```
 INTAKE  13 / 59 answered or part-answered from files · 46 still needed (★ 14)
-★ Open blockers: medical council reg no., OPD hours, WhatsApp number, doctor photos + approval, domain/DNS access,
+★ Open blockers: medical council reg no., OPD hours, doctor photos + approval, domain/DNS access,
   legal entity, privacy contact, consent for any patient content, ART registration proof, hospital-name wording sign-off,
   email spelling, Google profile access, map pin, legal review of 7 pages
 PHASE   Content ◻ · Preview ◻ · Style guide ✅ (palette locked) · P1 ◻ · Launch ◻
@@ -42,7 +42,7 @@ NEXT    Approve the style guide, then start the intake at Section A (old site, d
 | Phones | 72049 21212, 72049 21516 |
 | Email | evewomenandfertilitycliic@gmail.com (note "cliic": ★ confirm spelling) |
 | Hours (OPD, lab, phone) | `[CONFIRM]` ★ |
-| WhatsApp | `[CONFIRM]` ★ |
+| WhatsApp | `+91 72049 21212` (primary line is WhatsApp-enabled — confirmed by agency 2026-10) |
 | Social | Instagram, Facebook, YouTube, LinkedIn icons planned: `[CONFIRM]` links |
 | Old website | `[CONFIRM]` none stated |
 | Clinic status | "ART Level 1 Certified Clinic": `[CONFIRM]` certificate and registration number ★ |

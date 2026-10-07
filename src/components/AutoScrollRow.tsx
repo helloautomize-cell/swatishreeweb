@@ -61,7 +61,7 @@ export default function AutoScrollRow({
           {paused ? <Play size={18} strokeWidth={1.75} aria-hidden /> : <Pause size={18} strokeWidth={1.75} aria-hidden />}
         </button>
         <button type="button" className="pp" aria-label="Next cards" onClick={() => move(1)}><ArrowRight size={18} strokeWidth={1.75} aria-hidden /></button>
-        <span className="prog" aria-hidden><i style={{ width: `${progress}%` }} /></span>
+        <span className="prog" aria-hidden><i style={{ transform: `scaleX(${progress / 100})` }} /></span>
       </div>
     </div>
   );
