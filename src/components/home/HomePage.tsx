@@ -197,6 +197,10 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
       </Reveal>
       <InView className="da hm-doctor" replay>
         <div className="da-media">
+          <LineAccent
+            className="da-line"
+            d="M42 132C18 250 20 376 72 452C150 516 352 502 398 430C416 404 414 336 396 296"
+          />
           <div className="da-fig"><EveImage src="doctor-meet-saree-4x5.jpg" sizes="(max-width: 860px) 92vw, 420px" imgClassName="da-photo" /></div>
           <div className="glasschip award float">
             <span className="gi"><Award size={18} strokeWidth={1.8} aria-hidden /></span>
@@ -208,10 +212,10 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
           <h3 className="nm">{site.doctor}</h3>
           <p className="role"><WithConfirms text={d.doctor.text} /></p>
           <div className="seals">
-            <div className="seal"><span className="s">MBBS</span>Bachelor of Medicine</div>
-            <div className="seal"><span className="s">DNB</span>Obstetrics and Gynaecology</div>
-            <div className="seal"><span className="s">Fellow</span>Reproductive Medicine, KJK Hospital</div>
-            <div className="seal hi"><span className="s">MRCOG<br />UK</span>Royal College of Obstetricians and Gynaecologists</div>
+            <div className="seal"><span className="s"><svg className="seal-ring" viewBox="0 0 84 84" aria-hidden><circle cx="42" cy="42" r="38" pathLength="1" /></svg>MBBS</span>Bachelor of Medicine</div>
+            <div className="seal"><span className="s"><svg className="seal-ring" viewBox="0 0 84 84" aria-hidden><circle cx="42" cy="42" r="38" pathLength="1" /></svg>DNB</span>Obstetrics and Gynaecology</div>
+            <div className="seal"><span className="s"><svg className="seal-ring" viewBox="0 0 84 84" aria-hidden><circle cx="42" cy="42" r="38" pathLength="1" /></svg>Fellow</span>Reproductive Medicine, KJK Hospital</div>
+            <div className="seal hi"><span className="s"><svg className="seal-ring" viewBox="0 0 84 84" aria-hidden><circle cx="42" cy="42" r="38" pathLength="1" /></svg>MRCOG<br />UK</span>Royal College of Obstetricians and Gynaecologists</div>
           </div>
           <p className="hm-exp"><WithConfirms text={d.doctor.experience} /></p>
           <div className="path">

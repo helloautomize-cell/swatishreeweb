@@ -4,6 +4,7 @@ import Breadcrumbs from "@/components/shell/Breadcrumbs";
 import BookButton from "@/components/BookButton";
 import EveImage from "@/components/EveImage";
 import FaqAccordion from "@/components/FaqAccordion";
+import InView from "@/components/InView";
 import { WithConfirms } from "@/components/ConfirmChip";
 import { InlineText, Markdown } from "@/lib/content/render";
 import type { PageDoc, Section } from "@/lib/content/load";
@@ -118,36 +119,40 @@ export default function DoctorPage({ doc }: { doc: PageDoc }) {
         {education && (
           <section className="pg-sec" id={education.id}>
             <h2><GraduationCap size={22} strokeWidth={1.75} aria-hidden className="sec-ic" /> Education and training</h2>
-            <ol className="timeline">
-              {bullets(education).map((item, i) => {
-                const [when, ...rest] = item.split(/\s*·\s*/);
-                const isMrcog = /MRCOG/i.test(item);
-                return (
-                  <li key={i} className={isMrcog ? "hi" : undefined}>
-                    <span className="t-when"><WithConfirms text={when} /></span>
-                    <span className="t-what"><WithConfirms text={rest.join(" · ")} /></span>
-                    {isMrcog && <EveImage src="doctor-mrcog-ceremony-4x3.avif" sizes="220px" className="t-img" />}
-                  </li>
-                );
-              })}
-            </ol>
+            <InView className="tl-wrap">
+              <ol className="timeline">
+                {bullets(education).map((item, i) => {
+                  const [when, ...rest] = item.split(/\s*·\s*/);
+                  const isMrcog = /MRCOG/i.test(item);
+                  return (
+                    <li key={i} className={isMrcog ? "hi" : undefined}>
+                      <span className="t-when"><WithConfirms text={when} /></span>
+                      <span className="t-what"><WithConfirms text={rest.join(" · ")} /></span>
+                      {isMrcog && <EveImage src="doctor-mrcog-ceremony-4x3.avif" sizes="220px" className="t-img" />}
+                    </li>
+                  );
+                })}
+              </ol>
+            </InView>
           </section>
         )}
 
         {work && (
           <section className="pg-sec" id={work.id}>
             <h2>Work <em className="acc">experience</em></h2>
-            <ol className="timeline">
-              {bullets(work).map((item, i) => {
-                const [when, ...rest] = item.split(/\s*·\s*/);
-                return (
-                  <li key={i}>
-                    <span className="t-when"><WithConfirms text={when} /></span>
-                    <span className="t-what"><WithConfirms text={rest.join(" · ")} /></span>
-                  </li>
-                );
-              })}
-            </ol>
+            <InView className="tl-wrap">
+              <ol className="timeline">
+                {bullets(work).map((item, i) => {
+                  const [when, ...rest] = item.split(/\s*·\s*/);
+                  return (
+                    <li key={i}>
+                      <span className="t-when"><WithConfirms text={when} /></span>
+                      <span className="t-what"><WithConfirms text={rest.join(" · ")} /></span>
+                    </li>
+                  );
+                })}
+              </ol>
+            </InView>
           </section>
         )}
 

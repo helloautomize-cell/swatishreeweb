@@ -759,6 +759,19 @@
   border: 3px solid var(--primary);
 }
 .timeline li.hi::before { border-color: var(--accent); }
+.timeline::before { transform-origin: top; }
+.tl-wrap.armed:not(.in) .timeline::before { transform: scaleY(0); }
+.tl-wrap.in .timeline::before { animation: tl-line .9s var(--ease) .15s both; }
+@keyframes tl-line { from { transform: scaleY(0); } }
+.tl-wrap.armed:not(.in) .timeline li::before { transform: scale(.3); }
+.tl-wrap.in .timeline li::before { animation: tl-dot .45s var(--ease) backwards; }
+.tl-wrap.in .timeline li:nth-child(1)::before { animation-delay: .3s; }
+.tl-wrap.in .timeline li:nth-child(2)::before { animation-delay: .45s; }
+.tl-wrap.in .timeline li:nth-child(3)::before { animation-delay: .6s; }
+.tl-wrap.in .timeline li:nth-child(4)::before { animation-delay: .75s; }
+.tl-wrap.in .timeline li:nth-child(5)::before { animation-delay: .9s; }
+.tl-wrap.in .timeline li:nth-child(n+6)::before { animation-delay: 1.05s; }
+@keyframes tl-dot { from { transform: scale(.3); background: var(--bg); } 60% { transform: scale(1.15); } to { transform: scale(1); } }
 .timeline .t-when { font-size: 13px; font-weight: 600; color: var(--primary-700); }
 .timeline .t-what { font-size: 15px; line-height: 1.55; }
 .timeline .t-img { border-radius: 14px; overflow: hidden; max-width: 220px; margin-top: 8px; }
