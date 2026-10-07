@@ -6,6 +6,7 @@ import FaqAccordion from "@/components/FaqAccordion";
 import MapCard from "@/components/MapCard";
 import InView from "@/components/InView";
 import Reveal from "@/components/Reveal";
+import LineAccent from "@/components/LineAccent";
 import ServiceTabs from "@/components/ServiceTabs";
 import StepTracker from "@/components/StepTracker";
 import { ConcernRows, WhyBento } from "@/components/SignatureSpecimens";
@@ -52,10 +53,12 @@ function Hero({ d }: { d: ReturnType<typeof homeData> }) {
         <div className="hb-stage">
           <div className="hb-blob2" />
           <div className="hb-blob" />
-          <svg className="hb-line" viewBox="0 0 400 500" aria-hidden>
-            <path className="l" pathLength="1" d="M34 486C6 380 18 230 92 140C150 70 250 52 318 98C372 136 388 214 360 276C346 306 330 322 336 346C341 364 362 368 370 352" />
-            <path className="heart" d="M366 336c-4-6-13-4-13 3 0 6 13 13 13 13s13-7 13-13c0-7-9-9-13-3z" />
-          </svg>
+          <LineAccent
+            className="hb-line"
+            heart
+            d="M22 150C2 230 4 350 46 435C140 478 300 472 372 436C398 416 404 352 398 306"
+            heartD="M398 294c-4-6-13-4-13 3 0 6 13 13 13 13s13-7 13-13c0-7-9-9-13-3z"
+          />
           <div className="hb-fig">
             <EveImage src="doctor-hero-whitecoat-4x5.jpg" priority sizes="(max-width: 860px) 92vw, 480px" imgClassName="hb-photo" />
           </div>

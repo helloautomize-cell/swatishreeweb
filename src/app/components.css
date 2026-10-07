@@ -1788,3 +1788,58 @@ table.ct {
 .evi--illus img {
   object-fit: contain;
 }
+
+/* <LineAccent>: sage line that draws when an InView ancestor gains .in.
+   Armed/hidden states are JS-driven so no-JS still shows the full line. */
+.line-accent {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  pointer-events: none;
+}
+.line-accent path.l {
+  fill: none;
+  stroke: var(--primary-500);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 0;
+}
+.armed:not(.in) .line-accent path.l {
+  stroke-dashoffset: 1;
+}
+.in .line-accent path.l {
+  animation: v2-draw 1.6s ease-in-out both;
+}
+.line-accent .heart {
+  fill: var(--rose);
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.armed:not(.in) .line-accent .heart {
+  opacity: 0;
+}
+.in .line-accent .heart {
+  animation:
+    la-pop 0.3s ease-out 1.7s backwards,
+    la-breathe 3.5s ease-in-out 2.1s infinite;
+}
+@keyframes la-pop {
+  from { transform: scale(0.6); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+@keyframes la-breathe {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.06); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .armed .line-accent path.l,
+  .line-accent path.l,
+  .armed .line-accent .heart {
+    stroke-dashoffset: 0;
+    opacity: 1;
+    animation: none !important;
+  }
+}
