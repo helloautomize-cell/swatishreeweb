@@ -381,7 +381,7 @@ export default function HomePage({ doc }: { doc: PageDoc }) {
           </div>
         </section>
 
-        <section className="hm-sec hm-sec--wash" aria-label="Conditions we look after">
+        <section className="hm-sec hm-sec--wash hm-cond" aria-label="Conditions we look after">
           <Reveal className="sec-h">
             <span className="eyebrow">07 / Conditions we look after</span>
             <h2>Care across the <em className="acc">span</em></h2>

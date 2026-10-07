@@ -330,7 +330,11 @@
   line-height: 1.7;
 }
 
-/* 07 / conditions marquee */
+/* 07 / conditions: pill cloud at >=1024, masked snap scroller below */
+
+.hm-cond.hm-sec {
+  padding-block: clamp(50px, 7vw, 98px);
+}
 
 .hm-marquee {
   display: flex;
@@ -338,6 +342,28 @@
   overflow-x: auto;
   padding: 4px 2px 12px;
   scrollbar-width: none;
+}
+
+@media (min-width: 1024px) {
+  .hm-cond .hm-marquee {
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow: visible;
+  }
+  .hm-cond .ctrl {
+    display: none;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .hm-cond .hm-marquee {
+    scroll-snap-type: x proximity;
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 48px), transparent);
+    mask-image: linear-gradient(to right, #000 calc(100% - 48px), transparent);
+  }
+  .hm-cond .hm-pill {
+    scroll-snap-align: start;
+  }
 }
 
 .hm-marquee::-webkit-scrollbar {
@@ -365,8 +391,8 @@
 .hm-pill:hover {
   border-color: var(--secondary);
   color: var(--primary-700);
+  background: var(--blush-50);
   box-shadow: var(--shadow-md);
-  transform: translateY(-4px);
 }
 
 /* 08 / blog cards */
