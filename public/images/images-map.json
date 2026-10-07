@@ -3,21 +3,24 @@
     "widths": [
       320,
       480,
-      768
+      768,
+      1028,
+      1200,
+      1600
     ],
     "source": {
-      "w": 819,
-      "h": 1023
+      "w": 1600,
+      "h": 2000
     },
     "original": {
-      "w": 819,
-      "h": 1024
+      "w": 1600,
+      "h": 2000
     },
     "crop": {
       "left": 0,
       "top": 0,
-      "width": 819,
-      "height": 1023
+      "width": 1600,
+      "height": 2000
     },
     "id": "D1",
     "alt": "Dr. Swati Shree in a white coat standing in the clinic corridor.",
@@ -35,8 +38,8 @@
       }
     ],
     "blur": {
-      "color": "#d8d8d8",
-      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoGAAgAA4BaJZQCw7D0TAFY8AD+1rRYF8xURUTuYOW0//LdWvQ/OzCSpEB2ZpAA"
+      "color": "#e8e8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoGAAgAA4BaJZQCw7Dzd5xAAP7W1yToWrEC0lOp1nnXnkBisPJSsh8eL1/FGK1gAAA="
     },
     "restricted": false,
     "devOnly": false
@@ -45,67 +48,29 @@
     "widths": [
       320,
       480,
-      768
+      768,
+      1028,
+      1200,
+      1600
     ],
     "source": {
-      "w": 819,
-      "h": 1023
+      "w": 1600,
+      "h": 2000
     },
     "original": {
-      "w": 819,
-      "h": 1024
+      "w": 1600,
+      "h": 2000
     },
     "crop": {
       "left": 0,
       "top": 0,
-      "width": 819,
-      "height": 1023
+      "width": 1600,
+      "height": 2000
     },
-    "id": "D2",
+    "id": "D3",
     "alt": "Dr. Swati Shree in a cream saree against a sage panel.",
     "altApproved": false,
     "objectPosition": "50% 22%",
-    "ratio": "4:5",
-    "caption": null,
-    "illustrative": false,
-    "withheld": false,
-    "slots": [
-      {
-        "id": "D2",
-        "page": "Home / 05 Meet your doctor (framed arch photo)",
-        "crop": "4:5"
-      }
-    ],
-    "blur": {
-      "color": "#a8c8b8",
-      "dataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoGAAgAA4BaJQBOkCYidHaeaAAA/OVqfgTXLt8t1M9bSkOdJxwtAKou9r64ygxh9wGbhyV3AAA="
-    },
-    "restricted": false,
-    "devOnly": false
-  },
-  "doctor-portrait-landscape-name-tag-fixed-7x5.png": {
-    "widths": [
-      320,
-      480
-    ],
-    "source": {
-      "w": 496,
-      "h": 620
-    },
-    "original": {
-      "w": 866,
-      "h": 620
-    },
-    "crop": {
-      "left": 41,
-      "top": 0,
-      "width": 496,
-      "height": 620
-    },
-    "id": "D3",
-    "alt": "Head-and-shoulders portrait of Dr. Swati Shree in a white coat.",
-    "altApproved": false,
-    "objectPosition": "11% 50%",
     "ratio": "4:5",
     "caption": null,
     "illustrative": false,
@@ -118,8 +83,8 @@
       }
     ],
     "blur": {
-      "color": "#e8e8e8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAYAA4BaJZQAAp2cLobQAP4G7O+LP+5hSHRo18IXC0wzru3vITzpNdkAAA=="
+      "color": "#a8c8b8",
+      "dataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoGAAgAA4BaJQBOgBuSy7gQAPzlan4E1y7fLdTPW0moNEOFWCIVrK9d3eHroZpJ2uiS+9kAAAA="
     },
     "restricted": false,
     "devOnly": false
@@ -337,7 +302,9 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200,
+      1600
     ],
     "source": {
       "w": 4032,
@@ -380,7 +347,9 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200,
+      1600
     ],
     "source": {
       "w": 5712,
@@ -464,7 +433,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -507,7 +477,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -562,7 +533,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -772,7 +744,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -815,7 +788,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -858,7 +832,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -1023,7 +998,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -1066,7 +1042,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -1269,7 +1246,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -1312,7 +1290,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -1478,7 +1457,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1448,
@@ -1521,7 +1501,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1228,
@@ -1564,7 +1545,8 @@
       320,
       480,
       768,
-      1028
+      1028,
+      1200
     ],
     "source": {
       "w": 1228,

@@ -30,7 +30,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = join(root, 'resources', 'images');
 const OUT = join(root, 'public', 'images');
 const PRIVATE = join(root, '.devin', 'image-preview');
-const WIDTHS = [320, 480, 768, 1028];
+const WIDTHS = [320, 480, 768, 1028, 1200, 1600];
 const QUALITY = 80;
 const NEVER = ['_hold/', '_reference/', '_originals-as-received/', 'credentials-reference/'];
 

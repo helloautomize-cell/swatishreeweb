@@ -8,7 +8,7 @@ Generated 2026-10-07 by scripts/process-images.mjs.
 ## Interim or development-only files
 - doctor-hero-whitecoat-4x5.jpg: draft alt text pending review
 - doctor-meet-saree-4x5.jpg: draft alt text pending review
-- doctor-portrait-landscape-name-tag-fixed-7x5.png: draft alt text pending review
+- doctor-meet-saree-4x5.jpg: draft alt text pending review
 - doctor-avatar-1x1.png: draft alt text pending review
 - doctor-mrcog-ceremony-4x3.avif: draft alt text pending review
 - doctor-award-4x3.avif: draft alt text pending review
