@@ -4,7 +4,7 @@ import type { PageDoc } from "@/lib/content/load";
 
 /*
  * Badge panel (Part 5.5): shown in place of a lead photo when the page has
- * none — a blush-to-white panel with the large badge, sparkles and a ring.
+ * none, a blush-to-white panel with the large badge, sparkles and a ring.
  */
 export default function BadgePanel({ doc }: { doc: PageDoc }) {
   const file =

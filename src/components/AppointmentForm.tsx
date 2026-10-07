@@ -31,7 +31,7 @@ export default function AppointmentForm({
   defaultReason?: BookingReason | string;
   sourcePath: string;
   /** Server render time (Part 12 anti-spam min-fill check); computed by the
-   * caller so this component stays pure — see `ContactPage`. */
+   * caller so this component stays pure. See `ContactPage`. */
   renderedAt: number;
 }) {
   const [state, formAction, isPending] = useActionState<AppointmentResult | null, FormData>(

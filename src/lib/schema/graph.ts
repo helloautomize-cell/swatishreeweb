@@ -1,7 +1,7 @@
 /*
  * Per-page JSON-LD builder (site plan 9.2 matrix, 9.9 rules).
  * One @graph per page: global nodes + page-type nodes. Every value comes
- * from site-config or the page's parsed content — never typed by hand.
+ * from site-config or the page's parsed content, never typed by hand.
  * CONFIRM values are pruned before output (and reported by launch-check).
  */
 

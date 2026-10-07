@@ -26,6 +26,14 @@ export const site = {
   foundingYear: 2024,
   foundingMonth: "December",
   hours: confirm("OPD hours"),
+  /*
+   * schema.org OpeningHoursSpecification.opens/closes need a 24-hour
+   * "HH:MM" each, which can't be parsed out of the free-text `hours`
+   * display string without guessing a format (Part 1.1 rule 3). Separate
+   * CONFIRM tokens so the client supplies both; see lib/schema/nodes.ts.
+   */
+  opensTime: confirm("OPD opening time, 24-hour HH:MM"),
+  closesTime: confirm("OPD closing time, 24-hour HH:MM"),
   whatsapp: confirm("WhatsApp number"),
   email: confirm("clinic email"),
   mapsUrl: confirm("Google Maps link"),
@@ -44,6 +52,8 @@ export const site = {
   linkedin: confirm("LinkedIn URL"),
 } satisfies Record<string, unknown> & {
   hours: ConfirmOr<string>;
+  opensTime: ConfirmOr<string>;
+  closesTime: ConfirmOr<string>;
   whatsapp: ConfirmOr<string>;
   email: ConfirmOr<string>;
   mapsUrl: ConfirmOr<string>;

@@ -1,7 +1,7 @@
 /*
  * Global schema nodes (site plan 9.3-9.5). One @graph per page; these four
  * stable ids appear on every page. CONFIRM values come from site-config
- * (or confirm() here) and are pruned from the emitted JSON-LD — each is
+ * (or confirm() here) and are pruned from the emitted JSON-LD; each is
  * still reported by launch-check / client-inputs-needed.
  */
 
@@ -119,8 +119,8 @@ export function clinicNode(): Json {
       {
         "@type": "OpeningHoursSpecification",
         dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-        opens: site.hours,
-        closes: site.hours,
+        opens: site.opensTime,
+        closes: site.closesTime,
       },
     ],
     areaServed: [

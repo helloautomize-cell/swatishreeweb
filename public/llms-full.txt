@@ -16,11 +16,10 @@ URL: http://localhost:3000/
 - A positive test and an early scan → /services/early-pregnancy-scan/
 - Menopause symptoms → /conditions/menopause-and-perimenopause/ ### 01 / Why EVE H2: Time, honesty and options Intro: Fertility care is often rushed. At EVE, you get a consultation built around your questions, one doctor who stays with you from the first visit, and a plan that starts with the simplest option that can work. Cards (6):
 1. *Time, not rush. Consultations are built around your history and your questions, not the clock. Partners are welcome at every visit.
-2. Years of hospital experience. Dr. Swati has worked as a consultant in busy fertility centres in Bangalore, and trained at AIIMS and Sakra World Hospital. ``
-3. A full evaluation first. We look at ovulation, the tubes, the uterus, the ovarian reserve and the male partner before recommending any treatment.
+2. Years of hospital experience. Dr. Swati has worked as a consultant in busy fertility centres in Bangalore, and trained at AIIMS and Sakra World Hospital. 3. A full evaluation first. We look at ovulation, the tubes, the uterus, the ovarian reserve and the male partner before recommending any treatment.
 4. Every option explained. Natural conception support, IUI, IVF and egg freezing are laid out side by side, with the honest pros and cons of each.
 5. One doctor throughout. Dr. Swati sees every patient herself and follows you over time, so you do not repeat your story at each visit.
-6. A founder-led clinic. EVE was started by Dr. Swati Shree in December 2024 to offer fertility care that feels personal. ### 02 / About EVE H2: A founder-led clinic in Gunjur Photo labels (placed off faces): "Caring for East Bangalore since December 2024" · `` Paragraph: Dr. Swati Shree opened EVE Women and Fertility Clinic in December 2024 at LG Complex Towers, Gunjur, in East Bangalore. She trained in obstetrics and gynaecology, completed a fellowship in reproductive medicine at KJK Hospital in Trivandrum, and earned the MRCOG from the Royal College of Obstetricians and Gynaecologists in the UK. After years as a consultant in busy fertility centres, she built EVE around one idea: patients deserve time, plain explanations and a plan that respects their choices. Rows:
+6. A founder-led clinic. EVE was started by Dr. Swati Shree in December 2024 to offer fertility care that feels personal. ### 02 / About EVE H2: A founder-led clinic in Gunjur Photo labels (placed off faces): "Caring for East Bangalore since December 2024" · Paragraph: Dr. Swati Shree opened EVE Women and Fertility Clinic in December 2024 at LG Complex Towers, Gunjur, in East Bangalore. She trained in obstetrics and gynaecology, completed a fellowship in reproductive medicine at KJK Hospital in Trivandrum, and earned the MRCOG from the Royal College of Obstetricians and Gynaecologists in the UK. After years as a consultant in busy fertility centres, she built EVE around one idea: patients deserve time, plain explanations and a plan that respects their choices. Rows:
 - (doctor badge) Consultations · Fertility, PCOS, periods, pregnancy loss, early pregnancy and menopause
 - (ivf badge) Treatments · IUI at the clinic, IVF and egg freezing explained and planned with you, TESA and PESA for male factor infertility Link: Read about EVE → ### 03 / How we can help H2: Care for every stage, every question Tabs and cards (each card: title + one line + arrow): Fertility
 Intro: Understanding what is happening in your body is the first step, whether you are trying naturally or need a closer look.
@@ -55,23 +54,17 @@ Intro: Catching things early often means a simpler fix.
 4. Tests if needed. A scan or blood tests may be advised after the consultation. Dr. Swati decides which, and explains why.
 5. Your options. Each option is explained in plain words, from natural conception support to IUI or IVF where suitable, so the decision is yours.
 6. Follow-up. Review as planned. Reach the team between visits by phone or WhatsApp. ### Visit band H2: Visit us in Gunjur
-Text: EVE is on the 1st floor of LG Complex Towers, Gunjur, Bangalore 560087, close to Varthur, Balagere, Whitefield and Sarjapur Road. ``
-Hours: ``
-Buttons: [Get directions] [Plan your visit] ### 05 / Meet your doctor H2: Meet Dr. Swati Shree Card text: Reproductive medicine specialist and founder of EVE Women and Fertility Clinic.
+Text: EVE is on the 1st floor of LG Complex Towers, Gunjur, Bangalore 560087, close to Varthur, Balagere, Whitefield and Sarjapur Road. Hours: Buttons: [Get directions] [Plan your visit] ### 05 / Meet your doctor H2: Meet Dr. Swati Shree Card text: Reproductive medicine specialist and founder of EVE Women and Fertility Clinic.
 Qualifications line: MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG (UK)
 Experience: Trained at AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital. Former consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility. Recipient, 16th GCU International Women's Day Award.
-Chips: `` · ``
-Buttons: [Book with Dr. Swati] [Read her profile] ### 06 / Why a full evaluation comes first H2: A plan that starts with you, not a protocol Text: Many couples are offered IVF as a first step. Sometimes that is right. Often a simple cause, such as irregular ovulation, a thyroid problem or a low sperm count that can be improved, can be found and treated first. At EVE, Dr. Swati reviews your cycle, your hormones, your tubes, your uterus and your partner's semen report before suggesting anything. If IUI or IVF is the right choice, you will know why. If a simpler path can work, you will hear that too. Link: Read how a fertility journey works → ### 07 / Conditions we look after (marquee) PCOS · Endometriosis · Irregular periods · Heavy periods · Recurrent miscarriage · Low AMH · Thin endometrium · Fibroids · Adenomyosis · Thyroid and fertility · Male factor infertility · Perimenopause · Menopause ### 08 / From our blog Three latest cards: Fertility tests explained · PCOS and getting pregnant · When to see a fertility doctor
+Chips: · Buttons: [Book with Dr. Swati] [Read her profile] ### 06 / Why a full evaluation comes first H2: A plan that starts with you, not a protocol Text: Many couples are offered IVF as a first step. Sometimes that is right. Often a simple cause, such as irregular ovulation, a thyroid problem or a low sperm count that can be improved, can be found and treated first. At EVE, Dr. Swati reviews your cycle, your hormones, your tubes, your uterus and your partner's semen report before suggesting anything. If IUI or IVF is the right choice, you will know why. If a simpler path can work, you will hear that too. Link: Read how a fertility journey works → ### 07 / Conditions we look after (marquee) PCOS · Endometriosis · Irregular periods · Heavy periods · Recurrent miscarriage · Low AMH · Thin endometrium · Fibroids · Adenomyosis · Thyroid and fertility · Male factor infertility · Perimenopause · Menopause ### 08 / From our blog Three latest cards: Fertility tests explained · PCOS and getting pregnant · When to see a fertility doctor
 Link: Read the blog → ### 09 / Quick answers 1. When should I see a fertility specialist? See a specialist if you have not conceived after 12 months of trying, or after 6 months if the woman is 35 or older. See one sooner if periods are very irregular or absent, you have known endometriosis, fibroids or tubal problems, you have had two or more miscarriages, or the male partner has a known semen problem.
 2. Do I need IVF to get pregnant? Not necessarily. Many couples conceive with ovulation tracking, treatment of a hormone problem, or IUI. IVF is usually advised when the tubes are blocked, sperm counts are very low, other treatments have not worked, or age and ovarian reserve leave little time. Dr. Swati recommends the starting point after your evaluation.
-3. Does EVE offer IVF? Dr. Swati plans and guides IVF with you at EVE. The laboratory procedures, such as egg collection, embryo culture and embryo transfer, are carried out at associated ART centres that are registered under Indian law. ``
-4. Can my partner come to the visit? Yes, and we encourage it. Fertility involves both partners, and the male partner's semen analysis is one of the first tests. Partners are welcome in the consultation room, and you can also come alone if you prefer.
+3. Does EVE offer IVF? Dr. Swati plans and guides IVF with you at EVE. The laboratory procedures, such as egg collection, embryo culture and embryo transfer, are carried out at associated ART centres that are registered under Indian law. 4. Can my partner come to the visit? Yes, and we encourage it. Fertility involves both partners, and the male partner's semen analysis is one of the first tests. Partners are welcome in the consultation room, and you can also come alone if you prefer.
 5. Do you tell the sex of the baby on a scan? No. Disclosing or testing for the sex of the baby is prohibited by Indian law, and we never do it. A scan at EVE is for checking location, growth and the heartbeat. ### Contact block Title: Talk to us
 - Call 72049 21212 · 72049 21516
-- WhatsApp ``
-- Email ``
-- Address EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087 · Get directions
-- Hours* `` ### CTA band Use the global CTA band from `site-plan.md`, section 6.
+- WhatsApp - Email - Address EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087 · Get directions
+- Hours* ### CTA band Use the global CTA band from `site-plan.md`, section 6.
 
 
 ## About EVE Women and Fertility Clinic
@@ -85,25 +78,23 @@ H1: About EVE Women and Fertility Clinic Intro (answer-first): EVE Women and Fer
 - Treatments: IUI at the clinic; IVF, egg freezing and TESA/PESA explained, planned and followed up with you
 - Women's health: PCOS, endometriosis, menstrual disorders, fibroids, adenomyosis, thyroid problems that affect fertility, menopause
 - Pregnancy care: early pregnancy scans, recurrent pregnancy loss evaluation, reproductive immunology
-- Prevention: cervical cancer screening, HPV vaccination advice, endometrial biopsy, adolescent gynaecology, contraceptive counselling ### The founder Dr. Swati Shree holds an MBBS, a DNB in Obstetrics and Gynaecology, a fellowship in reproductive medicine from KJK Hospital in Trivandrum, and the MRCOG from the Royal College of Obstetricians and Gynaecologists (UK). She trained at AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital, and has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility. She also teaches: she has taken MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and spoken at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award. > Dr. Swati's story. `` Dr. Swati's own path to motherhood was difficult. Her son was born at 30 weeks and spent 28 days in the neonatal intensive care unit. He is now 11 years old. That experience taught her what anxiety and waiting feel like from the patient's side, and it shapes how she speaks to every couple. She does not share her son's name or photograph. ### The clinic EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an outpatient clinic: consultations, scans, tests and procedures such as IUI are done here. `` IVF laboratory procedures are carried out at associated, registered ART centres. `` ### Facts at a glance - Name: EVE Women and Fertility Clinic, by Dr Swati Shree
+- Prevention: cervical cancer screening, HPV vaccination advice, endometrial biopsy, adolescent gynaecology, contraceptive counselling ### The founder Dr. Swati Shree holds an MBBS, a DNB in Obstetrics and Gynaecology, a fellowship in reproductive medicine from KJK Hospital in Trivandrum, and the MRCOG from the Royal College of Obstetricians and Gynaecologists (UK). She trained at AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital, and has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility. She also teaches: she has taken MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and spoken at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award. > Dr. Swati's story. Dr. Swati's own path to motherhood was difficult. Her son was born at 30 weeks and spent 28 days in the neonatal intensive care unit. He is now 11 years old. That experience taught her what anxiety and waiting feel like from the patient's side, and it shapes how she speaks to every couple. She does not share her son's name or photograph. ### The clinic EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an outpatient clinic: consultations, scans, tests and procedures such as IUI are done here. IVF laboratory procedures are carried out at associated, registered ART centres. ### Facts at a glance - Name: EVE Women and Fertility Clinic, by Dr Swati Shree
 - Founded: December 2024
 - Location: 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka
 - Doctor: Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), fellowship in reproductive medicine
 - Phone: 72049 21212 · 72049 21516
-- Hours: ``
-- Registration: ``
-- Areas served: Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and the rest of Bangalore; patients travel from other cities `` ### FAQs 1. Who runs EVE Women and Fertility Clinic? EVE was founded in December 2024 by Dr. Swati Shree, a reproductive medicine specialist with an MRCOG (UK), a DNB in obstetrics and gynaecology and a fellowship in reproductive medicine. She personally leads the clinic and sees every patient herself.
-2. Where is EVE located? EVE is on the 1st floor of LG Complex Towers in Gunjur, Bangalore 560087, in East Bengaluru. It is close to Varthur, Balagere, Whitefield and Sarjapur Road. `` See Plan your visit for directions and parking.
+- Hours: - Registration: - Areas served: Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and the rest of Bangalore; patients travel from other cities ### FAQs 1. Who runs EVE Women and Fertility Clinic? EVE was founded in December 2024 by Dr. Swati Shree, a reproductive medicine specialist with an MRCOG (UK), a DNB in obstetrics and gynaecology and a fellowship in reproductive medicine. She personally leads the clinic and sees every patient herself.
+2. Where is EVE located? EVE is on the 1st floor of LG Complex Towers in Gunjur, Bangalore 560087, in East Bengaluru. It is close to Varthur, Balagere, Whitefield and Sarjapur Road. See Plan your visit for directions and parking.
 3. Is EVE a hospital? No. EVE is an outpatient clinic. You do not stay overnight. Consultations, scans, tests and clinic procedures happen here. For procedures that need a hospital or a registered ART laboratory, Dr. Swati explains where it will be done before you decide.
 4. Does EVE treat only fertility problems? No. EVE also looks after PCOS, endometriosis, menstrual problems, fibroids, thyroid issues linked to pregnancy, early pregnancy scans, cervical screening, contraception counselling and menopause care. You do not need to be trying to conceive to see Dr. Swati.
 5. Do you accept patients from outside Bangalore? Yes. Many couples travel for the first evaluation. We try to complete tests in as few visits as possible and plan follow-up with you. See Coming from outside Bangalore for a visit plan.
-6. How can I check that the clinic and doctor are registered?* Dr. Swati's registration is with the Karnataka Medical Council, number ``, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page ``. Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed ``.
+6. How can I check that the clinic and doctor are registered?* Dr. Swati's registration is with the Karnataka Medical Council, number , and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page . Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed .
 
 
 ## Accessibility statement
 URL: http://localhost:3000/accessibility/
 
-H1: Accessibility statement Last updated: `` *In short.* We want everyone to be able to use this website and visit the clinic. We aim to meet WCAG 2.2 level AA, and we welcome your feedback. ### 1. Our aim EVE Women and Fertility Clinic wants people of all abilities to find information and book care easily. This website is built to meet the Web Content Accessibility Guidelines (WCAG) 2.2, level AA, and to follow the Guidelines for Indian Government Websites (GIGW) principles where relevant. ### 2. What we have done - Text and background colours checked for contrast
+H1: Accessibility statement Last updated: *In short.* We want everyone to be able to use this website and visit the clinic. We aim to meet WCAG 2.2 level AA, and we welcome your feedback. ### 1. Our aim EVE Women and Fertility Clinic wants people of all abilities to find information and book care easily. This website is built to meet the Web Content Accessibility Guidelines (WCAG) 2.2, level AA, and to follow the Guidelines for Indian Government Websites (GIGW) principles where relevant. ### 2. What we have done - Text and background colours checked for contrast
 - A visible keyboard focus and logical tab order
 - Descriptive page titles, headings and link text
 - Alt text on meaningful images
@@ -111,20 +102,19 @@ H1: Accessibility statement Last updated: `` *In short.* We want everyone to be 
 - Text that can be enlarged with the A / A+ control or browser zoom, up to 200 percent
 - Videos and maps load only when you click, and do not play automatically
 - Reduced motion respected for users who ask for it
-- Works on mobile screens and with screen readers ### 3. Known limits - Some PDF documents may not be fully accessible ``
-- Third-party maps and embedded content may not fully meet the standard We are working on these. ### 4. At the clinic `` If you need support, such as a wheelchair, an assistant, or a quiet time to visit, tell us when you book. ### 5. Language and reading level The site is in English, written in plain language. Dr. Swati and the team can speak in other languages at the clinic ``. ### 6. Tell us about a problem If you find something you cannot use or read, please write to `` or call 72049 21212. Tell us the page and what went wrong. We aim to reply within `` working days, and to fix the issue or give you another way to get the information. ### 7. Date of this statement This statement was prepared on `` using our own review ``.
+- Works on mobile screens and with screen readers ### 3. Known limits - Some PDF documents may not be fully accessible - Third-party maps and embedded content may not fully meet the standard We are working on these. ### 4. At the clinic If you need support, such as a wheelchair, an assistant, or a quiet time to visit, tell us when you book. ### 5. Language and reading level The site is in English, written in plain language. Dr. Swati and the team can speak in other languages at the clinic . ### 6. Tell us about a problem If you find something you cannot use or read, please write to or call 72049 21212. Tell us the page and what went wrong. We aim to reply within working days, and to fix the issue or give you another way to get the information. ### 7. Date of this statement This statement was prepared on using our own review .
 
 
 ## Appointments, cancellation and refund
 URL: http://localhost:3000/appointments-cancellation-refund/
 
-H1: Appointments, cancellation and refund Last updated: `` *In short.* A website request is confirmed only when we confirm it. Tell us early if you need to change, and we will help where we can. Mistaken payments are refunded. ### 1. Booking - Request an appointment through the form, by phone (72049 21212 or 72049 21516) or on WhatsApp.
+H1: Appointments, cancellation and refund Last updated: *In short.* A website request is confirmed only when we confirm it. Tell us early if you need to change, and we will help where we can. Mistaken payments are refunded. ### 1. Booking - Request an appointment through the form, by phone (72049 21212 or 72049 21516) or on WhatsApp.
 - We aim to reply within 24 hours. Your appointment is confirmed when we confirm the date and time.
-- Please arrive about `` minutes early for registration. ### 2. Consultation fees and payment Fees are told to you before the consultation ``. We accept ``. A receipt is given for every payment. ### 3. Rescheduling You can change your appointment by calling or messaging us, preferably at least `` hours before. We will offer the next available time. ### 4. Cancellation and no-show - Cancel as early as you can, so another patient can use the slot.
-- If you do not attend and do not tell us, we may ask you to rebook. `` ### 5. Treatment cycles Timed treatments, such as follicular monitoring or IUI, depend on your cycle. If a date needs to move because of your cycle or a medical reason, we will tell you why and plan a new date. Fees and refunds for a treatment cycle are explained in the written estimate you receive before starting. `` ### 6. Refunds - If you paid in advance and we cancel, you get a full refund or a new appointment, as you prefer.
-- If you paid by mistake, or twice, we refund the extra amount within `` working days.
+- Please arrive about minutes early for registration. ### 2. Consultation fees and payment Fees are told to you before the consultation . We accept . A receipt is given for every payment. ### 3. Rescheduling You can change your appointment by calling or messaging us, preferably at least hours before. We will offer the next available time. ### 4. Cancellation and no-show - Cancel as early as you can, so another patient can use the slot.
+- If you do not attend and do not tell us, we may ask you to rebook. ### 5. Treatment cycles Timed treatments, such as follicular monitoring or IUI, depend on your cycle. If a date needs to move because of your cycle or a medical reason, we will tell you why and plan a new date. Fees and refunds for a treatment cycle are explained in the written estimate you receive before starting. ### 6. Refunds - If you paid in advance and we cancel, you get a full refund or a new appointment, as you prefer.
+- If you paid by mistake, or twice, we refund the extra amount within working days.
 - Fees for services already given are not refundable.
-- Refunds go back to the original payment method. ### 7. If we are late or need to change We try to keep to time. Procedures and emergencies may cause delay. If we need to reschedule, we will tell you as early as we can. ### 8. Contact Questions about a booking or payment: 72049 21212 · ``
+- Refunds go back to the original payment method. ### 7. If we are late or need to change We try to keep to time. Procedures and emergencies may cause delay. If we need to reschedule, we will tell you as early as we can. ### 8. Contact Questions about a booking or payment: 72049 21212 ·
 
 
 ## Fertility and women's health library
@@ -219,18 +209,16 @@ H1: When to see a fertility doctor: 12 months, 6 months, or sooner *In brief
 URL: http://localhost:3000/coming-from-outside-bangalore/
 
 H1: Coming to EVE from outside Bangalore Intro: Many couples travel to Bangalore for a fertility evaluation with Dr. Swati Shree. EVE Women and Fertility Clinic in Gunjur is planned so that the first visit gives you as much clarity as possible, and follow-up can be done with fewer trips. This page explains how to plan. ### Plan a first visit 1. *Book a consultation and tell us your cycle day and where you are travelling from.
-2. Send your reports ahead. Share scans, blood tests and semen analysis by WhatsApp or email, so that Dr. Swati can read them before you arrive. ``
-3. Choose the right cycle day. Some tests are best done on certain days. We tell you the best day to arrive.
+2. Send your reports ahead. Share scans, blood tests and semen analysis by WhatsApp or email, so that Dr. Swati can read them before you arrive. 3. Choose the right cycle day. Some tests are best done on certain days. We tell you the best day to arrive.
 4. Come together. If possible, both partners come on the first visit.
-5. Plan two to three days if tests such as a scan and HSG are needed, and a night's stay near Gunjur or Whitefield. `` ### Tests that can usually be done on the first visit - Consultation and examination
+5. Plan two to three days if tests such as a scan and HSG are needed, and a night's stay near Gunjur or Whitefield. ### Tests that can usually be done on the first visit - Consultation and examination
 - Pelvic and antral follicle count ultrasound
-- AMH, thyroid and other blood tests (reports ready in a day or so) ``
-- Semen analysis for the male partner
-- Tubal patency test (HSG), if timed to your cycle `` ### Follow-up from far away Some follow-up can be done by phone, WhatsApp or by sharing reports. Scans during a treatment cycle, such as follicle tracking, can be done at a reliable local centre, and the reports shared with Dr. Swati. Procedures such as IUI, egg collection and embryo transfer need you at the clinic or the associated centre. `` ### Getting here Gunjur is in East Bangalore, off Varthur Road. `` ### FAQs 1. Can I have a consultation without travelling? `` At present, EVE focuses on in-person consultations, because fertility care needs an examination and scans. Reports can often be shared in advance so that the visit is more useful.
+- AMH, thyroid and other blood tests (reports ready in a day or so) - Semen analysis for the male partner
+- Tubal patency test (HSG), if timed to your cycle ### Follow-up from far away Some follow-up can be done by phone, WhatsApp or by sharing reports. Scans during a treatment cycle, such as follicle tracking, can be done at a reliable local centre, and the reports shared with Dr. Swati. Procedures such as IUI, egg collection and embryo transfer need you at the clinic or the associated centre. ### Getting here Gunjur is in East Bangalore, off Varthur Road. ### FAQs 1. Can I have a consultation without travelling? At present, EVE focuses on in-person consultations, because fertility care needs an examination and scans. Reports can often be shared in advance so that the visit is more useful.
 2. How many days should I plan for a first visit? Most outstation couples plan two to three days. The consultation, scan and blood tests can often be done on the first day. A tubal test or a semen analysis may need a different day, depending on your cycle.
 3. Can local scans be used for follicle tracking? Often, yes. Follicle tracking during a cycle can be done at a trusted local centre. You share the reports with Dr. Swati, who adjusts your plan. Procedures at the time of ovulation or egg collection need a visit to Bangalore.
 4. Can I get IVF done in Bangalore if I live in another state? Yes, patients from other states can have IVF in Bangalore, within the ART Act's rules on eligibility and consent. The plan and the laboratory steps are explained at your first visit, and each cycle is timed with you.
-5. Is there anywhere to stay nearby?* `` Gunjur, Varthur and Whitefield have many hotels and service apartments. We can suggest the area to stay in, but we do not recommend or partner with any particular hotel.
+5. Is there anywhere to stay nearby?* Gunjur, Varthur and Whitefield have many hotels and service apartments. We can suggest the area to stay in, but we do not recommend or partner with any particular hotel.
 
 
 ## Know what you are dealing with
@@ -283,7 +271,7 @@ URL: http://localhost:3000/conditions/adenomyosis/
 6. Does adenomyosis go away after menopause?* Usually the symptoms ease after menopause, because the condition depends on hormones. Heavy bleeding or new pain after menopause is not expected and should be checked. ### Sources
 - ESHRE Guideline: Endometriosis (2022), for overlapping conditions
 - ACOG Practice Bulletin: Abnormal uterine bleeding
-- Morphological Uterus Sonographic Assessment (MUSA) consensus for adenomyosis Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- Morphological Uterus Sonographic Assessment (MUSA) consensus for adenomyosis Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Endometriosis Treatment in Bangalore
@@ -316,7 +304,7 @@ URL: http://localhost:3000/conditions/endometriosis/
 6. Does endometriosis increase the risk of cancer?* The risk of ovarian cancer is slightly higher in some types, but the overall chance remains low. Most women with endometriosis do not develop cancer. Follow-up and scanning of cysts help, and Dr. Swati advises when further tests are needed. ### Sources
 - ESHRE Guideline: Endometriosis (2022)
 - ACOG Practice Bulletin: Management of endometriosis
-- ASRM Practice Committee, Treatment of pelvic pain associated with endometriosis Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ASRM Practice Committee, Treatment of pelvic pain associated with endometriosis Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Female Infertility Causes and Care in Bangalore
@@ -327,7 +315,7 @@ URL: http://localhost:3000/conditions/female-factor-infertility/
 - Contributing share: in about one-third of couples the main cause is in the woman, one-third in the man, and the rest in both or unexplained
 - Common, treatable causes: PCOS, thyroid problems, high prolactin, blocked tubes
 - Age: egg number and quality fall with age, faster after 35
-- Treatment depends on the cause, from ovulation induction to IUI or IVF ### The main causes 1. Ovulation problems. If the egg is not released regularly, conception is difficult. Causes include PCOS, thyroid disease, high prolactin, extreme weight loss or gain, intense exercise, and early ovarian insufficiency. These are often treatable. 2. Tubal factor. The fallopian tubes carry the egg and are where sperm and egg meet. Past pelvic infection, tuberculosis, endometriosis, surgery, a previous ectopic pregnancy or adhesions can block or damage them. This is a common cause in India, where genital tuberculosis is a recognised cause. `` 3. Uterine factor. Fibroids that distort the cavity, polyps, a uterine septum, adhesions after infection or surgery (Asherman syndrome), and a thin lining can interfere with implantation. 4. Endometriosis and adenomyosis. Both can affect tubes, eggs, and the lining. See their pages. 5. Ovarian reserve and age. The number and quality of eggs decline over time. AMH and antral follicle count estimate the number, but only age reflects quality. See Low ovarian reserve. 6. Cervical factor. Rarely, problems with cervical mucus or past cervical surgery. 7. Other factors: medical conditions such as diabetes, autoimmune disease, some medicines, smoking, alcohol, and very high or low body weight. ### Symptoms that point to a cause | Symptom | May point to |
+- Treatment depends on the cause, from ovulation induction to IUI or IVF ### The main causes 1. Ovulation problems. If the egg is not released regularly, conception is difficult. Causes include PCOS, thyroid disease, high prolactin, extreme weight loss or gain, intense exercise, and early ovarian insufficiency. These are often treatable. 2. Tubal factor. The fallopian tubes carry the egg and are where sperm and egg meet. Past pelvic infection, tuberculosis, endometriosis, surgery, a previous ectopic pregnancy or adhesions can block or damage them. This is a common cause in India, where genital tuberculosis is a recognised cause. 3. Uterine factor. Fibroids that distort the cavity, polyps, a uterine septum, adhesions after infection or surgery (Asherman syndrome), and a thin lining can interfere with implantation. 4. Endometriosis and adenomyosis. Both can affect tubes, eggs, and the lining. See their pages. 5. Ovarian reserve and age. The number and quality of eggs decline over time. AMH and antral follicle count estimate the number, but only age reflects quality. See Low ovarian reserve. 6. Cervical factor. Rarely, problems with cervical mucus or past cervical surgery. 7. Other factors: medical conditions such as diabetes, autoimmune disease, some medicines, smoking, alcohol, and very high or low body weight. ### Symptoms that point to a cause | Symptom | May point to |
 |---|---|
 | Irregular or absent periods | Ovulation problem, PCOS, thyroid, prolactin |
 | Painful periods, pain during sex | Endometriosis, adenomyosis |
@@ -345,11 +333,10 @@ URL: http://localhost:3000/conditions/female-factor-infertility/
 2. Can a woman be infertile with regular periods? Yes. Regular periods suggest ovulation is likely, but they do not show whether tubes are open, the uterus is healthy, or the eggs are of good quality. A fertility evaluation looks at these.
 3. Does age affect fertility in women? Yes. Fertility declines gradually from the late twenties, and more steeply after 35, because egg number and quality fall. The chance of miscarriage also rises with age. This is why older women are advised to seek help after 6 months of trying.
 4. Can blocked fallopian tubes be treated? Some can, with surgery, when damage is mild. For many women with blocked tubes, IVF is advised because it bypasses the tubes. If one tube is open, timed attempts or IUI may still work. Dr. Swati explains which suits your findings.
-5. Does genital tuberculosis cause infertility? It can. Genital TB may damage the tubes and uterine lining, and it can be present without obvious symptoms. It is considered when tests suggest it, especially with tubal damage or a thin lining. It is treatable with the right medicines. ``
-6. Can lifestyle changes improve female fertility?* They can help. Quitting smoking, limiting alcohol, achieving a healthy weight, and managing thyroid and diabetes support ovulation and general fertility. They do not replace treatment for blocked tubes or very low reserve, but improving them gives treatment a better chance. ### Sources
+5. Does genital tuberculosis cause infertility? It can. Genital TB may damage the tubes and uterine lining, and it can be present without obvious symptoms. It is considered when tests suggest it, especially with tubal damage or a thin lining. It is treatable with the right medicines. 6. Can lifestyle changes improve female fertility?* They can help. Quitting smoking, limiting alcohol, achieving a healthy weight, and managing thyroid and diabetes support ovulation and general fertility. They do not replace treatment for blocked tubes or very low reserve, but improving them gives treatment a better chance. ### Sources
 - ASRM Practice Committee, Definition of infertility (2023); Evaluation of the infertile female (2015)
 - ESHRE Guideline: Unexplained infertility (2023)
-- NICE Guideline CG156: Fertility problems Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- NICE Guideline CG156: Fertility problems Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Fibroids Treatment in Bangalore
@@ -385,7 +372,7 @@ URL: http://localhost:3000/conditions/fibroids/
 - ACOG Practice Bulletin: Management of symptomatic uterine leiomyomas
 - NICE Guideline NG88: Heavy menstrual bleeding
 - ASRM Practice Committee, Removal of myomas in asymptomatic patients to improve fertility
-- FIGO classification of fibroid location Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- FIGO classification of fibroid location Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Menopause Clinic in Bangalore
@@ -425,7 +412,7 @@ URL: http://localhost:3000/conditions/menopause-and-perimenopause/
 - NICE Guideline NG23: Menopause: diagnosis and management
 - International Menopause Society, Recommendations on women's midlife health and menopause hormone therapy
 - The 2022 hormone therapy position statement of The North American Menopause Society
-- Indian Menopause Society position statements `` Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- Indian Menopause Society position statements Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Irregular and Heavy Periods Treatment Bangalore
@@ -458,7 +445,7 @@ URL: http://localhost:3000/conditions/menstrual-disorders/
 6. I missed my period. Should I worry?* First do a pregnancy test. If it is negative and you miss three periods in a row, or are late repeatedly, see a doctor. Causes include stress, weight change, PCOS, thyroid problems and early menopause. They are usually treatable. ### Sources
 - FIGO classification of causes of abnormal uterine bleeding in the reproductive years (PALM-COEIN)
 - NICE Guideline NG88: Heavy menstrual bleeding: assessment and management
-- ACOG Committee Opinion: Menstruation in girls and adolescents Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ACOG Committee Opinion: Menstruation in girls and adolescents Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## PCOS Treatment in Bangalore
@@ -493,7 +480,7 @@ URL: http://localhost:3000/conditions/pcos/
 7. Are birth control pills the only treatment for irregular periods in PCOS?* No. Pills are one option when pregnancy is not wanted, and they regulate periods and reduce acne. Other options include progestins, lifestyle changes, and medicine for insulin resistance. If you want to conceive, ovulation induction is used instead. Dr. Swati matches treatment to your goals. ### Sources
 - International evidence-based guideline for the assessment and management of polycystic ovary syndrome (2023)
 - ESHRE and ASRM consensus on PCOS and infertility
-- ICMR and FOGSI guidance on PCOS `` Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ICMR and FOGSI guidance on PCOS Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Recurrent Miscarriage Treatment in Bangalore
@@ -535,7 +522,7 @@ URL: http://localhost:3000/conditions/recurrent-pregnancy-loss/
 6. When can I try again after a miscarriage?* Many couples can try again after one normal period, once physical and emotional recovery allow. If you have had two or more losses, getting evaluated first is wise. Dr. Swati can guide the timing and the early scan. ### Sources
 - ESHRE Guideline: Recurrent pregnancy loss (2022)
 - RCOG Green-top Guideline No. 17: Recurrent first-trimester and second-trimester miscarriage
-- ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Low AMH and Thin Endometrium Care in Bangalore
@@ -574,7 +561,7 @@ URL: http://localhost:3000/conditions/thin-endometrium-and-low-ovarian-reserve/
 - ASRM Practice Committee, Testing and interpreting measures of ovarian reserve (2015)
 - ESHRE Guideline: Ovarian stimulation for IVF/ICSI (2020)
 - ESHRE Good practice recommendations on add-ons in reproductive medicine (2023)
-- ESHRE Guideline: Premature ovarian insufficiency (2024) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ESHRE Guideline: Premature ovarian insufficiency (2024) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Thyroid and Fertility in Bangalore
@@ -608,7 +595,7 @@ URL: http://localhost:3000/conditions/thyroid-and-fertility/
 - American Thyroid Association guidelines for the diagnosis and management of thyroid disease during pregnancy and the postpartum (2017)
 - Endocrine Society guideline: Management of thyroid dysfunction during pregnancy and postpartum
 - ESHRE Guideline: Recurrent pregnancy loss (2022)
-- Indian Thyroid Society guidance `` Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- Indian Thyroid Society guidance Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Book a consultation or contact us
@@ -619,17 +606,13 @@ H1: Book a consultation or contact us Intro: Fill in the form and we will contac
 - Age, in years
 - Reason for visit (dropdown, see site plan section 8)
 - Preferred date (today to 60 days ahead)
-- Preferred time: Morning · Afternoon · Evening ``
-- Town or city (optional)
+- Preferred time: Morning · Afternoon · Evening - Town or city (optional)
 - "The patient is under 18": guardian name (required if ticked) + "I am the parent or legal guardian and I consent to EVE Women and Fertility Clinic using these details to arrange care for this patient."
 - Consent checkbox (global line)
 - Button: Request appointment
 - Under the form: global line ### Contact cards (beside the form, over the clinic image) - *Call 72049 21212 · 72049 21516
-- WhatsApp ``
-- Email ``
-- Address EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087 · Get directions
-- Hours* ``
-- Line: Coming from outside Bangalore? [Plan your visit] Map: Show map (click to load; pin from ``)
+- WhatsApp - Email - Address EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087 · Get directions
+- Hours* - Line: Coming from outside Bangalore? [Plan your visit] Map: Show map (click to load; pin from )
 
 
 ## Dr. Swati Shree, MRCOG (UK)
@@ -637,40 +620,32 @@ URL: http://localhost:3000/dr-swati-shree/
 
 ### Hero (split) H1: Dr. Swati Shree, MRCOG (UK) Title line: Reproductive medicine specialist and gynaecologist, founder of EVE Women and Fertility Clinic Key facts card:
 - *Qualifications: MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG, Royal College of Obstetricians and Gynaecologists (UK)
-- Experience: ``
-- Languages: ``
-- Registration: ``
-- Practice: EVE Women and Fertility Clinic, Gunjur, Bangalore (founder) Buttons: [Book with Dr. Swati] [Call 72049 21212] ### About Dr. Swati Shree is a fertility and women's health specialist in Bangalore and the founder of EVE Women and Fertility Clinic in Gunjur. She trained in medicine and then in obstetrics and gynaecology, completing a DNB, and went on to a fellowship in reproductive medicine at KJK Hospital in Trivandrum. She is a Member of the Royal College of Obstetricians and Gynaecologists (MRCOG), a UK postgraduate qualification that tests knowledge and clinical judgment in obstetrics and gynaecology to an international standard. Her training took her through some of India's well-known institutions, including AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital in Bangalore. `` She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility ``. Alongside clinical work, Dr. Swati teaches. She has conducted MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and has been a speaker at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award. She opened EVE in December 2024 to offer care built around time, honest evaluation and clear explanations. ### How Dr. Swati works H2: How Dr. Swati works 1. A full evaluation first. "I do not believe in forcing a protocol. We look at both partners and find the reason, and then decide the next step together."
+- Experience: - Languages: - Registration: - Practice: EVE Women and Fertility Clinic, Gunjur, Bangalore (founder) Buttons: [Book with Dr. Swati] [Call 72049 21212] ### About Dr. Swati Shree is a fertility and women's health specialist in Bangalore and the founder of EVE Women and Fertility Clinic in Gunjur. She trained in medicine and then in obstetrics and gynaecology, completing a DNB, and went on to a fellowship in reproductive medicine at KJK Hospital in Trivandrum. She is a Member of the Royal College of Obstetricians and Gynaecologists (MRCOG), a UK postgraduate qualification that tests knowledge and clinical judgment in obstetrics and gynaecology to an international standard. Her training took her through some of India's well-known institutions, including AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital in Bangalore. She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility . Alongside clinical work, Dr. Swati teaches. She has conducted MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and has been a speaker at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award. She opened EVE in December 2024 to offer care built around time, honest evaluation and clear explanations. ### How Dr. Swati works H2: How Dr. Swati works 1. A full evaluation first. "I do not believe in forcing a protocol. We look at both partners and find the reason, and then decide the next step together."
 2. Every option explained. "You should leave the room understanding what your choices are, what each can and cannot do, and what it costs you in time and effort."
-3. Care that respects you. "A fertility journey is personal. The decision is always yours, and I will support it." Note for build: quotes are Dr. Swati's own approach, from the client documents, lightly edited for reading. `` ### Education and training (timeline) - `` · MBBS, ``
-- `` · DNB, Obstetrics and Gynaecology ``
-- `` · Training at AIIMS ``
-- `` · Kanke General Hospital and Research Centre, Ranchi
-- `` · Sakra World Hospital, Bangalore
-- `` · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum
-- `` · MRCOG, Royal College of Obstetricians and Gynaecologists, UK ### Work experience - Since December 2024 · Founder and consultant, EVE Women and Fertility Clinic, Gunjur, Bangalore
-- `` · Consultant, Garbhagudi IVF Centre
-- `` · Consultant, Apollo Fertility (visiting consultant ``)
-- `` · Consultant, Motherhood Fertility (visiting consultant ``) ### Teaching, talks and award - MRCOG Part 1 and Part 2 preparation sessions, StudyMedic
+3. Care that respects you. "A fertility journey is personal. The decision is always yours, and I will support it." Note for build: quotes are Dr. Swati's own approach, from the client documents, lightly edited for reading. ### Education and training (timeline) - · MBBS, - · DNB, Obstetrics and Gynaecology - · Training at AIIMS - · Kanke General Hospital and Research Centre, Ranchi
+- · Sakra World Hospital, Bangalore
+- · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum
+- · MRCOG, Royal College of Obstetricians and Gynaecologists, UK ### Work experience - Since December 2024 · Founder and consultant, EVE Women and Fertility Clinic, Gunjur, Bangalore
+- · Consultant, Garbhagudi IVF Centre
+- · Consultant, Apollo Fertility (visiting consultant )
+- · Consultant, Motherhood Fertility (visiting consultant ) ### Teaching, talks and award - MRCOG Part 1 and Part 2 preparation sessions, StudyMedic
 - Session at a one-day Clinical Embryology workshop, Garden City University
-- 16th GCU International Women's Day Award, Garden City University `` Publications and memberships: `` ### Conditions and services (non-clickable chip groups) - Fertility: Infertility evaluation · Natural conception support · Follicular monitoring · Tubal patency test · Male fertility evaluation · IUI · IVF · Egg freezing · TESA and PESA
+- 16th GCU International Women's Day Award, Garden City University Publications and memberships: ### Conditions and services (non-clickable chip groups) - Fertility: Infertility evaluation · Natural conception support · Follicular monitoring · Tubal patency test · Male fertility evaluation · IUI · IVF · Egg freezing · TESA and PESA
 - Hormones and cycles: PCOS · Menstrual disorders · Thyroid and fertility · Menopause · Perimenopause
 - Uterus and ovary: Endometriosis · Fibroids · Adenomyosis · Thin endometrium · Low ovarian reserve
 - Pregnancy: Early pregnancy scan · Recurrent pregnancy loss · Reproductive immunology
 - Prevention and young women: Cervical screening · HPV vaccination advice · Endometrial biopsy · Contraceptive counselling · Adolescent gynaecology Mobile: 6 per group + "Show all (n)". ### FAQs 1. What kind of doctor is Dr. Swati Shree? Dr. Swati Shree is an obstetrician and gynaecologist who specialises in reproductive medicine. She holds a DNB in obstetrics and gynaecology, a fellowship in reproductive medicine from KJK Hospital in Trivandrum, and an MRCOG from the Royal College of Obstetricians and Gynaecologists in the UK. She looks after fertility problems and women's health conditions.
 2. What does MRCOG mean? MRCOG stands for Member of the Royal College of Obstetricians and Gynaecologists. It is a UK postgraduate qualification earned by passing demanding written and clinical examinations in obstetrics and gynaecology. It does not indicate a treatment outcome, but it shows training to an international standard.
-3. Which languages does Dr. Swati speak? ``. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
-4. Where does Dr. Swati see patients? Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres ``.
+3. Which languages does Dr. Swati speak? . You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
+4. Where does Dr. Swati see patients? Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres .
 5. Do I see Dr. Swati herself at every visit? Yes. EVE is a founder-led clinic, and Dr. Swati sees every patient herself. Scans and tests may be done by trained staff under her supervision, but the consultation, the plan and the decisions are hers and yours.
-6. How can I check Dr. Swati's registration?* Dr. Swati is registered with the Karnataka Medical Council, registration number ``. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council. Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed ``.
+6. How can I check Dr. Swati's registration?* Dr. Swati is registered with the Karnataka Medical Council, registration number . You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council. Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed .
 
 
 ## Editorial and medical review policy
 URL: http://localhost:3000/editorial-policy/
 
-H1: Editorial and medical review policy Last updated: `` *In short. Every medical page is written for patients, based on named guidelines, and reviewed by Dr. Swati Shree before it is published. We show the review date and the sources. ### 1. Why this matters Fertility and women's health decisions are important. People need information they can trust, so we explain how our content is made. ### 2. Who writes and reviews - Written by: the clinic's content team, working from guidelines and Dr. Swati's clinical approach ``
-- Medically reviewed by:* Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), registration ``
-- Her review checks accuracy, tone, and whether the page matches how she practises ### 3. Sources we use - International and Indian clinical guidelines, such as those of ESHRE, ASRM, NICE, RCOG, WHO, FIGO, ICMR and FOGSI
+H1: Editorial and medical review policy Last updated: *In short. Every medical page is written for patients, based on named guidelines, and reviewed by Dr. Swati Shree before it is published. We show the review date and the sources. ### 1. Why this matters Fertility and women's health decisions are important. People need information they can trust, so we explain how our content is made. ### 2. Who writes and reviews - Written by: the clinic's content team, working from guidelines and Dr. Swati's clinical approach - Medically reviewed by:* Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), registration - Her review checks accuracy, tone, and whether the page matches how she practises ### 3. Sources we use - International and Indian clinical guidelines, such as those of ESHRE, ASRM, NICE, RCOG, WHO, FIGO, ICMR and FOGSI
 - Indian law and regulations, such as the ART (Regulation) Act, 2021
 - Peer-reviewed studies, where guidelines are silent Each page lists its main sources. We do not use patient testimonials as evidence. ### 4. How we write - Plain language, with medical terms explained
 - No exaggerated claims, no outcome promises, no success-rate marketing
@@ -678,7 +653,7 @@ H1: Editorial and medical review policy Last updated: `` *In short. Every medica
 - Statistics only with a named source ### 5. Updates Pages are reviewed at least once a year, and sooner when guidelines or laws change. The "last reviewed" date shows the latest review. If we correct an error, we update the page. ### 6. What we do not do - We do not accept payment from drug or device companies to change content
 - We do not name drug brands or devices
 - We do not publish patient stories or reviews, in line with Indian medical advertising rules
-- We do not tell you the sex of a baby, ever ### 7. Advertising and independence This website carries no third-party advertising. Content is funded by the clinic. Our content team does not receive commission from any treatment decision. ### 8. Report an error If you find something inaccurate or out of date, please write to ``. We review reports within `` working days.
+- We do not tell you the sex of a baby, ever ### 7. Advertising and independence This website carries no third-party advertising. Content is funded by the clinic. Our content team does not receive commission from any treatment decision. ### 8. Report an error If you find something inaccurate or out of date, please write to . We review reports within working days.
 
 
 ## Questions patients often ask
@@ -687,8 +662,7 @@ URL: http://localhost:3000/faqs/
 H1: Questions patients often ask Intro: Straight answers to the questions we hear most. For anything specific to you, book a consultation with Dr. Swati Shree. ### Booking and visits 1. *How do I book an appointment? Use the form on the Contact page, call 72049 21212 or 72049 21516, or message us on WhatsApp. We aim to reply within 24 hours and confirm a time that suits you.
 2. Should my partner come to the first visit? If you can, yes. Fertility involves both partners, and many tests involve the male partner. If your partner cannot come, you can still book, and he can be tested later.
 3. What should I bring? Bring previous reports, scans, semen analysis, any treatment summaries, your medicines, and the dates of your last three periods. Write down your questions as well.
-4. Is the first consultation long? Yes, on purpose. The first visit is the longest, because Dr. Swati takes a full history before suggesting any test or treatment. ``
-5. Is my information private? Yes. We use your details only to arrange and give care, as explained in our Privacy Policy. We do not publish patient names, photographs or stories without written consent, and we do not share information with your employer or relatives without your permission. ### Fertility basics 6. When should I see a fertility specialist? After 12 months of trying without a pregnancy, or after 6 months if the woman is 35 or older. Sooner if periods are irregular or absent, if there is known endometriosis, fibroids or tubal disease, or after two or more miscarriages.
+4. Is the first consultation long? Yes, on purpose. The first visit is the longest, because Dr. Swati takes a full history before suggesting any test or treatment. 5. Is my information private? Yes. We use your details only to arrange and give care, as explained in our Privacy Policy. We do not publish patient names, photographs or stories without written consent, and we do not share information with your employer or relatives without your permission. ### Fertility basics 6. When should I see a fertility specialist? After 12 months of trying without a pregnancy, or after 6 months if the woman is 35 or older. Sooner if periods are irregular or absent, if there is known endometriosis, fibroids or tubal disease, or after two or more miscarriages.
 7. What are the first tests for infertility? Usually a pelvic ultrasound with an antral follicle count, an AMH blood test, thyroid and prolactin tests, a tubal patency check, and a semen analysis for the male partner. Dr. Swati decides which are needed.
 8. What is AMH? AMH, or anti-Mullerian hormone, is a blood test that reflects how many small egg-containing follicles you have. It helps estimate ovarian reserve and guide treatment planning. It does not, on its own, predict whether you will conceive.
 9. How does age affect fertility? Fertility in women declines gradually from the late twenties and more steeply after 35, because egg number and quality fall. In men, sperm quality can also change with age, though more slowly. This is why timing matters.
@@ -699,13 +673,12 @@ H1: Questions patients often ask Intro: Straight answers to the questions we hea
 15. Is IVF painful? Hormone injections cause mild discomfort, and some people feel bloated during stimulation. Egg collection is done under sedation, so you do not feel it, and you may have cramps afterward. Embryo transfer is usually quick and feels like a Pap test.
 16. What is egg freezing? Egg freezing means stimulating the ovaries, collecting eggs and freezing them by vitrification for later use. It preserves eggs at the age they were frozen, but it does not guarantee a future pregnancy.
 17. Who can have IUI or IVF in India? Under the ART (Regulation) Act, 2021, services are for married couples with infertility, where the woman is 21 to 50 and the man is 21 to 55, and for widowed or divorced women aged 21 to 50. Written consent is required.
-18. How much does IVF cost? The cost depends on the medicines, the number of eggs and embryos, the laboratory steps and the number of cycles. After your evaluation, you receive a written estimate before treatment begins. ``
-19. Do you tell the baby's sex? No. Telling or testing for the sex of the baby is prohibited by Indian law, and EVE never does it.
-20. Does EVE do surrogacy or donor treatment? `` EVE does not offer surrogacy or donor treatment at this time. Please ask at your consultation if you want to understand the rules. ### Women's health and pregnancy 21. I have irregular periods. Should I worry? Occasional variation is common, but cycles that are often longer than 35 days, or shorter than 21, or missed for three months, are worth a check. Causes include PCOS, thyroid problems and stress. See Menstrual disorders.
+18. How much does IVF cost? The cost depends on the medicines, the number of eggs and embryos, the laboratory steps and the number of cycles. After your evaluation, you receive a written estimate before treatment begins. 19. Do you tell the baby's sex? No. Telling or testing for the sex of the baby is prohibited by Indian law, and EVE never does it.
+20. Does EVE do surrogacy or donor treatment? EVE does not offer surrogacy or donor treatment at this time. Please ask at your consultation if you want to understand the rules. ### Women's health and pregnancy 21. I have irregular periods. Should I worry? Occasional variation is common, but cycles that are often longer than 35 days, or shorter than 21, or missed for three months, are worth a check. Causes include PCOS, thyroid problems and stress. See Menstrual disorders.
 22. What is recurrent miscarriage? It means two or more pregnancy losses. Most losses happen by chance, but two or more deserve a careful workup. See the Recurrent pregnancy loss page.
 23. How soon can an early pregnancy scan show a heartbeat? A transvaginal scan can usually show a heartbeat at about 6 weeks of pregnancy, counted from the first day of your last period. If it is too early, the scan is repeated in a week or so.
 24. What age should I start Pap smears and HPV vaccination? Cervical screening is generally advised from the mid-twenties to thirty, depending on history and guideline. HPV vaccination works best before exposure, and India's national programme now offers a free single dose to 14-year-old girls. See that page.
-25. When does menopause start in India? The average age is about 46 to 47 in Indian women, a few years earlier than in many Western countries. Perimenopause can begin years before that. See the Menopause page. ### Payment and privacy 26. What payment modes do you accept? `` Payment is taken at the clinic. Treatment estimates are given in advance in writing.
+25. When does menopause start in India? The average age is about 46 to 47 in Indian women, a few years earlier than in many Western countries. Perimenopause can begin years before that. See the Menopause page. ### Payment and privacy 26. What payment modes do you accept? Payment is taken at the clinic. Treatment estimates are given in advance in writing.
 27. Can I get a refund if I cancel? See our Appointments, Cancellation and Refund page for the rules on rescheduling and refunds of consultation and test fees.
 28. How do you protect my data? We collect only what we need, store it securely, and use it for your care and booking. You can ask to see, correct or delete your data. See the Privacy Policy.
 29. Do you share reports with my family doctor? Only with your permission. If you want your reports sent to another doctor, tell us and we will arrange it.
@@ -715,54 +688,47 @@ H1: Questions patients often ask Intro: Straight answers to the questions we hea
 ## Medical Disclaimer
 URL: http://localhost:3000/medical-disclaimer/
 
-H1: Medical Disclaimer Last updated: `` *In short.* Our pages explain general medical information. They cannot replace a consultation, and results vary from person to person. ### 1. General information only The content on this website is written for general education and is reviewed by Dr. Swati Shree. It is not individual medical advice, diagnosis or treatment. ### 2. See a doctor about your own health Every person is different. Your age, history, tests and goals decide the right plan. Please talk to a qualified doctor about your own situation before making any decision about tests, medicines or treatment. ### 3. Emergencies If you have very heavy bleeding, sudden severe pain, fainting, or any bleeding with pain in early pregnancy, call 108 or 112 or go to the nearest hospital emergency. Do not wait for a clinic appointment. ### 4. No promise of results No treatment can guarantee a pregnancy or a particular outcome. Where we describe what a treatment may do, we describe what is generally expected, not a promise for you. ### 5. Medicines and procedures We do not give doses or brand recommendations on this site. Please take medicines only as prescribed. Do not start, stop or change a medicine because of something you read here. ### 6. Evidence changes Medical knowledge and guidelines change. We review content regularly and show the last review date on each page. If you notice something outdated, please tell us. ### 7. Regulation IUI, IVF, egg freezing and related treatments are regulated by the ART (Regulation) Act, 2021. Eligibility, consent and registration rules apply. Telling or testing for the sex of an unborn baby is prohibited under the PCPNDT Act, 1994, and we never do it. ### 8. Third-party content Links and references to other sources are for information. We are not responsible for their accuracy.
+H1: Medical Disclaimer Last updated: *In short.* Our pages explain general medical information. They cannot replace a consultation, and results vary from person to person. ### 1. General information only The content on this website is written for general education and is reviewed by Dr. Swati Shree. It is not individual medical advice, diagnosis or treatment. ### 2. See a doctor about your own health Every person is different. Your age, history, tests and goals decide the right plan. Please talk to a qualified doctor about your own situation before making any decision about tests, medicines or treatment. ### 3. Emergencies If you have very heavy bleeding, sudden severe pain, fainting, or any bleeding with pain in early pregnancy, call 108 or 112 or go to the nearest hospital emergency. Do not wait for a clinic appointment. ### 4. No promise of results No treatment can guarantee a pregnancy or a particular outcome. Where we describe what a treatment may do, we describe what is generally expected, not a promise for you. ### 5. Medicines and procedures We do not give doses or brand recommendations on this site. Please take medicines only as prescribed. Do not start, stop or change a medicine because of something you read here. ### 6. Evidence changes Medical knowledge and guidelines change. We review content regularly and show the last review date on each page. If you notice something outdated, please tell us. ### 7. Regulation IUI, IVF, egg freezing and related treatments are regulated by the ART (Regulation) Act, 2021. Eligibility, consent and registration rules apply. Telling or testing for the sex of an unborn baby is prohibited under the PCPNDT Act, 1994, and we never do it. ### 8. Third-party content Links and references to other sources are for information. We are not responsible for their accuracy.
 
 
 ## Patient rights and responsibilities
 URL: http://localhost:3000/patient-rights/
 
-H1: Patient rights and responsibilities Last updated: `` *In short. You have the right to be treated with respect, to understand your care, to say no, and to have your privacy protected. This page follows the Charter of Patients' Rights, and a copy is displayed at the clinic ``. ### Your rights 1. Respect and dignity. You will be treated with courtesy, without discrimination on grounds of religion, caste, gender, marital status, sexual orientation, disability or any other ground.
+H1: Patient rights and responsibilities Last updated: *In short. You have the right to be treated with respect, to understand your care, to say no, and to have your privacy protected. This page follows the Charter of Patients' Rights, and a copy is displayed at the clinic . ### Your rights 1. Respect and dignity. You will be treated with courtesy, without discrimination on grounds of religion, caste, gender, marital status, sexual orientation, disability or any other ground.
 2. Information. You have the right to clear, honest information about your diagnosis, options, risks, benefits, likely costs and alternatives, in a language you understand.
 3. Informed consent. No treatment starts without your consent. For ART treatment, written consent and counselling are required by law. You may withdraw consent at any time before a procedure.
 4. Privacy and confidentiality. Your records and conversations are confidential and shared only as the law allows or with your permission. You may ask for a chaperone during an examination.
 5. Second opinion and records. You may seek a second opinion, and you may ask for copies of your reports and records.
-6. Costs. You have the right to know the fees and an estimate before treatment. ``
-7. Safe care. You have the right to safe care, in a clean setting, with trained people.
+6. Costs. You have the right to know the fees and an estimate before treatment. 7. Safe care. You have the right to safe care, in a clean setting, with trained people.
 8. Feedback. You may give feedback or make a complaint without fear of changes to your care.
 9. Partner and family.* You decide who joins your consultations. ### Your responsibilities 1. Give accurate information about your health, medicines and history
 2. Follow the plan you agree on, or tell us if you cannot
 3. Keep appointments, or tell us in time if you need to change
 4. Treat staff and other patients with respect
 5. Pay agreed fees
-6. Respect clinic rules on safety and privacy, including not recording others ### ART-specific points IUI, IVF and related treatments are regulated by the ART (Regulation) Act, 2021. You will be counselled, and asked for written consent. Sex selection is prohibited. Our ART registration number is ``. ### Making a complaint Speak to Dr. Swati or the front desk first. You may also write to ``. If you remain unsatisfied, you may approach the Karnataka Medical Council, the District Health Officer, or a consumer forum.
+6. Respect clinic rules on safety and privacy, including not recording others ### ART-specific points IUI, IVF and related treatments are regulated by the ART (Regulation) Act, 2021. You will be counselled, and asked for written consent. Sex selection is prohibited. Our ART registration number is . ### Making a complaint Speak to Dr. Swati or the front desk first. You may also write to . If you remain unsatisfied, you may approach the Karnataka Medical Council, the District Health Officer, or a consumer forum.
 
 
 ## Plan your visit
 URL: http://localhost:3000/plan-your-visit/
 
-H1: Plan your visit Intro: EVE Women and Fertility Clinic is on the 1st floor of LG Complex Towers, Gunjur, Bangalore 560087. This page tells you when we are open, how to reach us, what to bring, and how to prepare. ### Timings - *OPD hours: ``
-- Phone and WhatsApp hours: ``
-- Holidays: Holiday hours may change. Please call before you visit. `` ### Address and directions EVE Women and Fertility Clinic
+H1: Plan your visit Intro: EVE Women and Fertility Clinic is on the 1st floor of LG Complex Towers, Gunjur, Bangalore 560087. This page tells you when we are open, how to reach us, what to bring, and how to prepare. ### Timings - *OPD hours: - Phone and WhatsApp hours: - Holidays: Holiday hours may change. Please call before you visit. ### Address and directions EVE Women and Fertility Clinic
 1st Floor, LG Complex Towers
-Gunjur, Bangalore 560087, Karnataka
-`` [Get directions] (opens Google Maps) · Show map (click to load) Reaching us: from Varthur, Whitefield, Sarjapur Road and Bellandur, the clinic is a short drive by road. `` Parking: ``
-Lift or stairs to the 1st floor: `` ### Booking Book through the form on the Contact page, call 72049 21212 or 72049 21516, or message us on WhatsApp. We aim to reply within 24 hours. Walk-ins are possible, but an appointment avoids waiting. `` ### Before your first consultation - Both partners if possible. Fertility involves both of you.
+Gunjur, Bangalore 560087, Karnataka [Get directions] (opens Google Maps) · Show map (click to load) Reaching us: from Varthur, Whitefield, Sarjapur Road and Bellandur, the clinic is a short drive by road. Parking: Lift or stairs to the 1st floor: ### Booking Book through the form on the Contact page, call 72049 21212 or 72049 21516, or message us on WhatsApp. We aim to reply within 24 hours. Walk-ins are possible, but an appointment avoids waiting. ### Before your first consultation - Both partners if possible. Fertility involves both of you.
 - Bring all reports: previous scans, blood tests, semen analysis, HSG or laparoscopy reports, and any treatment summaries.
 - Bring your medicines and supplements, or a list.
 - Note your cycle: the first day of your last three periods, and how long they last.
 - Write down your questions. There is time for them.
-- Wear comfortable clothes. A scan or an examination may be part of the visit. ### Tests and fasting Most first visits need no fasting. If blood tests are advised, Dr. Swati tells you if you should fast and which cycle day to come. Some tests, such as hormone tests and a tubal check, are timed to the cycle, so you may be asked to return on a specific day. ### Payment `` An estimate is given before any treatment starts. ### Access `` ### Children and young people Girls under 18 are welcome with a parent or guardian, and consent is taken from the guardian. Teenagers can ask to speak to the doctor alone for part of the visit. See Adolescent gynaecology. ### FAQs 1. Do I need an appointment? An appointment is recommended, because consultations are unhurried and slots are planned. Call 72049 21212, use the form or message on WhatsApp. If you must walk in, we will fit you in as soon as we can. ``
-2. How long is a first consultation? `` The first consultation is the longest visit, because Dr. Swati takes a complete history. Plan for enough time, and bring your partner if you can.
+- Wear comfortable clothes. A scan or an examination may be part of the visit. ### Tests and fasting Most first visits need no fasting. If blood tests are advised, Dr. Swati tells you if you should fast and which cycle day to come. Some tests, such as hormone tests and a tubal check, are timed to the cycle, so you may be asked to return on a specific day. ### Payment An estimate is given before any treatment starts. ### Access ### Children and young people Girls under 18 are welcome with a parent or guardian, and consent is taken from the guardian. Teenagers can ask to speak to the doctor alone for part of the visit. See Adolescent gynaecology. ### FAQs 1. Do I need an appointment? An appointment is recommended, because consultations are unhurried and slots are planned. Call 72049 21212, use the form or message on WhatsApp. If you must walk in, we will fit you in as soon as we can. 2. How long is a first consultation? The first consultation is the longest visit, because Dr. Swati takes a complete history. Plan for enough time, and bring your partner if you can.
 3. What if my periods start on the day of my appointment? Come anyway for the consultation. Some tests, such as an HSG, need the days just after your period, and others are timed later in the cycle. Tell the front desk when you book, and Dr. Swati plans around your cycle.
-4. Can I bring someone with me? Yes. Your partner, a family member or a friend is welcome in the consultation. For an examination or scan, you may choose who stays. A female attendant is available. ``
-5. Is the clinic open on Sundays and holidays? `` Please call before you travel on a holiday.
+4. Can I bring someone with me? Yes. Your partner, a family member or a friend is welcome in the consultation. For an examination or scan, you may choose who stays. A female attendant is available. 5. Is the clinic open on Sundays and holidays? Please call before you travel on a holiday.
 6. Will I have to undress for the first visit?* Not always. The first visit is mainly a conversation. If an examination or transvaginal scan is needed, it is explained first and done only with your consent, in privacy. You can ask for a pause at any point.
 
 
 ## Privacy Policy
 URL: http://localhost:3000/privacy-policy/
 
-H1: Privacy Policy Last updated: `` *In short. We collect only what we need to book your appointment and look after you. We do not sell your data, and we do not publish patient names, photographs or stories. You can ask to see, correct or delete your information at any time. ### 1. Who we are EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka, run by Dr. Swati Shree. `` We decide why and how your personal data is used, which makes us the "data fiduciary" under the Digital Personal Data Protection Act, 2023 (DPDP Act). Privacy contact: ``. ### 2. What we collect - Through the website form: your name, mobile number, age, reason for visit, preferred date and time, town, and, for patients under 18, the guardian's name.
+H1: Privacy Policy Last updated: *In short. We collect only what we need to book your appointment and look after you. We do not sell your data, and we do not publish patient names, photographs or stories. You can ask to see, correct or delete your information at any time. ### 1. Who we are EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka, run by Dr. Swati Shree. We decide why and how your personal data is used, which makes us the "data fiduciary" under the Digital Personal Data Protection Act, 2023 (DPDP Act). Privacy contact: . ### 2. What we collect - Through the website form: your name, mobile number, age, reason for visit, preferred date and time, town, and, for patients under 18, the guardian's name.
 - At the clinic: your medical history, examination notes, scans, test results, treatment records, payment details and your partner's details where relevant to care.
 - Automatically: basic technical data such as pages visited, device and browser type, if you accept analytics cookies. We do not use advertising trackers on medical pages.
 - WhatsApp or phone:* messages and call details you choose to share with us. Please do not put detailed medical information in the website form. Share it with Dr. Swati at your visit. ### 3. Why we use it - To arrange and give care, and to contact you about your appointment
@@ -770,16 +736,15 @@ H1: Privacy Policy Last updated: `` *In short. We collect only what we need to b
 - To issue bills and receipts
 - To respond to your questions
 - To improve the website, using anonymous statistics
-- To comply with the law, including the ART (Regulation) Act, 2021 where treatment falls under it We ask for your consent where the law requires, and you can withdraw it at any time. Withdrawing consent for the website form does not affect care already given. ### 4. Who sees your data Only the clinic team who need it for your care. We may share information with a laboratory, an associated ART centre, a radiology centre or another doctor when it is needed for your care, and only with your knowledge. We use service providers for website hosting, email and appointment messages, under contract and security requirements. We do not sell or rent your data. We may disclose information where the law requires it. ### 5. Children For patients under 18, a parent or legal guardian gives consent for us to use the child's data to arrange care. We do not use children's data for advertising, tracking or behavioural monitoring. ### 6. How long we keep it - Website enquiries that do not lead to care: up to `` months
-- Medical records: for the period required by law and professional guidance ``
-- Billing records: as required by tax law
-- Records connected with ART treatment: for the period required under the ART Act and rules `` After this, data is deleted or anonymised. ### 7. Security We use access controls, encrypted connections and limited access to records. No system is completely secure. If a breach affecting your data occurs, we will inform you and the authorities as the law requires. ### 8. Your rights Under the DPDP Act, you may:
+- To comply with the law, including the ART (Regulation) Act, 2021 where treatment falls under it We ask for your consent where the law requires, and you can withdraw it at any time. Withdrawing consent for the website form does not affect care already given. ### 4. Who sees your data Only the clinic team who need it for your care. We may share information with a laboratory, an associated ART centre, a radiology centre or another doctor when it is needed for your care, and only with your knowledge. We use service providers for website hosting, email and appointment messages, under contract and security requirements. We do not sell or rent your data. We may disclose information where the law requires it. ### 5. Children For patients under 18, a parent or legal guardian gives consent for us to use the child's data to arrange care. We do not use children's data for advertising, tracking or behavioural monitoring. ### 6. How long we keep it - Website enquiries that do not lead to care: up to months
+- Medical records: for the period required by law and professional guidance - Billing records: as required by tax law
+- Records connected with ART treatment: for the period required under the ART Act and rules After this, data is deleted or anonymised. ### 7. Security We use access controls, encrypted connections and limited access to records. No system is completely secure. If a breach affecting your data occurs, we will inform you and the authorities as the law requires. ### 8. Your rights Under the DPDP Act, you may:
 - Ask for a summary of the data we hold and how it is used
 - Ask us to correct or complete inaccurate data
 - Ask us to erase data we no longer need, subject to legal record-keeping duties
 - Withdraw consent
 - Seek redress for grievances, first from us, and then from the Data Protection Board of India
-- Nominate someone to exercise your rights in case of death or incapacity Write to `` or call 72049 21212. We aim to reply within `` days. ### 9. Cookies We use essential cookies for the site to work. Analytics cookies are used only if you accept them. You can change your choice any time under "Cookie settings" in the footer. Maps and videos load only when you click. ### 10. Changes We may update this policy. The date at the top shows the latest version. The DPDP Act's main duties for data fiduciaries take effect in May 2027, and we are following its requirements now. ### 11. Contact and grievance officer ``
+- Nominate someone to exercise your rights in case of death or incapacity Write to or call 72049 21212. We aim to reply within days. ### 9. Cookies We use essential cookies for the site to work. Analytics cookies are used only if you accept them. You can change your choice any time under "Cookie settings" in the footer. Maps and videos load only when you click. ### 10. Changes We may update this policy. The date at the top shows the latest version. The DPDP Act's main duties for data fiduciaries take effect in May 2027, and we are following its requirements now. ### 11. Contact and grievance officer
 
 
 ## Care for every stage, every question
@@ -800,8 +765,7 @@ H1: Care for every stage, every question Intro: EVE Women and Fertility Clinic i
 - Endometrial biopsy → /services/endometrial-biopsy/ ### How to choose where to start Not sure which service you need? Start with a consultation. Dr. Swati will listen to your history, examine you, and tell you which tests help and which do not. If you are trying to conceive, the first step is usually a fertility evaluation. If your periods are irregular or painful, start with the condition pages and book a consultation. ### FAQs 1. Which service is right for me? If you are not sure, book a consultation. Dr. Swati reviews your history first and then decides which tests or services help. You do not need to know the right service in advance, and you are not committing to any treatment by booking a first visit.
 2. Can I see Dr. Swati if I am not trying to conceive? Yes. EVE looks after PCOS, periods, endometriosis, fibroids, contraception, menopause and preventive care, as well as fertility. Many patients come for women's health concerns with no plan for pregnancy.
 3. Do I need to bring my partner? For fertility problems, a first visit with both partners is the most useful, because the male partner's semen analysis is one of the first tests. For other concerns, you can come alone.
-4. Are tests done on the same day? Many scans can be done at the visit. Blood tests and some procedures are planned for specific days of your cycle. Dr. Swati explains the timing so you do not make extra trips. ``
-5. Do you offer treatment in a single visit?* Some concerns, such as a simple review or a scan, can be settled in one visit. Fertility care usually takes a few visits over one or two cycles, because tests and treatment are timed to your cycle.
+4. Are tests done on the same day? Many scans can be done at the visit. Blood tests and some procedures are planned for specific days of your cycle. Dr. Swati explains the timing so you do not make extra trips. 5. Do you offer treatment in a single visit?* Some concerns, such as a simple review or a scan, can be settled in one visit. Fertility care usually takes a few visits over one or two cycles, because tests and treatment are timed to your cycle.
 
 
 ## Adolescent Gynaecologist in Bangalore
@@ -833,7 +797,7 @@ URL: http://localhost:3000/services/adolescent-gynaecology/
 - ACOG Committee Opinion: The initial reproductive health visit
 - ACOG Committee Opinion: Menstruation in girls and adolescents, using the menstrual cycle as a vital sign
 - International evidence-based guideline for the assessment and management of PCOS (2023)
-- Ministry of Health and Family Welfare, National HPV vaccination programme, 2026 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- Ministry of Health and Family Welfare, National HPV vaccination programme, 2026 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Pap Smear and HPV Vaccine in Bangalore
@@ -845,24 +809,22 @@ URL: http://localhost:3000/services/cervical-cancer-screening-hpv-vaccination/
 - India's national programme: screening is advised for women aged 30 to 65; many gynaecologists start earlier based on history
 - Vaccine: India launched a national HPV vaccination programme in February 2026, giving a free single dose to 14-year-old girls at government facilities
 - Private vaccination: available for other ages, with doses depending on age at the first dose
-- At EVE: a private consultation, the test, result explanation and, if needed, colposcopy or referral `` ### Who should be screened Dr. Swati advises a screening schedule for you based on your age, sexual history and past results. As a guide: - 30 to 65 years: screening is recommended in India's programme and by WHO
+- At EVE: a private consultation, the test, result explanation and, if needed, colposcopy or referral ### Who should be screened Dr. Swati advises a screening schedule for you based on your age, sexual history and past results. As a guide: - 30 to 65 years: screening is recommended in India's programme and by WHO
 - Younger than 30: screening may begin earlier on medical advice, such as after sexual activity begins, or with a history of abnormal results, a weak immune system, or HIV
 - After 65: may stop if earlier results were normal, on your doctor's advice
 - Previous hysterectomy: whether you need screening depends on the reason for the surgery ### What happens at EVE 1. Consultation. A short history and an explanation of the test.
 2. The test. You lie on a couch. A speculum is placed, and a small brush collects cells from the cervix. It takes a few minutes. It can be uncomfortable but is not usually painful.
-3. Results. Reports usually come in a few days. ``
-4. Next steps. If the test is normal, Dr. Swati tells you when to repeat it. If abnormal, you may need a colposcopy (a magnified look at the cervix) and a small biopsy, and treatment of any pre-cancerous change. ### How to prepare for a Pap smear or HPV test - Schedule it when you are not having your period
+3. Results. Reports usually come in a few days. 4. Next steps. If the test is normal, Dr. Swati tells you when to repeat it. If abnormal, you may need a colposcopy (a magnified look at the cervix) and a small biopsy, and treatment of any pre-cancerous change. ### How to prepare for a Pap smear or HPV test - Schedule it when you are not having your period
 - Avoid intercourse, vaginal creams, douches and tampons for 24 to 48 hours before
-- Tell us if you may be pregnant, or if you have had abnormal tests before ### HPV vaccination The HPV vaccine prevents infection with the virus types that cause most cervical cancers. It works best before any exposure, which is why girls aged 9 to 14 are the main group. India's free programme gives a single dose to 14-year-old girls at government health facilities. For those outside the programme, private vaccination is available, and the number of doses depends on the age at first dose. Dr. Swati advises on the right plan. `` The vaccine does not treat an existing infection, and does not remove the need for screening later in life. ### FAQs 1. What is the difference between a Pap smear and an HPV test? A Pap smear looks at cervical cells under a microscope for abnormal changes. An HPV test looks for the virus that causes those changes. Many programmes use the HPV test first from age 30. Dr. Swati recommends the test, or both together, based on your age and history.
-2. At what age should I start Pap smears? India's national programme targets women 30 to 65. Many gynaecologists start earlier based on risk. If you have been sexually active, or have a history of abnormal tests, a weak immune system or HIV, ask Dr. Swati when to begin. ``
-3. How often should I be screened? If the results are normal, many guidelines advise repeating a Pap smear every 3 years, or an HPV test every 5 years. Your schedule may be different if you have had abnormal results. Dr. Swati sets your interval.
+- Tell us if you may be pregnant, or if you have had abnormal tests before ### HPV vaccination The HPV vaccine prevents infection with the virus types that cause most cervical cancers. It works best before any exposure, which is why girls aged 9 to 14 are the main group. India's free programme gives a single dose to 14-year-old girls at government health facilities. For those outside the programme, private vaccination is available, and the number of doses depends on the age at first dose. Dr. Swati advises on the right plan. The vaccine does not treat an existing infection, and does not remove the need for screening later in life. ### FAQs 1. What is the difference between a Pap smear and an HPV test? A Pap smear looks at cervical cells under a microscope for abnormal changes. An HPV test looks for the virus that causes those changes. Many programmes use the HPV test first from age 30. Dr. Swati recommends the test, or both together, based on your age and history.
+2. At what age should I start Pap smears? India's national programme targets women 30 to 65. Many gynaecologists start earlier based on risk. If you have been sexually active, or have a history of abnormal tests, a weak immune system or HIV, ask Dr. Swati when to begin. 3. How often should I be screened? If the results are normal, many guidelines advise repeating a Pap smear every 3 years, or an HPV test every 5 years. Your schedule may be different if you have had abnormal results. Dr. Swati sets your interval.
 4. Does the HPV vaccine cause infertility? No. There is no evidence that the HPV vaccine affects fertility. It is non-live and has been used safely in many countries for years. It protects against infection linked to cervical cancer.
 5. I am already married or older. Is the vaccine still useful? It may be, though benefit is greatest before exposure. Women up to 26, and in some cases older, can be vaccinated. Screening remains important. Dr. Swati can advise based on your age and history.
 6. What does an abnormal Pap smear mean?* An abnormal result usually means cell changes, not cancer. Most are caused by HPV and are mild. You may need an HPV test, a colposcopy and sometimes a biopsy. Early changes are treatable, and this is exactly what screening aims to find. ### Sources
 - WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention (2021)
 - Ministry of Health and Family Welfare, National HPV vaccination programme, launched February 2026
 - ICMR and National Programme for Prevention and Control of Non-Communicable Diseases screening guidance
-- ACOG and ASCCP cervical screening guidance `` Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ACOG and ASCCP cervical screening guidance Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Contraceptive Counselling in Bangalore
@@ -880,13 +842,12 @@ URL: http://localhost:3000/services/contraceptive-counselling/
 | Progestin-only pill | Thickens mucus, sometimes stops ovulation | High if taken on time | Option while breastfeeding |
 | Copper IUD | Prevents fertilisation | Very high | Non-hormonal, may make periods heavier at first |
 | Hormonal IUD | Thins the lining, thickens mucus | Very high | Often lightens periods |
-| Injection and implant | Hormones over weeks to years | Very high | Periods may change `` |
+| Injection and implant | Hormones over weeks to years | Very high | Periods may change |
 | Emergency contraception | Delays ovulation or prevents fertilisation | Works best soon after intercourse | A back-up, not a regular method |
 | Sterilisation | Surgical block of the tubes | Very high | Intended as a lasting choice; counselling is important | Effectiveness depends on correct, consistent use. Dr. Swati explains the real figures for your choice. ### What happens at EVE 1. A private conversation. You talk about your health, periods, past pregnancies, medicines, smoking, plans and worries.
 2. Checks if needed. Blood pressure, weight, and a pelvic examination or scan are done only if relevant, and with your consent.
 3. Choosing together. Dr. Swati explains benefits, risks and side effects, and what to expect in the first months.
-4. Starting the method. Some methods start the same day. ``
-5. Follow-up. A visit after a few weeks or months checks how the method suits you. ### Contraception and fertility Most methods are reversible, and fertility returns soon after stopping. Fertility can take a few months to return after an injection. If you are planning a pregnancy in the near future, Dr. Swati advises a preconception check, folic acid and a review of medicines. ### When to get help straight away > If you use an IUD or implant and have severe lower abdominal pain, fainting, heavy bleeding, or a missed period with pain, get urgent care. If you take the combined pill and develop chest pain, sudden breathlessness, severe leg swelling or pain, or sudden severe headache or vision loss, seek emergency care. Call 108 or 112. ### FAQs 1. Which contraceptive method should I choose? There is no single right method for everyone. The right one depends on your health, your periods, whether you want to conceive soon, how often you can remember a pill, and your comfort. Dr. Swati reviews your history and explains the options so you can choose.
+4. Starting the method. Some methods start the same day. 5. Follow-up. A visit after a few weeks or months checks how the method suits you. ### Contraception and fertility Most methods are reversible, and fertility returns soon after stopping. Fertility can take a few months to return after an injection. If you are planning a pregnancy in the near future, Dr. Swati advises a preconception check, folic acid and a review of medicines. ### When to get help straight away > If you use an IUD or implant and have severe lower abdominal pain, fainting, heavy bleeding, or a missed period with pain, get urgent care. If you take the combined pill and develop chest pain, sudden breathlessness, severe leg swelling or pain, or sudden severe headache or vision loss, seek emergency care. Call 108 or 112. ### FAQs 1. Which contraceptive method should I choose? There is no single right method for everyone. The right one depends on your health, your periods, whether you want to conceive soon, how often you can remember a pill, and your comfort. Dr. Swati reviews your history and explains the options so you can choose.
 2. Does contraception affect fertility later? No. Pills, IUDs and implants are reversible, and ovulation usually returns within a few months of stopping. The injection can delay return to regular cycles for several months. Age and other health factors matter more for fertility than past contraception.
 3. Is emergency contraception safe, and when should I take it? Emergency contraception pills are safe and work best the sooner they are taken after unprotected sex, within 72 to 120 hours depending on the type. A copper IUD placed within 5 days is the most effective form. They do not end an existing pregnancy.
 4. Can I use contraception while breastfeeding? Yes. The progestin-only pill, IUDs, implants and condoms are suitable. Estrogen-containing methods are usually delayed for several weeks after delivery. Dr. Swati chooses with you based on how recently you gave birth.
@@ -894,7 +855,7 @@ URL: http://localhost:3000/services/contraceptive-counselling/
 6. Can a young or unmarried woman get advice here?* Yes. Contraceptive counselling is private and given without judgment to any adult. Teenagers are welcome with a parent or guardian, and may also speak to the doctor alone for part of the visit. See Adolescent gynaecology. ### Sources
 - WHO Medical eligibility criteria for contraceptive use (5th edition, 2015, with updates)
 - Ministry of Health and Family Welfare, India, Family Planning guidelines
-- FOGSI good clinical practice recommendations on contraception `` Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- FOGSI good clinical practice recommendations on contraception Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Early Pregnancy Scan in Bangalore
@@ -927,7 +888,7 @@ URL: http://localhost:3000/services/early-pregnancy-scan/
 6. I had a miscarriage before. Can I come for an early scan?* Yes. An early scan can reassure you, and Dr. Swati can plan extra care. If you have had two or more losses, see Recurrent pregnancy loss for evaluation, ideally before the next pregnancy. ### Sources
 - RCOG Green-top Guideline No. 21: Diagnosis and management of ectopic pregnancy
 - NICE Guideline NG126: Ectopic pregnancy and miscarriage
-- Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, 1994 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, 1994 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Endometrial Biopsy in Bangalore
@@ -935,10 +896,8 @@ URL: http://localhost:3000/services/endometrial-biopsy/
 
 ### Intro An endometrial biopsy takes a tiny sample of the uterine lining (the endometrium) to look at it under a microscope. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree advises it when abnormal bleeding, a thickened lining on scan, or a suspected infection needs a firm answer, and she explains each step beforehand. ### At a glance - *What it checks: thickening (hyperplasia), cancer, infection (chronic endometritis), or hormonal effects on the lining
 - Method: a thin, flexible tube is passed through the cervix and a small sample is gently suctioned
-- Time: about 5 to 10 minutes in the clinic ``
-- Sensation: cramping, which usually passes within an hour
-- Result: a pathology report in about a week ``
-- No general anaesthetic is usually needed ### Who may need one - Heavy or irregular bleeding, especially at 45 or older, or younger with risk factors such as obesity, PCOS or long gaps between periods
+- Time: about 5 to 10 minutes in the clinic - Sensation: cramping, which usually passes within an hour
+- Result: a pathology report in about a week - No general anaesthetic is usually needed ### Who may need one - Heavy or irregular bleeding, especially at 45 or older, or younger with risk factors such as obesity, PCOS or long gaps between periods
 - Bleeding after menopause
 - A thick or unusual lining on ultrasound
 - Suspected chronic endometritis in some fertility settings
@@ -956,11 +915,11 @@ URL: http://localhost:3000/services/endometrial-biopsy/
 2. Why do I need a biopsy if my scan is normal? A scan shows the thickness of the lining but not what the cells look like. When bleeding is persistent, or you are at higher risk, a biopsy gives a definite answer that a scan cannot.
 3. Does a biopsy mean I have cancer? No. Most biopsies are done to rule out cancer or pre-cancer, and most results are benign. Hormonal effects, polyps and infection are common findings. If a problem is found, early detection makes treatment simpler.
 4. Can I have a biopsy if I am trying to conceive? Sometimes. Dr. Swati plans it in a cycle when pregnancy is not possible, or before a treatment cycle. Tell us if you are trying, so that the timing is right.
-5. How long are the results? Usually about a week, since the sample goes to a pathology laboratory. `` Dr. Swati explains the report and plans the next step at a follow-up visit.
+5. How long are the results? Usually about a week, since the sample goes to a pathology laboratory. Dr. Swati explains the report and plans the next step at a follow-up visit.
 6. How soon can I get back to normal activity?* Most women go back to work the same day. Avoid heavy exercise, baths, and intercourse for a day or two or as advised, to reduce infection risk. Light spotting is normal for a short while. ### Sources
 - ACOG Practice Bulletin: Diagnosis of abnormal uterine bleeding in reproductive-aged women
 - FIGO PALM-COEIN classification of abnormal uterine bleeding
-- NICE Guideline NG88: Heavy menstrual bleeding Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- NICE Guideline NG88: Heavy menstrual bleeding Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Fertility Evaluation in Bangalore
@@ -973,7 +932,7 @@ URL: http://localhost:3000/services/fertility-evaluation/
 - At EVE: consultation, ultrasound with antral follicle count, blood tests, tubal check and semen analysis, planned in order
 - Result: a written summary and a plan you can understand and question ### What a fertility evaluation looks for Conception needs five things to work: an egg that is released (ovulation), healthy sperm, open fallopian tubes, a healthy uterus and lining, and the right timing. The evaluation checks each of these. | Question | How it is checked |
 |---|---|
-| Are you ovulating regularly? | Cycle history, follicle tracking, mid-luteal progesterone ``, thyroid and prolactin tests |
+| Are you ovulating regularly? | Cycle history, follicle tracking, mid-luteal progesterone , thyroid and prolactin tests |
 | How many eggs are left (ovarian reserve)? | AMH blood test and antral follicle count on ultrasound |
 | Are the fallopian tubes open? | HSG, or a saline contrast ultrasound; laparoscopy in selected cases |
 | Is the uterus normal? | Pelvic ultrasound; 3D scan or hysteroscopy if needed |
@@ -981,8 +940,7 @@ URL: http://localhost:3000/services/fertility-evaluation/
 | Any hormone problem? | Blood tests such as FSH, LH, estradiol, TSH, prolactin, as advised | ### What happens at EVE 1. A long first consultation. Dr. Swati asks about cycles, past pregnancies, surgery, infections, medicines, work, sleep, stress, diet and habits, for both partners.
 2. Examination and ultrasound. A transvaginal scan checks the uterus and ovaries and counts antral follicles. It is explained first and done with your consent, in privacy.
 3. Blood tests. Some are done on specific cycle days. Dr. Swati tells you which and why.
-4. Semen analysis. The male partner gives a sample after 2 to 7 days of abstinence, as the WHO manual advises. ``
-5. Tubal check. An HSG is usually done after your period ends and before ovulation. See the HSG page.
+4. Semen analysis. The male partner gives a sample after 2 to 7 days of abstinence, as the WHO manual advises. 5. Tubal check. An HSG is usually done after your period ends and before ovulation. See the HSG page.
 6. Review and plan. You return to review the results together. Dr. Swati explains what is normal, what is not, and what the options are. ### How to prepare - Come together, and bring all earlier reports
 - Note the first day of your last three periods
 - Bring your medicines and supplements
@@ -996,7 +954,7 @@ URL: http://localhost:3000/services/fertility-evaluation/
 - ASRM Practice Committee, Definition of infertility (2023) and Evaluation of the infertile female (2015)
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems: assessment and treatment
-- WHO laboratory manual for the examination and processing of human semen, 6th edition (2021) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- WHO laboratory manual for the examination and processing of human semen, 6th edition (2021) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Follicular Monitoring in Bangalore
@@ -1023,7 +981,7 @@ URL: http://localhost:3000/services/follicular-monitoring/
 6. Can I do a follicular study if I have irregular periods?* Yes, and it is often most useful then. Irregular cycles make timing by calendar unreliable. Monitoring shows if and when you ovulate, and guides treatment such as ovulation induction. ### Sources
 - ESHRE Guideline: Unexplained infertility (2023)
 - ESHRE Guideline: Ovarian stimulation for IVF/ICSI (2020), for follicle monitoring principles
-- International evidence-based guideline for the assessment and management of PCOS (2023) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- International evidence-based guideline for the assessment and management of PCOS (2023) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Male Fertility Test in Bangalore
@@ -1049,13 +1007,10 @@ URL: http://localhost:3000/services/male-fertility-evaluation/
 - Genetic causes in severe cases, such as Klinefelter syndrome or Y chromosome microdeletions
 - Lifestyle and medicines: smoking, heavy alcohol, obesity, anabolic steroids and testosterone products, which can switch off sperm production, and some medicines
 - Heat: frequent hot baths or sauna and prolonged laptop on the lap have limited evidence, but avoiding them costs nothing ### What happens at EVE 1. Counselling visit. Dr. Swati talks with the male partner, with respect and privacy. She asks about medical and surgical history, medicines, habits, and sexual function.
-2. Semen analysis. A sample is given after 2 to 7 days of abstinence. ``
-3. Examination or referral. If needed, a physical examination or scrotal ultrasound is arranged, sometimes by a urologist or andrologist. ``
-4. Further tests. Hormone tests, genetic tests or a sperm DNA fragmentation test are done only when they will change the plan.
+2. Semen analysis. A sample is given after 2 to 7 days of abstinence. 3. Examination or referral. If needed, a physical examination or scrotal ultrasound is arranged, sometimes by a urologist or andrologist. 4. Further tests. Hormone tests, genetic tests or a sperm DNA fragmentation test are done only when they will change the plan.
 5. Plan. Options include treating the cause, lifestyle changes, IUI, IVF with ICSI, and TESA or PESA in azoospermia. ### How to prepare for the semen sample - Abstain for 2 to 7 days, as advised
 - Wash hands, and collect the full sample in the container given
-- Keep the sample at body temperature and bring it quickly, usually within 30 to 60 minutes ``
-- Tell us about fever in the last 3 months, medicines and supplements ### Limits A single normal sample is reassuring, but sperm counts vary, so results are read together with a repeat if abnormal. A semen analysis does not show how well sperm fertilise an egg. ### FAQs 1. What is a normal sperm count? The WHO 2021 manual gives a lower reference limit of 16 million sperm per millilitre, and 39 million in the whole sample. These are lower limits of normal in fertile men, not a pass mark. Dr. Swati reads your full report, including motility and shape.
+- Keep the sample at body temperature and bring it quickly, usually within 30 to 60 minutes - Tell us about fever in the last 3 months, medicines and supplements ### Limits A single normal sample is reassuring, but sperm counts vary, so results are read together with a repeat if abnormal. A semen analysis does not show how well sperm fertilise an egg. ### FAQs 1. What is a normal sperm count? The WHO 2021 manual gives a lower reference limit of 16 million sperm per millilitre, and 39 million in the whole sample. These are lower limits of normal in fertile men, not a pass mark. Dr. Swati reads your full report, including motility and shape.
 2. Can male infertility be treated? Often, yes. Some causes can be treated directly, such as a varicocele or an infection. Lifestyle changes improve sperm in many men. If sperm numbers or motility stay low, IUI, IVF with ICSI or sperm retrieval can help. The right choice depends on your report.
 3. How do I give a semen sample? After 2 to 7 days without ejaculation, collect the sample by masturbation into the clean container given, with clean hands. Do not use lubricants or condoms. Keep it at body temperature and deliver it promptly. We explain this when you book.
 4. What if the first semen report is abnormal? Repeat the test after 2 to 3 months, because sperm production takes about three months and results vary. Dr. Swati also looks for a cause. A repeat avoids unnecessary worry or unnecessary treatment.
@@ -1064,7 +1019,7 @@ URL: http://localhost:3000/services/male-fertility-evaluation/
 - WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
 - AUA/ASRM Guideline: Diagnosis and treatment of infertility in men (2020)
 - ASRM Practice Committee, Diagnostic evaluation of the infertile male (2015)
-- EAU Guidelines on Sexual and Reproductive Health `` Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- EAU Guidelines on Sexual and Reproductive Health Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Natural Conception Support in Bangalore
@@ -1094,7 +1049,7 @@ URL: http://localhost:3000/services/natural-conception-support/
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems
 - WHO guidance on preconception care
-- ICMR and FOGSI guidance on preconception care `` Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ICMR and FOGSI guidance on preconception care Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Reproductive Immunology in Bangalore
@@ -1120,8 +1075,7 @@ URL: http://localhost:3000/services/reproductive-immunology/
 6. What if my tests are all normal?* Normal results are reassuring. Many women with unexplained recurrent loss go on to have a healthy pregnancy with early scans, supportive care and close follow-up. Dr. Swati continues to support you, and rechecks if something changes. ### Sources
 - ESHRE Guideline: Recurrent pregnancy loss (2022)
 - RCOG Green-top Guideline No. 17: Recurrent first-trimester and second-trimester miscarriage
-- ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss (2012)
-`` Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss (2012) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## HSG Test in Bangalore
@@ -1129,11 +1083,10 @@ URL: http://localhost:3000/services/tubal-patency-test-hsg/
 
 ### Intro A tubal patency test checks whether your fallopian tubes are open, so that an egg and sperm can meet. The most common one is hysterosalpingography (HSG), a quick X-ray after a dye is passed through the womb. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree plans an HSG as part of a fertility evaluation, and explains the result and what it means for your treatment. ### At a glance - *What it shows: whether the tubes are open, the shape of the uterine cavity, and some tubal abnormalities
 - How: a thin tube is passed through the cervix, contrast dye is introduced, and X-ray images are taken
-- When: after your period ends and before ovulation, usually between day 6 and day 12 ``
-- Time: about 10 to 15 minutes
+- When: after your period ends and before ovulation, usually between day 6 and day 12 - Time: about 10 to 15 minutes
 - Sensation: cramping for a few minutes, usually settling soon
 - Do not do it if: you might be pregnant, have an active pelvic infection or have heavy bleeding
-- Where: `` ### Why it matters If both tubes are blocked, natural conception and IUI are unlikely to work, and IVF is usually advised. If at least one tube is open, IUI or timed attempts can be considered. Knowing this early prevents months of treatment that cannot work. ### What happens at EVE 1. Planning. Dr. Swati chooses a day in your cycle, and checks that you are not pregnant. You may be asked to take a pain-relief medicine beforehand, and sometimes an antibiotic, as advised.
+- Where: ### Why it matters If both tubes are blocked, natural conception and IUI are unlikely to work, and IVF is usually advised. If at least one tube is open, IUI or timed attempts can be considered. Knowing this early prevents months of treatment that cannot work. ### What happens at EVE 1. Planning. Dr. Swati chooses a day in your cycle, and checks that you are not pregnant. You may be asked to take a pain-relief medicine beforehand, and sometimes an antibiotic, as advised.
 2. The test. You lie on your back. A speculum is placed, the cervix is cleaned, and a thin catheter is introduced. Dye is passed slowly while images are taken. You may feel menstrual-type cramps.
 3. Right after. You can rest for a short time, and go home. You may have light spotting, or cramping, for a day.
 4. Results. The images are reported, and Dr. Swati explains them: both tubes open, one open, both blocked, or an abnormal uterine cavity. ### Other ways to check the tubes - Saline or contrast ultrasound (HyCoSy, or HyFoSy): fluid or foam is introduced during an ultrasound. There is no radiation, and it can be done in the scan room.
@@ -1145,7 +1098,7 @@ URL: http://localhost:3000/services/tubal-patency-test-hsg/
 - Avoid intercourse from the end of your period until the test, to avoid an early pregnancy
 - Bring a companion if you like
 - Tell us about allergies, past infections and any chance of pregnancy
-- Take medicines as advised, and eat lightly beforehand `` ### FAQs 1. Is an HSG painful? Most women feel menstrual-type cramps for a few minutes as the dye passes through, and some feel nothing much. Pain-relief medicine beforehand helps. The test takes 10 to 15 minutes, and cramping usually settles within an hour.
+- Take medicines as advised, and eat lightly beforehand ### FAQs 1. Is an HSG painful? Most women feel menstrual-type cramps for a few minutes as the dye passes through, and some feel nothing much. Pain-relief medicine beforehand helps. The test takes 10 to 15 minutes, and cramping usually settles within an hour.
 2. When should an HSG be done? After your period has finished and before ovulation, usually between day 6 and day 12 of a regular cycle. This reduces the chance of an undetected early pregnancy and gives clear images of the cavity. Dr. Swati confirms your date.
 3. Can an HSG help me get pregnant? Sometimes. A few women conceive in the months after an HSG, possibly because the flush clears minor blockages. This is not the aim, and it should not be relied on, but it explains why some couples conceive soon after the test.
 4. What if my HSG shows a blocked tube? A blocked tube may be real or caused by temporary spasm. Dr. Swati may repeat or confirm with another test. If one tube is open, IUI may still be possible. If both are blocked, IVF is usually advised. Surgery is sometimes considered in selected cases.
@@ -1153,13 +1106,13 @@ URL: http://localhost:3000/services/tubal-patency-test-hsg/
 6. How soon can I try to conceive after an HSG? You can usually try in the same cycle, unless advised otherwise. If you have had spotting or cramps, wait until they settle. If you have fever, severe pain or a foul discharge in the days after the test, contact us the same day. > When to get help straight away.* Fever, severe lower abdominal pain, foul-smelling discharge or heavy bleeding in the days after an HSG need urgent review. Call us, or go to the nearest hospital emergency. ### Sources
 - ASRM Practice Committee, Role of tubal surgery in the era of assisted reproductive technology
 - NICE Guideline CG156: Fertility problems
-- ESHRE Guideline: Unexplained infertility (2023) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ESHRE Guideline: Unexplained infertility (2023) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Terms of Use
 URL: http://localhost:3000/terms-of-use/
 
-H1: Terms of Use Last updated: `` *In short.* This website gives general information and lets you request appointments. It does not give medical advice, and it is not for emergencies. Please read the terms below. ### 1. Acceptance By using this website, you agree to these terms. If you do not agree, please do not use it. ### 2. What the website is for The website provides information about EVE Women and Fertility Clinic, Dr. Swati Shree and the care we offer, and lets you ask for an appointment. It is not a substitute for a consultation. ### 3. Not medical advice, not for emergencies Information on this site is general and educational. It cannot diagnose or treat you. Please do not delay or avoid seeking care because of something you read here. In an emergency, call 108 or 112 or go to the nearest hospital. ### 4. Appointment requests Submitting the form is a request, not a confirmed appointment. An appointment is confirmed only when we confirm it by phone, WhatsApp or message. See Appointments, Cancellation and Refund. ### 5. Your information You agree to give accurate details. Do not send emergency messages or detailed medical records through the form. Our Privacy Policy explains how we use your data. ### 6. Content and copyright All text, images, logos and design on this site belong to EVE Women and Fertility Clinic or its licensors. You may view and print pages for personal use. You may not copy, republish or sell content without written permission. You may link to our pages. ### 7. Treatment and regulation Fertility treatments such as IUI and IVF are regulated by the ART (Regulation) Act, 2021. Eligibility, consent and counselling rules apply. Nothing on this website promises a particular result. ### 8. Third-party links and services Links to other sites, maps, social media or video are for convenience. We do not control them and are not responsible for their content or privacy practices. ### 9. Limits of liability We take care to keep the information accurate and current, but we do not promise that it is complete or error-free. To the extent the law allows, we are not liable for loss arising from your use of the website. Nothing here limits liability that cannot be limited by law, including for medical negligence. ### 10. Changes We may update the website and these terms. Continued use means you accept the changes. ### 11. Governing law These terms are governed by the laws of India. Courts at Bangalore `` have jurisdiction, subject to the law. ### 12. Contact `` · 72049 21212 · 72049 21516
+H1: Terms of Use Last updated: *In short.* This website gives general information and lets you request appointments. It does not give medical advice, and it is not for emergencies. Please read the terms below. ### 1. Acceptance By using this website, you agree to these terms. If you do not agree, please do not use it. ### 2. What the website is for The website provides information about EVE Women and Fertility Clinic, Dr. Swati Shree and the care we offer, and lets you ask for an appointment. It is not a substitute for a consultation. ### 3. Not medical advice, not for emergencies Information on this site is general and educational. It cannot diagnose or treat you. Please do not delay or avoid seeking care because of something you read here. In an emergency, call 108 or 112 or go to the nearest hospital. ### 4. Appointment requests Submitting the form is a request, not a confirmed appointment. An appointment is confirmed only when we confirm it by phone, WhatsApp or message. See Appointments, Cancellation and Refund. ### 5. Your information You agree to give accurate details. Do not send emergency messages or detailed medical records through the form. Our Privacy Policy explains how we use your data. ### 6. Content and copyright All text, images, logos and design on this site belong to EVE Women and Fertility Clinic or its licensors. You may view and print pages for personal use. You may not copy, republish or sell content without written permission. You may link to our pages. ### 7. Treatment and regulation Fertility treatments such as IUI and IVF are regulated by the ART (Regulation) Act, 2021. Eligibility, consent and counselling rules apply. Nothing on this website promises a particular result. ### 8. Third-party links and services Links to other sites, maps, social media or video are for convenience. We do not control them and are not responsible for their content or privacy practices. ### 9. Limits of liability We take care to keep the information accurate and current, but we do not promise that it is complete or error-free. To the extent the law allows, we are not liable for loss arising from your use of the website. Nothing here limits liability that cannot be limited by law, including for medical negligence. ### 10. Changes We may update the website and these terms. Continued use means you accept the changes. ### 11. Governing law These terms are governed by the laws of India. Courts at Bangalore have jurisdiction, subject to the law. ### 12. Contact · 72049 21212 · 72049 21516
 
 
 ## Fertility treatments, explained before you decide
@@ -1175,11 +1128,10 @@ H1: Fertility treatments, explained before you decide Intro: When natural concep
 | Usual reasons | Unexplained infertility, mild male factor, ovulation problems, cervical factor | Blocked tubes, severe male factor, endometriosis, low reserve, failed IUI |
 | Medicines | Often mild or none | Several, with close monitoring |
 | Time | A few days in one cycle | A few weeks per cycle |
-| Where | At the clinic | Planned with you at EVE, with laboratory steps at associated ART centres `` | ### The rules every patient should know IUI and IVF are regulated by the ART (Regulation) Act, 2021. Treatment is offered to married couples where the woman is 21 to 50 years old and the man is 21 to 55, and to widowed or divorced women aged 21 to 50, with written consent and counselling. Sex selection is prohibited. We explain these rules at your first visit. `` ### FAQs 1. How do I know which treatment I need? It depends on your evaluation results, age, how long you have been trying, and your diagnosis. Dr. Swati recommends the right starting point at your consultation rather than defaulting to the most intensive option.
+| Where | At the clinic | Planned with you at EVE, with laboratory steps at associated ART centres | ### The rules every patient should know IUI and IVF are regulated by the ART (Regulation) Act, 2021. Treatment is offered to married couples where the woman is 21 to 50 years old and the man is 21 to 55, and to widowed or divorced women aged 21 to 50, with written consent and counselling. Sex selection is prohibited. We explain these rules at your first visit. ### FAQs 1. How do I know which treatment I need? It depends on your evaluation results, age, how long you have been trying, and your diagnosis. Dr. Swati recommends the right starting point at your consultation rather than defaulting to the most intensive option.
 2. Is IVF always the next step after IUI? Not always. After a limited number of IUI cycles without pregnancy, the plan is reviewed. IVF may then be advised, or other causes may be looked for. Dr. Swati explains the reasoning at each step, so the decision is yours.
 3. Do you promise a pregnancy? No clinic can. A pregnancy depends on age, the cause of infertility, egg and sperm quality and chance. What EVE promises is an honest explanation, careful follow-up and respect for your decisions.
-4. How much do treatments cost? The cost depends on the treatment, the medicines you need and the number of cycles. After your evaluation, you receive a clear estimate before anything starts. ``
-5. Do I need to stop work for treatment? Most people keep working. IUI needs a few short visits for scans and the procedure. IVF needs more frequent visits during stimulation and one or two days off around egg collection and transfer. Dr. Swati plans the dates with you.
+4. How much do treatments cost? The cost depends on the treatment, the medicines you need and the number of cycles. After your evaluation, you receive a clear estimate before anything starts. 5. Do I need to stop work for treatment? Most people keep working. IUI needs a few short visits for scans and the procedure. IVF needs more frequent visits during stimulation and one or two days off around egg collection and transfer. Dr. Swati plans the dates with you.
 6. Can single women or unmarried couples have IUI or IVF?* Under the ART Act, services are for married couples and for widowed or divorced women within the age limits. Dr. Swati can explain what applies to your situation. Egg freezing has its own rules, which she explains at your consultation.
 
 
@@ -1199,8 +1151,7 @@ URL: http://localhost:3000/treatments/egg-freezing/
 2. Counselling and consent. As required by the ART Act, with a clear explanation of storage, use and legal rules.
 3. Stimulation. Hormone injections for about 10 to 12 days. Scans and blood tests every few days monitor your response.
 4. Trigger and egg collection. A trigger injection is given, and about 34 to 36 hours later, eggs are collected under sedation. It takes about 15 to 20 minutes. You go home the same day.
-5. Freezing. Mature eggs are frozen by vitrification at a registered facility. ``
-6. Storage and review. Eggs are stored under agreed terms. Dr. Swati reviews your plan when you are ready to use them. ### Using frozen eggs later When you are ready, eggs are thawed, fertilised with sperm in the laboratory (usually by ICSI) and embryos are grown. One or more are transferred to the uterus in a prepared cycle. Not every egg survives thawing, fertilises or becomes a viable embryo. This is why the number frozen matters. ### Legal points Indian law sets rules on who may freeze eggs, the storage period and consent. These are in the ART (Regulation) Act, 2021 and its rules. Dr. Swati explains what applies to your situation at your consultation. `` ### Risks and limits - OHSS is uncommon with careful monitoring
+5. Freezing. Mature eggs are frozen by vitrification at a registered facility. 6. Storage and review. Eggs are stored under agreed terms. Dr. Swati reviews your plan when you are ready to use them. ### Using frozen eggs later When you are ready, eggs are thawed, fertilised with sperm in the laboratory (usually by ICSI) and embryos are grown. One or more are transferred to the uterus in a prepared cycle. Not every egg survives thawing, fertilises or becomes a viable embryo. This is why the number frozen matters. ### Legal points Indian law sets rules on who may freeze eggs, the storage period and consent. These are in the ART (Regulation) Act, 2021 and its rules. Dr. Swati explains what applies to your situation at your consultation. ### Risks and limits - OHSS is uncommon with careful monitoring
 - Bleeding, infection, and sedation risks are small
 - Frozen eggs may not result in a pregnancy. It is a chance, not a promise.
 - Emotional and financial costs include storage fees over the years
@@ -1212,12 +1163,10 @@ URL: http://localhost:3000/treatments/egg-freezing/
 2. How many eggs should I freeze? It depends on your age and what you hope for. More eggs frozen at a younger age gives better chances. One cycle may not be enough, especially if reserve is low. Dr. Swati estimates a target for you after your tests.
 3. Is egg freezing a guarantee of a future baby? No. Frozen eggs may not all survive thawing, fertilise or become embryos, and an embryo may not implant. Freezing improves your options, but it is not insurance. Dr. Swati gives realistic expectations before you start.
 4. Is egg freezing painful or risky? Injections cause mild discomfort and bloating. Egg collection is under sedation, with mild cramps afterward. Serious complications such as OHSS, bleeding or infection are uncommon. Careful monitoring and dose adjustment keep risks low.
-5. How long can eggs be stored? Frozen eggs can remain viable for many years. Indian regulations set a storage period and conditions, which Dr. Swati explains. Storage fees apply. ``
-6. Can any woman freeze her eggs in India? The ART Act and rules decide who is eligible and under what conditions, including consent and age. Dr. Swati explains what applies to your situation at the consultation, so that you plan with correct information. ``
-7. Does egg freezing affect my natural fertility or periods?* No. A cycle of stimulation uses eggs that would otherwise be lost that month, and does not use up future eggs. Your periods return to normal in the next cycle. It does not bring on menopause. ### Sources
+5. How long can eggs be stored? Frozen eggs can remain viable for many years. Indian regulations set a storage period and conditions, which Dr. Swati explains. Storage fees apply. 6. Can any woman freeze her eggs in India? The ART Act and rules decide who is eligible and under what conditions, including consent and age. Dr. Swati explains what applies to your situation at the consultation, so that you plan with correct information. 7. Does egg freezing affect my natural fertility or periods?* No. A cycle of stimulation uses eggs that would otherwise be lost that month, and does not use up future eggs. Your periods return to normal in the next cycle. It does not bring on menopause. ### Sources
 - ESHRE Guideline: Female fertility preservation (2020)
 - ASRM Ethics Committee and Practice Committee opinions on planned oocyte cryopreservation
-- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## IUI Treatment in Bangalore
@@ -1242,17 +1191,15 @@ URL: http://localhost:3000/treatments/iui/
 3. Cycle planning. Dr. Swati advises on a natural cycle or one with mild ovulation-inducing medicine, and how many follicles are acceptable.
 4. Follicular monitoring. Ultrasound scans track the follicle and the lining.
 5. Timing. When the follicle is mature, ovulation may be triggered with an injection, and IUI is scheduled about 24 to 40 hours later, depending on the plan.
-6. Sperm preparation. On the day, your partner gives a sample, which is washed and concentrated. ``
-7. The IUI. You lie on a couch. A speculum is placed, and a soft thin catheter delivers the sperm into the uterus. It takes a few minutes, may cause mild cramps, and you can rest briefly afterward.
+6. Sperm preparation. On the day, your partner gives a sample, which is washed and concentrated. 7. The IUI. You lie on a couch. A speculum is placed, and a soft thin catheter delivers the sperm into the uterus. It takes a few minutes, may cause mild cramps, and you can rest briefly afterward.
 8. Luteal support and test. You may be advised progesterone support. A pregnancy test follows in about two weeks. ### What to expect and how many cycles Not every IUI cycle ends in pregnancy. Guidelines support a limited number of cycles, with a review if the plan has not worked, so that time is not lost. Dr. Swati discusses this before you begin, including when IVF may be a better next step. We do not quote pregnancy rates, because they depend on age, diagnosis, and chance, and a general figure can mislead. ### Risks and limits - Multiple pregnancy if several follicles ovulate, which carries higher risks for mother and babies. Monitoring helps prevent this.
 - Ovarian hyperstimulation: uncommon with mild stimulation.
 - Cramping, spotting and a small risk of infection.
 - Emotional strain of waiting. Tell us if you are finding it hard.
 - IUI cannot overcome blocked tubes or severe sperm problems. ### How to prepare - Complete your tests, and keep any earlier reports handy
-- Your partner should abstain for 2 to 7 days before giving the sample, as advised ``
-- Eat and rest normally. A full bladder is not needed
+- Your partner should abstain for 2 to 7 days before giving the sample, as advised - Eat and rest normally. A full bladder is not needed
 - Plan to be free on the days of scans and the procedure
-- Take medicines only as prescribed ### ART rules IUI is regulated by the ART (Regulation) Act, 2021. Treatment is offered to married couples where the woman is 21 to 50 and the man is 21 to 55, and to widowed or divorced women aged 21 to 50, with written consent and counselling. Sex selection is prohibited. `` ### FAQs 1. Is IUI painful? Most women feel little more than mild cramping, similar to a Pap test. No anaesthetic is needed, and the procedure takes a few minutes. You can rest briefly and then go home or back to work. Tell us if you feel uncomfortable, and we will pause.
+- Take medicines only as prescribed ### ART rules IUI is regulated by the ART (Regulation) Act, 2021. Treatment is offered to married couples where the woman is 21 to 50 and the man is 21 to 55, and to widowed or divorced women aged 21 to 50, with written consent and counselling. Sex selection is prohibited. ### FAQs 1. Is IUI painful? Most women feel little more than mild cramping, similar to a Pap test. No anaesthetic is needed, and the procedure takes a few minutes. You can rest briefly and then go home or back to work. Tell us if you feel uncomfortable, and we will pause.
 2. When should I consider IUI instead of IVF? IUI is usually considered when the tubes are open, sperm quality is adequate after preparation, and the cause is unexplained, mild male factor or ovulation related. IVF is usually advised for blocked tubes, severe male factor, endometriosis, or limited time. Dr. Swati advises after your evaluation.
 3. How many IUI cycles should we try? Guidelines support a limited number of cycles, then a review of the plan. The number depends on your age, tests and response. Dr. Swati sets a clear point to review before you begin, so you are not left trying indefinitely.
 4. Does IUI need fertility medicines? Not always. Some cycles are natural, and some use mild ovulation-inducing medicine to produce one or two follicles. Dr. Swati decides based on your cycle and monitors closely, to avoid too many follicles and a multiple pregnancy.
@@ -1262,13 +1209,13 @@ URL: http://localhost:3000/treatments/iui/
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems
 - ASRM Practice Committee, Use of clomiphene citrate and intrauterine insemination in unexplained infertility
-- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## IVF Treatment in Bangalore
 URL: http://localhost:3000/treatments/ivf/
 
-### Intro In vitro fertilisation (IVF) is a fertility treatment where eggs are collected from the ovaries, combined with sperm in a laboratory, and one or more embryos are transferred into the uterus. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree, MRCOG (UK), plans your IVF with you, guides each step, and explains what to expect. The laboratory procedures are carried out at associated, registered ART centres. `` ### At a glance - *What it is: egg collection, fertilisation in a laboratory, embryo culture and embryo transfer
+### Intro In vitro fertilisation (IVF) is a fertility treatment where eggs are collected from the ovaries, combined with sperm in a laboratory, and one or more embryos are transferred into the uterus. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree, MRCOG (UK), plans your IVF with you, guides each step, and explains what to expect. The laboratory procedures are carried out at associated, registered ART centres. ### At a glance - *What it is: egg collection, fertilisation in a laboratory, embryo culture and embryo transfer
 - Who may need it: blocked or absent tubes, severe male factor, endometriosis, low ovarian reserve with limited time, unexplained infertility after other treatments, or genetic reasons
 - A cycle takes: a few weeks from the start of stimulation to the embryo transfer
 - Stimulation: usually about 8 to 12 days of hormone injections, with scans and blood tests
@@ -1295,7 +1242,7 @@ URL: http://localhost:3000/treatments/ivf/
 - Bleeding or infection after egg collection are uncommon.
 - Sedation risks are small, and the anaesthetist reviews your health first.
 - Emotional strain: the process is demanding. Be honest about how you feel, and ask for support.
-- Not every cycle works. No clinic can promise a pregnancy. Outcomes depend on age, egg and sperm quality, the cause of infertility and chance. ### The legal framework IVF and ICSI are regulated by the ART (Regulation) Act, 2021. Clinics must be registered with the National ART and Surrogacy Registry. Treatment is offered to married couples where the woman is 21 to 50 and the man is 21 to 55, and to widowed or divorced women aged 21 to 50. Written consent and counselling are required. Sex selection is prohibited. `` ### How to prepare - Complete the evaluation and any treatment advised, such as thyroid correction
+- Not every cycle works. No clinic can promise a pregnancy. Outcomes depend on age, egg and sperm quality, the cause of infertility and chance. ### The legal framework IVF and ICSI are regulated by the ART (Regulation) Act, 2021. Clinics must be registered with the National ART and Surrogacy Registry. Treatment is offered to married couples where the woman is 21 to 50 and the man is 21 to 55, and to widowed or divorced women aged 21 to 50. Written consent and counselling are required. Sex selection is prohibited. ### How to prepare - Complete the evaluation and any treatment advised, such as thyroid correction
 - Both partners: stop smoking, limit alcohol, and keep a healthy diet and sleep
 - Plan time for scans and the days around egg collection and transfer
 - Ask about costs, number of cycles and what each estimate includes
@@ -1310,13 +1257,13 @@ URL: http://localhost:3000/treatments/ivf/
 - ESHRE Guideline: Ovarian stimulation for IVF/ICSI (2020)
 - ESHRE Good practice recommendations on add-ons in reproductive medicine (2023)
 - NICE Guideline CG156: Fertility problems
-- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## TESA PESA in Bangalore
 URL: http://localhost:3000/treatments/tesa-pesa/
 
-### Intro TESA (testicular sperm aspiration) and PESA (percutaneous epididymal sperm aspiration) are procedures that collect sperm directly from the testicle or the epididymis, using a fine needle, for men whose semen contains no sperm. The sperm found are used in IVF with ICSI. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree helps couples understand whether sperm retrieval is the right path, and plans the treatment with them. `` ### At a glance - *Who needs it: men with azoospermia, meaning no sperm in the semen
+### Intro TESA (testicular sperm aspiration) and PESA (percutaneous epididymal sperm aspiration) are procedures that collect sperm directly from the testicle or the epididymis, using a fine needle, for men whose semen contains no sperm. The sperm found are used in IVF with ICSI. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree helps couples understand whether sperm retrieval is the right path, and plans the treatment with them. ### At a glance - *Who needs it: men with azoospermia, meaning no sperm in the semen
 - Obstructive azoospermia: sperm are made, but a blockage stops them reaching the semen. Sperm retrieval often finds sperm.
 - Non-obstructive azoospermia: sperm production is very low or absent. Retrieval may still find sperm in some men.
 - PESA: needle from the epididymis. TESA: needle from the testicle.
@@ -1327,7 +1274,7 @@ URL: http://localhost:3000/treatments/tesa-pesa/
 2. History and examination for infection, surgery, undescended testis, medicines, and varicocele.
 3. Hormone tests (FSH, LH, testosterone) and scrotal ultrasound.
 4. Genetic tests such as karyotype and Y chromosome microdeletion, in selected men, with counselling.
-5. Plan. Dr. Swati explains whether retrieval is likely to help, and which procedure is suitable. In some cases, a urologist or andrologist performs the retrieval. `` ### What happens at the procedure 1. Timing with your partner's cycle. For fresh use, retrieval is planned on or near the day of the partner's egg collection. For frozen use, it can be done at any time.
+5. Plan. Dr. Swati explains whether retrieval is likely to help, and which procedure is suitable. In some cases, a urologist or andrologist performs the retrieval. ### What happens at the procedure 1. Timing with your partner's cycle. For fresh use, retrieval is planned on or near the day of the partner's egg collection. For frozen use, it can be done at any time.
 2. Anaesthesia. Local anaesthetic is given, sometimes with sedation.
 3. Aspiration. A fine needle is passed through the skin into the epididymis (PESA) or the testicle (TESA), and fluid or tissue is withdrawn.
 4. In the laboratory. An embryologist checks the sample for sperm.
@@ -1335,22 +1282,20 @@ URL: http://localhost:3000/treatments/tesa-pesa/
 6. Recovery. Most men go home the same day. Mild pain, swelling or bruising may last a few days. ### Risks and limits - Pain, swelling and bruising are common and settle in days
 - Bleeding, infection are uncommon
 - Haematoma (a collection of blood) is rare
-- Sperm may not be found, especially in non-obstructive azoospermia. The couple may then discuss other options, including another retrieval method, using donor sperm (where the law permits), or other paths. ``
-- Genetic risks: some causes of male infertility can be passed on to sons. Genetic counselling is advised where relevant.
+- Sperm may not be found, especially in non-obstructive azoospermia. The couple may then discuss other options, including another retrieval method, using donor sperm (where the law permits), or other paths. - Genetic risks: some causes of male infertility can be passed on to sons. Genetic counselling is advised where relevant.
 - TESA and PESA retrieve sperm. They do not treat the cause of azoospermia. ### How to prepare - Complete the evaluation and hormone tests first
 - Share all earlier reports and surgical history
 - Tell us about blood-thinning medicines and allergies
 - Plan with your partner's IVF cycle, if fresh retrieval is intended
-- Arrange for someone to accompany you home ### ART rules TESA, PESA and ICSI fall under the ART (Regulation) Act, 2021. Consent and counselling are required. Sex selection is prohibited. `` ### FAQs 1. What is the difference between TESA and PESA? PESA takes sperm from the epididymis, the coiled tube behind the testicle, with a needle. TESA takes sperm or tissue from the testicle itself. PESA is often used in obstruction, and TESA when production is the problem. The choice depends on your tests.
+- Arrange for someone to accompany you home ### ART rules TESA, PESA and ICSI fall under the ART (Regulation) Act, 2021. Consent and counselling are required. Sex selection is prohibited. ### FAQs 1. What is the difference between TESA and PESA? PESA takes sperm from the epididymis, the coiled tube behind the testicle, with a needle. TESA takes sperm or tissue from the testicle itself. PESA is often used in obstruction, and TESA when production is the problem. The choice depends on your tests.
 2. Is TESA or PESA painful? Local anaesthetic numbs the area, so you feel pressure rather than sharp pain. Sedation may be added. Mild aching, swelling and bruising are common for a few days. Most men go home the same day, and return to work within a few days.
 3. Will sperm definitely be found? Not always. In obstructive azoospermia, the chance of finding sperm is high. In non-obstructive azoospermia, it is lower and depends on the cause. Dr. Swati explains your likely situation before the procedure, so expectations are realistic.
 4. Can sperm from TESA or PESA be used for IUI? No. Sperm retrieved this way are few and need ICSI, where one sperm is injected into one egg in the IVF laboratory. IUI needs many motile sperm and is not suitable here.
 5. Can retrieved sperm be frozen? Yes, often. Frozen sperm can be used in a later IVF-ICSI cycle, which avoids repeating the procedure. Not all samples survive freezing, so the laboratory advises on the best plan.
 6. Does a male fertility problem mean my sons will have it too?* Sometimes. Certain genetic causes, such as Y chromosome microdeletions or some conditions affecting the vas deferens, can be passed on. Genetic counselling and testing, when advised, help you understand any risk before treatment. ### Sources
 - AUA/ASRM Guideline: Diagnosis and treatment of infertility in men (2020)
-- EAU Guidelines on Sexual and Reproductive Health ``
-- WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
-- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+- EAU Guidelines on Sexual and Reproductive Health - WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
+- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
 
 
 ## Your fertility journey, step by step
@@ -1375,9 +1320,9 @@ H1: Your fertility journey, step by step Intro (answer-first): A fertility journ
 - Write down your questions between visits, and bring them.
 - Decide in advance what you are comfortable with: how many cycles, what kinds of treatment, and what budget.
 - Protect sleep, meals and some quiet time.
-- Tell us if the process is affecting your mood or relationship. We can talk, and point you to counselling support. ### Who can have ART in India Under the ART (Regulation) Act, 2021, IUI and IVF are offered to married couples with an infertility diagnosis where the woman is 21 to 50 years old and the man is 21 to 55, and to widowed or divorced women aged 21 to 50. Written consent is required, and sex selection is prohibited. If you have questions about eligibility, ask at your consultation. `` ### FAQs 1. Should I try IUI or IVF first? It depends on your diagnosis, age and how long you have tried. IUI suits some couples with open tubes and mild problems. IVF suits blocked tubes, severe male factor, endometriosis or limited time. Dr. Swati recommends the starting point after your evaluation, and explains why.
+- Tell us if the process is affecting your mood or relationship. We can talk, and point you to counselling support. ### Who can have ART in India Under the ART (Regulation) Act, 2021, IUI and IVF are offered to married couples with an infertility diagnosis where the woman is 21 to 50 years old and the man is 21 to 55, and to widowed or divorced women aged 21 to 50. Written consent is required, and sex selection is prohibited. If you have questions about eligibility, ask at your consultation. ### FAQs 1. Should I try IUI or IVF first? It depends on your diagnosis, age and how long you have tried. IUI suits some couples with open tubes and mild problems. IVF suits blocked tubes, severe male factor, endometriosis or limited time. Dr. Swati recommends the starting point after your evaluation, and explains why.
 2. How many IUI cycles are reasonable before moving to IVF? Most guidelines support a limited number of IUI cycles, then a review. The number depends on your age, your tests, and your response to treatment. Dr. Swati explains your plan in advance so you know when the next review is.
 3. How long does a fertility evaluation take? Usually one to two menstrual cycles, because some tests are timed to specific cycle days. Your first consultation is the longest visit. You may need two or three short visits for scans, blood tests and the tubal check.
 4. Is infertility always the woman's problem? No. A male factor is the main or a contributing cause in about half of couples. That is why a semen analysis is one of the first tests, and why both partners are seen together.
 5. Can stress cause infertility? Everyday stress is unlikely to be the sole cause of infertility, but fertility treatment itself can be stressful. Sleep, meals, movement and honest conversations help. If low mood or anxiety are affecting you, tell us and we can suggest counselling.
-6. How do I know if I should stop treatment?* That is a personal decision. We can review your results and your options at any point. Some couples pause, some change plans, and some stop. Dr. Swati supports each choice without pressure. Sources: ESHRE Guideline on Unexplained Infertility (2023); NICE Guideline CG156, Fertility problems: assessment and treatment; ASRM Practice Committee, Definition of infertility (2023); ART (Regulation) Act, 2021 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed ``.
+6. How do I know if I should stop treatment?* That is a personal decision. We can review your results and your options at any point. Some couples pause, some change plans, and some stop. Dr. Swati supports each choice without pressure. Sources: ESHRE Guideline on Unexplained Infertility (2023); NICE Guideline CG156, Fertility problems: assessment and treatment; ASRM Practice Committee, Definition of infertility (2023); ART (Regulation) Act, 2021 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
