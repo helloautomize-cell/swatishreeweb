@@ -303,6 +303,20 @@ html[data-textsize="lg"] {
 .mcard .avatar-placeholder {
   flex: none;
 }
+.mcard .mavatar {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: block;
+}
+.mcard .mavatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 .mcard b {
   display: block;
   font-size: 15.5px;

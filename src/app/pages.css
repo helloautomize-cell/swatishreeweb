@@ -488,7 +488,7 @@
   font-family: var(--font-sans);
 }
 .pg-toc ul { margin: 0; padding: 0; list-style: none; }
-.pg-toc a {
+.pg-toc > ul a {
   display: block;
   padding: 7px 10px;
   margin: 0 -10px;
@@ -498,8 +498,8 @@
   text-decoration: none;
   border-left: 2px solid transparent;
 }
-.pg-toc a:hover { color: var(--ink); background: var(--primary-50); }
-.pg-toc a[aria-current="true"] {
+.pg-toc > ul a:hover { color: var(--ink); background: var(--primary-50); }
+.pg-toc > ul a[aria-current="true"] {
   color: var(--secondary);
   font-weight: 600;
   border-left-color: var(--primary);
@@ -734,6 +734,7 @@
 .timeline .t-when { font-size: 13px; font-weight: 600; color: var(--primary-700); }
 .timeline .t-what { font-size: 15px; line-height: 1.55; }
 .timeline .t-img { border-radius: 14px; overflow: hidden; max-width: 220px; margin-top: 8px; }
+.timeline .t-img img { width: 100%; height: auto; display: block; }
 
 .dr-teach {
   display: grid;

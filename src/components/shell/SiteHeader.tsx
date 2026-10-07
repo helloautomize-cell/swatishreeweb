@@ -4,7 +4,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useCallback, useRef, useState } from "react";
-import { ArrowRight, ChevronDown, Menu, User } from "lucide-react";
+import { ArrowRight, ChevronDown, Menu } from "lucide-react";
+import EveImage from "@/components/EveImage";
 import { brand, site } from "@/lib/site-config";
 import { headerLinks, megaMenus, type MegaMenu } from "@/lib/nav";
 import { bookingHref } from "@/lib/booking-context";
@@ -15,9 +16,7 @@ function DoctorMiniCard() {
   return (
     <div className="mcard">
       <div className="mrow">
-        <span className="avatar-placeholder" aria-hidden>
-          <User size={20} strokeWidth={1.8} />
-        </span>
+        <EveImage src="doctor-avatar-1x1.png" sizes="40px" className="mavatar" imgClassName="mavatar-img" />
         <span>
           <b>{site.doctor}</b>
           <small>MRCOG (UK)</small>
