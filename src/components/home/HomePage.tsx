@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Award, Check, Clock, MapPin, MessageCircle, Phone, User } from "lucide-react";
+import { ArrowRight, Award, Check, Clock, MapPin, MessageCircle, Phone, Stethoscope, User } from "lucide-react";
 import BookButton from "@/components/BookButton";
 import EveImage from "@/components/EveImage";
 import FaqAccordion from "@/components/FaqAccordion";
@@ -128,9 +128,16 @@ function AboutStrip({ d }: { d: ReturnType<typeof homeData> }) {
         <h2><InlineText source={d.about.h2} /></h2>
       </Reveal>
       <div className="hm-about-grid">
-        <div className="hm-about-media">
-          <div className="hm-about-photo">
-            <EveImage src="clinic-reception-4x3.jpg" sizes="(max-width: 900px) 100vw, 560px" />
+        <InView className="hm-about-media">
+          <div className="hm-about-fig">
+            <LineAccent
+              className="about-line"
+              viewBox="0 0 400 300"
+              d="M46 34C20 96 12 190 24 252C40 286 140 296 236 284"
+            />
+            <div className="hm-about-photo">
+              <EveImage src="clinic-reception-4x3.jpg" sizes="(max-width: 900px) 100vw, 560px" />
+            </div>
           </div>
           {!d.about.labels.length ? null : (
             <div className="hm-labels">
@@ -139,16 +146,20 @@ function AboutStrip({ d }: { d: ReturnType<typeof homeData> }) {
               ))}
             </div>
           )}
-        </div>
+        </InView>
         <div className="hm-about-body">
           <p><WithConfirms text={d.about.paragraph} /></p>
           {d.about.rows.map((r) => {
             const badge = badgeFor(r.badge === "ivf badge" ? "ivf" : "doctor");
             return (
               <div className="hm-row" key={r.title}>
-                {badge && (
+                {badge ? (
                   <span className="hm-row-badge" aria-hidden>
                     <AssetImage file={badge} size={56} />
+                  </span>
+                ) : (
+                  <span className="hm-row-badge hm-row-icon" aria-hidden>
+                    <Stethoscope size={26} strokeWidth={1.6} />
                   </span>
                 )}
                 <p><b>{r.title}</b> · <WithConfirms text={r.text} /></p>

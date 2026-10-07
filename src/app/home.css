@@ -155,9 +155,17 @@
   align-content: start;
 }
 
+.hm-about-fig {
+  position: relative;
+}
+
+.hm-about-fig .about-line {
+  z-index: 2;
+}
+
 .hm-about-photo {
   position: relative;
-  border-radius: 24px;
+  border-radius: 28px;
   overflow: hidden;
   aspect-ratio: 4 / 3;
   background: linear-gradient(135deg, var(--primary-100), var(--blush-50));
@@ -211,6 +219,16 @@
 .hm-row-badge img {
   width: 100%;
   height: auto;
+}
+
+.hm-row-icon {
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--blush-50);
+  border: 1.5px solid var(--primary-100);
+  color: var(--primary-500);
+  box-shadow: var(--shadow-sm);
 }
 
 .hm-row p {
