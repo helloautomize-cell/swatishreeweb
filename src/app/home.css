@@ -577,11 +577,11 @@
     max-height: 150px;
   }
   .hm-doctor {
-    padding: 20px;
-    gap: 16px;
+    padding: 16px;
+    gap: 12px;
   }
   .hm-doctor .da-media {
-    max-width: 300px;
+    max-width: 260px;
   }
   .hm-doctor .glasschip.award {
     right: 0;
@@ -589,7 +589,10 @@
     padding: 8px 10px;
   }
   .hm-doctor .da-body {
-    gap: 12px;
+    gap: 10px;
+  }
+  .hm-doctor .path {
+    gap: 10px;
   }
   .hm-doctor .da-body h3.nm {
     font-size: 26px;
