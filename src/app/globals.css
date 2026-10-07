@@ -111,8 +111,8 @@ em.acc,
 
 /* Focus ring on every interactive element. Never removed. */
 :focus-visible {
-  outline: 3px solid rgba(79, 100, 69, 0.45);
-  outline-offset: 2px;
+  outline: 2px solid var(--rose);
+  outline-offset: 3px;
 }
 
 .container-eve {
@@ -183,6 +183,15 @@ p {
 .rv-in > *:nth-child(5) { animation-delay: 280ms; }
 .rv-in > *:nth-child(6) { animation-delay: 350ms; }
 .rv-in > *:nth-child(n+7) { animation-delay: 420ms; }
+
+/* Rose accent word lands 120ms after the rest of its heading. */
+.rv-armed:not(.rv-in) .acc { opacity: 0; }
+.rv-in h1 .acc, .rv-in h2 .acc, .rv-in h3 .acc {
+  animation: acc-in 420ms var(--ease) 190ms backwards;
+}
+@keyframes acc-in {
+  from { opacity: 0; }
+}
 
 @media (prefers-reduced-motion: reduce) {
   *,

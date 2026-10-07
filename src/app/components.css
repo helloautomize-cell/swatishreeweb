@@ -25,6 +25,12 @@
     box-shadow 0.2s var(--ease),
     background-position 0.4s var(--ease);
 }
+.btn svg {
+  transition: transform 0.2s var(--ease);
+}
+.btn:hover svg:not(.spinner) {
+  transform: translateX(2px);
+}
 .btn:active {
   transform: scale(0.97);
   opacity: 0.85;
