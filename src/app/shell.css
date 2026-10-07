@@ -843,7 +843,7 @@ html[data-textsize="lg"] {
 
 /* ---------- breadcrumbs ---------- */
 .crumbs {
-  padding-block: 14px 0;
+  padding-block: 24px 0;
   font-size: 14px;
 }
 .crumbs ol {
