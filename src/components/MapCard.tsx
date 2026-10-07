@@ -35,7 +35,7 @@ export default function MapCard({
         />
       ) : (
         <>
-          <EveImage src={src} sizes={sizes} />
+          <EveImage src={src} sizes={sizes} caption="" />
           {maps ? (
             <button
               type="button"

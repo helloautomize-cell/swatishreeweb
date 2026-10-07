@@ -11,6 +11,12 @@ type Props = {
   objectPosition?: string;
   caption?: string;
   priority?: boolean;
+  /**
+   * "photo" renders object-fit: cover in the fixed-ratio wrapper;
+   * "illus" renders contain with 8% padding on a soft tint (never cropped).
+   * Defaults from the manifest's illustrative flag.
+   */
+  kind?: "photo" | "illus";
 };
 
 /**
@@ -26,14 +32,17 @@ export default function EveImage({
   objectPosition,
   caption,
   priority,
+  kind,
 }: Props) {
   const e = imageEntry(src);
   if (!e) return null;
 
   if (e.restricted && process.env.NODE_ENV === "production") return null;
 
+  const k = kind ?? (e.illustrative ? "illus" : "photo");
+
   const img = (
-    <span className={className}>
+    <span className={`evi evi--${k}${className ? " " + className : ""}`}>
       <Image
         src={e.src}
         sizes={sizes}
