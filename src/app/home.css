@@ -227,10 +227,10 @@
   margin-top: 8px;
 }
 
-.hm-quals {
+.hm-exp {
   font-size: 0.95rem;
   color: var(--ink-2);
-  margin: 4px 0 0;
+  margin: 0;
 }
 
 /* 06 / plan panel */
@@ -576,21 +576,31 @@
     aspect-ratio: 16 / 9;
     max-height: 150px;
   }
-  .hm-doctor .da {
-    padding: 16px;
-    gap: 12px;
+  .hm-doctor {
+    padding: 20px;
+    gap: 16px;
   }
   .hm-doctor .da-media {
-    max-width: 200px;
+    max-width: 300px;
+  }
+  .hm-doctor .glasschip.award {
+    right: 0;
+    font-size: 12.5px;
+    padding: 8px 10px;
   }
   .hm-doctor .da-body {
-    gap: 10px;
+    gap: 12px;
   }
   .hm-doctor .da-body h3.nm {
     font-size: 26px;
   }
   .hm-doctor .da-body .role {
     font-size: 15px;
+  }
+  .hm-doctor .seal span.s {
+    width: 56px;
+    height: 56px;
+    font-size: 12px;
   }
   .hm-doctor .chips {
     gap: 6px;

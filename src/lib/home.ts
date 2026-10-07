@@ -70,7 +70,7 @@ export type HomeData = {
   help: { h2: string; groups: { label: string; intro: string; cards: { title: string; line: string }[] }[] };
   visit: { steps: { title: string; text: string }[] };
   visitBand: { h2: string; text: string; hours: string };
-  doctor: { h2: string; text: string; quals: string; chips: string[] };
+  doctor: { h2: string; text: string; quals: string; experience: string; chips: string[] };
   plan: { h2: string; text: string; link: string };
   marquee: string[];
   blogLink: string;
@@ -164,6 +164,7 @@ export function homeData(doc: PageDoc): HomeData {
       h2: stripTicks(field(doctor, /^H2/) ?? doctor?.heading ?? ""),
       text: stripTicks(field(doctor, /Card text/) ?? ""),
       quals: stripTicks(field(doctor, /Qualifications/) ?? ""),
+      experience: stripTicks(field(doctor, /^Experience/) ?? ""),
       chips: (field(doctor, /^Chips/) ?? "").split(/\s*·\s*/).map(stripTicks).filter(Boolean),
     },
     plan: {

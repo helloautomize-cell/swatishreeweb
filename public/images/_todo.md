@@ -1,6 +1,6 @@
 # Image todo
 
-Generated 2026-10-06 by scripts/process-images.mjs.
+Generated 2026-10-07 by scripts/process-images.mjs.
 
 ## Missing files (slot has no source)
 - C6: Coming from outside Bangalore lead
@@ -51,7 +51,6 @@ Generated 2026-10-06 by scripts/process-images.mjs.
 
 ## Restricted (render behind confirm, excluded from production)
 - doctor-hero-cutout.avif :: Background removal required before use (hero cut-out). Interim resolution (half spec). Replace with ≥3000px tall source when available.
-- doctor-meet-cutout.png :: Background removal required before use; inauguration photo with marigold garlands
 
 ## Still needed from client (manifest missing_and_still_needed)
 - none

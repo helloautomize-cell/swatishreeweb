@@ -176,7 +176,10 @@
 @keyframes v2-grow { from { transform:scaleX(0); } }
 .path div { position:relative; font-size:13px; line-height:1.35; color:var(--ink-2); }
 .path div::before { content:""; position:absolute; top:-21px; left:0; width:12px; height:12px; border-radius:50%; background:var(--bg); border:2px solid var(--primary); z-index:1; }
+.path div:last-child::before { background:var(--rose); border-color:var(--rose); }
 .path b { display:block; color:var(--ink); font-size:13.5px; }
+.float { animation:v2-float 7s ease-in-out infinite alternate; }
+@keyframes v2-float { to { transform:translateY(-8px); } }
 .da-compact { grid-template-columns:140px minmax(0,1fr); gap:24px; padding:24px; }
 .da-compact .da-media { max-width:160px; }
 .da-compact h3.nm { font-size:26px; }
@@ -266,6 +269,7 @@
 @media (prefers-reduced-motion:reduce) {
   *, *::before, *::after { animation:none!important; transition:none!important; }
   .hb-line path.l, .journey .done-path { stroke-dashoffset:0; }
+  .journey .travel { display:none; }
   .hb-blob, .hb-blob2 { animation:none; }
   .cc { transform:none; }
 }

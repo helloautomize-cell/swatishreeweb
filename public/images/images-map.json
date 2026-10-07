@@ -69,7 +69,7 @@
     "ratio": "4:5",
     "caption": null,
     "illustrative": false,
-    "withheld": true,
+    "withheld": false,
     "slots": [
       {
         "id": "D2",
@@ -81,7 +81,7 @@
       "color": "#98b8a8",
       "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoFAAgAA4BaJbACdGuAAoe8BdoAAP3wY95hgQLmyAKvpvOH3urkfBsQd+DZTtM1fRSQAAAA"
     },
-    "restricted": true,
+    "restricted": false,
     "devOnly": false
   },
   "doctor-profile-portrait-4x5.avif": {

@@ -9,9 +9,11 @@ import type { NextConfig } from "next";
  * inert JSON data/JSON-LD scripts need 'unsafe-inline'; tightening that to
  * a per-request nonce is a follow-up, not a Phase 6 blocker.
  */
+// React dev mode and Turbopack HMR require eval; production never does.
+const DEV_EVAL = process.env.NODE_ENV === "development" ? " 'unsafe-eval'" : "";
 const CSP = [
   "default-src 'self'",
-  "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://challenges.cloudflare.com https://va.vercel-scripts.com",
+  `script-src 'self' 'unsafe-inline'${DEV_EVAL} https://www.googletagmanager.com https://challenges.cloudflare.com https://va.vercel-scripts.com`,
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: https:",
   "font-src 'self' data:",

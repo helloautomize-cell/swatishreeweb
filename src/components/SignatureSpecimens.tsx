@@ -58,7 +58,9 @@ export function WhyBento({ cards = whyCards }: { cards?: { title: string; text: 
         {index === 4 && <svg className="journey" viewBox="0 0 560 120" role="img" aria-label="First visit, tests, options, treatment and follow-up with one doctor">
           <path className="track-path" d="M30 70C120 10 200 130 290 70S460 10 530 70" /><path className="done-path" pathLength="1" d="M30 70C120 10 200 130 290 70S460 10 530 70" />
           {[[30,70,"First visit"],[160,62,"Tests"],[290,70,"Options"],[420,40,"Treatment"],[530,70,"Follow-up"]].map(([x,y,label]) => <g key={label}><circle className="node" cx={x} cy={y} r="7" /><text x={x} y={Number(y)+30} textAnchor="middle">{label}</text></g>)}
-          <circle className="travel" r="6" cx="30" cy="70" />
+          <circle className="travel" r="6" cx="0" cy="0">
+            <animateMotion dur="9s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;.85;1" calcMode="linear" path="M30 70C120 10 200 130 290 70S460 10 530 70" />
+          </circle>
         </svg>}
       </article>;
     })}

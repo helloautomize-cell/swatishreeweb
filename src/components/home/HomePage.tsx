@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Check, Clock, MapPin, MessageCircle, Phone, User } from "lucide-react";
+import { ArrowRight, Award, Check, Clock, MapPin, MessageCircle, Phone, User } from "lucide-react";
 import BookButton from "@/components/BookButton";
 import DoctorPortrait from "@/components/DoctorPortrait";
 import EveImage from "@/components/EveImage";
@@ -25,7 +25,8 @@ import { CtaBand } from "@/components/pages/PageFoot";
 /*
  * Home template (Part 7.1). Every string comes from resources/content/
  * index.md via homeData(); the section order below follows the spec table.
- * Named hospitals are intentionally absent (approved Home deviation).
+ * The Meet-your-doctor card uses the full styleguide layout (seals, path)
+ * with named hospitals, per the approved v2 design.
  */
 
 const CONDITION_LINKS: Record<string, string> = {
@@ -185,17 +186,33 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
         <span className="eyebrow">05 / Meet your doctor</span>
         <h2><InlineText source={d.doctor.h2} /></h2>
       </div>
-      <InView className="da da-compact hm-doctor">
+      <InView className="da hm-doctor" replay>
         <div className="da-media">
           <div className="da-frame2" />
           <div className="da-frame" />
           <div className="da-fig"><DoctorPortrait slot="D2" id="home-doctor" /></div>
+          <div className="glasschip award float">
+            <span className="gi"><Award size={18} strokeWidth={1.8} aria-hidden /></span>
+            <span>16th GCU International<small>Women&rsquo;s Day Award</small></span>
+          </div>
         </div>
         <div className="da-body">
           <span className="eyebrow">Your doctor</span>
           <h3 className="nm">{site.doctor}</h3>
           <p className="role"><WithConfirms text={d.doctor.text} /></p>
-          <p className="hm-quals"><WithConfirms text={d.doctor.quals} /></p>
+          <div className="seals">
+            <div className="seal"><span className="s">MBBS</span>Bachelor of Medicine</div>
+            <div className="seal"><span className="s">DNB</span>Obstetrics and Gynaecology</div>
+            <div className="seal"><span className="s">Fellow</span>Reproductive Medicine, KJK Hospital</div>
+            <div className="seal hi"><span className="s">MRCOG<br />UK</span>Royal College of Obstetricians and Gynaecologists</div>
+          </div>
+          <p className="hm-exp"><WithConfirms text={d.doctor.experience} /></p>
+          <div className="path">
+            <div><b>AIIMS</b>Training</div>
+            <div><b>Sakra World Hospital</b>Bangalore</div>
+            <div><b>KJK Hospital</b>Fellowship, Trivandrum</div>
+            <div><b>EVE, Gunjur</b>Founded Dec 2024</div>
+          </div>
           <div className="chips">
             {d.doctor.chips.map((c, i) =>
               /CONFIRM|\[date\]/i.test(c) ? (
