@@ -32,7 +32,7 @@ lines.forEach((line, i) => {
   if (m) cuts.push({ line: i, type: m[1].toLowerCase(), num: Number(m[2]), name: m[3] });
 });
 
-// Content ends before "# Part 7" (review guide) — not a page.
+// Content ends before "# Part 7" (review guide), not a page.
 const endIdx = lines.findIndex((l) => /^# Part 7/.test(l));
 
 const files = [];

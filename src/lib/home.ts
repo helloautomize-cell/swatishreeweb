@@ -137,7 +137,7 @@ export function homeData(doc: PageDoc): HomeData {
       intro: stripTicks(field(why, /^Intro/) ?? ""),
       cards: numbered(why?.markdown ?? "").map((c) => ({
         title: c.title,
-        text: sanitizeHome(c.text),
+        text: stripTicks(sanitizeHome(c.text)),
       })),
     },
     about: {

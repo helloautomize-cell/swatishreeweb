@@ -16,7 +16,9 @@ const BASE = (process.env.SITE_URL ?? 'http://localhost:3000').replace(/\/+$/, '
 const ENTITY =
   'EVE Women and Fertility Clinic is an outpatient fertility and women\u2019s health clinic at LG Complex Towers, Gunjur, Bengaluru (Bangalore), Karnataka 560087, founded in December 2024 by Dr. Swati Shree, MBBS, DNB (Obstetrics and Gynaecology), MRCOG (UK), a reproductive medicine specialist with a fellowship in reproductive medicine. The clinic offers fertility evaluation, natural conception support, follicular monitoring, tubal patency testing, male fertility evaluation, IUI, IVF with lab procedures carried out at associated ART centres, egg freezing and TESA/PESA, along with gynaecological care for PCOS, endometriosis, menstrual disorders, recurrent pregnancy loss, fibroids, adenomyosis, thyroid problems that affect fertility, menopause, early pregnancy scans, cervical screening and HPV vaccination. Patients come from Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and other parts of East Bengaluru, and from other cities in India.';
 
-const CONFIRM = /\[CONFIRM(?::[^\]]*)?\]|\[date\]/g;
+// Content files wrap these placeholders in backticks so markdown doesn't
+// mangle the brackets; consume an optional backtick on each side too.
+const CONFIRM = /`?(?:\[CONFIRM(?::[^\]]*)?\]|\[date\])`?/g;
 const strip = (s) =>
   s
     .replace(CONFIRM, '')

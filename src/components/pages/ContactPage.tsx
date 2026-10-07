@@ -45,7 +45,15 @@ export default function ContactPage({ doc }: { doc: PageDoc }) {
         {emergency && <Callout variant="em">{emergency}</Callout>}
 
         <div className="contact-grid">
-          <AppointmentForm defaultReason={defaultReason} sourcePath={doc.url} />
+          {/* Server-render time is the anti-spam min-fill timestamp (Part
+              12); it must be baked into the static HTML for the no-JS form
+              path to work, so this one read is intentionally impure. */}
+          <AppointmentForm
+            defaultReason={defaultReason}
+            sourcePath={doc.url}
+            // eslint-disable-next-line react-hooks/purity
+            renderedAt={Date.now()}
+          />
 
           <aside className="contact-side">
             <MapCard

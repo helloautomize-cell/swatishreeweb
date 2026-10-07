@@ -18,7 +18,7 @@ const W = 1200;
 const H = 630;
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-const stripMd = (s) => s.replace(/\*([^*]+)\*/g, '$1').replace(/\[CONFIRM[^\]]*\]|\[date\]/g, '').replace(/\s{2,}/g, ' ').trim();
+const stripMd = (s) => s.replace(/\*([^*]+)\*/g, '$1').replace(/`?(?:\[CONFIRM[^\]]*\]|\[date\])`?/g, '').replace(/\s{2,}/g, ' ').trim();
 
 const eyebrowFor = (url) => {
   if (url === '/') return 'Fertility and women\u2019s health, Gunjur';

@@ -26,9 +26,13 @@ function isoDate(d: Date): string {
 export default function AppointmentForm({
   defaultReason,
   sourcePath,
+  renderedAt,
 }: {
   defaultReason?: BookingReason | string;
   sourcePath: string;
+  /** Server render time (Part 12 anti-spam min-fill check); computed by the
+   * caller so this component stays pure. See `ContactPage`. */
+  renderedAt: number;
 }) {
   const [state, formAction, isPending] = useActionState<AppointmentResult | null, FormData>(
     submitAppointment,
@@ -37,7 +41,6 @@ export default function AppointmentForm({
   const [under18, setUnder18] = useState(false);
   const [time, setTime] = useState<"morning" | "afternoon" | "evening" | "">("");
   const [reason, setReason] = useState<string>(defaultReason ?? "");
-  const tsRef = useRef<number>(Date.now());
   const errRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -99,7 +102,7 @@ export default function AppointmentForm({
         <label htmlFor="f-website">Leave this field empty</label>
         <input id="f-website" name="website" type="text" tabIndex={-1} autoComplete="off" />
       </div>
-      <input type="hidden" name="ts" value={tsRef.current} />
+      <input type="hidden" name="ts" value={renderedAt} />
       <input type="hidden" name="source" value={sourcePath} />
 
       <div className="field">
