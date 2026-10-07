@@ -305,7 +305,7 @@ function ContactBlock({ d }: { d: ReturnType<typeof homeData> }) {
           <div className="hm-crow"><Clock size={20} strokeWidth={1.75} aria-hidden /><div><b>Hours</b><p><MaybeConfirm value={site.hours} /></p></div></div>
           <p className="hm-emergency">Medical emergency? Call <a href="tel:108">108</a> or <a href="tel:112">112</a>.</p>
         </div>
-        <MapCard src="clinic-exterior-4x3.jpg" />
+        <MapCard src="clinic-consultation-room-4x3.png" />
       </div>
     </section>
   );

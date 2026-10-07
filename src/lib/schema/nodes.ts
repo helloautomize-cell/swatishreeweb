@@ -65,7 +65,7 @@ export function clinicNode(): Json {
     ],
     url: abs("/"),
     logo: { "@type": "ImageObject", url: abs("/images/brand/logo-full.svg"), width: 1099, height: 338 },
-    image: [abs("/images/clinic/exterior.jpg"), abs("/images/clinic/consultation-room.jpg")],
+    image: [abs("/images/clinic-reception-4x3-w768.webp"), abs("/images/clinic-consultation-room-4x3-w768.webp")],
     description: entityStatement,
     slogan: "Fertility care built around you",
     founder: { "@id": IDS.doctor },
