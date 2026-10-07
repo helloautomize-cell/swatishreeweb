@@ -5,7 +5,58 @@
 }
 
 .hm-sec {
-  padding: clamp(48px, 7vw, 80px) 0 0;
+  padding-block: clamp(72px, 10vw, 140px);
+}
+
+/* full-bleed section washes: shadow paints the bleed, clip-path keeps
+   the band's vertical bounds */
+.hm-sec--wash {
+  background: var(--blush-50);
+  box-shadow: 0 0 0 100vmax var(--blush-50);
+  clip-path: inset(0 -100vmax);
+}
+
+.hm-sec--moss {
+  background: var(--secondary);
+  box-shadow: 0 0 0 100vmax var(--secondary);
+  clip-path: inset(0 -100vmax);
+  color: rgba(255, 255, 255, 0.88);
+}
+.hm-sec--moss .sec-h h2 {
+  color: #fff;
+}
+.hm-sec--moss .sec-h h2 em.acc {
+  color: var(--accent);
+}
+.hm-sec--moss .sec-h p {
+  color: rgba(255, 255, 255, 0.75);
+}
+.hm-sec--moss .eyebrow {
+  color: var(--glow);
+}
+.hm-sec--moss .bgsoft {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  overflow: visible;
+}
+.hm-sec--moss .bgsoft::before,
+.hm-sec--moss .bgsoft::after {
+  display: none;
+}
+.hm-sec--moss .gcard {
+  background: rgba(255, 255, 255, 0.94);
+  border-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+.hm-sec--moss .gcard:not(.feat),
+.hm-sec--moss .gcard:not(.feat) h3 {
+  color: var(--ink);
+}
+.hm-sec--moss .wc .feat {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.16);
 }
 
 .hm .sec-h {
@@ -16,26 +67,29 @@
 }
 
 .hm .sec-h h2 {
-  font-size: clamp(28px, 4vw, 40px);
-  line-height: 1.15;
+  font-size: clamp(34px, 4vw, 56px);
+  line-height: 1.1;
   font-weight: 700;
   text-wrap: balance;
 }
 
 .hm .sec-h p {
   margin: 0;
-  color: var(--ink-2);
+  font-size: 18px;
+  color: color-mix(in srgb, var(--secondary) 80%, transparent);
+  max-width: 62ch;
 }
 
 .hm-hero {
   border-radius: 32px;
   margin-top: 24px;
+  margin-inline: calc((100% - min(1320px, 100vw - 48px)) / 2);
 }
 
 /* answer-first line directly under the hero */
 
 .hm-answer {
-  max-width: 72ch;
+  max-width: 62ch;
   margin: 24px auto 0;
   font-size: 1.125rem;
   line-height: 1.7;
@@ -95,6 +149,12 @@
   align-items: center;
 }
 
+.hm-about-media {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+}
+
 .hm-about-photo {
   position: relative;
   border-radius: 24px;
@@ -103,24 +163,28 @@
   background: linear-gradient(135deg, var(--primary-100), var(--blush-50));
   display: grid;
   place-items: center;
+  border: 6px solid #fff;
+  box-shadow: var(--shadow-lg);
 }
 
 .hm-about-photo img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: transform 0.6s var(--ease);
+}
+.hm-about-photo:hover img {
+  transform: scale(1.03);
 }
 
 .hm-labels {
-  position: absolute;
-  inset: auto 16px 16px 16px;
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  z-index: 2;
 }
 
 .hm-labels .glasschip {
+  position: static;
   padding: 8px 12px;
   font-size: 0.82rem;
 }
@@ -153,36 +217,25 @@
   margin: 0;
 }
 
-/* visit band: desktop sticky photo + frosted card; mobile compact */
+/* visit band: split — photo left 58%, deep-moss card right */
 
 .hm-band {
-  position: relative;
   margin-top: clamp(48px, 7vw, 80px);
-  min-height: 60vh;
   display: grid;
-  align-items: center;
+  grid-template-columns: 58fr 42fr;
   isolation: isolate;
 }
 
 .hm-band-media {
-  position: absolute;
-  inset: 0;
-  z-index: -1;
+  position: relative;
   overflow: hidden;
-  background:
-    radial-gradient(80% 90% at 20% 15%, rgba(168, 196, 154, 0.55), transparent 60%),
-    linear-gradient(120deg, #35493b, #26382c 70%);
-}
-
-.hm-band-media::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(38, 56, 44, 0.4);
+  min-height: clamp(340px, 36vw, 520px);
 }
 
 .hm-band-media img,
 .hm-band-media .hm-band-img {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -190,35 +243,46 @@
 }
 
 .hm-band-card {
-  width: min(440px, calc(100% - 48px));
-  margin: 0 auto;
-  padding: 28px;
-  border-radius: 24px;
-  background: var(--glass);
-  -webkit-backdrop-filter: blur(14px);
-  backdrop-filter: blur(14px);
-  border: 1px solid var(--glass-b);
-  box-shadow: var(--shadow-card);
+  display: grid;
+  align-content: center;
+  gap: 14px;
+  padding: clamp(28px, 5vw, 64px);
+  background: var(--secondary);
+  color: rgba(255, 255, 255, 0.88);
 }
 
 .hm-band-card h2 {
-  margin: 0 0 10px;
+  margin: 0;
+  color: #fff;
+}
+.hm-band-card h2 em.acc {
+  color: var(--accent);
 }
 
 .hm-band-card p {
-  margin: 0 0 14px;
+  margin: 0;
   line-height: 1.65;
 }
 
 .hm-band-hours {
   font-weight: 600;
-  color: var(--primary-700);
+  color: var(--glow);
 }
 
 .hm-band-card .btns {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+}
+
+.hm-band-card .btn-s {
+  background: transparent;
+  border-color: var(--glow);
+  color: #fff;
+  backdrop-filter: none;
+}
+.hm-band-card .btn-s:hover {
+  background: rgba(168, 196, 154, 0.16);
 }
 
 /* 05 / doctor card on home */
@@ -268,7 +332,7 @@
   align-items: center;
   gap: 8px;
   padding: 12px 20px;
-  border: 1px solid var(--line);
+  border: 1px solid color-mix(in srgb, var(--primary) 40%, transparent);
   border-radius: 999px;
   background: #fff;
   font-weight: 600;
@@ -276,12 +340,15 @@
   color: var(--ink);
   text-decoration: none;
   white-space: nowrap;
-  box-shadow: 0 1px 2px rgba(31, 45, 38, 0.05);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.24s var(--ease), transform 0.24s var(--ease), border-color 0.24s var(--ease);
 }
 
 .hm-pill:hover {
-  border-color: var(--primary);
+  border-color: var(--secondary);
   color: var(--primary-700);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-4px);
 }
 
 /* 08 / blog cards */
@@ -296,17 +363,19 @@
   display: grid;
   gap: 10px;
   padding: 20px;
-  border: 1px solid var(--line);
+  border: 1px solid color-mix(in srgb, var(--primary) 40%, transparent);
   border-radius: 20px;
   background: #fff;
   text-decoration: none;
   color: var(--ink);
-  transition: box-shadow 0.25s var(--ease), transform 0.25s var(--ease);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.24s var(--ease), transform 0.24s var(--ease), border-color 0.24s var(--ease);
 }
 
 .hm-post:hover {
-  box-shadow: var(--shadow-hover);
-  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-4px);
+  border-color: var(--secondary);
 }
 
 .hm-post-cover {
@@ -584,7 +653,8 @@
     max-width: 260px;
   }
   .hm-doctor .glasschip.award {
-    right: 0;
+    left: -5%;
+    bottom: 6%;
     font-size: 12.5px;
     padding: 8px 10px;
   }
@@ -658,21 +728,14 @@
     min-height: 300px;
   }
   .hm-band {
-    min-height: 0;
-    padding: 0;
-    background: var(--primary-50);
+    grid-template-columns: 1fr;
   }
   .hm-band-media {
-    display: none;
+    min-height: 0;
+    aspect-ratio: 16 / 10;
   }
   .hm-band-card {
-    width: 100%;
-    padding: 22px;
-    border-radius: 20px;
-    background: #fff;
-    border: 1px solid var(--line);
-    -webkit-backdrop-filter: none;
-    backdrop-filter: none;
+    padding: 28px 22px;
   }
   .hm-blog {
     display: flex;

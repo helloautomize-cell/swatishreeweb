@@ -6,9 +6,8 @@ Generated 2026-10-07 by scripts/process-images.mjs.
 - C6: Coming from outside Bangalore lead
 
 ## Interim or development-only files
-- doctor-hero-cutout.avif :: Background removal required before use (hero cut-out). Interim resolution (half spec). Replace with ≥3000px tall source when available.
-- doctor-hero-cutout.avif: draft alt text pending review
-- doctor-meet-cutout.png: draft alt text pending review
+- doctor-hero-whitecoat-4x5.jpg: draft alt text pending review
+- doctor-meet-saree-4x5.jpg: draft alt text pending review
 - doctor-portrait-landscape-name-tag-fixed-7x5.png: draft alt text pending review
 - doctor-avatar-1x1.png: draft alt text pending review
 - doctor-mrcog-ceremony-4x3.avif: draft alt text pending review
@@ -47,7 +46,7 @@ Generated 2026-10-07 by scripts/process-images.mjs.
 - blog-fertility-tests-3x2.avif: draft alt text pending review
 
 ## Restricted (render behind confirm, excluded from production)
-- doctor-hero-cutout.avif :: Background removal required before use (hero cut-out). Interim resolution (half spec). Replace with ≥3000px tall source when available.
+- none
 
 ## Still needed from client (manifest missing_and_still_needed)
 - none

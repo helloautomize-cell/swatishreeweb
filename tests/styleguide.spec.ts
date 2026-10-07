@@ -65,7 +65,7 @@ test("v2 layout, source copy, card semantics and viewport safety", async ({ page
   expect(media).not.toBeNull();
   expect(head).not.toBeNull();
   if (page.viewportSize()!.width > 860) expect(media!.x).toBeLessThan(head!.x);
-  else expect(head!.y).toBeLessThan(media!.y);
+  else expect(media!.y).toBeLessThan(head!.y);
 });
 
 test("all tab text is in the initial HTML and tabs support keyboard navigation", async ({ page, request }) => {

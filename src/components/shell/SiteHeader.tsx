@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useCallback, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { ArrowRight, ChevronDown, Menu } from "lucide-react";
 import EveImage from "@/components/EveImage";
 import { brand, site } from "@/lib/site-config";
@@ -81,6 +81,14 @@ export default function SiteHeader() {
     setMobileOpen(false);
   }
 
+  const [scrolled, setScrolled] = useState(false);
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 24);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
   const closeMenu = useCallback(() => setOpen(null), []);
 
   const onItemKeyDown = (e: React.KeyboardEvent, id: string) => {
@@ -99,7 +107,7 @@ export default function SiteHeader() {
 
   return (
     <>
-      <header className="sh-hdr">
+      <header className={scrolled ? "sh-hdr scrolled" : "sh-hdr"}>
         <div className="container-eve hrow">
           <Link href="/" className="logo" aria-label={`${site.name} home`}>
             <Image src={`/images/${brand.logoFull}`} alt="" width={1099} height={338} priority style={{ height: 50, width: "auto" }} />

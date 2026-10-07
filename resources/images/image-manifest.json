@@ -4,33 +4,33 @@
   "slots": [
     {
       "id": "D1",
-      "file": "doctor-hero-cutout.avif",
+      "file": "doctor-hero-whitecoat-4x5.jpg",
       "placeholder": false,
-      "page": "Home / Hero B (cut-out, image left)",
+      "page": "Home / Hero B (framed arch photo, image left)",
       "ratio": "4:5",
       "illustrative": false,
       "caption": null,
-      "notes": "Background removal required before use (hero cut-out). Interim resolution (half spec). Replace with \u22653000px tall source when available."
+      "notes": "White coat at the EVE reception; renders as a framed arch photo (no cut-out). Supplied at 819x1024 - replace with the 1600x2000 original when the agency delivers it."
     },
     {
       "id": "D2",
-      "file": "doctor-meet-cutout.png",
+      "file": "doctor-meet-saree-4x5.jpg",
       "placeholder": false,
-      "page": "Home / 05 Meet your doctor (cut-out over double arch)",
+      "page": "Home / 05 Meet your doctor (framed arch photo)",
       "ratio": "4:5",
       "illustrative": false,
       "caption": null,
-      "notes": "Inauguration photo with marigold garlands. Renders as a standard photo per user direction (Oct 2026); a transparent cut-out may replace it later."
+      "notes": "Cream saree against a sage panel, no garlands. Supplied at 819x1024 - replace with the 1600x2000 original when the agency delivers it."
     },
     {
       "id": "D3",
-      "file": "doctor-portrait-landscape-name-tag-fixed-7x5.png",
+      "file": "doctor-meet-saree-4x5.jpg",
       "placeholder": false,
       "page": "/dr-swati-shree/ split hero",
       "ratio": "4:5",
       "illustrative": false,
       "caption": null,
-      "notes": "7:5 landscape source cropped to 4:5 at left (objectPosition 11% 50%); baked-in name tag excluded by the crop."
+      "notes": "Cream saree portrait, framed arch style matching the home hero. Supplied at 819x1024 - replace with the 1600x2000 original when delivered."
     },
     {
       "id": "D4",

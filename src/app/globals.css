@@ -29,6 +29,9 @@
   --grad-brand: linear-gradient(90deg, #5c7450 0%, #26382c 100%);
   --grad-btn: linear-gradient(90deg, #5c7450, #26382c, #5c7450);
   --grad-bar: linear-gradient(90deg, rgba(92, 116, 80, 0.92), rgba(38, 56, 44, 0.92));
+  --shadow-sm: 0 1px 2px rgba(38, 56, 44, 0.06), 0 2px 8px rgba(38, 56, 44, 0.05);
+  --shadow-md: 0 8px 24px rgba(38, 56, 44, 0.08);
+  --shadow-lg: 0 24px 60px rgba(38, 56, 44, 0.12);
   --shadow-card:
     0 1px 2px rgba(31, 45, 38, 0.04), 0 12px 32px -12px rgba(38, 56, 44, 0.18);
   --shadow-hover: 0 20px 48px -16px rgba(38, 56, 44, 0.28);
@@ -109,7 +112,7 @@ em.acc,
 
 .container-eve {
   width: 100%;
-  max-width: 1240px;
+  max-width: 1200px;
   margin-inline: auto;
   padding-inline: 24px;
 }
@@ -158,6 +161,23 @@ p {
 .reveal-in {
   animation: eve-reveal 500ms var(--ease) both;
 }
+
+/* <Reveal> staggered scroll reveal — children animate once, 70ms apart */
+.rv-armed > * {
+  opacity: 0;
+  transform: translateY(16px);
+}
+.rv-in > * {
+  opacity: 1;
+  transform: none;
+  animation: eve-reveal 500ms var(--ease) backwards;
+}
+.rv-in > *:nth-child(2) { animation-delay: 70ms; }
+.rv-in > *:nth-child(3) { animation-delay: 140ms; }
+.rv-in > *:nth-child(4) { animation-delay: 210ms; }
+.rv-in > *:nth-child(5) { animation-delay: 280ms; }
+.rv-in > *:nth-child(6) { animation-delay: 350ms; }
+.rv-in > *:nth-child(n+7) { animation-delay: 420ms; }
 
 @media (prefers-reduced-motion: reduce) {
   *,

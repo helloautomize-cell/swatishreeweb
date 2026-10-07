@@ -6,7 +6,12 @@ export default function InView({ className, children, replay = false }: { classN
   const ref = useRef<HTMLDivElement>(null);
   useEffect(() => {
     const element = ref.current;
-    if (!element || !("IntersectionObserver" in window)) return;
+    if (!element) return;
+    element.classList.add("armed");
+    if (!("IntersectionObserver" in window)) {
+      element.classList.add("in", "onscreen");
+      return;
+    }
     const observer = new IntersectionObserver(([entry]) => {
       element.classList.toggle("onscreen", entry.isIntersecting);
       if (entry.isIntersecting) element.classList.add("in");

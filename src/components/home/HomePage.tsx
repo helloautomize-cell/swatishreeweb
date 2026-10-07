@@ -1,11 +1,11 @@
 import Link from "next/link";
 import { ArrowRight, Award, Check, Clock, MapPin, MessageCircle, Phone, User } from "lucide-react";
 import BookButton from "@/components/BookButton";
-import DoctorPortrait from "@/components/DoctorPortrait";
 import EveImage from "@/components/EveImage";
 import FaqAccordion from "@/components/FaqAccordion";
 import MapCard from "@/components/MapCard";
 import InView from "@/components/InView";
+import Reveal from "@/components/Reveal";
 import ServiceTabs from "@/components/ServiceTabs";
 import StepTracker from "@/components/StepTracker";
 import { ConcernRows, WhyBento } from "@/components/SignatureSpecimens";
@@ -49,25 +49,29 @@ function Hero({ d }: { d: ReturnType<typeof homeData> }) {
   return (
     <InView className="hero2 hb hm-hero">
       <div className="media">
-        <div className="hb-blob2" />
-        <div className="hb-blob" />
-        <svg className="hb-line" viewBox="0 0 400 500" aria-hidden>
-          <path className="l" pathLength="1" d="M34 486C6 380 18 230 92 140C150 70 250 52 318 98C372 136 388 214 360 276C346 306 330 322 336 346C341 364 362 368 370 352" />
-          <path className="heart" d="M366 336c-4-6-13-4-13 3 0 6 13 13 13 13s13-7 13-13c0-7-9-9-13-3z" />
-        </svg>
-        <div className="hb-fig">
-          <DoctorPortrait slot="D1" id="home-hero" priority />
+        <div className="hb-stage">
+          <div className="hb-blob2" />
+          <div className="hb-blob" />
+          <svg className="hb-line" viewBox="0 0 400 500" aria-hidden>
+            <path className="l" pathLength="1" d="M34 486C6 380 18 230 92 140C150 70 250 52 318 98C372 136 388 214 360 276C346 306 330 322 336 346C341 364 362 368 370 352" />
+            <path className="heart" d="M366 336c-4-6-13-4-13 3 0 6 13 13 13 13s13-7 13-13c0-7-9-9-13-3z" />
+          </svg>
+          <div className="hb-fig">
+            <EveImage src="doctor-hero-whitecoat-4x5.jpg" priority sizes="(max-width: 860px) 92vw, 480px" imgClassName="hb-photo" />
+          </div>
         </div>
-        <div className="glasschip name">
-          <span className="seal-mini">MRCOG</span>
-          <span>
-            <b>{site.doctor}</b>
-            <small>{d.hero.namePill.split("·").slice(1).join("·").trim() || "MBBS, DNB (OBG), MRCOG (UK)"}</small>
-          </span>
-        </div>
-        <div className="glasschip c2">
-          <span className="gi"><Clock size={18} strokeWidth={1.75} aria-hidden /></span>
-          <span>Unhurried visits<small>Time for every question</small></span>
+        <div className="hb-chips">
+          <div className="glasschip name">
+            <span className="seal-mini">MRCOG</span>
+            <span>
+              <b>{site.doctor}</b>
+              <small>{d.hero.namePill.split("·").slice(1).join("·").trim() || "MBBS, DNB (OBG), MRCOG (UK)"}</small>
+            </span>
+          </div>
+          <div className="glasschip c2">
+            <span className="gi"><Clock size={18} strokeWidth={1.75} aria-hidden /></span>
+            <span>Unhurried visits<small>Time for every question</small></span>
+          </div>
         </div>
       </div>
       <div className="head">
@@ -115,14 +119,16 @@ function Hero({ d }: { d: ReturnType<typeof homeData> }) {
 
 function AboutStrip({ d }: { d: ReturnType<typeof homeData> }) {
   return (
-    <section className="hm-sec hm-about">
-      <div className="sec-h">
+    <section className="hm-sec hm-about hm-sec--wash">
+      <Reveal className="sec-h">
         <span className="eyebrow">02 / About EVE</span>
         <h2><InlineText source={d.about.h2} /></h2>
-      </div>
+      </Reveal>
       <div className="hm-about-grid">
-        <div className="hm-about-photo">
-          <EveImage src="clinic-reception-4x3.jpg" sizes="(max-width: 900px) 100vw, 560px" />
+        <div className="hm-about-media">
+          <div className="hm-about-photo">
+            <EveImage src="clinic-reception-4x3.jpg" sizes="(max-width: 900px) 100vw, 560px" />
+          </div>
           {!d.about.labels.length ? null : (
             <div className="hm-labels">
               {d.about.labels.map((l) => (
@@ -157,8 +163,8 @@ function VisitBand({ d }: { d: ReturnType<typeof homeData> }) {
   const maps = resolveConfirm<string>(site.mapsUrl);
   return (
     <section className="hm-band" aria-label="Visit us in Gunjur">
-      <div className="hm-band-media" aria-hidden>
-        <EveImage src="clinic-visit-band-16x9.jpg" sizes="100vw" className="hm-band-img" />
+      <div className="hm-band-media">
+        <EveImage src="clinic-visit-band-16x9.jpg" sizes="(max-width: 860px) 100vw, 58vw" className="hm-band-img" />
       </div>
       <div className="hm-band-card">
         <h2><InlineText source={d.visitBand.h2} /></h2>
@@ -182,15 +188,13 @@ function VisitBand({ d }: { d: ReturnType<typeof homeData> }) {
 function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
   return (
     <section className="hm-sec">
-      <div className="sec-h">
+      <Reveal className="sec-h">
         <span className="eyebrow">05 / Meet your doctor</span>
         <h2><InlineText source={d.doctor.h2} /></h2>
-      </div>
+      </Reveal>
       <InView className="da hm-doctor" replay>
         <div className="da-media">
-          <div className="da-frame2" />
-          <div className="da-frame" />
-          <div className="da-fig"><DoctorPortrait slot="D2" id="home-doctor" /></div>
+          <div className="da-fig"><EveImage src="doctor-meet-saree-4x5.jpg" sizes="(max-width: 860px) 92vw, 420px" imgClassName="da-photo" /></div>
           <div className="glasschip award float">
             <span className="gi"><Award size={18} strokeWidth={1.8} aria-hidden /></span>
             <span>16th GCU International<small>Women&rsquo;s Day Award</small></span>
@@ -238,10 +242,10 @@ function BlogStrip({ d }: { d: ReturnType<typeof homeData> }) {
     .sort((a, b) => a.num - b.num);
   return (
     <section className="hm-sec">
-      <div className="sec-h">
+      <Reveal className="sec-h">
         <span className="eyebrow">08 / From our blog</span>
         <h2>Written for <em className="acc">you</em></h2>
-      </div>
+      </Reveal>
       <AutoScrollRow id="home-blog" className="hm-blog" mobileOnly ariaLabel="From our blog">
         {posts.map((p) => (
           <Link className="hm-post" href={p.url} key={p.url}>
@@ -268,11 +272,11 @@ function ContactBlock({ d }: { d: ReturnType<typeof homeData> }) {
   const whatsapp = resolveConfirm<string>(site.whatsapp);
   const maps = resolveConfirm<string>(site.mapsUrl);
   return (
-    <section className="hm-sec hm-contact">
-      <div className="sec-h">
+    <section className="hm-sec hm-contact hm-sec--wash">
+      <Reveal className="sec-h">
         <span className="eyebrow">Contact</span>
         <h2>{d.contact.title}</h2>
-      </div>
+      </Reveal>
       <div className="hm-contact-grid">
         <div className="hm-contact-rows">
           <div className="hm-crow"><Phone size={20} strokeWidth={1.75} aria-hidden /><div><b>Call</b><p><a href={`tel:${site.phones[0].e164}`}>{site.phones[0].display}</a> · <a href={`tel:${site.phones[1].e164}`}>{site.phones[1].display}</a></p></div></div>
@@ -314,31 +318,31 @@ export default function HomePage({ doc }: { doc: PageDoc }) {
           <ConcernRows label={d.concernLabel} items={d.concerns} labelAs="h2" />
         </section>
 
-        <section className="hm-sec">
-          <div className="sec-h">
+        <section className="hm-sec hm-sec--moss">
+          <Reveal className="sec-h">
             <span className="eyebrow">01 / Why EVE</span>
             <h2><InlineText source={d.why.h2} /></h2>
             <p><WithConfirms text={d.why.intro} /></p>
-          </div>
+          </Reveal>
           <WhyBento cards={d.why.cards} />
         </section>
 
         <AboutStrip d={d} />
 
         <section className="hm-sec">
-          <div className="sec-h">
+          <Reveal className="sec-h">
             <span className="eyebrow">03 / How we can help</span>
             <h2><InlineText source={d.help.h2} /></h2>
-          </div>
+          </Reveal>
           <ServiceTabs groups={serviceGroups} />
           <p className="hm-more"><Link className="link" href="/services/">View all services <ArrowRight size={16} strokeWidth={1.75} aria-hidden /></Link></p>
         </section>
 
-        <section className="hm-sec">
-          <div className="sec-h">
+        <section className="hm-sec hm-sec--wash">
+          <Reveal className="sec-h">
             <span className="eyebrow">04 / Your first visit</span>
             <h2>Your first visit, step by <em className="acc">step</em></h2>
-          </div>
+          </Reveal>
           <StepTracker steps={d.visit.steps} bookHref="/contact/#book" />
         </section>
       </div>
@@ -349,21 +353,21 @@ export default function HomePage({ doc }: { doc: PageDoc }) {
         <DoctorHome d={d} />
 
         <section className="hm-sec hm-plan">
-          <div className="sec-h">
+          <Reveal className="sec-h">
             <span className="eyebrow">06 / Why a full evaluation comes first</span>
             <h2><InlineText source={d.plan.h2} /></h2>
-          </div>
+          </Reveal>
           <div className="hm-plan-panel">
             <p><WithConfirms text={d.plan.text} /></p>
             <Link className="link" href="/your-fertility-journey/">{d.plan.link || "Read how a fertility journey works"} <ArrowRight size={16} strokeWidth={1.75} aria-hidden /></Link>
           </div>
         </section>
 
-        <section className="hm-sec" aria-label="Conditions we look after">
-          <div className="sec-h">
+        <section className="hm-sec hm-sec--wash" aria-label="Conditions we look after">
+          <Reveal className="sec-h">
             <span className="eyebrow">07 / Conditions we look after</span>
             <h2>Care across the <em className="acc">span</em></h2>
-          </div>
+          </Reveal>
           <AutoScrollRow id="cond-marquee" className="hm-marquee" ariaLabel="Conditions we look after">
             {d.marquee.map((name) => (
               <Link className="hm-pill" href={CONDITION_LINKS[name] ?? "/conditions/"} key={name}>{name}</Link>
@@ -374,10 +378,10 @@ export default function HomePage({ doc }: { doc: PageDoc }) {
         <BlogStrip d={d} />
 
         <section className="hm-sec">
-          <div className="sec-h">
+          <Reveal className="sec-h">
             <span className="eyebrow">09 / Quick answers</span>
             <h2>Quick <em className="acc">answers</em></h2>
-          </div>
+          </Reveal>
           <FaqAccordion items={d.faqs.map((f) => ({ q: f.q, a: <Markdown source={f.a} /> }))} />
           <p className="hm-more"><Link className="link" href="/faqs/">See all FAQs <ArrowRight size={16} strokeWidth={1.75} aria-hidden /></Link></p>
         </section>

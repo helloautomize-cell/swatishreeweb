@@ -1,71 +1,70 @@
 {
-  "doctor-hero-cutout.avif": {
+  "doctor-hero-whitecoat-4x5.jpg": {
     "widths": [
       320,
       480,
       768
     ],
     "source": {
-      "w": 800,
-      "h": 1000
+      "w": 819,
+      "h": 1023
     },
     "original": {
-      "w": 800,
-      "h": 1000
+      "w": 819,
+      "h": 1024
     },
     "crop": {
       "left": 0,
       "top": 0,
-      "width": 800,
-      "height": 1000
+      "width": 819,
+      "height": 1023
     },
     "id": "D1",
-    "alt": "Dr. Swati Shree standing in a white coat in front of the clinic's wall sign.",
+    "alt": "Dr. Swati Shree in a white coat standing in the clinic corridor.",
     "altApproved": false,
-    "objectPosition": "50% 50%",
+    "objectPosition": "50% 22%",
     "ratio": "4:5",
     "caption": null,
     "illustrative": false,
-    "withheld": true,
+    "withheld": false,
     "slots": [
       {
         "id": "D1",
-        "page": "Home / Hero B (cut-out, image left)",
+        "page": "Home / Hero B (framed arch photo, image left)",
         "crop": "4:5"
       }
     ],
     "blur": {
-      "color": "#c8b8a8",
-      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoGAAgAA4BaJQBOgBu011k/wAD+W2ixIPzm4CQM6HPw2Xdk4kUha+/J5vFdhkegAAA="
+      "color": "#d8d8d8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoGAAgAA4BaJZQCw7D0TAFY8AD+1rRYF8xURUTuYOW0//LdWvQ/OzCSpEB2ZpAA"
     },
-    "restricted": true,
-    "devOnly": true
+    "restricted": false,
+    "devOnly": false
   },
-  "doctor-meet-cutout.png": {
+  "doctor-meet-saree-4x5.jpg": {
     "widths": [
       320,
       480,
-      768,
-      1028
+      768
     ],
     "source": {
-      "w": 4480,
-      "h": 5600
+      "w": 819,
+      "h": 1023
     },
     "original": {
-      "w": 4480,
-      "h": 6720
+      "w": 819,
+      "h": 1024
     },
     "crop": {
       "left": 0,
-      "top": 560,
-      "width": 4480,
-      "height": 5600
+      "top": 0,
+      "width": 819,
+      "height": 1023
     },
     "id": "D2",
-    "alt": "Dr. Swati Shree standing behind a table decorated with flower garlands.",
+    "alt": "Dr. Swati Shree in a cream saree against a sage panel.",
     "altApproved": false,
-    "objectPosition": "50% 50%",
+    "objectPosition": "50% 22%",
     "ratio": "4:5",
     "caption": null,
     "illustrative": false,
@@ -73,13 +72,13 @@
     "slots": [
       {
         "id": "D2",
-        "page": "Home / 05 Meet your doctor (cut-out over double arch)",
+        "page": "Home / 05 Meet your doctor (framed arch photo)",
         "crop": "4:5"
       }
     ],
     "blur": {
-      "color": "#98b8a8",
-      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoFAAgAA4BaJbACdGuAAoe8BdoAAP3wY95hgQLmyAKvpvOH3urkfBsQd+DZTtM1fRSQAAAA"
+      "color": "#a8c8b8",
+      "dataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoGAAgAA4BaJQBOkCYidHaeaAAA/OVqfgTXLt8t1M9bSkOdJxwtAKou9r64ygxh9wGbhyV3AAA="
     },
     "restricted": false,
     "devOnly": false

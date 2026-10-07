@@ -105,7 +105,7 @@ export default function DetailPage({ doc }: { doc: PageDoc }) {
             </div>
             <div className="pg-split-media">
               {lead ? (
-                <EveImage src={lead} sizes="(max-width: 860px) 100vw, 460px" />
+                <EveImage src={lead} sizes="(max-width: 860px) 100vw, 460px" caption="" />
               ) : (
                 <BadgePanel doc={doc} />
               )}

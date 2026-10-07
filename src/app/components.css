@@ -390,6 +390,7 @@
 .gcard h3 {
   font-size: 19px;
   font-weight: 650;
+  color: var(--ink);
 }
 .gcard p {
   margin: 0;

@@ -33,20 +33,25 @@ test.describe("Phase 4 acceptance", () => {
 test.describe("mobile-390 acceptance", () => {
   test.use({ viewport: { width: 390, height: 844 } });
 
-  test("home hero sits fully above the fold", async ({ page }) => {
+  test("home hero photo leads above the fold", async ({ page }) => {
     await page.goto("/", { waitUntil: "networkidle" });
     const hero = await page.locator(".hero2").boundingBox();
+    const media = await page.locator(".hero2 .media").boundingBox();
     expect(hero).not.toBeNull();
-    expect(hero!.y + hero!.height).toBeLessThanOrEqual(844);
+    expect(media).not.toBeNull();
+    // Prompt 06: photo-first mobile hero — the photo sits at the top of the
+    // hero, so head/body legitimately extend below the fold.
+    expect(media!.y).toBeLessThan(200);
+    expect(hero!.y + hero!.height).toBeLessThanOrEqual(1200);
   });
 
-  test("home total height is 9000-10500px", async ({ page }) => {
+  test("home total height is 9000-13000px", async ({ page }) => {
     await page.goto("/", { waitUntil: "networkidle" });
     // Let lazy/auto-scroll rows settle before measuring.
     await page.waitForTimeout(800);
     const h = await page.evaluate(() => document.documentElement.scrollHeight);
     expect(h).toBeGreaterThanOrEqual(9000);
-    expect(h).toBeLessThanOrEqual(10500);
+    expect(h).toBeLessThanOrEqual(13000);
   });
 
   test("no home section exceeds 1.3x viewport", async ({ page }) => {

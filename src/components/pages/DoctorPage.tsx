@@ -2,7 +2,6 @@ import Link from "next/link";
 import { ArrowRight, GraduationCap, Phone } from "lucide-react";
 import Breadcrumbs from "@/components/shell/Breadcrumbs";
 import BookButton from "@/components/BookButton";
-import DoctorPortrait from "@/components/DoctorPortrait";
 import EveImage from "@/components/EveImage";
 import FaqAccordion from "@/components/FaqAccordion";
 import { WithConfirms } from "@/components/ConfirmChip";
@@ -68,7 +67,7 @@ export default function DoctorPage({ doc }: { doc: PageDoc }) {
       <article className="pg container-eve">
         <header className="pg-hero pg-split dr-hero">
           <div className="pg-split-media dr-portrait">
-            <DoctorPortrait slot="D3" id="dr-profile" />
+            <EveImage src="doctor-meet-saree-4x5.jpg" sizes="(max-width: 860px) 92vw, 380px" imgClassName="dr-portrait-img" />
           </div>
           <div className="pg-split-text">
             <h1><InlineText source={fieldOf(hero, /^H1/) ?? doc.h1} /></h1>
