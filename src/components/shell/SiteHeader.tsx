@@ -6,7 +6,9 @@ import { usePathname } from "next/navigation";
 import { useCallback, useRef, useState } from "react";
 import { ArrowRight, ChevronDown, Menu, User } from "lucide-react";
 import { brand, site } from "@/lib/site-config";
-import { booking, headerLinks, megaMenus, type MegaMenu } from "@/lib/nav";
+import { headerLinks, megaMenus, type MegaMenu } from "@/lib/nav";
+import { bookingHref } from "@/lib/booking-context";
+import { track } from "@/lib/analytics";
 import MobileMenu from "./MobileMenu";
 
 function DoctorMiniCard() {
@@ -142,14 +144,19 @@ export default function SiteHeader() {
             </ul>
           </nav>
           <div className="hact">
-            <a className="book" href={booking.href} aria-label={booking.label}>
+            <a
+              className="book"
+              href={bookingHref(pathname)}
+              aria-label="Book Consultation"
+              onClick={() => track("book_click", { href: pathname })}
+            >
               <span className="ic">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden="true">
                   <rect x="3" y="5" width="18" height="16" rx="3" />
                   <path d="M8 3v4M16 3v4M3 10h18" />
                 </svg>
               </span>
-              <span className="lb">{booking.label}</span>
+              <span className="lb">Book Consultation</span>
             </a>
             <button
               type="button"

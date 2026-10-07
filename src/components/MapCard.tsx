@@ -6,6 +6,7 @@ import EveImage from "@/components/EveImage";
 import ConfirmChip from "@/components/ConfirmChip";
 import { resolveConfirm } from "@/lib/confirm";
 import { site } from "@/lib/site-config";
+import { track } from "@/lib/analytics";
 
 /*
  * Contact photo card with a "Show map" click-to-load overlay: the map iframe
@@ -36,7 +37,14 @@ export default function MapCard({
         <>
           <EveImage src={src} sizes={sizes} />
           {maps ? (
-            <button type="button" className="map-btn" onClick={() => setShowMap(true)}>
+            <button
+              type="button"
+              className="map-btn"
+              onClick={() => {
+                track("map_load");
+                setShowMap(true);
+              }}
+            >
               <MapPin size={16} strokeWidth={1.75} aria-hidden /> Show map
             </button>
           ) : (

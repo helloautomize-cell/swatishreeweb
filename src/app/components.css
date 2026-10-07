@@ -57,6 +57,41 @@
   transform: translateY(-1px);
   background: var(--primary-50);
 }
+/* Call / WhatsApp fallback pills, used beside BookButton across templates */
+.btn-call,
+.btn-wa {
+  font: 600 16px/1 var(--font-sans);
+  height: 52px;
+  padding-inline: 22px;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  border-radius: 12px;
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    transform 0.2s var(--ease),
+    background-color 0.2s var(--ease);
+}
+.btn-call {
+  background: var(--glass);
+  color: var(--primary-500);
+  border: 1.5px solid var(--primary);
+  backdrop-filter: blur(12px);
+}
+.btn-call:hover {
+  transform: translateY(-1px);
+  background: var(--primary-50);
+}
+.btn-wa {
+  background: var(--primary-50);
+  color: var(--secondary);
+  border: 1.5px solid var(--line);
+}
+.btn-wa:hover {
+  transform: translateY(-1px);
+  border-color: var(--primary);
+}
 .book {
   display: inline-flex;
   border-radius: 12px;
@@ -1265,6 +1300,14 @@ table.ct {
   border: 1px solid var(--line);
   border-radius: 20px;
   padding: 28px;
+}
+/* honeypot: off-screen, not display:none, so it still reports a real bot fill */
+.hp {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  left: -9999px;
 }
 .field {
   display: grid;

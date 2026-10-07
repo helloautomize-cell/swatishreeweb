@@ -176,11 +176,6 @@ export const legalLinks: NavLink[] = [
   { label: "Accessibility Statement", href: "/accessibility/" },
 ];
 
-export const booking = {
-  href: "/contact/#book",
-  label: "Book Consultation",
-};
-
 /** WhatsApp pre-fill pattern (site-plan §5). */
 export function whatsappPrefill(pageTitle: string): string {
   return `Hello EVE Women and Fertility Clinic, I would like to book a consultation about ${pageTitle}. My name is `;
