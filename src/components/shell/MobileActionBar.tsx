@@ -4,8 +4,10 @@ import { usePathname } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { CalendarDays, MessageCircle, Phone, X } from "lucide-react";
 import { site } from "@/lib/site-config";
-import { booking, whatsappPrefill } from "@/lib/nav";
+import { whatsappPrefill } from "@/lib/nav";
+import { bookingHref } from "@/lib/booking-context";
 import { resolveConfirm } from "@/lib/confirm";
+import { track } from "@/lib/analytics";
 
 const waNumber = resolveConfirm<string>(site.whatsapp);
 
@@ -64,7 +66,7 @@ export default function MobileActionBar() {
   return (
     <>
       <div className={`appbar${typing ? " hidden-while-typing" : ""}`} role="group" aria-label="Quick actions">
-        <a href={booking.href}>
+        <a href={bookingHref(pathname)} onClick={() => track("book_click", { href: pathname })}>
           <CalendarDays size={20} strokeWidth={1.8} aria-hidden />
           Book Now
         </a>
@@ -73,7 +75,12 @@ export default function MobileActionBar() {
           Call Now
         </button>
         {waHref ? (
-          <a href={waHref} target="_blank" rel="noopener noreferrer">
+          <a
+            href={waHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={() => track("whatsapp_click", { source: pathname })}
+          >
             <MessageCircle size={20} strokeWidth={1.8} aria-hidden />
             WhatsApp
           </a>
@@ -102,7 +109,15 @@ export default function MobileActionBar() {
       >
         <h3>Call the clinic</h3>
         {site.phones.map((p) => (
-          <a key={p.e164} className="num" href={`tel:${p.e164}`} onClick={closeSheet}>
+          <a
+            key={p.e164}
+            className="num"
+            href={`tel:${p.e164}`}
+            onClick={() => {
+              track("call_click", { source: pathname });
+              closeSheet();
+            }}
+          >
             <Phone size={18} strokeWidth={1.8} aria-hidden />
             {p.display}
           </a>

@@ -2,12 +2,11 @@
 
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
-
-const KEY = "eve-consent";
+import { getConsent, openConsentSettings, setConsent, type ConsentChoice } from "@/lib/consent";
 
 /**
- * Cookie consent banner. Stores the choice under `eve-consent`; Phase 6 wires
- * GA4 and other tags behind this gate. The footer's "Cookie settings" button
+ * Cookie consent banner. Stores the choice via `lib/consent.ts`; `analytics.ts`
+ * gates GA4 behind the same store. The footer's "Cookie settings" button
  * re-opens the banner via the `eve:cookie-settings` window event.
  */
 export default function CookieBanner() {
@@ -15,11 +14,7 @@ export default function CookieBanner() {
 
   useEffect(() => {
     const id = window.requestAnimationFrame(() => {
-      try {
-        if (!window.localStorage.getItem(KEY)) setShow(true);
-      } catch {
-        setShow(true);
-      }
+      if (!getConsent()) setShow(true);
     });
     const reopen = () => setShow(true);
     window.addEventListener("eve:cookie-settings", reopen);
@@ -29,12 +24,8 @@ export default function CookieBanner() {
     };
   }, []);
 
-  const choose = useCallback((choice: "accepted" | "rejected") => {
-    try {
-      window.localStorage.setItem(KEY, JSON.stringify({ choice, at: Date.now() }));
-    } catch {
-      /* storage unavailable */
-    }
+  const choose = useCallback((choice: ConsentChoice) => {
+    setConsent(choice);
     setShow(false);
   }, []);
 
@@ -62,11 +53,7 @@ export default function CookieBanner() {
 /** Footer button that re-opens the consent banner. */
 export function CookieSettingsButton() {
   return (
-    <button
-      type="button"
-      className="cset"
-      onClick={() => window.dispatchEvent(new Event("eve:cookie-settings"))}
-    >
+    <button type="button" className="cset" onClick={openConsentSettings}>
       Cookie settings
     </button>
   );

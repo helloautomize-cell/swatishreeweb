@@ -3,9 +3,12 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
+import { usePathname } from "next/navigation";
 import { ChevronDown, X } from "lucide-react";
 import { brand, site } from "@/lib/site-config";
-import { booking, mobileMenu, type MegaMenu } from "@/lib/nav";
+import { mobileMenu, type MegaMenu } from "@/lib/nav";
+import { bookingHref } from "@/lib/booking-context";
+import { track } from "@/lib/analytics";
 import { MaybeConfirm } from "@/components/ConfirmChip";
 
 function MenuAccordion({ menu }: { menu: MegaMenu }) {
@@ -55,6 +58,7 @@ function MenuAccordion({ menu }: { menu: MegaMenu }) {
 /** Off-canvas mobile menu. Accordions all start closed; fixed Book/Call footer. */
 export default function MobileMenu({ open, onClose }: { open: boolean; onClose: () => void }) {
   const ref = useRef<HTMLDivElement>(null);
+  const pathname = usePathname();
 
   useEffect(() => {
     if (!open) return;
@@ -111,12 +115,20 @@ export default function MobileMenu({ open, onClose }: { open: boolean; onClose: 
         </nav>
         <div className="mfoot">
           <div className="row">
-            <a className="book" href={booking.href}>
+            <a
+              className="book"
+              href={bookingHref(pathname)}
+              onClick={() => track("book_click", { href: pathname })}
+            >
               <span className="lb" style={{ display: "block", width: "100%", textAlign: "center" }}>
                 Book
               </span>
             </a>
-            <a className="call" href={`tel:${site.phones[0].e164}`}>
+            <a
+              className="call"
+              href={`tel:${site.phones[0].e164}`}
+              onClick={() => track("call_click", { source: pathname })}
+            >
               Call {site.phones[0].display}
             </a>
           </div>

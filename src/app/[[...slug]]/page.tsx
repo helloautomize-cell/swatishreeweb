@@ -7,6 +7,7 @@ import DetailPage from "@/components/pages/DetailPage";
 import DoctorPage from "@/components/pages/DoctorPage";
 import HomePage from "@/components/home/HomePage";
 import BlogIndexPage from "@/components/pages/BlogIndexPage";
+import ContactPage from "@/components/pages/ContactPage";
 import HubPage from "@/components/pages/HubPage";
 import JourneyPage from "@/components/pages/JourneyPage";
 import LegalPage from "@/components/pages/LegalPage";
@@ -68,6 +69,7 @@ function Template({ doc }: { doc: PageDoc }) {
     default:
       if (doc.url === "/dr-swati-shree/") return <DoctorPage doc={doc} />;
       if (doc.url === "/your-fertility-journey/") return <JourneyPage doc={doc} />;
+      if (doc.url === "/contact/") return <ContactPage doc={doc} />;
       return <StandardPage doc={doc} />;
   }
 }

@@ -1044,3 +1044,64 @@
 @media (max-width: 900px) {
   .blog-grid { grid-template-columns: 1fr; }
 }
+
+/* ---------- Phase 6: /contact/ ---------- */
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+  gap: clamp(24px, 4vw, 48px);
+  align-items: start;
+  padding: 8px 0 48px;
+}
+
+.contact-side {
+  display: grid;
+  gap: 20px;
+  position: sticky;
+  top: 104px;
+}
+
+.ccards {
+  display: grid;
+  gap: 16px;
+  background: var(--primary-50);
+  border-radius: 20px;
+  padding: 24px;
+}
+
+.ccard {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+}
+
+.ccard svg {
+  flex: none;
+  margin-top: 2px;
+  color: var(--primary-500);
+}
+
+.ccard b {
+  display: block;
+  font-size: 0.95rem;
+}
+
+.ccard a {
+  color: var(--primary-500);
+}
+
+.ccard-more {
+  font-size: 0.95rem;
+  color: var(--ink-2);
+  margin: 0;
+}
+
+@media (max-width: 900px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+  .contact-side {
+    position: static;
+  }
+}

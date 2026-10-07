@@ -7,6 +7,8 @@ import SiteFooter from "@/components/shell/SiteFooter";
 import MobileActionBar from "@/components/shell/MobileActionBar";
 import WhatsAppFab from "@/components/shell/WhatsAppFab";
 import CookieBanner from "@/components/shell/CookieBanner";
+import Analytics from "@/components/Analytics";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
 const figtree = Figtree({
@@ -58,6 +60,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <MobileActionBar />
         <WhatsAppFab />
         <CookieBanner />
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
