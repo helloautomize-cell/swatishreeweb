@@ -25,6 +25,10 @@ import {
   X,
 } from "lucide-react";
 import { HeroB, ConcernRows, WhyBento } from "@/components/SignatureSpecimens";
+import EveImage from "@/components/EveImage";
+import InView from "@/components/InView";
+import LineAccent from "@/components/LineAccent";
+import Reveal from "@/components/Reveal";
 import BookButton from "@/components/BookButton";
 import Callout from "@/components/Callout";
 import CenteredCarousel from "@/components/CenteredCarousel";
@@ -428,6 +432,93 @@ export default function StyleguidePage() {
           intro="A real table on desktop, stacked key-value blocks on mobile. Never a sideways scroll."
         >
           <ComparisonTable />
+        </Section>
+
+        <Section
+          eyebrow="Polish pass"
+          title={<>Depth, rhythm and <em className="acc">motion</em></>}
+          intro="Tokens and shared components added in the final polish pass. Moss-tinted shadows, alternating section bands, the arch photo frame, photo-versus-illustration image rules, one LineAccent and one Reveal, the pill cloud and the header offset."
+        >
+          <h3 style={{ fontSize: 17 }}>Shadow tokens · moss-tinted, never grey</h3>
+          <div className="btns" style={{ gap: 20 }}>
+            {(["--shadow-sm", "--shadow-md", "--shadow-lg"] as const).map((t) => (
+              <div key={t} style={{ background: "#fff", borderRadius: 16, padding: "24px 28px", boxShadow: `var(${t})` }}>
+                <code>{t}</code>
+              </div>
+            ))}
+          </div>
+
+          <h3 style={{ fontSize: 17 }}>Section rhythm · white, blush wash, one moss band</h3>
+          <div style={{ display: "grid", gap: 10, maxWidth: 560 }}>
+            <div style={{ padding: "16px 20px", borderRadius: 14, border: "1px solid var(--line)" }}>White section</div>
+            <div style={{ padding: "16px 20px", borderRadius: 14, background: "var(--blush-50)" }}>Blush wash · --blush-50</div>
+            <div style={{ padding: "16px 20px", borderRadius: 14, background: "var(--secondary)", color: "#fff" }}>Deep-moss band · --secondary</div>
+          </div>
+          <p style={{ fontSize: 14, color: "var(--ink-2)", margin: "10px 0 0" }}>
+            Section padding clamp(72px, 10vw, 140px). Content max-width 1200px; the hero runs wider at 1320px.
+          </p>
+
+          <h3 style={{ fontSize: 17 }}>Arch photo frame</h3>
+          <div className="btns" style={{ alignItems: "flex-start" }}>
+            <div style={{ width: 200, aspectRatio: "4/5" }}>
+              <div style={{ position: "relative", width: "100%", height: "100%", borderRadius: "999px 999px 28px 28px", overflow: "hidden", border: "6px solid #fff", boxShadow: "var(--shadow-lg)" }}>
+                <EveImage src="doctor-meet-saree-4x5.jpg" sizes="200px" />
+              </div>
+            </div>
+            <p style={{ maxWidth: 340, fontSize: 14, color: "var(--ink-2)", margin: 0 }}>
+              Top radius equals half the width; bottom corners 28px. The 6px white inner border and --shadow-lg give every photo the printed-photo feel.
+            </p>
+          </div>
+
+          <h3 style={{ fontSize: 17 }}>Image rules · photo versus illustration</h3>
+          <div className="btns" style={{ alignItems: "flex-start" }}>
+            <figure style={{ margin: 0, width: 200 }}>
+              <div style={{ aspectRatio: "4/3", borderRadius: 16, overflow: "hidden" }}><EveImage src="clinic-reception-4x3.jpg" sizes="200px" caption="" /></div>
+              <figcaption style={{ fontSize: 13, color: "var(--ink-2)", marginTop: 8 }}>photo · object-fit: cover in a fixed-ratio frame</figcaption>
+            </figure>
+            <figure style={{ margin: 0, width: 200 }}>
+              <div style={{ aspectRatio: "4/3", borderRadius: 16, overflow: "hidden" }}><EveImage src="clinic-consultation-room-4x3.png" sizes="200px" caption="" /></div>
+              <figcaption style={{ fontSize: 13, color: "var(--ink-2)", marginTop: 8 }}>illustration · contain, 8% padding, soft tint, never cropped</figcaption>
+            </figure>
+          </div>
+
+          <h3 style={{ fontSize: 17 }}>LineAccent · draws once on scroll-in</h3>
+          <div className="btns" style={{ alignItems: "flex-start" }}>
+            <InView className="sg-la-demo">
+              <div style={{ position: "relative", width: 160, aspectRatio: "4/5" }}>
+                <LineAccent d="M36 110C14 210 16 330 62 420C150 480 310 470 375 415" />
+                <div style={{ position: "absolute", inset: "2% 4% 4%", borderRadius: "999px 999px 28px 28px", overflow: "hidden", border: "6px solid #fff", boxShadow: "var(--shadow-lg)" }}>
+                  <EveImage src="doctor-hero-whitecoat-4x5.jpg" sizes="160px" />
+                </div>
+              </div>
+            </InView>
+            <p style={{ maxWidth: 340, fontSize: 14, color: "var(--ink-2)", margin: 0 }}>
+              One shared component: a 2px sage line with round caps that strokes itself once when its InView ancestor enters the viewport. The hero variant ends in the rose heart; section variants run without it.
+            </p>
+          </div>
+
+          <h3 style={{ fontSize: 17 }}>Reveal · fade plus 16px rise, once, 70ms stagger</h3>
+          <Reveal className="sg-reveal-demo">
+            <div style={{ padding: "16px 20px", borderRadius: 14, border: "1px solid var(--line)" }}>
+              Content starts visible with no JavaScript. With JS it rises once when scrolled into view; children stagger 70ms apart.
+            </div>
+          </Reveal>
+
+          <h3 style={{ fontSize: 17 }}>Pill cloud · conditions, centred at 1024px and up</h3>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: 12, justifyContent: "center", maxWidth: 620 }}>
+            {["PCOS", "Endometriosis", "Fibroids", "Adenomyosis", "Menopause", "Thyroid and fertility"].map((n) => (
+              <span className="hm-pill" key={n}>{n}</span>
+            ))}
+          </div>
+          <p style={{ fontSize: 14, color: "var(--ink-2)", margin: "10px 0 0" }}>
+            Below 1024px the same pills scroll sideways with a 48px fade mask and scroll-snap; hover changes colour and shadow only.
+          </p>
+
+          <h3 style={{ fontSize: 17 }}>Sticky header offset</h3>
+          <p style={{ fontSize: 14, color: "var(--ink-2)", margin: 0 }}>
+            <code>--header-h: 75px</code> feeds <code>{"html { scroll-padding-top: calc(var(--header-h) + 16px) }"}</code>,
+            so anchor and TOC jumps land with the heading fully visible. Every page template keeps 24px of air under the header.
+          </p>
         </Section>
 
         <Section
