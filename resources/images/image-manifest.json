@@ -24,13 +24,13 @@
     },
     {
       "id": "D3",
-      "file": "doctor-profile-portrait-4x5.avif",
+      "file": "doctor-portrait-landscape-name-tag-fixed-7x5.png",
       "placeholder": false,
       "page": "/dr-swati-shree/ split hero",
       "ratio": "4:5",
       "illustrative": false,
       "caption": null,
-      "notes": "Low res interim; replace with hi-res original"
+      "notes": "7:5 landscape source cropped to 4:5 at left (objectPosition 11% 50%); baked-in name tag excluded by the crop."
     },
     {
       "id": "D4",
@@ -64,23 +64,23 @@
     },
     {
       "id": "D7",
-      "file": "doctor-consulting-4x3.png",
+      "file": "doctor-consultation-couple-warm-room-5x3.png",
       "placeholder": false,
       "page": "About / how we work",
       "ratio": "4:3",
       "illustrative": false,
       "caption": null,
-      "notes": "Low res; crop to 576x432 from 790x432 source"
+      "notes": "Couple consultation matching the 'How we work' couples copy; 5:3 source cropped to 4:3 centred."
     },
     {
       "id": "D8",
-      "file": "about-founder-4x3.png",
+      "file": "doctor-standing-clinic-arms-crossed-4x3.png",
       "placeholder": false,
       "page": "About / the founder",
       "ratio": "4:3",
       "illustrative": false,
       "caption": null,
-      "notes": "Low res"
+      "notes": "Clean white-coat portrait; pixel-identical to the previous about-founder-4x3.png, swapped to the canonical doctor/ source."
     },
     {
       "id": "C1",
@@ -100,7 +100,7 @@
       "ratio": "16:9",
       "illustrative": false,
       "caption": null,
-      "notes": "5712\u00d73213 true 16:9"
+      "notes": "5712\u00d73213 true 16:9; objectPosition 50% 100% so the visit band's cover crop keeps the full face and sign in frame."
     },
     {
       "id": "C3",

@@ -84,30 +84,29 @@
     "restricted": false,
     "devOnly": false
   },
-  "doctor-profile-portrait-4x5.avif": {
+  "doctor-portrait-landscape-name-tag-fixed-7x5.png": {
     "widths": [
       320,
-      480,
-      768
+      480
     ],
     "source": {
-      "w": 800,
-      "h": 1000
+      "w": 496,
+      "h": 620
     },
     "original": {
-      "w": 800,
-      "h": 1000
+      "w": 866,
+      "h": 620
     },
     "crop": {
-      "left": 0,
+      "left": 41,
       "top": 0,
-      "width": 800,
-      "height": 1000
+      "width": 496,
+      "height": 620
     },
     "id": "D3",
-    "alt": "Dr. Swati Shree standing in a white coat in front of the clinic's wall sign.",
+    "alt": "Head-and-shoulders portrait of Dr. Swati Shree in a white coat.",
     "altApproved": false,
-    "objectPosition": "50% 50%",
+    "objectPosition": "11% 50%",
     "ratio": "4:5",
     "caption": null,
     "illustrative": false,
@@ -120,11 +119,11 @@
       }
     ],
     "blur": {
-      "color": "#c8b8a8",
-      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoGAAgAA4BaJQBOgBu011k/wAD+W2ixIPzm4CQM6HPw2Xdk4kUha+/J5vFdhkegAAA="
+      "color": "#e8e8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAYAA4BaJZQAAp2cLobQAP4G7O+LP+5hSHRo18IXC0wzru3vITzpNdkAAA=="
     },
     "restricted": false,
-    "devOnly": true
+    "devOnly": false
   },
   "doctor-avatar-1x1.png": {
     "widths": [
@@ -251,27 +250,28 @@
     "restricted": false,
     "devOnly": false
   },
-  "doctor-consulting-4x3.png": {
+  "doctor-consultation-couple-warm-room-5x3.png": {
     "widths": [
       320,
-      480
+      480,
+      768
     ],
     "source": {
-      "w": 576,
-      "h": 432
+      "w": 793,
+      "h": 595
     },
     "original": {
-      "w": 790,
-      "h": 432
+      "w": 997,
+      "h": 595
     },
     "crop": {
-      "left": 107,
+      "left": 102,
       "top": 0,
-      "width": 576,
-      "height": 432
+      "width": 793,
+      "height": 595
     },
     "id": "D7",
-    "alt": "A doctor speaking with a woman across a consultation desk.",
+    "alt": "Dr. Swati Shree consulting a couple in the clinic's warm consultation room.",
     "altApproved": false,
     "objectPosition": "50% 50%",
     "ratio": "4:3",
@@ -287,12 +287,12 @@
     ],
     "blur": {
       "color": "#f8f8f8",
-      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoIAAQAA4BaJZwAAp02MSAA/ursgtqcUV/P12eTvY+V0h9otO3cjBBB+PhAAA=="
+      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoIAAUAA4BaJQBOj+ACuFexUAD8dQkiNDZjF8VWv0/XulyRS0n2e2VBAstJaJcrzsAAAA=="
     },
     "restricted": false,
-    "devOnly": true
+    "devOnly": false
   },
-  "about-founder-4x3.png": {
+  "doctor-standing-clinic-arms-crossed-4x3.png": {
     "widths": [
       320,
       480
@@ -312,7 +312,7 @@
       "height": 452
     },
     "id": "D8",
-    "alt": "A woman in a white coat seated in a consultation room.",
+    "alt": "Dr. Swati Shree standing with arms crossed in the clinic.",
     "altApproved": false,
     "objectPosition": "50% 50%",
     "ratio": "4:3",
@@ -331,7 +331,7 @@
       "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAYAA4BaJZQAAqsbBhQAAP64BviZuzRGclQygrsr46+O9PPxVQAC/nAAAA=="
     },
     "restricted": false,
-    "devOnly": true
+    "devOnly": false
   },
   "clinic-reception-4x3.jpg": {
     "widths": [
@@ -398,9 +398,9 @@
       "height": 3213
     },
     "id": "C2",
-    "alt": "The EVE reception area with the clinic wall sign and a woman behind the desk.",
+    "alt": "The EVE reception area with the clinic wall sign and Dr. Swati Shree standing beside it.",
     "altApproved": false,
-    "objectPosition": "50% 50%",
+    "objectPosition": "50% 100%",
     "ratio": "16:9",
     "caption": null,
     "illustrative": false,

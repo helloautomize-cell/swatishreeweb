@@ -9,15 +9,12 @@ Generated 2026-10-07 by scripts/process-images.mjs.
 - doctor-hero-cutout.avif :: Background removal required before use (hero cut-out). Interim resolution (half spec). Replace with ≥3000px tall source when available.
 - doctor-hero-cutout.avif: draft alt text pending review
 - doctor-meet-cutout.png: draft alt text pending review
-- doctor-profile-portrait-4x5.avif :: Low res interim; replace with hi-res original
-- doctor-profile-portrait-4x5.avif: draft alt text pending review
+- doctor-portrait-landscape-name-tag-fixed-7x5.png: draft alt text pending review
 - doctor-avatar-1x1.png: draft alt text pending review
 - doctor-mrcog-ceremony-4x3.avif: draft alt text pending review
 - doctor-award-4x3.avif: draft alt text pending review
-- doctor-consulting-4x3.png :: Low res; crop to 576x432 from 790x432 source
-- doctor-consulting-4x3.png: draft alt text pending review
-- about-founder-4x3.png :: Low res
-- about-founder-4x3.png: draft alt text pending review
+- doctor-consultation-couple-warm-room-5x3.png: draft alt text pending review
+- doctor-standing-clinic-arms-crossed-4x3.png: draft alt text pending review
 - clinic-reception-4x3.jpg: draft alt text pending review
 - clinic-visit-band-16x9.jpg: draft alt text pending review
 - clinic-exterior-4x3.jpg: draft alt text pending review
