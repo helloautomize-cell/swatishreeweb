@@ -155,14 +155,6 @@
   align-content: start;
 }
 
-.hm-about-fig {
-  position: relative;
-}
-
-.hm-about-fig .about-line {
-  z-index: 2;
-}
-
 .hm-about-photo {
   position: relative;
   border-radius: 28px;

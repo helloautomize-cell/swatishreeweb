@@ -11,7 +11,7 @@ import { track } from "@/lib/analytics";
 /*
  * Contact photo card with a "Show map" click-to-load overlay: the map iframe
  * only mounts after an explicit click (consent pattern, Part 4). While the
- * maps URL is unconfirmed the button renders a CONFIRM chip.
+ * embed URL is unconfirmed the button renders a CONFIRM chip.
  */
 export default function MapCard({
   src,
@@ -21,14 +21,14 @@ export default function MapCard({
   sizes?: string;
 }) {
   const [showMap, setShowMap] = useState(false);
-  const maps = resolveConfirm<string>(site.mapsUrl);
+  const embed = resolveConfirm<string>(site.mapsEmbed);
 
   return (
     <div className="map-card">
-      {showMap && maps ? (
+      {showMap && embed ? (
         <iframe
           title={`Map to ${site.name}`}
-          src={maps}
+          src={embed}
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
           allowFullScreen
@@ -36,7 +36,7 @@ export default function MapCard({
       ) : (
         <>
           <EveImage src={src} sizes={sizes} caption="" />
-          {maps ? (
+          {embed ? (
             <button
               type="button"
               className="map-btn"

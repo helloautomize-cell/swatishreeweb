@@ -128,16 +128,9 @@ function AboutStrip({ d }: { d: ReturnType<typeof homeData> }) {
         <h2><InlineText source={d.about.h2} /></h2>
       </Reveal>
       <div className="hm-about-grid">
-        <InView className="hm-about-media">
-          <div className="hm-about-fig">
-            <LineAccent
-              className="about-line"
-              viewBox="0 0 400 300"
-              d="M46 34C20 96 12 190 24 252C40 286 140 296 236 284"
-            />
-            <div className="hm-about-photo">
-              <EveImage src="clinic-reception-4x3.jpg" sizes="(max-width: 900px) 100vw, 560px" />
-            </div>
+        <div className="hm-about-media">
+          <div className="hm-about-photo">
+            <EveImage src="clinic-reception-4x3.jpg" sizes="(max-width: 900px) 100vw, 560px" />
           </div>
           {!d.about.labels.length ? null : (
             <div className="hm-labels">
@@ -146,7 +139,7 @@ function AboutStrip({ d }: { d: ReturnType<typeof homeData> }) {
               ))}
             </div>
           )}
-        </InView>
+        </div>
         <div className="hm-about-body">
           <p><WithConfirms text={d.about.paragraph} /></p>
           {d.about.rows.map((r) => {
@@ -213,7 +206,7 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
             d="M42 132C18 250 20 376 72 452C150 516 352 502 398 430C416 404 414 336 396 296"
           />
           <div className="da-fig"><EveImage src="doctor-meet-saree-4x5.jpg" sizes="(max-width: 860px) 92vw, 420px" imgClassName="da-photo" /></div>
-          <div className="glasschip award float">
+          <div className="glasschip award">
             <span className="gi"><Award size={18} strokeWidth={1.8} aria-hidden /></span>
             <span>16th GCU International<small>Women&rsquo;s Day Award</small></span>
           </div>

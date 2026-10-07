@@ -36,8 +36,13 @@ export const site = {
   closesTime: confirm("OPD closing time, 24-hour HH:MM"),
   whatsapp: confirm("WhatsApp number"),
   email: confirm("clinic email"),
-  mapsUrl: confirm("Google Maps link"),
-  geo: confirm("coordinates"),
+  mapsUrl: "https://maps.app.goo.gl/8mygXauk59VyVmMN6",
+  /* Keyless embed for iframes (share links refuse framing). The cid pins
+   * the exact "Eve Women & Fertility Clinic by Dr Swati Shree" listing;
+   * resolved from mapsUrl on 2026-10-07. */
+  mapsEmbed:
+    "https://www.google.com/maps?cid=6293365160818405640&z=17&hl=en&output=embed",
+  geo: { lat: 12.9261588, lng: 77.7265471 },
   registration: {
     kmc: confirm("Karnataka Medical Council number string to display"),
     art: confirm("National ART and Surrogacy Registry number"),
@@ -57,6 +62,7 @@ export const site = {
   whatsapp: ConfirmOr<string>;
   email: ConfirmOr<string>;
   mapsUrl: ConfirmOr<string>;
+  mapsEmbed: ConfirmOr<string>;
   geo: ConfirmOr<{ lat: number; lng: number }>;
   registration: { kmc: ConfirmOr<string>; art: ConfirmOr<string> };
   legalLastUpdated: ConfirmOr<string>;
