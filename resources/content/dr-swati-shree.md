@@ -15,9 +15,9 @@ Title line: Reproductive medicine specialist and gynaecologist, founder of EVE W
 
 Key facts card:
 - **Qualifications:** MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG, Royal College of Obstetricians and Gynaecologists (UK)
-- **Experience:** `[CONFIRM: years as a doctor and in reproductive medicine]`
-- **Languages:** `[CONFIRM]`
-- **Registration:** `[CONFIRM: Karnataka Medical Council no.]`
+- **Experience:** 16 years in practice
+- **Languages:** English, Hindi and Kannada
+- **Registration:** Karnataka Medical Council Reg. No. DLH20090000353KTK
 - **Practice:** EVE Women and Fertility Clinic, Gunjur, Bangalore (founder)
 
 Buttons: [Book with Dr. Swati] [Call 72049 21212]
@@ -84,12 +84,12 @@ Mobile: 6 per group + "Show all (n)".
 2. **What does MRCOG mean?**
    MRCOG stands for Member of the Royal College of Obstetricians and Gynaecologists. It is a UK postgraduate qualification earned by passing demanding written and clinical examinations in obstetrics and gynaecology. It does not indicate a treatment outcome, but it shows training to an international standard.
 3. **Which languages does Dr. Swati speak?**
-   `[CONFIRM: languages]`. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
+   English, Hindi and Kannada. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
 4. **Where does Dr. Swati see patients?**
    Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres `[CONFIRM: wording]`.
 5. **Do I see Dr. Swati herself at every visit?**
    Yes. EVE is a founder-led clinic, and Dr. Swati sees every patient herself. Scans and tests may be done by trained staff under her supervision, but the consultation, the plan and the decisions are hers and yours.
 6. **How can I check Dr. Swati's registration?**
-   Dr. Swati is registered with the Karnataka Medical Council, registration number `[CONFIRM]`. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council.
+   Dr. Swati is registered with the Karnataka Medical Council, registration number DLH20090000353KTK. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council.
 
 Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed `[date]`.

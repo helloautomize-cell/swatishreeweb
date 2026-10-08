@@ -164,7 +164,7 @@ H2: Meet *Dr. Swati Shree*
 Card text: Reproductive medicine specialist and founder of EVE Women and Fertility Clinic.
 Qualifications line: MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG (UK)
 Experience: Trained at AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital. Former consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility. Recipient, 16th GCU International Women's Day Award.
-Chips: `[CONFIRM: years in practice]` · `[CONFIRM: languages]`
+Chips: `16 years in practice` · `English, Hindi and Kannada`
 Buttons: [Book with Dr. Swati] [Read her profile]
 
 ### 06 / Why a full evaluation comes first
@@ -267,7 +267,7 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 - **Doctor:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), fellowship in reproductive medicine
 - **Phone:** 72049 21212 · 72049 21516
 - **Hours:** `[CONFIRM]`
-- **Registration:** `[CONFIRM: Karnataka Medical Council no. and National ART and Surrogacy Registry no.]`
+- **Registration:** Karnataka Medical Council Reg. No. DLH20090000353KTK · National ART and Surrogacy Registry no. `[CONFIRM]`
 - **Areas served:** Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and the rest of Bangalore; patients travel from other cities `[CONFIRM: catchment]`
 
 ### FAQs
@@ -283,7 +283,7 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 5. **Do you accept patients from outside Bangalore?**
    Yes. Many couples travel for the first evaluation. We try to complete tests in as few visits as possible and plan follow-up with you. See Coming from outside Bangalore for a visit plan.
 6. **How can I check that the clinic and doctor are registered?**
-   Dr. Swati's registration is with the Karnataka Medical Council, number `[CONFIRM]`, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page `[CONFIRM]`.
+   Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page `[CONFIRM]`.
 
 Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed `[date]`.
 
@@ -308,9 +308,9 @@ Title line: Reproductive medicine specialist and gynaecologist, founder of EVE W
 
 Key facts card:
 - **Qualifications:** MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG, Royal College of Obstetricians and Gynaecologists (UK)
-- **Experience:** `[CONFIRM: years as a doctor and in reproductive medicine]`
-- **Languages:** `[CONFIRM]`
-- **Registration:** `[CONFIRM: Karnataka Medical Council no.]`
+- **Experience:** 16 years in practice
+- **Languages:** English, Hindi and Kannada
+- **Registration:** Karnataka Medical Council Reg. No. DLH20090000353KTK
 - **Practice:** EVE Women and Fertility Clinic, Gunjur, Bangalore (founder)
 
 Buttons: [Book with Dr. Swati] [Call 72049 21212]
@@ -377,13 +377,13 @@ Mobile: 6 per group + "Show all (n)".
 2. **What does MRCOG mean?**
    MRCOG stands for Member of the Royal College of Obstetricians and Gynaecologists. It is a UK postgraduate qualification earned by passing demanding written and clinical examinations in obstetrics and gynaecology. It does not indicate a treatment outcome, but it shows training to an international standard.
 3. **Which languages does Dr. Swati speak?**
-   `[CONFIRM: languages]`. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
+   English, Hindi and Kannada. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
 4. **Where does Dr. Swati see patients?**
    Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres `[CONFIRM: wording]`.
 5. **Do I see Dr. Swati herself at every visit?**
    Yes. EVE is a founder-led clinic, and Dr. Swati sees every patient herself. Scans and tests may be done by trained staff under her supervision, but the consultation, the plan and the decisions are hers and yours.
 6. **How can I check Dr. Swati's registration?**
-   Dr. Swati is registered with the Karnataka Medical Council, registration number `[CONFIRM]`. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council.
+   Dr. Swati is registered with the Karnataka Medical Council, registration number DLH20090000353KTK. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council.
 
 Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed `[date]`.
 
@@ -3497,7 +3497,7 @@ Fertility and women's health decisions are important. People need information th
 ### 2. Who writes and reviews
 
 - **Written by:** the clinic's content team, working from guidelines and Dr. Swati's clinical approach `[CONFIRM: authorship wording]`
-- **Medically reviewed by:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), registration `[CONFIRM]`
+- **Medically reviewed by:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), Karnataka Medical Council Reg. No. DLH20090000353KTK
 - Her review checks accuracy, tone, and whether the page matches how she practises
 
 ### 3. Sources we use
@@ -3683,7 +3683,7 @@ If you need support, such as a wheelchair, an assistant, or a quiet time to visi
 
 ### 5. Language and reading level
 
-The site is in English, written in plain language. Dr. Swati and the team can speak in other languages at the clinic `[CONFIRM: languages]`.
+The site is in English, written in plain language. Dr. Swati and the team can speak in English, Hindi and Kannada at the clinic.
 
 ### 6. Tell us about a problem
 
@@ -3958,12 +3958,12 @@ What we deliberately left out (compliance, IMC Regulations 2002, DMR Act 1954, A
 - Any wording on sex of the baby
 - Donor gametes, surrogacy and embryo testing offers
 
-## Open confirmations (60 items)
+## Open confirmations (57 items)
 
 ### Profile and credentials
-1. Years of experience as a doctor and in reproductive medicine
-2. Languages spoken
-3. Karnataka Medical Council registration number
+1. ~~Years of experience~~ RESOLVED: 16 years
+2. ~~Languages spoken~~ RESOLVED: English, Hindi and Kannada
+3. ~~KMC registration number~~ RESOLVED: DLH20090000353KTK
 4. AIIMS campus, role and years
 5. Years for MBBS, DNB, fellowship, MRCOG, and each consultant role
 6. Visiting consultant arrangements with Apollo Fertility and Motherhood Fertility: exact current wording

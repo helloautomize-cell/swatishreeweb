@@ -1,4 +1,5 @@
 import { confirm, type ConfirmOr } from "./confirm";
+import { facts, languagesDisplay } from "./facts";
 
 /*
  * Single source of truth for site data (master prompt Part 3).
@@ -44,13 +45,13 @@ export const site = {
     "https://www.google.com/maps?cid=6293365160818405640&z=17&hl=en&output=embed",
   geo: { lat: 12.9261588, lng: 77.7265471 },
   registration: {
-    kmc: confirm("Karnataka Medical Council number string to display"),
+    kmc: facts.kmcRegistration,
     art: confirm("National ART and Surrogacy Registry number"),
   },
   replyTime: "24 hours",
   legalLastUpdated: confirm("legal pages last-updated date"),
   paymentAccepted: confirm("payment methods accepted"),
-  languages: confirm("languages spoken besides English"),
+  languages: languagesDisplay,
   instagram: confirm("Instagram URL"),
   facebook: confirm("Facebook URL"),
   youtube: confirm("YouTube URL"),

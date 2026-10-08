@@ -6,6 +6,7 @@
  */
 
 import { abs, entityStatement, site, siteUrl } from "../site-config";
+import { facts } from "../facts";
 import { isConfirm, type ConfirmOr } from "../confirm";
 
 /** site.geo literal type is ConfirmValue; widen so narrowing works. */
@@ -93,7 +94,7 @@ export function clinicNode(): Json {
         "@type": "ContactPoint",
         contactType: "appointments",
         telephone: site.phones[0].e164,
-        availableLanguage: ["en", site.languages],
+        availableLanguage: [...facts.languages],
         areaServed: "IN",
         hoursAvailable: site.hours,
       },
@@ -101,7 +102,7 @@ export function clinicNode(): Json {
         "@type": "ContactPoint",
         contactType: "appointments",
         telephone: site.phones[1].e164,
-        availableLanguage: ["en", site.languages],
+        availableLanguage: [...facts.languages],
       },
     ],
     address: {
@@ -207,6 +208,11 @@ export function doctorNode(): Json {
     honorificPrefix: "Dr.",
     honorificSuffix: "MBBS, DNB (OBG), MRCOG (UK)",
     jobTitle: "Reproductive medicine specialist and founder",
+    identifier: {
+      "@type": "PropertyValue",
+      propertyID: "Karnataka Medical Council Registration",
+      value: facts.kmcRegistration,
+    },
     url: abs("/dr-swati-shree/"),
     image: abs("/images/doctors/dr-swati-shree-hero.jpg"),
     medicalSpecialty: ["Gynecologic", "Obstetric"],
@@ -219,7 +225,7 @@ export function doctorNode(): Json {
       "Recurrent pregnancy loss",
       "Menopause",
     ],
-    knowsLanguage: ["en", site.languages],
+    knowsLanguage: [...facts.languages],
     worksFor: { "@id": IDS.clinic },
     alumniOf: [
       { "@type": "CollegeOrUniversity", name: "All India Institute of Medical Sciences" },
@@ -252,7 +258,7 @@ export function doctorNode(): Json {
         "@type": "EducationalOccupationalCredential",
         credentialCategory: "Medical registration",
         recognizedBy: { "@type": "Organization", name: "Karnataka Medical Council" },
-        identifier: site.registration.kmc,
+        identifier: facts.kmcRegistration,
       },
     ],
     memberOf: [

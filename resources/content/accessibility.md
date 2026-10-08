@@ -42,7 +42,7 @@ If you need support, such as a wheelchair, an assistant, or a quiet time to visi
 
 ### 5. Language and reading level
 
-The site is in English, written in plain language. Dr. Swati and the team can speak in other languages at the clinic `[CONFIRM: languages]`.
+The site is in English, written in plain language. Dr. Swati and the team can speak in English, Hindi and Kannada at the clinic.
 
 ### 6. Tell us about a problem
 

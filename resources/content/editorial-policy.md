@@ -18,7 +18,7 @@ Fertility and women's health decisions are important. People need information th
 ### 2. Who writes and reviews
 
 - **Written by:** the clinic's content team, working from guidelines and Dr. Swati's clinical approach `[CONFIRM: authorship wording]`
-- **Medically reviewed by:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), registration `[CONFIRM]`
+- **Medically reviewed by:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), Karnataka Medical Council Reg. No. DLH20090000353KTK
 - Her review checks accuracy, tone, and whether the page matches how she practises
 
 ### 3. Sources we use

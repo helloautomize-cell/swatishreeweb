@@ -140,7 +140,7 @@ H2: Meet *Dr. Swati Shree*
 Card text: Reproductive medicine specialist and founder of EVE Women and Fertility Clinic.
 Qualifications line: MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG (UK)
 Experience: Trained at AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital. Former consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility. Recipient, 16th GCU International Women's Day Award.
-Chips: `[CONFIRM: years in practice]` · `[CONFIRM: languages]`
+Chips: `16 years in practice` · `English, Hindi and Kannada`
 Buttons: [Book with Dr. Swati] [Read her profile]
 
 ### 06 / Why a full evaluation comes first
