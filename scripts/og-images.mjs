@@ -13,7 +13,7 @@ import sharp from 'sharp';
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const CONTENT = join(root, 'resources', 'content');
 const OUT = join(root, 'public', 'og');
-const LOGO = join(root, 'resources', 'images', 'brand', 'logo-white-transparent.png');
+const LOGO = join(root, 'resources', 'images', 'brand', 'logo-full-transparent.png');
 const W = 1200;
 const H = 630;
 
@@ -75,17 +75,18 @@ const card = (title, eyebrow) => {
   const size = lines.length > 1 || title.length > 34 ? 54 : 62;
   const titleY = eyebrow ? 292 : 316;
   const titleSvg = lines
-    .map((l, i) => `<text x="80" y="${titleY + i * (size + 14)}" font-family="Georgia, 'Times New Roman', serif" font-size="${size}" fill="#FFFFFF">${esc(l)}</text>`)
+    .map((l, i) => `<text x="80" y="${titleY + i * (size + 14)}" font-family="Georgia, 'Times New Roman', serif" font-size="${size}" fill="#6B4F3A">${esc(l)}</text>`)
     .join('');
   return `<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
-  <rect width="${W}" height="${H}" fill="#26382C"/>
-  <circle cx="1080" cy="90" r="260" fill="#2E4234"/>
-  <circle cx="1130" cy="560" r="300" fill="#22332A"/>
-  ${eyebrow ? `<text x="80" y="228" font-family="Arial, sans-serif" font-size="26" font-weight="bold" letter-spacing="3" fill="#C9B799">${esc(eyebrow.toUpperCase())}</text>` : ''}
+  <rect width="${W}" height="${H}" fill="#F8F3EA"/>
+  <circle cx="1080" cy="90" r="260" fill="#E9EEE3"/>
+  <circle cx="1130" cy="560" r="300" fill="#EFE6D6"/>
+  <path d="M80 196c0-40 26-64 56-64 18 0 34 8 44 22" fill="none" stroke="#9CAF88" stroke-width="3" stroke-linecap="round"/>
+  ${eyebrow ? `<text x="80" y="228" font-family="Arial, sans-serif" font-size="26" font-weight="bold" letter-spacing="3" fill="#9A5534">${esc(eyebrow.toUpperCase())}</text>` : ''}
   ${titleSvg}
-  <line x1="80" y1="500" x2="1120" y2="500" stroke="#3E5445" stroke-width="1"/>
-  <text x="80" y="548" font-family="Arial, sans-serif" font-size="26" fill="#E5DCC8">EVE Women and Fertility Clinic</text>
-  <text x="80" y="586" font-family="Arial, sans-serif" font-size="22" fill="#9FB0A4">Gunjur, Bengaluru \u00b7 Dr. Swati Shree</text>
+  <line x1="80" y1="500" x2="1120" y2="500" stroke="#C17F5A" stroke-width="1"/>
+  <text x="80" y="548" font-family="Arial, sans-serif" font-size="26" fill="#6B4F3A">EVE Women and Fertility Clinic</text>
+  <text x="80" y="586" font-family="Arial, sans-serif" font-size="22" fill="#7A5A3E">Gunjur, Bengaluru \u00b7 Dr. Swati Shree</text>
 </svg>`;
 };
 

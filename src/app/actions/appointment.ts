@@ -99,9 +99,12 @@ async function notifyClinic(f: Fields): Promise<boolean> {
     ["Consent given", `"${escapeHtml(CONSENT_TEXT)}" at ${escapeHtml(f.consentAt)} IST`],
   ];
 
-  const html = `<table cellpadding="8" style="border-collapse:collapse;font-family:sans-serif">
-    ${rows.map(([k, v]) => `<tr><th align="left" style="border-bottom:1px solid #ddd">${k}</th><td style="border-bottom:1px solid #ddd">${v}</td></tr>`).join("")}
-  </table>`;
+  const html = `<div style="font-family:sans-serif;max-width:560px">
+    <div style="background:#5F7350;color:#FFFFFF;padding:14px 18px;border-radius:10px 10px 0 0;font-size:15px;font-weight:bold">EVE Women and Fertility Clinic · New appointment request</div>
+    <table cellpadding="8" style="border-collapse:collapse;width:100%;background:#F8F3EA;border:1px solid #E4DAC7;border-top:none">
+    ${rows.map(([k, v]) => `<tr><th align="left" style="border-bottom:1px solid #E4DAC7;color:#6B4F3A">${k}</th><td style="border-bottom:1px solid #E4DAC7;color:#4A3A2C">${v}</td></tr>`).join("")}
+  </table>
+  </div>`;
 
   try {
     const res = await fetch("https://api.resend.com/emails", {
