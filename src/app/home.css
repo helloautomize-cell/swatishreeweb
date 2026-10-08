@@ -17,22 +17,22 @@
 }
 
 .hm-sec--moss {
-  background: var(--secondary);
-  box-shadow: 0 0 0 100vmax var(--secondary);
+  background: var(--sage-tint);
+  box-shadow: 0 0 0 100vmax var(--sage-tint);
   clip-path: inset(0 -100vmax);
-  color: rgba(255, 255, 255, 0.88);
+  color: var(--ink-2);
 }
 .hm-sec--moss .sec-h h2 {
-  color: #fff;
+  color: var(--ink);
 }
 .hm-sec--moss .sec-h h2 em.acc {
-  color: var(--accent);
+  color: var(--terracotta-deep);
 }
 .hm-sec--moss .sec-h p {
-  color: rgba(255, 255, 255, 0.75);
+  color: var(--ink-2);
 }
 .hm-sec--moss .eyebrow {
-  color: var(--glow);
+  color: var(--sage-deep);
 }
 .hm-sec--moss .bgsoft {
   background: none;
@@ -45,8 +45,8 @@
   display: none;
 }
 .hm-sec--moss .gcard {
-  background: rgba(255, 255, 255, 0.94);
-  border-color: rgba(255, 255, 255, 0.5);
+  background: var(--white);
+  border-color: var(--line);
   backdrop-filter: none;
   -webkit-backdrop-filter: none;
 }
@@ -55,8 +55,8 @@
   color: var(--ink);
 }
 .hm-sec--moss .wc .feat {
-  background: rgba(255, 255, 255, 0.08);
-  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: var(--sage-deep);
+  border: 0;
 }
 
 .hm .sec-h {
@@ -163,7 +163,7 @@
   background: linear-gradient(135deg, var(--primary-100), var(--blush-50));
   display: grid;
   place-items: center;
-  border: 6px solid #fff;
+  border: 6px solid var(--white);
   box-shadow: var(--shadow-lg);
 }
 
@@ -257,16 +257,16 @@
   align-content: center;
   gap: 14px;
   padding: clamp(28px, 5vw, 64px);
-  background: var(--secondary);
-  color: rgba(255, 255, 255, 0.88);
+  background: var(--sage-tint);
+  color: var(--ink-2);
 }
 
 .hm-band-card h2 {
   margin: 0;
-  color: #fff;
+  color: var(--ink);
 }
 .hm-band-card h2 em.acc {
-  color: var(--accent);
+  color: var(--terracotta-deep);
 }
 
 .hm-band-card p {
@@ -276,7 +276,7 @@
 
 .hm-band-hours {
   font-weight: 600;
-  color: var(--glow);
+  color: var(--sage-deep);
 }
 
 .hm-band-card .btns {
@@ -287,12 +287,12 @@
 
 .hm-band-card .btn-s {
   background: transparent;
-  border-color: var(--glow);
-  color: #fff;
+  border-color: var(--brown);
+  color: var(--brown);
   backdrop-filter: none;
 }
 .hm-band-card .btn-s:hover {
-  background: rgba(168, 196, 154, 0.16);
+  background: rgba(107, 79, 58, 0.08);
 }
 
 /* 05 / doctor card on home */
@@ -370,7 +370,7 @@
   padding: 12px 20px;
   border: 1px solid color-mix(in srgb, var(--primary) 40%, transparent);
   border-radius: 999px;
-  background: #fff;
+  background: var(--white);
   font-weight: 600;
   font-size: 0.95rem;
   color: var(--ink);
@@ -381,7 +381,7 @@
 }
 
 .hm-pill:hover {
-  border-color: var(--secondary);
+  border-color: var(--sage-deep);
   color: var(--primary-700);
   background: var(--blush-50);
   box-shadow: var(--shadow-md);
@@ -401,7 +401,7 @@
   padding: 20px;
   border: 1px solid color-mix(in srgb, var(--primary) 40%, transparent);
   border-radius: 20px;
-  background: #fff;
+  background: var(--white);
   text-decoration: none;
   color: var(--ink);
   box-shadow: var(--shadow-sm);
@@ -411,7 +411,7 @@
 .hm-post:hover {
   box-shadow: var(--shadow-md);
   transform: translateY(-4px);
-  border-color: var(--secondary);
+  border-color: var(--sage-deep);
 }
 
 .hm-post-cover {
@@ -462,7 +462,7 @@
 
 .hm-more .link {
   font-weight: 600;
-  color: var(--primary);
+  color: var(--sage-deep);
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -492,7 +492,7 @@
 }
 
 .hm-crow svg {
-  color: var(--primary);
+  color: var(--sage-deep);
   margin-top: 2px;
   flex: 0 0 auto;
 }

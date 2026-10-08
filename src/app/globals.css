@@ -8,34 +8,55 @@
 /* Locked design tokens. Values come from the approved visual reference.
    Do not change a value. */
 :root {
-  --primary: #5c7450;
-  --secondary: #26382c;
-  --primary-500: #4f6445;
-  --primary-700: #3e5236;
-  --primary-100: #e5ecdf;
-  --primary-50: #f4f7f1;
-  --blush-100: #fce4e8;
-  --blush-50: #fff6f8;
-  --rose: #a24560;
-  --glow: #a8c49a;
-  --accent: #f4b3c1;
-  --ink: #1f2d26;
-  --ink-2: #55655b;
-  --line: #e3e8df;
-  --bg: #ffffff;
+  /* Warm palette (doctor-approved). Canonical tokens below; the legacy
+     semantic names map onto them so every var() lands correctly. */
+  --cream: #f8f3ea;
+  --white: #ffffff;
+  --sage: #9caf88;
+  --sage-deep: #5f7350;
+  --sage-deep-2: #4e6142;
+  --sage-tint: #e9eee3;
+  --sand: #efe6d6;
+  --brown: #6b4f3a;
+  --terracotta: #c17f5a;
+  --terracotta-deep: #9a5534;
+  --gold: #b79a62;
+  --wa: #1f8f55;
+  --wa-deep: #146c43;
+  --warn-bg: #fff8ec;
+  --warn-line: #f1ddb5;
+  --warn-ink: #8a5a00;
+  --confirm-bg: #fff3b0;
+  --confirm-ink: #5c4a00;
+  --confirm-line: #c9a800;
+  --primary: var(--sage);
+  --secondary: var(--brown);
+  --primary-500: var(--sage-deep);
+  --primary-700: var(--sage-deep-2);
+  --primary-100: var(--sage-tint);
+  --primary-50: var(--sage-tint);
+  --blush-100: var(--sand);
+  --blush-50: var(--cream);
+  --rose: var(--terracotta-deep);
+  --glow: var(--sage);
+  --accent: var(--terracotta);
+  --ink: var(--brown);
+  --ink-2: #7a5a3e;
+  --line: #e4d9c4;
+  --bg: var(--cream);
   --alert: #c8302a;
   --success: #2f7d5b;
   --star: #f2b233;
-  --grad-brand: linear-gradient(90deg, #5c7450 0%, #26382c 100%);
-  --grad-btn: linear-gradient(90deg, #5c7450, #26382c, #5c7450);
-  --grad-bar: linear-gradient(90deg, rgba(92, 116, 80, 0.92), rgba(38, 56, 44, 0.92));
+  --grad-brand: linear-gradient(90deg, var(--sage) 0%, var(--sage-deep) 100%);
+  --grad-btn: linear-gradient(90deg, var(--sage-deep), var(--sage-deep));
+  --grad-bar: linear-gradient(90deg, rgba(95, 115, 80, 0.92), rgba(78, 97, 66, 0.92));
   --header-h: 75px;
-  --shadow-sm: 0 1px 2px rgba(38, 56, 44, 0.06), 0 2px 8px rgba(38, 56, 44, 0.05);
-  --shadow-md: 0 8px 24px rgba(38, 56, 44, 0.08);
-  --shadow-lg: 0 24px 60px rgba(38, 56, 44, 0.12);
+  --shadow-sm: 0 1px 2px rgba(107, 79, 58, 0.06), 0 2px 8px rgba(107, 79, 58, 0.05);
+  --shadow-md: 0 8px 24px rgba(107, 79, 58, 0.08);
+  --shadow-lg: 0 24px 60px rgba(107, 79, 58, 0.12);
   --shadow-card:
-    0 1px 2px rgba(31, 45, 38, 0.04), 0 12px 32px -12px rgba(38, 56, 44, 0.18);
-  --shadow-hover: 0 20px 48px -16px rgba(38, 56, 44, 0.28);
+    0 1px 2px rgba(107, 79, 58, 0.04), 0 12px 32px -12px rgba(107, 79, 58, 0.18);
+  --shadow-hover: 0 20px 48px -16px rgba(107, 79, 58, 0.28);
   --glass: rgba(255, 255, 255, 0.62);
   --glass-b: rgba(255, 255, 255, 0.6);
   --serif: var(--font-instrument), Georgia, "Times New Roman", serif;

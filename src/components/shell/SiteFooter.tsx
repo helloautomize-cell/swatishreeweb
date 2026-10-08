@@ -19,7 +19,7 @@ export default function SiteFooter() {
         <div className="ftop">
           <div className="fbrand">
             <Link href="/" aria-label={`${site.name} home`}>
-              <Image src={`/images/${brand.logoWhite}`} alt="" width={1099} height={338} style={{ height: 52, width: "auto" }} />
+              <Image src={`/images/${brand.logoFull}`} alt="" width={1099} height={338} style={{ height: 52, width: "auto" }} />
             </Link>
             <p>Founder-led fertility and women&rsquo;s health care in Gunjur, Bangalore, since December 2024.</p>
           </div>

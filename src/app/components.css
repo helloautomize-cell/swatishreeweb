@@ -40,7 +40,7 @@
   cursor: not-allowed;
 }
 .btn-p {
-  color: #fff;
+  color: var(--white);
   background: var(--grad-btn);
   background-size: 200% 100%;
   box-shadow: var(--shadow-card);
@@ -119,15 +119,15 @@
   opacity: 0.85;
 }
 .book .ic {
-  background: var(--primary);
+  background: var(--sage-deep-2);
   width: 54px;
   display: grid;
   place-items: center;
-  color: #fff;
+  color: var(--white);
 }
 .book .lb {
-  background: var(--secondary);
-  color: #fff;
+  background: var(--sage-deep);
+  color: var(--white);
   font: 600 16px/52px var(--font-sans);
   padding-inline: 20px;
   white-space: nowrap;
@@ -154,7 +154,7 @@
   padding: 8px 14px;
   border-radius: 999px;
   border: 1px solid var(--line);
-  background: #fff;
+  background: var(--white);
   font-size: 14px;
   color: var(--ink);
   text-decoration: none;
@@ -166,8 +166,8 @@
   color: var(--star);
 }
 .wa-btn {
-  background: #146c43;
-  color: #fff;
+  background: var(--wa-deep);
+  color: var(--white);
 }
 
 /* chips */
@@ -182,7 +182,7 @@
 
 /* hero */
 .hero {
-  background: #fff;
+  background: var(--white);
   border: 1px solid var(--line);
   box-shadow: var(--shadow-card);
   border-radius: 24px;
@@ -204,7 +204,7 @@
   right: -140px;
   top: -120px;
   border-radius: 50%;
-  background: radial-gradient(closest-side, rgba(244, 179, 193, 0.3), transparent);
+  background: radial-gradient(closest-side, rgba(193, 127, 90, 0.3), transparent);
   z-index: -1;
 }
 .hero::after {
@@ -215,8 +215,8 @@
   width: 620px;
   height: 620px;
   border-radius: 50%;
-  border: 1px solid rgba(92, 116, 80, 0.14);
-  background: radial-gradient(closest-side, rgba(168, 196, 154, 0.1), transparent);
+  border: 1px solid rgba(95, 115, 80, 0.14);
+  background: radial-gradient(closest-side, rgba(156, 175, 136, 0.1), transparent);
   z-index: -1;
 }
 .hero h1 {
@@ -256,7 +256,7 @@
   height: 42px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid #fff;
+  border: 2px solid var(--white);
 }
 .chip-doc small {
   display: block;
@@ -273,8 +273,8 @@
   margin: 0;
   border-radius: 24px;
   overflow: hidden;
-  border: 4px solid #fff;
-  box-shadow: 0 30px 60px -24px rgba(38, 56, 44, 0.45);
+  border: 4px solid var(--white);
+  box-shadow: 0 30px 60px -24px rgba(107, 79, 58, 0.45);
   aspect-ratio: 4/5;
   position: relative;
 }
@@ -328,7 +328,7 @@
 
 /* why glass cards */
 .bgsoft {
-  background: linear-gradient(135deg, var(--blush-100), #fff 62%);
+  background: linear-gradient(135deg, var(--blush-100), var(--white) 62%);
   border-radius: 24px;
   padding: clamp(20px, 4vw, 40px);
   position: relative;
@@ -343,7 +343,7 @@
   right: -60px;
   bottom: -130px;
   border-radius: 50%;
-  background: radial-gradient(closest-side, rgba(244, 179, 193, 0.35), transparent);
+  background: radial-gradient(closest-side, rgba(193, 127, 90, 0.35), transparent);
   z-index: -1;
 }
 .bgsoft::after {
@@ -354,7 +354,7 @@
   left: -80px;
   top: -100px;
   border-radius: 50%;
-  background: radial-gradient(closest-side, rgba(92, 116, 80, 0.14), transparent);
+  background: radial-gradient(closest-side, rgba(95, 115, 80, 0.14), transparent);
   z-index: -1;
 }
 .cards {
@@ -430,7 +430,7 @@
 }
 .tab[aria-selected="true"] {
   background: var(--grad-brand);
-  color: #fff;
+  color: var(--white);
 }
 .sgrow {
   display: flex;
@@ -480,39 +480,39 @@
   transition: opacity 0.3s;
 }
 .sgc .blob.a {
-  background: rgba(92, 116, 80, 0.22);
+  background: rgba(95, 115, 80, 0.22);
   top: 8%;
   left: 2%;
 }
 .sgc .blob.b {
-  background: rgba(244, 179, 193, 0.32);
+  background: rgba(193, 127, 90, 0.32);
   bottom: 2%;
   right: 0;
   animation-direction: alternate-reverse;
 }
 .g1 .blob.a {
-  background: rgba(38, 56, 44, 0.22);
+  background: rgba(107, 79, 58, 0.22);
 }
 .g1 .blob.b {
-  background: rgba(168, 196, 154, 0.3);
+  background: rgba(156, 175, 136, 0.3);
 }
 .g2 .blob.a {
-  background: rgba(168, 196, 154, 0.28);
+  background: rgba(156, 175, 136, 0.28);
 }
 .g2 .blob.b {
-  background: rgba(244, 179, 193, 0.28);
+  background: rgba(193, 127, 90, 0.28);
 }
 .g3 .blob.a {
-  background: rgba(92, 116, 80, 0.18);
+  background: rgba(95, 115, 80, 0.18);
 }
 .g3 .blob.b {
   background: rgba(252, 228, 232, 0.95);
 }
 .g4 .blob.a {
-  background: rgba(38, 56, 44, 0.18);
+  background: rgba(107, 79, 58, 0.18);
 }
 .g4 .blob.b {
-  background: rgba(244, 179, 193, 0.34);
+  background: rgba(193, 127, 90, 0.34);
 }
 @keyframes drift {
   to {
@@ -538,8 +538,8 @@
   border-radius: 50%;
   display: grid;
   place-items: center;
-  background: #fff;
-  box-shadow: 0 10px 24px -14px rgba(38, 56, 44, 0.45);
+  background: var(--white);
+  box-shadow: 0 10px 24px -14px rgba(107, 79, 58, 0.45);
   position: relative;
   overflow: hidden;
   transform-style: preserve-3d;
@@ -574,7 +574,7 @@
     var(--primary),
     var(--glow),
     var(--accent),
-    var(--secondary),
+    var(--terracotta),
     var(--primary)
   );
   -webkit-mask:
@@ -602,7 +602,7 @@
 }
 .sgc:hover .badge {
   transform: scale(1.06) translateY(-3px);
-  filter: drop-shadow(0 14px 30px rgba(38, 56, 44, 0.32));
+  filter: drop-shadow(0 14px 30px rgba(107, 79, 58, 0.32));
 }
 .sgc:hover .badge::before,
 .badge.spin::before {
@@ -641,7 +641,7 @@
   background: var(--grad-brand);
   display: grid;
   place-items: center;
-  color: #fff;
+  color: var(--white);
   z-index: 2;
   transition: transform 0.3s var(--ease);
 }
@@ -661,7 +661,7 @@
   line-height: 1.4;
 }
 .washsvc {
-  background: linear-gradient(180deg, var(--blush-50), #fff);
+  background: linear-gradient(180deg, var(--blush-50), var(--white));
   border-radius: 24px;
   padding: 28px clamp(12px, 3vw, 28px) 16px;
   position: relative;
@@ -676,7 +676,7 @@
   right: -80px;
   top: -120px;
   border-radius: 50%;
-  background: radial-gradient(closest-side, rgba(244, 179, 193, 0.28), transparent);
+  background: radial-gradient(closest-side, rgba(193, 127, 90, 0.28), transparent);
   z-index: -1;
 }
 .ctrl {
@@ -690,7 +690,7 @@
   height: 48px;
   border-radius: 50%;
   border: 1px solid var(--line);
-  background: #fff;
+  background: var(--white);
   display: grid;
   place-items: center;
   cursor: pointer;
@@ -845,7 +845,7 @@
 .cc {
   position: relative;
   flex: 0 0 min(420px, 78%);
-  background: #fff;
+  background: var(--white);
   border: 1px solid var(--line);
   border-radius: 20px;
   padding: 28px;
@@ -873,8 +873,8 @@
   width: 52px;
   height: 52px;
   border-radius: 50%;
-  background: var(--secondary);
-  color: #fff;
+  background: var(--sage-deep);
+  color: var(--white);
   display: grid;
   place-items: center;
   margin-bottom: 18px;
@@ -905,7 +905,7 @@
   height: 48px;
   border-radius: 50%;
   border: 1px solid var(--line);
-  background: #fff;
+  background: var(--white);
   color: var(--ink);
   cursor: pointer;
   display: grid;
@@ -947,7 +947,7 @@
 
 /* doctor feature card (one doctor) */
 .doc {
-  background: #fff;
+  background: var(--white);
   border: 1px solid var(--line);
   border-radius: 24px;
   overflow: hidden;
@@ -996,8 +996,8 @@
   margin-top: 4px;
 }
 .doc .chip.xp {
-  background: var(--secondary);
-  color: #fff;
+  background: var(--sage-deep);
+  color: var(--white);
 }
 .doc .acts {
   display: flex;
@@ -1034,8 +1034,8 @@
   border: 1px solid;
 }
 .callout.em {
-  background: #fcf1f0;
-  border-color: #ebc0bd;
+  background: var(--cream);
+  border-color: rgba(200, 48, 42, 0.35);
 }
 .callout.em svg {
   color: var(--alert);
@@ -1048,11 +1048,11 @@
   color: var(--primary-500);
 }
 .callout.warn {
-  background: #fff8ec;
-  border-color: #f1ddb5;
+  background: var(--warn-bg);
+  border-color: var(--warn-line);
 }
 .callout.warn svg {
-  color: #8a5a00;
+  color: var(--warn-ink);
 }
 .callout p {
   margin: 0;
@@ -1060,9 +1060,9 @@
 }
 .confirm {
   display: inline-block;
-  background: #fff3b0;
-  color: #5c4a00;
-  border: 1px dashed #c9a800;
+  background: var(--confirm-bg);
+  color: var(--confirm-ink);
+  border: 1px dashed var(--confirm-line);
   border-radius: 6px;
   padding: 0 6px;
   font-size: 14px;
@@ -1078,7 +1078,7 @@
   align-items: center;
   justify-content: space-between;
   padding-inline: 20px;
-  color: #fff;
+  color: var(--white);
   font-weight: 600;
   flex-wrap: wrap;
 }
@@ -1088,7 +1088,7 @@
   gap: 14px;
 }
 .sw {
-  background: #fff;
+  background: var(--white);
   border: 1px solid var(--line);
   border-radius: 16px;
   overflow: hidden;
@@ -1119,7 +1119,7 @@ table.ct {
   width: 100%;
   border-collapse: collapse;
   font-size: 15px;
-  background: #fff;
+  background: var(--white);
   border: 1px solid var(--line);
   border-radius: 16px;
   overflow: hidden;
@@ -1183,14 +1183,14 @@ table.ct {
   border: 0;
 }
 .logos .on-grad figcaption {
-  color: #fff;
+  color: var(--white);
 }
 
 /* type scale */
 .type {
   display: grid;
   gap: 18px;
-  background: #fff;
+  background: var(--white);
   border: 1px solid var(--line);
   border-radius: 20px;
   padding: 28px;
@@ -1286,7 +1286,7 @@ table.ct {
   border: 1px solid var(--line);
   border-radius: 14px;
   padding: 14px 8px;
-  background: #fff;
+  background: var(--white);
   display: grid;
   justify-items: center;
   gap: 8px;
@@ -1305,7 +1305,7 @@ table.ct {
   display: grid;
   gap: 18px;
   max-width: 560px;
-  background: #fff;
+  background: var(--white);
   border: 1px solid var(--line);
   border-radius: 20px;
   padding: 28px;
@@ -1335,7 +1335,7 @@ table.ct {
   padding-inline: 16px;
   font: 400 17px/1 var(--font-sans);
   color: var(--ink);
-  background: #fff;
+  background: var(--white);
   width: 100%;
 }
 .field textarea {
@@ -1347,7 +1347,7 @@ table.ct {
 .field input:focus,
 .field select:focus,
 .field textarea:focus {
-  outline: 3px solid rgba(79, 100, 69, 0.45);
+  outline: 3px solid rgba(95, 115, 80, 0.45);
   outline-offset: 2px;
   border-color: var(--primary-500);
 }
@@ -1393,7 +1393,7 @@ table.ct {
   padding-inline: 18px;
   border-radius: 999px;
   border: 1.5px solid var(--line);
-  background: #fff;
+  background: var(--white);
   font: 600 15px/1 var(--font-sans);
   color: var(--ink);
   cursor: pointer;
@@ -1414,11 +1414,11 @@ table.ct {
   width: 22px;
   height: 22px;
   margin-top: 2px;
-  accent-color: var(--primary);
+  accent-color: var(--sage-deep);
 }
 .errsummary {
   border: 1.5px solid var(--alert);
-  background: #fcf1f0;
+  background: var(--cream);
   border-radius: 14px;
   padding: 14px 18px;
   font-size: 15px;
@@ -1438,7 +1438,7 @@ table.ct {
   width: 18px;
   height: 18px;
   border: 2.5px solid rgba(255, 255, 255, 0.4);
-  border-top-color: #fff;
+  border-top-color: var(--white);
   border-radius: 50%;
   animation: spin 0.8s linear infinite;
 }
@@ -1452,7 +1452,7 @@ table.ct {
 .faq {
   border: 1px solid var(--line);
   border-radius: 16px;
-  background: #fff;
+  background: var(--white);
   overflow: hidden;
 }
 .faq details {
@@ -1503,7 +1503,7 @@ table.ct {
   width: 100%;
   border-collapse: collapse;
   font-size: 15px;
-  background: #fff;
+  background: var(--white);
   border: 1px solid var(--line);
   border-radius: 16px;
   overflow: hidden;
@@ -1570,11 +1570,11 @@ table.ct {
   max-width: 100%;
   height: 580px;
   border-radius: 40px;
-  border: 10px solid #17221c;
-  background: #fff;
+  border: 10px solid var(--brown);
+  background: var(--white);
   position: relative;
   overflow: hidden;
-  box-shadow: 0 30px 60px -20px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 30px 60px -20px rgba(107, 79, 58, 0.35);
 }
 .phone .scr {
   padding: 16px 14px;
@@ -1591,7 +1591,7 @@ table.ct {
 }
 .phone .mhero {
   background:
-    radial-gradient(80% 90% at 100% 0%, rgba(244, 179, 193, 0.28), transparent), #fff;
+    radial-gradient(80% 90% at 100% 0%, rgba(193, 127, 90, 0.28), transparent), var(--white);
   border: 1px solid var(--line);
   border-radius: 18px;
   padding: 16px;
@@ -1628,7 +1628,7 @@ table.ct {
 .bar button {
   background: none;
   border: 0;
-  color: #fff;
+  color: var(--white);
   display: grid;
   justify-items: center;
   gap: 4px;
@@ -1666,9 +1666,9 @@ table.ct {
   border-radius: 50%;
   display: grid;
   place-items: center;
-  background: #1f8f55;
+  background: var(--wa);
   box-shadow: var(--shadow-hover);
-  color: #fff;
+  color: var(--white);
 }
 
 /* styleguide page scaffolding */
@@ -1809,7 +1809,7 @@ table.ct {
 }
 .line-accent path.l {
   fill: none;
-  stroke: var(--primary-500);
+  stroke: var(--sage);
   stroke-width: 2;
   stroke-linecap: round;
   stroke-dasharray: 1;
@@ -1822,7 +1822,7 @@ table.ct {
   animation: v2-draw 1.6s ease-in-out both;
 }
 .line-accent .heart {
-  fill: var(--rose);
+  fill: var(--terracotta);
   transform-box: fill-box;
   transform-origin: center;
 }

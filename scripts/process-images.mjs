@@ -79,7 +79,7 @@ if (process.argv.includes('--review')) {
     const top = Math.floor(index / 4) * 230;
     const thumbnail = await sharp(join(SRC, entry.file)).resize(260, 185, { fit: 'contain', background: '#FFFFFF' }).png().toBuffer();
     composite.push({ input: thumbnail, left: left + 10, top: top + 5 });
-    const label = `<svg width="280" height="35"><rect width="280" height="35" fill="#26382C"/><text x="8" y="22" font-size="11" font-family="sans-serif" fill="#FFFFFF">${entry.id}: ${entry.file}</text></svg>`;
+    const label = `<svg width="280" height="35"><rect width="280" height="35" fill="#5F7350"/><text x="8" y="22" font-size="11" font-family="sans-serif" fill="#FFFFFF">${entry.id}: ${entry.file}</text></svg>`;
     composite.push({ input: Buffer.from(label), left, top: top + 190 });
   }
   await sharp({ create: { width: 1120, height: Math.ceil(inputs.length / 4) * 230, channels: 3, background: '#FFFFFF' } }).composite(composite).png().toFile(join(root, 'phase1-image-review.png'));
