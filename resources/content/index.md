@@ -28,7 +28,7 @@ Mobile short line (under the portrait): A full evaluation first. Every option ex
 
 ### Answer-first summary (visible, directly under the hero; also the `speakable` text)
 
-EVE Women and Fertility Clinic is a fertility and women's health clinic in Gunjur, Bengaluru, founded in December 2024 by Dr. Swati Shree, a reproductive medicine specialist with an MRCOG from the Royal College of Obstetricians and Gynaecologists (UK). Every patient starts with a complete evaluation and a long conversation. IUI, IVF, egg freezing and other treatments are explained clearly and used only when they are the right step for you.
+EVE Women and Fertility Clinic is a fertility and women's health clinic in Gunjur, Bengaluru, founded in December 2025 by Dr. Swati Shree, a reproductive medicine specialist with an MRCOG from the Royal College of Obstetricians and Gynaecologists (UK). Every patient starts with a complete evaluation and a long conversation. IUI, IVF, egg freezing and other treatments are explained clearly and used only when they are the right step for you.
 
 ### Find care by concern
 
@@ -56,15 +56,15 @@ Cards (6):
 3. **A full evaluation first.** We look at ovulation, the tubes, the uterus, the ovarian reserve and the male partner before recommending any treatment.
 4. **Every option explained.** Natural conception support, IUI, IVF and egg freezing are laid out side by side, with the honest pros and cons of each.
 5. **One doctor throughout.** Dr. Swati sees every patient herself and follows you over time, so you do not repeat your story at each visit.
-6. **A founder-led clinic.** EVE was started by Dr. Swati Shree in December 2024 to offer fertility care that feels personal.
+6. **A founder-led clinic.** EVE was started by Dr. Swati Shree in December 2025 to offer fertility care that feels personal.
 
 ### 02 / About EVE
 
 H2: A founder-led clinic in *Gunjur*
 
-Photo labels (placed off faces): "Caring for East Bangalore since December 2024" · `[CONFIRM: opening hours line]`
+Photo labels (placed off faces): "Caring for East Bangalore since December 2025" · `[CONFIRM: opening hours line]`
 
-Paragraph: Dr. Swati Shree opened EVE Women and Fertility Clinic in December 2024 at LG Complex Towers, Gunjur, in East Bangalore. She trained in obstetrics and gynaecology, completed a fellowship in reproductive medicine at KJK Hospital in Trivandrum, and earned the MRCOG from the Royal College of Obstetricians and Gynaecologists in the UK. After years as a consultant in busy fertility centres, she built EVE around one idea: patients deserve time, plain explanations and a plan that respects their choices.
+Paragraph: Dr. Swati Shree opened EVE Women and Fertility Clinic in December 2025 at LG Complex Towers, Gunjur, in East Bangalore. She trained in obstetrics and gynaecology, completed a fellowship in reproductive medicine at KJK Hospital in Trivandrum, and earned the MRCOG from the Royal College of Obstetricians and Gynaecologists in the UK. After years as a consultant in busy fertility centres, she built EVE around one idea: patients deserve time, plain explanations and a plan that respects their choices.
 
 Rows:
 - (doctor badge) **Consultations** · Fertility, PCOS, periods, pregnancy loss, early pregnancy and menopause

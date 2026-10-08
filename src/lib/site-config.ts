@@ -24,7 +24,7 @@ export const site = {
     postalCode: "560087",
     country: "IN",
   },
-  foundingYear: 2024,
+  foundingYear: 2025,
   foundingMonth: "December",
   hours: confirm("OPD hours"),
   /*
@@ -96,7 +96,7 @@ export const ogImage = (url: string) =>
   `/og/${url === "/" ? "home" : url.replace(/^\//, "").replace(/\/$/, "").replace(/\//g, "-")}.png`;
 
 export const entityStatement =
-  "EVE Women and Fertility Clinic is an outpatient fertility and women's health clinic at LG Complex Towers, Gunjur, Bengaluru (Bangalore), Karnataka 560087, founded in December 2024 by Dr. Swati Shree, MBBS, DNB (Obstetrics and Gynaecology), MRCOG (UK), a reproductive medicine specialist with a fellowship in reproductive medicine. The clinic offers fertility evaluation, natural conception support, follicular monitoring, tubal patency testing, male fertility evaluation, IUI, IVF with lab procedures carried out at associated ART centres, egg freezing and TESA/PESA, along with gynaecological care for PCOS, endometriosis, menstrual disorders, recurrent pregnancy loss, fibroids, adenomyosis, thyroid problems that affect fertility, menopause, early pregnancy scans, cervical screening and HPV vaccination. Patients come from Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and other parts of East Bengaluru, and from other cities in India.";
+  "EVE Women and Fertility Clinic is an outpatient fertility and women's health clinic at LG Complex Towers, Gunjur, Bengaluru (Bangalore), Karnataka 560087, founded in December 2025 by Dr. Swati Shree, MBBS, DNB (Obstetrics and Gynaecology), MRCOG (UK), a reproductive medicine specialist with a fellowship in reproductive medicine. The clinic offers fertility evaluation, natural conception support, follicular monitoring, tubal patency testing, male fertility evaluation, IUI, IVF with lab procedures carried out at associated ART centres, egg freezing and TESA/PESA, along with gynaecological care for PCOS, endometriosis, menstrual disorders, recurrent pregnancy loss, fibroids, adenomyosis, thyroid problems that affect fertility, menopause, early pregnancy scans, cervical screening and HPV vaccination. Patients come from Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and other parts of East Bengaluru, and from other cities in India.";
 
 export const brand = {
   logoFull: "brand/logo-full-transparent.png",

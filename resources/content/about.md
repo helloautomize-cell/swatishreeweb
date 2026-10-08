@@ -1,6 +1,6 @@
 ---
 title: "About EVE Women and Fertility Clinic | Gunjur, Bangalore"
-description: "How EVE began, how Dr. Swati Shree works, and what to expect: a founder-led fertility and women's health clinic in Gunjur, East Bangalore, since 2024."
+description: "How EVE began, how Dr. Swati Shree works, and what to expect: a founder-led fertility and women's health clinic in Gunjur, East Bangalore, since 2025."
 url: /about/
 reviewer: dr-swati-shree
 schema: [AboutPage]
@@ -9,7 +9,7 @@ entities: [Gunjur, Bengaluru, MRCOG, ART Act 2021, KJK Hospital]
 
 H1: About EVE Women and *Fertility* Clinic
 
-Intro (answer-first): EVE Women and Fertility Clinic is a founder-led fertility and women's health clinic in Gunjur, Bengaluru (Bangalore), started in December 2024 by Dr. Swati Shree. It exists to offer fertility care that is unhurried, honest and clear, with a full evaluation first and every option explained.
+Intro (answer-first): EVE Women and Fertility Clinic is a founder-led fertility and women's health clinic in Gunjur, Bengaluru (Bangalore), started in December 2025 by Dr. Swati Shree. It exists to offer fertility care that is unhurried, honest and clear, with a full evaluation first and every option explained.
 
 ### Why EVE was started
 
@@ -46,7 +46,7 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 ### Facts at a glance
 
 - **Name:** EVE Women and Fertility Clinic, by Dr Swati Shree
-- **Founded:** December 2024
+- **Founded:** December 2025
 - **Location:** 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka
 - **Doctor:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), fellowship in reproductive medicine
 - **Experience:** 16 years in practice
@@ -58,7 +58,7 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 ### FAQs
 
 1. **Who runs EVE Women and Fertility Clinic?**
-   EVE was founded in December 2024 by Dr. Swati Shree, a reproductive medicine specialist with an MRCOG (UK), a DNB in obstetrics and gynaecology and a fellowship in reproductive medicine. She personally leads the clinic and sees every patient herself.
+   EVE was founded in December 2025 by Dr. Swati Shree, a reproductive medicine specialist with an MRCOG (UK), a DNB in obstetrics and gynaecology and a fellowship in reproductive medicine. She personally leads the clinic and sees every patient herself.
 2. **Where is EVE located?**
    EVE is on the 1st floor of LG Complex Towers in Gunjur, Bangalore 560087, in East Bengaluru. It is close to Varthur, Balagere, Whitefield and Sarjapur Road. `[CONFIRM: landmark]` See Plan your visit for directions and parking.
 3. **Is EVE a hospital?**

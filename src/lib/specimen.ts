@@ -5,6 +5,8 @@
  * these strings are the approved snippets embedded in the style guide.
  */
 
+import { clinicOpenedDisplay } from "./facts";
+
 export const heroCopy = {
   eyebrow: "EVE Women and Fertility Clinic · Gunjur, Bangalore",
   h1Before: "Fertility care built around ",
@@ -90,7 +92,7 @@ export const whyCards = [
   { title: "A full evaluation first", text: "We look at ovulation, the tubes, the uterus, the ovarian reserve and the male partner before recommending any treatment.", icon: "why-evaluation.png" },
   { title: "Every option explained", text: "Natural conception support, IUI, IVF and egg freezing are laid out side by side, with the honest pros and cons of each.", icon: "why-options.png" },
   { title: "One doctor throughout", text: "Dr. Swati sees every patient herself and follows you over time, so you do not repeat your story at each visit.", icon: "badge-doctor.png" },
-  { title: "A founder-led clinic", text: "EVE was started by Dr. Swati Shree in December 2024 to offer fertility care that feels personal.", icon: "stage-understand.png" },
+  { title: "A founder-led clinic", text: `EVE was started by Dr. Swati Shree in ${clinicOpenedDisplay} to offer fertility care that feels personal.`, icon: "stage-understand.png" },
 ];
 
 export const doctorCard = {

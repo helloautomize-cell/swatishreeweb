@@ -17,7 +17,7 @@ import type { PageDoc } from "@/lib/content/load";
 import { loadPages } from "@/lib/content/load";
 import { homeData } from "@/lib/home";
 import { resolveConfirm } from "@/lib/confirm";
-import { kmcRegLine } from "@/lib/facts";
+import { clinicOpenedShort, kmcRegLine } from "@/lib/facts";
 import { badgeFor } from "@/lib/service-badges";
 import { imageEntry } from "@/lib/images";
 import AssetImage from "@/components/AssetImage";
@@ -228,7 +228,7 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
             <div><b>AIIMS</b>Training</div>
             <div><b>Sakra World Hospital</b>Bangalore</div>
             <div><b>KJK Hospital</b>Fellowship, Trivandrum</div>
-            <div><b>EVE, Gunjur</b>Founded Dec 2024</div>
+            <div><b>EVE, Gunjur</b>Founded {clinicOpenedShort}</div>
           </div>
           <div className="chips">
             {d.doctor.chips.map((c, i) =>

@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import { brand, site } from "@/lib/site-config";
-import { kmcRegLine } from "@/lib/facts";
+import { clinicOpenedDisplay, kmcRegLine } from "@/lib/facts";
 import { footerColumns, legalLinks } from "@/lib/nav";
 import { MaybeConfirm, WithConfirms } from "@/components/ConfirmChip";
 import { isConfirm } from "@/lib/confirm";
@@ -22,7 +22,7 @@ export default function SiteFooter() {
             <Link href="/" aria-label={`${site.name} home`}>
               <Image src={`/images/${brand.logoFull}`} alt="" width={1099} height={338} style={{ height: 52, width: "auto" }} />
             </Link>
-            <p>Founder-led fertility and women&rsquo;s health care in Gunjur, Bangalore, since December 2024.</p>
+            <p>Founder-led fertility and women&rsquo;s health care in Gunjur, Bangalore, since {clinicOpenedDisplay}.</p>
           </div>
           <div className="fcontact">
             <div className="fline">

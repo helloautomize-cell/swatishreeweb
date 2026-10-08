@@ -30,7 +30,7 @@ Her training took her through some of India's well-known institutions, including
 
 Alongside clinical work, Dr. Swati teaches. She has conducted MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and has been a speaker at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award.
 
-She opened EVE in December 2024 to offer care built around time, honest evaluation and clear explanations.
+She opened EVE in December 2025 to offer care built around time, honest evaluation and clear explanations.
 
 ### How Dr. Swati works
 
@@ -54,7 +54,7 @@ Note for build: quotes are Dr. Swati's own approach, from the client documents, 
 
 ### Work experience
 
-- Since December 2024 · Founder and consultant, EVE Women and Fertility Clinic, Gunjur, Bangalore
+- Since December 2025 · Founder and consultant, EVE Women and Fertility Clinic, Gunjur, Bangalore
 - `[CONFIRM: years]` · Consultant, Garbhagudi IVF Centre
 - `[CONFIRM: years]` · Consultant, Apollo Fertility (visiting consultant `[CONFIRM]`)
 - `[CONFIRM: years]` · Consultant, Motherhood Fertility (visiting consultant `[CONFIRM]`)

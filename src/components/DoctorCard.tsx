@@ -3,6 +3,7 @@ import { ArrowRight } from "lucide-react";
 import BookButton from "./BookButton";
 import DoctorPortrait from "./DoctorPortrait";
 import InView from "./InView";
+import { clinicOpenedShort } from "@/lib/facts";
 import ConfirmChip from "./ConfirmChip";
 import { doctorCard } from "@/lib/specimen";
 
@@ -19,7 +20,7 @@ export default function DoctorCard({ compact = false }: { compact?: boolean }) {
         <div className="seal"><span className="s">Fellow</span><span>Reproductive Medicine, KJK Hospital</span></div>
         <div className="seal hi"><span className="s">MRCOG<br />UK</span><span>Royal College of Obstetricians and Gynaecologists</span></div>
       </div>
-      {!compact && <><p>{doctorCard.bio}</p><div className="path"><div><b>AIIMS</b>Training</div><div><b>Sakra World Hospital</b>Bangalore</div><div><b>KJK Hospital</b>Fellowship, Trivandrum</div><div><b>EVE, Gunjur</b>Founded Dec 2024</div></div></>}
+      {!compact && <><p>{doctorCard.bio}</p><div className="path"><div><b>AIIMS</b>Training</div><div><b>Sakra World Hospital</b>Bangalore</div><div><b>KJK Hospital</b>Fellowship, Trivandrum</div><div><b>EVE, Gunjur</b>Founded {clinicOpenedShort}</div></div></>}
       <div className="chips"><ConfirmChip note="years in practice" /><ConfirmChip note="languages" /></div>
       <div className="btns"><BookButton label="Book with Dr. Swati" href="#styleguide-form" /><Link className="link" href="/dr-swati-shree/">Read her profile<ArrowRight size={18} strokeWidth={1.75} aria-hidden /></Link></div>
     </div>

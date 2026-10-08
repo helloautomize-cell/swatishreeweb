@@ -71,7 +71,7 @@ export function clinicNode(): Json {
     slogan: "Fertility care built around you",
     founder: { "@id": IDS.doctor },
     employee: { "@id": IDS.doctor },
-    foundingDate: "2024-12",
+    foundingDate: facts.clinicOpened,
     medicalSpecialty: ["Gynecologic", "Obstetric"],
     knowsAbout: [
       "Infertility",
