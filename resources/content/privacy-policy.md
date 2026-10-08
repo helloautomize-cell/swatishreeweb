@@ -14,7 +14,7 @@ Last updated: `[date]`
 
 ### 1. Who we are
 
-EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka, run by Dr. Swati Shree. `[CONFIRM: legal entity name]` We decide why and how your personal data is used, which makes us the "data fiduciary" under the Digital Personal Data Protection Act, 2023 (DPDP Act). Privacy contact: `[CONFIRM: name, email, phone]`.
+EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka, run by Dr. Swati Shree. `[CONFIRM: legal entity name]` We decide why and how your personal data is used, which makes us the "data fiduciary" under the Digital Personal Data Protection Act, 2023 (DPDP Act). Privacy contact:`[CONFIRM: name, email, phone]`.
 
 ### 2. What we collect
 

@@ -10,7 +10,7 @@ H1: Patient rights and *responsibilities*
 
 Last updated: `[date]`
 
-**In short.** You have the right to be treated with respect, to understand your care, to say no, and to have your privacy protected. This page follows the Charter of Patients' Rights, and a copy is displayed at the clinic `[CONFIRM]`.
+**In short.** You have the right to be treated with respect, to understand your care, to say no, and to have your privacy protected. This page follows the Charter of Patients' Rights, and a copy is displayed at the clinic`[CONFIRM]`.
 
 ### Your rights
 
@@ -35,8 +35,8 @@ Last updated: `[date]`
 
 ### ART-specific points
 
-IUI, IVF and related treatments are regulated by the ART (Regulation) Act, 2021. You will be counselled, and asked for written consent. Sex selection is prohibited. Our ART registration number is `[CONFIRM]`.
+IUI, IVF and related treatments are regulated by the ART (Regulation) Act, 2021. You will be counselled, and asked for written consent. Sex selection is prohibited. Our ART registration number is`[CONFIRM]`.
 
 ### Making a complaint
 
-Speak to Dr. Swati or the front desk first. You may also write to `[CONFIRM: email]`. If you remain unsatisfied, you may approach the Karnataka Medical Council, the District Health Officer, or a consumer forum.
+Speak to Dr. Swati or the front desk first. You may also write to`[CONFIRM: email]`. If you remain unsatisfied, you may approach the Karnataka Medical Council, the District Health Officer, or a consumer forum.

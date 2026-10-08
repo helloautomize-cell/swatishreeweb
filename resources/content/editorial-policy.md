@@ -54,4 +54,4 @@ This website carries no third-party advertising. Content is funded by the clinic
 
 ### 8. Report an error
 
-If you find something inaccurate or out of date, please write to `[CONFIRM: email]`. We review reports within `[CONFIRM: 7]` working days.
+If you find something inaccurate or out of date, please write to`[CONFIRM: email]`. We review reports within `[CONFIRM: 7]` working days.

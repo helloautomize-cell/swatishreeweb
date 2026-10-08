@@ -27,7 +27,7 @@ Buttons: [Book with Dr. Swati] [Call 72049 21212]
 
 Dr. Swati Shree is a fertility and women's health specialist in Bangalore and the founder of EVE Women and Fertility Clinic in Gunjur. She trained in medicine and then in obstetrics and gynaecology, completing a DNB, and went on to a fellowship in reproductive medicine at KJK Hospital in Trivandrum. She is a Member of the Royal College of Obstetricians and Gynaecologists (MRCOG), a UK postgraduate qualification that tests knowledge and clinical judgment in obstetrics and gynaecology to an international standard.
 
-Her training took her through some of India's well-known institutions, including AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital in Bangalore. `[CONFIRM: AIIMS campus, role and years]` She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility `[CONFIRM: current arrangement and wording]`.
+Her training took her through some of India's well-known institutions, including AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital in Bangalore. `[CONFIRM: AIIMS campus, role and years]` She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility`[CONFIRM: current arrangement and wording]`.
 
 Alongside clinical work, Dr. Swati teaches. She has conducted MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and has been a speaker at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award.
 
@@ -87,7 +87,7 @@ Mobile: 6 per group + "Show all (n)".
 3. **Which languages does Dr. Swati speak?**
    English, Hindi and Kannada. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
 4. **Where does Dr. Swati see patients?**
-   Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres `[CONFIRM: wording]`.
+   Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres`[CONFIRM: wording]`.
 5. **Do I see Dr. Swati herself at every visit?**
    Yes. EVE is a founder-led clinic, and Dr. Swati sees every patient herself. Scans and tests may be done by trained staff under her supervision, but the consultation, the plan and the decisions are hers and yours.
 6. **How can I check Dr. Swati's registration?**

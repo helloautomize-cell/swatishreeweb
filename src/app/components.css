@@ -1082,6 +1082,11 @@
   font-weight: 600;
   flex-wrap: wrap;
 }
+.gradbar span {
+  background: rgba(78, 97, 66, 0.82);
+  border-radius: 8px;
+  padding: 5px 12px;
+}
 .swatches {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(168px, 1fr));

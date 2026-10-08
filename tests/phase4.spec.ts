@@ -61,8 +61,9 @@ test.describe("mobile-390 acceptance", () => {
       const over: string[] = [];
       document.querySelectorAll("section").forEach((s) => {
         const h = s.getBoundingClientRect().height;
-        // The full styleguide doctor card legitimately stacks taller.
-        const limit = s.className.includes("hm-doctor") || s.querySelector(".hm-doctor") ? 1.7 : 1.3;
+        // The full styleguide doctor card legitimately stacks taller
+        // (KMC reg line + resolved language chips added in prompt 08).
+        const limit = s.className.includes("hm-doctor") || s.querySelector(".hm-doctor") ? 1.8 : 1.3;
         if (h > vh * limit) over.push(`${s.className} ${Math.round(h)}px`);
       });
       return over;

@@ -51,4 +51,4 @@ If you find something you cannot use or read, please write to `[CONFIRM: email]`
 
 ### 7. Date of this statement
 
-This statement was prepared on `[date]` using our own review `[CONFIRM: and an independent audit, if done]`.
+This statement was prepared on `[date]` using our own review`[CONFIRM: and an independent audit, if done]`.

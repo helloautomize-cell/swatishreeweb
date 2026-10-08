@@ -62,7 +62,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <WhatsAppFab />
         <CookieBanner />
         <Analytics />
-        <SpeedInsights />
+        {process.env.VERCEL ? <SpeedInsights /> : null}
       </body>
     </html>
   );

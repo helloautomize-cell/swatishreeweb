@@ -69,6 +69,6 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 5. **Do you accept patients from outside Bangalore?**
    Yes. Many couples travel for the first evaluation. We try to complete tests in as few visits as possible and plan follow-up with you. See Coming from outside Bangalore for a visit plan.
 6. **How can I check that the clinic and doctor are registered?**
-   Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page `[CONFIRM]`.
+   Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration `[CONFIRM: National ART and Surrogacy Registry no.]` appears in the footer and on the Patient Rights page.
 
 Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed 1 September 2026.

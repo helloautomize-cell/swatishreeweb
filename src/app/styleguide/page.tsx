@@ -48,21 +48,21 @@ export const metadata: Metadata = {
 };
 
 const swatches: [string, string, string, string][] = [
-  ["#5C7450", "Primary · logo sage", "5.16:1 on white", "--primary"],
-  ["#26382C", "Secondary · deep moss", "12.47:1", "--secondary"],
-  ["#4F6445", "Sage text", "6.48:1 · links, eyebrows", "--primary-500"],
-  ["#3E5236", "Sage pressed", "8.52:1", "--primary-700"],
-  ["#E5ECDF", "Sage tint", "tabs, chips, tiles", "--primary-100"],
-  ["#F4F7F1", "Sage wash", "section tints", "--primary-50"],
-  ["#FCE4E8", "Blush · logo background", "washes, soft panels", "--blush-100"],
-  ["#FFF6F8", "Blush wash", "hero and section tints", "--blush-50"],
-  ["#A24560", "Rose · accent word", "5.90:1 · italic accent only", "--rose"],
-  ["#1F2D26", "Ink", "text · 14.37:1", "--ink"],
-  ["#55655B", "Ink soft", "captions · 6.18:1", "--ink-2"],
-  ["#E3E8DF", "Line", "borders", "--line"],
-  ["#A8C49A", "Sage light", "glow only", "--glow"],
-  ["#F4B3C1", "Blush rose", "glow only", "--accent"],
-  ["#C8302A", "Alert red", "emergency · 5.37:1", "--alert"],
+  ["#F8F3EA", "Cream · page background", "~55-60% of surfaces · bg only", "--cream"],
+  ["#FFFFFF", "White · cards, photo frames", "~20% · bg only", "--white"],
+  ["#EFE6D6", "Sand · footer, warm panels", "~10% · bg only", "--sand"],
+  ["#E9EEE3", "Sage tint · feature bands", "~8% · bg only", "--sage-tint"],
+  ["#9CAF88", "Sage · brand, line art, icons", "decoration · never text", "--sage"],
+  ["#5F7350", "Sage deep · buttons, links", "white text 5.18:1", "--sage-deep"],
+  ["#4E6142", "Sage deep 2 · button icon block", "white icon 6.75:1", "--sage-deep-2"],
+  ["#6B4F3A", "Brown · headings and body", "text · 6.77:1 on cream", "--brown"],
+  ["#7A5A3E", "Brown soft · muted text", "text · 5.66:1 on cream", "--ink-2"],
+  ["#C17F5A", "Terracotta · heart, line accents", "decoration · never text", "--terracotta"],
+  ["#9A5534", "Terracotta deep · accent word, focus ring", "text · 5.10:1 on cream", "--terracotta-deep"],
+  ["#B79A62", "Gold · credential seal rings", "decoration · never text", "--gold"],
+  ["#E4D9C4", "Line · borders", "structure only", "--line"],
+  ["#C8302A", "Alert red · medical emergency", "text · 4.86:1 on cream", "--alert"],
+  ["#1F8F55", "WhatsApp green · WA button only", "brand exception", "--wa"],
   ["#2F7D5B", "Success", "4.99:1", "--success"],
   ["#F2B233", "Star", "rating icon only", "--star"],
 ];
@@ -79,16 +79,15 @@ const dot = (hex: string): React.CSSProperties => ({
 });
 
 const contrast: [React.ReactNode, string, string, boolean][] = [
-  [<span key="contrast" className="pv" style={{ color: "#1F2D26" }}>Ink #1F2D26</span>, "White / sage wash / blush wash", "14.37 / 13.29 / 13.54", true],
-  [<span key="contrast" className="pv" style={{ color: "#55655B" }}>Ink soft #55655B</span>, "White / sage tint / blush", "6.18 / 5.12 / 5.12", true],
-  [<span key="contrast" className="pv" style={{ color: "#4F6445" }}>Sage text #4F6445</span>, "White / wash / tint", "6.48 / 5.99 / 5.37", true],
-  [<span key="contrast" className="pv" style={{ color: "#5C7450" }}>Sage #5C7450</span>, "White / sage wash", "5.16 / 4.77", true],
-  [<span key="contrast" className="pv" style={{ background: "#5C7450", color: "#fff" }}>White on sage</span>, "#5C7450", "5.16", true],
-  [<span key="contrast" className="pv" style={{ background: "#26382C", color: "#fff" }}>White on deep moss</span>, "#26382C", "12.47", true],
-  [<span key="contrast" className="pv" style={{ color: "#A24560" }}>Rose #A24560</span>, "White / blush wash / blush", "5.90 / 5.56 / 4.89", true],
-  [<span key="contrast" className="pv" style={{ color: "#C8302A" }}>Alert #C8302A</span>, "White", "5.37", true],
-  [<span key="contrast" className="pv" style={{ color: "var(--ink)" }}><i style={dot("#A8C49A")} />Sage light #A8C49A</span>, "White", "1.90", false],
-  [<span key="contrast" className="pv" style={{ color: "var(--ink)" }}><i style={dot("#F4B3C1")} />Blush rose #F4B3C1</span>, "White", "1.74", false],
+  [<span key="contrast" className="pv" style={{ color: "#6B4F3A" }}>Brown #6B4F3A</span>, "Cream / white / sand / sage tint", "6.77 / 7.49 / 6.05 / 6.35", true],
+  [<span key="contrast" className="pv" style={{ color: "#7A5A3E" }}>Brown soft #7A5A3E</span>, "Cream / white / sand / sage tint", "5.66 / 6.25 / 5.05 / 5.30", true],
+  [<span key="contrast" className="pv" style={{ color: "#5F7350" }}>Sage deep #5F7350</span>, "Cream / white", "4.69 / 5.18", true],
+  [<span key="contrast" className="pv" style={{ background: "#5F7350", color: "#fff" }}>White on sage deep</span>, "#5F7350 / #4E6142", "5.18 / 6.75", true],
+  [<span key="contrast" className="pv" style={{ color: "#9A5534" }}>Terracotta deep #9A5534</span>, "Cream / white / sage tint", "5.10 / 5.64 / 4.78", true],
+  [<span key="contrast" className="pv" style={{ color: "#C8302A" }}>Alert #C8302A</span>, "Cream / white", "4.86 / 5.37", true],
+  [<span key="contrast" className="pv" style={{ color: "var(--ink)" }}><i style={dot("#9CAF88")} />Sage #9CAF88</span>, "Cream", "2.13", false],
+  [<span key="contrast" className="pv" style={{ color: "var(--ink)" }}><i style={dot("#C17F5A")} />Terracotta #C17F5A</span>, "Cream", "2.95", false],
+  [<span key="contrast" className="pv" style={{ color: "var(--ink)" }}><i style={dot("#B79A62")} />Gold #B79A62</span>, "Cream", "2.43", false],
 ];
 
 const faqs = [
@@ -149,12 +148,12 @@ export default function StyleguidePage() {
 
         <Section
           eyebrow="Colour · locked"
-          title={<>Sage, blush and deep <em className="acc">moss</em></>}
+          title={<>Cream, brown, sage and <em className="acc">terracotta</em></>}
           intro="Every text colour has a tested contrast ratio. Decorative colours are never used for text."
         >
           <div className="gradbar">
             <span>Brand gradient</span>
-            <span>#5C7450 to #26382C</span>
+            <span>#9CAF88 to #5F7350</span>
           </div>
           <div className="swatches">
             {swatches.map(([hex, name, meta, token]) => (
@@ -204,7 +203,7 @@ export default function StyleguidePage() {
             </figure>
             <figure className="on-grad">
               <Image src="/images/brand/logo-white-transparent.png" alt="EVE white logo" width={280} height={86} loading="lazy" unoptimized style={{ width: "auto", height: "auto" }} />
-              <figcaption>White · on gradient or deep moss</figcaption>
+              <figcaption>White · on sage-deep gradient</figcaption>
             </figure>
             <figure>
               <Image src="/images/brand/logo-mark-transparent.png" alt="EVE mother and child mark" width={253} height={338} loading="lazy" unoptimized style={{ objectFit: "contain", width: "auto", height: 80 }} />
@@ -265,7 +264,7 @@ export default function StyleguidePage() {
         <Section
           eyebrow="Buttons and links"
           title={<>Clear actions, gentle <em className="acc">motion</em></>}
-          intro="The two-part Book button is the main action: sage icon block, deep moss label, single line. Hover each one."
+          intro="The two-part Book button is the main action: darker sage icon block, sage-deep label, single line. Hover each one."
         >
           <div className="btns">
             <BookButton />
@@ -299,7 +298,7 @@ export default function StyleguidePage() {
         <Section
           eyebrow="01 / Why EVE"
           title={<>Time, honesty and <em className="acc">options</em></>}
-          intro="A bento layout over blush, with one doctor throughout as the deep-moss feature tile. Mobile cards can be swiped or paused."
+          intro="A bento layout over sage-tint, with one doctor throughout as the sage-deep feature tile. Mobile cards can be swiped or paused."
         >
           <WhyBento />
         </Section>
@@ -437,9 +436,9 @@ export default function StyleguidePage() {
         <Section
           eyebrow="Polish pass"
           title={<>Depth, rhythm and <em className="acc">motion</em></>}
-          intro="Tokens and shared components added in the final polish pass. Moss-tinted shadows, alternating section bands, the arch photo frame, photo-versus-illustration image rules, one LineAccent and one Reveal, the pill cloud and the header offset."
+          intro="Tokens and shared components added in the final polish pass. Brown-tinted shadows, alternating section bands, the arch photo frame, photo-versus-illustration image rules, one LineAccent and one Reveal, the pill cloud and the header offset."
         >
-          <h3 style={{ fontSize: 17 }}>Shadow tokens · moss-tinted, never grey</h3>
+          <h3 style={{ fontSize: 17 }}>Shadow tokens · brown-tinted, never grey</h3>
           <div className="btns" style={{ gap: 20 }}>
             {(["--shadow-sm", "--shadow-md", "--shadow-lg"] as const).map((t) => (
               <div key={t} style={{ background: "#fff", borderRadius: 16, padding: "24px 28px", boxShadow: `var(${t})` }}>
@@ -448,11 +447,11 @@ export default function StyleguidePage() {
             ))}
           </div>
 
-          <h3 style={{ fontSize: 17 }}>Section rhythm · white, blush wash, one moss band</h3>
+          <h3 style={{ fontSize: 17 }}>Section rhythm · cream, white, cream, one sage-tint band</h3>
           <div style={{ display: "grid", gap: 10, maxWidth: 560 }}>
-            <div style={{ padding: "16px 20px", borderRadius: 14, border: "1px solid var(--line)" }}>White section</div>
-            <div style={{ padding: "16px 20px", borderRadius: 14, background: "var(--blush-50)" }}>Blush wash · --blush-50</div>
-            <div style={{ padding: "16px 20px", borderRadius: 14, background: "var(--secondary)", color: "#fff" }}>Deep-moss band · --secondary</div>
+            <div style={{ padding: "16px 20px", borderRadius: 14, background: "var(--cream)", border: "1px solid var(--line)" }}>Cream section · --cream</div>
+            <div style={{ padding: "16px 20px", borderRadius: 14, border: "1px solid var(--line)" }}>White section · --white</div>
+            <div style={{ padding: "16px 20px", borderRadius: 14, background: "var(--sage-tint)" }}>Sage-tint band · --sage-tint</div>
           </div>
           <p style={{ fontSize: 14, color: "var(--ink-2)", margin: "10px 0 0" }}>
             Section padding clamp(72px, 10vw, 140px). Content max-width 1200px; the hero runs wider at 1320px.
@@ -493,7 +492,7 @@ export default function StyleguidePage() {
               </div>
             </InView>
             <p style={{ maxWidth: 340, fontSize: 14, color: "var(--ink-2)", margin: 0 }}>
-              One shared component: a 2px sage line with round caps that strokes itself once when its InView ancestor enters the viewport. The hero variant ends in the rose heart; section variants run without it.
+              One shared component: a 2px sage line with round caps that strokes itself once when its InView ancestor enters the viewport. The hero variant ends in the terracotta heart; section variants run without it.
             </p>
           </div>
 

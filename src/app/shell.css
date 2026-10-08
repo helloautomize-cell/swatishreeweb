@@ -828,7 +828,7 @@ html[data-textsize="lg"] {
   border: 1.5px solid var(--primary);
 }
 .cookie .cbtns .c-acc {
-  background: var(--primary);
+  background: var(--sage-deep);
   color: var(--white);
 }
 .cookie .cbtns .c-rej {

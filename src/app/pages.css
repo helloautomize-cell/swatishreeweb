@@ -22,7 +22,7 @@
   max-width: 62ch;
   margin-top: 16px;
   font-size: 1.125rem;
-  color: color-mix(in srgb, var(--ink) 78%, transparent);
+  color: var(--ink-2);
 }
 
 .pg-hero .btns {
@@ -213,7 +213,7 @@
 .pg-sources ul {
   padding: 0 0 8px 20px;
   font-size: 0.9rem;
-  color: color-mix(in srgb, var(--ink) 75%, transparent);
+  color: var(--ink-2);
 }
 
 /* reviewer box */
@@ -234,7 +234,7 @@
 
 .pg-reviewer-sub {
   margin-top: 8px !important;
-  color: color-mix(in srgb, var(--ink) 70%, transparent);
+  color: var(--ink-2);
 }
 
 /* related links */
@@ -355,7 +355,7 @@
 .pg-postmeta {
   margin-top: 12px;
   font-size: 0.9rem;
-  color: color-mix(in srgb, var(--ink) 65%, transparent);
+  color: var(--ink-2);
 }
 
 .pg-brief {

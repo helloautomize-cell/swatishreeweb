@@ -285,7 +285,7 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 5. **Do you accept patients from outside Bangalore?**
    Yes. Many couples travel for the first evaluation. We try to complete tests in as few visits as possible and plan follow-up with you. See Coming from outside Bangalore for a visit plan.
 6. **How can I check that the clinic and doctor are registered?**
-   Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page `[CONFIRM]`.
+   Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration `[CONFIRM: National ART and Surrogacy Registry no.]` appears in the footer and on the Patient Rights page.
 
 Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed 1 September 2026.
 
@@ -322,7 +322,7 @@ Buttons: [Book with Dr. Swati] [Call 72049 21212]
 
 Dr. Swati Shree is a fertility and women's health specialist in Bangalore and the founder of EVE Women and Fertility Clinic in Gunjur. She trained in medicine and then in obstetrics and gynaecology, completing a DNB, and went on to a fellowship in reproductive medicine at KJK Hospital in Trivandrum. She is a Member of the Royal College of Obstetricians and Gynaecologists (MRCOG), a UK postgraduate qualification that tests knowledge and clinical judgment in obstetrics and gynaecology to an international standard.
 
-Her training took her through some of India's well-known institutions, including AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital in Bangalore. `[CONFIRM: AIIMS campus, role and years]` She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility `[CONFIRM: current arrangement and wording]`.
+Her training took her through some of India's well-known institutions, including AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital in Bangalore. `[CONFIRM: AIIMS campus, role and years]` She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility`[CONFIRM: current arrangement and wording]`.
 
 Alongside clinical work, Dr. Swati teaches. She has conducted MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and has been a speaker at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award.
 
@@ -382,7 +382,7 @@ Mobile: 6 per group + "Show all (n)".
 3. **Which languages does Dr. Swati speak?**
    English, Hindi and Kannada. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
 4. **Where does Dr. Swati see patients?**
-   Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres `[CONFIRM: wording]`.
+   Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres`[CONFIRM: wording]`.
 5. **Do I see Dr. Swati herself at every visit?**
    Yes. EVE is a founder-led clinic, and Dr. Swati sees every patient herself. Scans and tests may be done by trained staff under her supervision, but the consultation, the plan and the decisions are hers and yours.
 6. **How can I check Dr. Swati's registration?**
@@ -1003,7 +1003,7 @@ Conception needs five things to work: an egg that is released (ovulation), healt
 
 | Question | How it is checked |
 |---|---|
-| Are you ovulating regularly? | Cycle history, follicle tracking, mid-luteal progesterone `[CONFIRM]`, thyroid and prolactin tests |
+| Are you ovulating regularly? | Cycle history, follicle tracking, mid-luteal progesterone`[CONFIRM]`, thyroid and prolactin tests |
 | How many eggs are left (ovarian reserve)? | AMH blood test and antral follicle count on ultrasound |
 | Are the fallopian tubes open? | HSG, or a saline contrast ultrasound; laparoscopy in selected cases |
 | Is the uterus normal? | Pelvic ultrasound; 3D scan or hysteroscopy if needed |
@@ -3334,7 +3334,7 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 12 September 2026.
 ---
 # Part 5 · Legal and trust pages (7 pages)
 
-These pages are drafts for review by a lawyer before launch `[CONFIRM: legal review]`. Dates come from `legalLastUpdated` in `lib/site-config.ts`. "EVE", "we" and "us" mean EVE Women and Fertility Clinic. Every legal page has a one-paragraph plain summary at the top, then the numbered sections.
+These pages are drafts for review by a lawyer before launch`[CONFIRM: legal review]`. Dates come from `legalLastUpdated` in `lib/site-config.ts`. "EVE", "we" and "us" mean EVE Women and Fertility Clinic. Every legal page has a one-paragraph plain summary at the top, then the numbered sections.
 
 ---
 
@@ -3356,7 +3356,7 @@ Last updated: `[date]`
 
 ### 1. Who we are
 
-EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka, run by Dr. Swati Shree. `[CONFIRM: legal entity name]` We decide why and how your personal data is used, which makes us the "data fiduciary" under the Digital Personal Data Protection Act, 2023 (DPDP Act). Privacy contact: `[CONFIRM: name, email, phone]`.
+EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka, run by Dr. Swati Shree. `[CONFIRM: legal entity name]` We decide why and how your personal data is used, which makes us the "data fiduciary" under the Digital Personal Data Protection Act, 2023 (DPDP Act). Privacy contact:`[CONFIRM: name, email, phone]`.
 
 ### 2. What we collect
 
@@ -3599,7 +3599,7 @@ This website carries no third-party advertising. Content is funded by the clinic
 
 ### 8. Report an error
 
-If you find something inaccurate or out of date, please write to `[CONFIRM: email]`. We review reports within `[CONFIRM: 7]` working days.
+If you find something inaccurate or out of date, please write to`[CONFIRM: email]`. We review reports within `[CONFIRM: 7]` working days.
 
 ---
 
@@ -3617,7 +3617,7 @@ H1: Patient rights and *responsibilities*
 
 Last updated: `[date]`
 
-**In short.** You have the right to be treated with respect, to understand your care, to say no, and to have your privacy protected. This page follows the Charter of Patients' Rights, and a copy is displayed at the clinic `[CONFIRM]`.
+**In short.** You have the right to be treated with respect, to understand your care, to say no, and to have your privacy protected. This page follows the Charter of Patients' Rights, and a copy is displayed at the clinic`[CONFIRM]`.
 
 ### Your rights
 
@@ -3642,11 +3642,11 @@ Last updated: `[date]`
 
 ### ART-specific points
 
-IUI, IVF and related treatments are regulated by the ART (Regulation) Act, 2021. You will be counselled, and asked for written consent. Sex selection is prohibited. Our ART registration number is `[CONFIRM]`.
+IUI, IVF and related treatments are regulated by the ART (Regulation) Act, 2021. You will be counselled, and asked for written consent. Sex selection is prohibited. Our ART registration number is`[CONFIRM]`.
 
 ### Making a complaint
 
-Speak to Dr. Swati or the front desk first. You may also write to `[CONFIRM: email]`. If you remain unsatisfied, you may approach the Karnataka Medical Council, the District Health Officer, or a consumer forum.
+Speak to Dr. Swati or the front desk first. You may also write to`[CONFIRM: email]`. If you remain unsatisfied, you may approach the Karnataka Medical Council, the District Health Officer, or a consumer forum.
 
 ---
 
@@ -3674,7 +3674,7 @@ Last updated: `[date]`
 
 ### 2. Consultation fees and payment
 
-Fees are told to you before the consultation `[CONFIRM: fee policy]`. We accept `[CONFIRM: cash, UPI, cards]`. A receipt is given for every payment.
+Fees are told to you before the consultation`[CONFIRM: fee policy]`. We accept`[CONFIRM: cash, UPI, cards]`. A receipt is given for every payment.
 
 ### 3. Rescheduling
 
@@ -3761,7 +3761,7 @@ If you find something you cannot use or read, please write to `[CONFIRM: email]`
 
 ### 7. Date of this statement
 
-This statement was prepared on `[date]` using our own review `[CONFIRM: and an independent audit, if done]`.
+This statement was prepared on `[date]` using our own review`[CONFIRM: and an independent audit, if done]`.
 
 ---
 # Part 6 · Blog launch articles (3 posts)

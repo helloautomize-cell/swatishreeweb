@@ -32,7 +32,7 @@ Conception needs five things to work: an egg that is released (ovulation), healt
 
 | Question | How it is checked |
 |---|---|
-| Are you ovulating regularly? | Cycle history, follicle tracking, mid-luteal progesterone `[CONFIRM]`, thyroid and prolactin tests |
+| Are you ovulating regularly? | Cycle history, follicle tracking, mid-luteal progesterone`[CONFIRM]`, thyroid and prolactin tests |
 | How many eggs are left (ovarian reserve)? | AMH blood test and antral follicle count on ultrasound |
 | Are the fallopian tubes open? | HSG, or a saline contrast ultrasound; laparoscopy in selected cases |
 | Is the uterus normal? | Pelvic ultrasound; 3D scan or hysteroscopy if needed |

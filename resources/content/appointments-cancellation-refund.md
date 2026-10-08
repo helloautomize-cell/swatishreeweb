@@ -20,7 +20,7 @@ Last updated: `[date]`
 
 ### 2. Consultation fees and payment
 
-Fees are told to you before the consultation `[CONFIRM: fee policy]`. We accept `[CONFIRM: cash, UPI, cards]`. A receipt is given for every payment.
+Fees are told to you before the consultation`[CONFIRM: fee policy]`. We accept`[CONFIRM: cash, UPI, cards]`. A receipt is given for every payment.
 
 ### 3. Rescheduling
 
