@@ -2,6 +2,7 @@
 title: "Dr. Swati Shree, MRCOG | Fertility Specialist Bangalore"
 description: "Dr. Swati Shree: MBBS, DNB (OBG), MRCOG (UK), fellowship in reproductive medicine. Fertility and gynaecology specialist at EVE, Gunjur, Bangalore."
 url: /dr-swati-shree/
+lastReviewed: "2026-09-14"
 reviewer: dr-swati-shree
 schema: [ProfilePage, Physician, FAQPage]
 entities: [MRCOG, Royal College of Obstetricians and Gynaecologists, DNB, KJK Hospital, AIIMS, Garbhagudi IVF Centre, Apollo Fertility, Motherhood Fertility, Garden City University, StudyMedic]
@@ -92,4 +93,4 @@ Mobile: 6 per group + "Show all (n)".
 6. **How can I check Dr. Swati's registration?**
    Dr. Swati is registered with the Karnataka Medical Council, registration number DLH20090000353KTK. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council.
 
-Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed 14 September 2026.

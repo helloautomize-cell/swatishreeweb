@@ -2,6 +2,7 @@
 title: "Editorial and Medical Review Policy | EVE Clinic"
 description: "How EVE writes, sources, reviews and updates its medical content, who reviews it, and how to report an error."
 url: /editorial-policy/
+lastReviewed: "2026-09-14"
 schema: [WebPage]
 ---
 

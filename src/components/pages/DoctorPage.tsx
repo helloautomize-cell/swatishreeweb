@@ -187,7 +187,7 @@ export default function DoctorPage({ doc }: { doc: PageDoc }) {
           </section>
         )}
 
-        <ReviewerBox note={doc.reviewerNote} />
+        <ReviewerBox note={doc.reviewerNote} lastReviewed={doc.meta.lastReviewed} />
         <p className="pg-more"><Link className="link" href="/contact/">Book a consultation <ArrowRight size={16} strokeWidth={1.75} aria-hidden /></Link></p>
       </article>
       <CtaBand />

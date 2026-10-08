@@ -2,6 +2,8 @@
 title: "IUI Treatment in Bangalore | EVE, Dr. Swati Shree"
 description: "IUI (intrauterine insemination) explained: who it suits, steps, risks, timing and what to expect, with Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /treatments/iui/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-28"
 h1: "IUI *(intrauterine insemination)*"
 badge: iui
 about: { type: MedicalProcedure, name: "Intrauterine insemination", alternateName: ["IUI", "Artificial insemination with husband's sperm", "IUI-H"] }
@@ -99,4 +101,4 @@ IUI is regulated by the ART (Regulation) Act, 2021. Treatment is offered to marr
 - ASRM Practice Committee, Use of clomiphene citrate and intrauterine insemination in unexplained infertility
 - ART (Regulation) Act, 2021 and Rules, 2022
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 28 September 2026.

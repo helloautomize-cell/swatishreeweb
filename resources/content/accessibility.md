@@ -2,6 +2,7 @@
 title: "Accessibility Statement | EVE Women and Fertility Clinic"
 description: "How EVE works to make its website and clinic accessible to everyone, what we have done, known gaps and how to ask for help."
 url: /accessibility/
+lastReviewed: "2026-09-02"
 schema: [WebPage]
 ---
 

@@ -100,7 +100,7 @@ export default function JourneyPage({ doc }: { doc: PageDoc }) {
           return <SectionBlock key={s.id} section={s} />;
         })}
 
-        <ReviewerBox note={doc.reviewerNote} />
+        <ReviewerBox note={doc.reviewerNote} lastReviewed={doc.meta.lastReviewed} />
       </article>
       <CtaBand />
     </main>

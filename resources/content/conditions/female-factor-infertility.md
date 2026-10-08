@@ -2,6 +2,8 @@
 title: "Female Infertility Causes and Care in Bangalore | EVE"
 description: "Why a woman may not conceive: ovulation, tubes, uterus, ovarian reserve and age. Evaluation and options with Dr. Swati Shree, EVE, Gunjur, Bangalore."
 url: /conditions/female-factor-infertility/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-08"
 h1: "Female factor *infertility*"
 badge: female-infertility
 about: { type: MedicalCondition, name: "Female infertility", alternateName: ["Female factor infertility", "Subfertility"] }
@@ -92,4 +94,4 @@ See a specialist after 12 months of trying, 6 months if you are 35 or older, or 
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 8 September 2026.

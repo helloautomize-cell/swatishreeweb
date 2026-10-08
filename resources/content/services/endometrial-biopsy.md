@@ -2,6 +2,8 @@
 title: "Endometrial Biopsy in Bangalore | EVE, Gunjur"
 description: "Endometrial biopsy checks the uterine lining for abnormal bleeding, thickening or infection. What happens and what to expect, with Dr. Swati Shree, Gunjur."
 url: /services/endometrial-biopsy/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-21"
 h1: "Endometrial *biopsy*"
 badge: endometrial-biopsy
 about: { type: DiagnosticProcedure, name: "Endometrial biopsy", alternateName: ["Endometrial sampling", "Pipelle biopsy"] }
@@ -78,4 +80,4 @@ An endometrial biopsy takes a tiny sample of the uterine lining (the endometrium
 - FIGO PALM-COEIN classification of abnormal uterine bleeding
 - NICE Guideline NG88: Heavy menstrual bleeding
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 21 September 2026.

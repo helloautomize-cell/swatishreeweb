@@ -2,6 +2,8 @@
 title: "Contraceptive Counselling in Bangalore | EVE, Gunjur"
 description: "Honest, judgment-free contraception advice with Dr. Swati Shree at EVE, Gunjur, Bangalore: pills, IUDs, implants, emergency contraception and more."
 url: /services/contraceptive-counselling/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-19"
 h1: "Contraceptive *counselling*"
 badge: contraception
 about: { type: MedicalProcedure, name: "Contraceptive counselling" }
@@ -75,4 +77,4 @@ Most methods are reversible, and fertility returns soon after stopping. Fertilit
 - Ministry of Health and Family Welfare, India, Family Planning guidelines
 - FOGSI good clinical practice recommendations on contraception `[CONFIRM: exact title]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 19 September 2026.

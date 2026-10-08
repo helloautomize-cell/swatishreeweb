@@ -2,6 +2,8 @@
 title: "Irregular and Heavy Periods Treatment Bangalore | EVE"
 description: "Irregular, heavy, painful or missed periods: causes, tests and treatment with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore."
 url: /conditions/menstrual-disorders/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-10"
 h1: "Menstrual *disorders*"
 badge: menstrual
 about: { type: MedicalCondition, name: "Abnormal uterine bleeding", alternateName: ["Irregular periods", "Heavy menstrual bleeding", "Dysmenorrhoea", "Amenorrhoea"] }
@@ -80,4 +82,4 @@ Heavy periods are a common cause of iron-deficiency anaemia in Indian women, cau
 - NICE Guideline NG88: Heavy menstrual bleeding: assessment and management
 - ACOG Committee Opinion: Menstruation in girls and adolescents
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 10 September 2026.

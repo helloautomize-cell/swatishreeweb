@@ -59,7 +59,7 @@ export default function HubPage({ doc }: { doc: PageDoc }) {
           <HubSection key={s.id} section={s} />
         ))}
 
-        <ReviewerBox note={doc.reviewerNote} />
+        <ReviewerBox note={doc.reviewerNote} lastReviewed={doc.meta.lastReviewed} />
       </article>
       <CtaBand />
     </main>

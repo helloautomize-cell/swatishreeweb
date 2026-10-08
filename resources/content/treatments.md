@@ -2,6 +2,7 @@
 title: "IUI, IVF and Egg Freezing in Bangalore | EVE"
 description: "IUI, IVF, egg freezing and TESA/PESA explained by Dr. Swati Shree, MRCOG, in Gunjur, Bangalore. Honest options, clear steps, no pressure."
 url: /treatments/
+lastReviewed: "2026-09-26"
 schema: [CollectionPage, ItemList, FAQPage]
 ---
 

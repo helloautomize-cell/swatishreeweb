@@ -2,6 +2,7 @@
 title: "Your Fertility Journey: IUI or IVF First? | EVE Bangalore"
 description: "How a fertility journey works, step by step: tests, simple options, IUI, IVF and how to decide. Honest guidance from Dr. Swati Shree, Gunjur, Bangalore."
 url: /your-fertility-journey/
+lastReviewed: "2026-09-30"
 reviewer: dr-swati-shree
 schema: [MedicalWebPage, FAQPage]
 entities: [IUI, IVF, ICSI, AMH, ART Act 2021, ESHRE]
@@ -81,4 +82,4 @@ Under the ART (Regulation) Act, 2021, IUI and IVF are offered to married couples
 
 Sources: ESHRE Guideline on Unexplained Infertility (2023); NICE Guideline CG156, Fertility problems: assessment and treatment; ASRM Practice Committee, Definition of infertility (2023); ART (Regulation) Act, 2021
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 30 September 2026.

@@ -2,6 +2,8 @@
 title: "Recurrent Miscarriage Treatment in Bangalore | EVE"
 description: "Two or more miscarriages? Causes, tests and care for recurrent pregnancy loss with Dr. Swati Shree, MRCOG, at EVE Women and Fertility Clinic, Gunjur."
 url: /conditions/recurrent-pregnancy-loss/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-11"
 h1: "Recurrent pregnancy *loss*"
 badge: pregnancy-loss
 about: { type: MedicalCondition, name: "Recurrent pregnancy loss", alternateName: ["Recurrent miscarriage", "Habitual abortion"] }
@@ -95,4 +97,4 @@ Many couples with recurrent loss, even with no cause found, go on to have a heal
 - RCOG Green-top Guideline No. 17: Recurrent first-trimester and second-trimester miscarriage
 - ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 11 September 2026.

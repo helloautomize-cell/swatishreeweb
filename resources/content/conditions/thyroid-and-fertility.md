@@ -2,6 +2,8 @@
 title: "Thyroid and Fertility in Bangalore | EVE, Dr. Swati Shree"
 description: "How thyroid problems affect periods, fertility and pregnancy, which tests to have, and how treatment helps, with Dr. Swati Shree, EVE Clinic, Gunjur."
 url: /conditions/thyroid-and-fertility/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-12"
 h1: "Thyroid and *fertility*"
 badge: thyroid
 about: { type: MedicalCondition, name: "Thyroid disorders in women planning pregnancy", alternateName: ["Hypothyroidism and infertility", "Thyroid and pregnancy"] }
@@ -83,4 +85,4 @@ Some women have antibodies against the thyroid (TPO antibodies) even with normal
 - ESHRE Guideline: Recurrent pregnancy loss (2022)
 - Indian Thyroid Society guidance `[CONFIRM: title]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 12 September 2026.

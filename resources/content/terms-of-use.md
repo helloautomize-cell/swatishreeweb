@@ -2,6 +2,7 @@
 title: "Terms of Use | EVE Women and Fertility Clinic"
 description: "The terms for using the EVE Women and Fertility Clinic website, including content, bookings, links and limits of liability."
 url: /terms-of-use/
+lastReviewed: "2026-09-25"
 schema: [WebPage]
 ---
 

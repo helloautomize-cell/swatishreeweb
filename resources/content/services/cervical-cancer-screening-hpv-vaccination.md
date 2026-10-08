@@ -2,6 +2,8 @@
 title: "Pap Smear and HPV Vaccine in Bangalore | EVE, Gunjur"
 description: "Cervical cancer screening (Pap smear, HPV test) and HPV vaccination advice with Dr. Swati Shree at EVE, Gunjur, Bangalore. Who, when and what to expect."
 url: /services/cervical-cancer-screening-hpv-vaccination/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-19"
 h1: "Cervical cancer screening and *HPV vaccination*"
 badge: cervical-screening
 about: { type: MedicalTest, name: "Cervical cancer screening", alternateName: ["Pap smear", "Pap test", "HPV DNA test", "Cervical cytology"] }
@@ -74,4 +76,4 @@ The vaccine does not treat an existing infection, and does not remove the need f
 - ICMR and National Programme for Prevention and Control of Non-Communicable Diseases screening guidance
 - ACOG and ASCCP cervical screening guidance `[CONFIRM: edition]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 19 September 2026.

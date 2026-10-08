@@ -2,6 +2,8 @@
 title: "Reproductive Immunology in Bangalore | EVE, Gunjur"
 description: "Immune factors in miscarriage and implantation failure, explained honestly by Dr. Swati Shree at EVE, Gunjur. What is tested, what helps, what is unproven."
 url: /services/reproductive-immunology/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-24"
 h1: "Reproductive *immunology*"
 badge: reproductive-immunology
 about: { type: MedicalProcedure, name: "Evaluation of immune factors in pregnancy loss and implantation failure" }
@@ -74,4 +76,4 @@ Not every loss has an immune cause. In about half of couples with recurrent loss
 - ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss (2012)
 `[CONFIRM: Dr. Swati approves the evidence stance on this page.]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 24 September 2026.

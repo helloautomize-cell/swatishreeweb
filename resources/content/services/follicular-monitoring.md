@@ -2,6 +2,8 @@
 title: "Follicular Monitoring in Bangalore | EVE, Gunjur"
 description: "Follicular study with serial ultrasound to time ovulation and plan IUI or natural attempts, with Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /services/follicular-monitoring/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-22"
 h1: "Follicular *monitoring*"
 badge: follicular-monitoring
 about: { type: MedicalTest, name: "Follicular monitoring by transvaginal ultrasound", alternateName: ["Follicular study", "Ovulation tracking scan", "Folliculometry"] }
@@ -72,4 +74,4 @@ A transvaginal scan is safe, with no radiation, and may be uncomfortable. If ovu
 - ESHRE Guideline: Ovarian stimulation for IVF/ICSI (2020), for follicle monitoring principles
 - International evidence-based guideline for the assessment and management of PCOS (2023)
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 22 September 2026.

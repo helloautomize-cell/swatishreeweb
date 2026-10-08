@@ -2,6 +2,7 @@
 title: "Plan Your Visit | EVE Fertility Clinic, Gunjur Bangalore"
 description: "Address, timings, directions, what to bring and how to prepare for your first consultation at EVE Women and Fertility Clinic, Gunjur, Bangalore."
 url: /plan-your-visit/
+lastReviewed: "2026-09-17"
 schema: [WebPage, FAQPage]
 ---
 

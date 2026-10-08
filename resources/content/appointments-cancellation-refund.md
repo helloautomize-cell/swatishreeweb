@@ -2,6 +2,7 @@
 title: "Appointments, Cancellation and Refund | EVE Clinic"
 description: "How booking works at EVE Women and Fertility Clinic, how to reschedule or cancel, and when fees are refunded."
 url: /appointments-cancellation-refund/
+lastReviewed: "2026-09-02"
 schema: [WebPage]
 ---
 

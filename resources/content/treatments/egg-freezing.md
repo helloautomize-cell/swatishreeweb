@@ -2,6 +2,8 @@
 title: "Egg Freezing in Bangalore | EVE, Dr. Swati Shree"
 description: "Egg freezing (oocyte cryopreservation) explained: who, when, steps, limits and legal rules, with Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore."
 url: /treatments/egg-freezing/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-28"
 h1: "Egg *freezing*"
 badge: egg-freezing
 about: { type: MedicalProcedure, name: "Oocyte cryopreservation", alternateName: ["Egg freezing", "Fertility preservation", "Vitrification of eggs"] }
@@ -91,4 +93,4 @@ Indian law sets rules on who may freeze eggs, the storage period and consent. Th
 - ASRM Ethics Committee and Practice Committee opinions on planned oocyte cryopreservation
 - ART (Regulation) Act, 2021 and Rules, 2022
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 28 September 2026.

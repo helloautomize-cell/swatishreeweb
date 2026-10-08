@@ -2,6 +2,7 @@
 title: "Patient Rights and Responsibilities | EVE Clinic"
 description: "Your rights as a patient at EVE Women and Fertility Clinic, including consent, privacy and information, and what we ask of you."
 url: /patient-rights/
+lastReviewed: "2026-09-16"
 schema: [WebPage]
 ---
 

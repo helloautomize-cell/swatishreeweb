@@ -2,6 +2,8 @@
 title: "HSG Test in Bangalore | Tubal Patency Test, EVE Clinic"
 description: "HSG checks whether your fallopian tubes are open. What happens, how to prepare, risks and results, explained by Dr. Swati Shree, Gunjur, Bangalore."
 url: /services/tubal-patency-test-hsg/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-25"
 h1: "Tubal patency test *(HSG)*"
 badge: hsg
 about: { type: MedicalTest, name: "Hysterosalpingography", alternateName: ["HSG", "Tubal patency test", "Uterine tube X-ray"] }
@@ -81,4 +83,4 @@ Dr. Swati advises the best method for you.
 - NICE Guideline CG156: Fertility problems
 - ESHRE Guideline: Unexplained infertility (2023)
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 25 September 2026.

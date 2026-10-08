@@ -2,11 +2,12 @@
 title: "Fertility Tests Explained: AMH, Semen, HSG, Scans"
 description: "What each fertility test measures, what the numbers mean and what they cannot tell you: AMH, antral follicle count, semen analysis, HSG and thyroid tests."
 url: /blog/fertility-tests-explained/
+lastReviewed: "2026-09-03"
 category: Getting started
 author: dr-swati-shree
 reviewer: dr-swati-shree
 datePublished: "[CONFIRM: launch date]"
-dateModified: "[CONFIRM: launch date]"
+dateModified: "2026-09-03"
 badge: fertility-evaluation
 readingTime: 7
 related: [/services/fertility-evaluation/, /services/tubal-patency-test-hsg/, /services/male-fertility-evaluation/]

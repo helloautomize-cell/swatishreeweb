@@ -2,6 +2,7 @@
 title: "Fertility and Gynaecology Services in Bangalore | EVE"
 description: "Fertility evaluation, follicular monitoring, HSG, male fertility testing, early pregnancy scans, cervical screening and more with Dr. Swati Shree, Gunjur."
 url: /services/
+lastReviewed: "2026-09-18"
 schema: [CollectionPage, ItemList, FAQPage]
 ---
 

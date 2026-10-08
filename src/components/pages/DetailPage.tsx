@@ -117,7 +117,7 @@ export default function DetailPage({ doc }: { doc: PageDoc }) {
           ))}
 
           {doc.reviewerNote !== null && doc.kind === "detail" && (
-            <ReviewerBox note={doc.reviewerNote} />
+            <ReviewerBox note={doc.reviewerNote} lastReviewed={doc.meta.lastReviewed} />
           )}
         </div>
 

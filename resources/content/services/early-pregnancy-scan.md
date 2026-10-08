@@ -2,6 +2,8 @@
 title: "Early Pregnancy Scan in Bangalore | EVE, Gunjur"
 description: "Early pregnancy scan to confirm location, heartbeat and dates, with Dr. Swati Shree at EVE, Gunjur, Bangalore. What to expect and when to scan."
 url: /services/early-pregnancy-scan/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-21"
 h1: "Early pregnancy *scan*"
 badge: early-pregnancy-scan
 about: { type: MedicalTest, name: "Early pregnancy ultrasound", alternateName: ["Dating scan", "Viability scan", "Heartbeat scan", "Transvaginal pregnancy scan"] }
@@ -82,4 +84,4 @@ A scan too early may be inconclusive, which can be stressful but is not unusual.
 - NICE Guideline NG126: Ectopic pregnancy and miscarriage
 - Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, 1994
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 21 September 2026.

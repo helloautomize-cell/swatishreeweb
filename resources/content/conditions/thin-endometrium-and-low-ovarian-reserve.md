@@ -2,6 +2,8 @@
 title: "Low AMH and Thin Endometrium Care in Bangalore | EVE"
 description: "Low ovarian reserve (low AMH) and thin endometrium: causes, tests and options with Dr. Swati Shree, MRCOG, at EVE Women and Fertility Clinic, Gunjur."
 url: /conditions/thin-endometrium-and-low-ovarian-reserve/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-11"
 h1: "Thin endometrium and low *ovarian reserve*"
 badge: ovarian-reserve
 about: { type: MedicalCondition, name: "Diminished ovarian reserve and thin endometrium", alternateName: ["Low AMH", "Poor ovarian reserve", "Thin uterine lining"] }
@@ -90,4 +92,4 @@ The endometrium needs to be thick enough, and well-formed, for an embryo to impl
 - ESHRE Good practice recommendations on add-ons in reproductive medicine (2023)
 - ESHRE Guideline: Premature ovarian insufficiency (2024)
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 11 September 2026.

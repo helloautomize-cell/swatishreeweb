@@ -2,6 +2,8 @@
 title: "Endometriosis Treatment in Bangalore | EVE Clinic"
 description: "Endometriosis: symptoms, diagnosis, pain care, surgery and fertility, explained by Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore."
 url: /conditions/endometriosis/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-07"
 h1: "*Endometriosis*"
 badge: endometriosis
 about: { type: MedicalCondition, name: "Endometriosis", alternateName: ["Chocolate cyst", "Endometrioma"] }
@@ -86,4 +88,4 @@ Endometriosis can affect fertility through inflammation, scarring, blocked tubes
 - ACOG Practice Bulletin: Management of endometriosis
 - ASRM Practice Committee, Treatment of pelvic pain associated with endometriosis
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 7 September 2026.

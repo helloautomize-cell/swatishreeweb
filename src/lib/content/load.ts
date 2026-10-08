@@ -207,8 +207,10 @@ export function loadPages(): PageDoc[] {
       })
       .join("\n");
 
-    const reviewerNote =
+    const reviewerNoteRaw =
       trailing.find((t) => t.label.startsWith("Reviewer"))?.value ?? null;
+    const reviewerNote =
+      reviewerNoteRaw && !/use global text/i.test(reviewerNoteRaw) ? reviewerNoteRaw : null;
     const sourcesLine = trailing.find((t) => t.label.startsWith("Sources"))?.value;
 
     // Split into lead + ### sections.

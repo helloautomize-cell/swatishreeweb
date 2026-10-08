@@ -2,6 +2,8 @@
 title: "Adolescent Gynaecologist in Bangalore | EVE, Gunjur"
 description: "A gentle first gynaecology visit for teenage girls: periods, PCOS, pain, HPV vaccine and questions, with Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /services/adolescent-gynaecology/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-18"
 h1: "Adolescent *gynaecology*"
 badge: adolescent-gynaecology
 about: { type: MedicalProcedure, name: "Adolescent gynaecology consultation" }
@@ -77,4 +79,4 @@ She will not pressure a young person, will not share what she says with others w
 - International evidence-based guideline for the assessment and management of PCOS (2023)
 - Ministry of Health and Family Welfare, National HPV vaccination programme, 2026
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 18 September 2026.

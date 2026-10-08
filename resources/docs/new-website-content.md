@@ -218,6 +218,7 @@ Use the global CTA band from `site-plan.md`, section 6.
 title: "About EVE Women and Fertility Clinic | Gunjur, Bangalore"
 description: "How EVE began, how Dr. Swati Shree works, and what to expect: a founder-led fertility and women's health clinic in Gunjur, East Bangalore, since 2025."
 url: /about/
+lastReviewed: "2026-09-01"
 reviewer: dr-swati-shree
 schema: [AboutPage]
 entities: [Gunjur, Bengaluru, MRCOG, ART Act 2021, KJK Hospital]
@@ -286,7 +287,7 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 6. **How can I check that the clinic and doctor are registered?**
    Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page `[CONFIRM]`.
 
-Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed 1 September 2026.
 
 ---
 
@@ -296,6 +297,7 @@ Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last revie
 title: "Dr. Swati Shree, MRCOG | Fertility Specialist Bangalore"
 description: "Dr. Swati Shree: MBBS, DNB (OBG), MRCOG (UK), fellowship in reproductive medicine. Fertility and gynaecology specialist at EVE, Gunjur, Bangalore."
 url: /dr-swati-shree/
+lastReviewed: "2026-09-14"
 reviewer: dr-swati-shree
 schema: [ProfilePage, Physician, FAQPage]
 entities: [MRCOG, Royal College of Obstetricians and Gynaecologists, DNB, KJK Hospital, AIIMS, Garbhagudi IVF Centre, Apollo Fertility, Motherhood Fertility, Garden City University, StudyMedic]
@@ -386,7 +388,7 @@ Mobile: 6 per group + "Show all (n)".
 6. **How can I check Dr. Swati's registration?**
    Dr. Swati is registered with the Karnataka Medical Council, registration number DLH20090000353KTK. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council.
 
-Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed 14 September 2026.
 
 ---
 ## Page 4 · All services
@@ -395,6 +397,7 @@ Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last revie
 title: "Fertility and Gynaecology Services in Bangalore | EVE"
 description: "Fertility evaluation, follicular monitoring, HSG, male fertility testing, early pregnancy scans, cervical screening and more with Dr. Swati Shree, Gunjur."
 url: /services/
+lastReviewed: "2026-09-18"
 schema: [CollectionPage, ItemList, FAQPage]
 ```
 
@@ -455,6 +458,7 @@ Not sure which service you need? Start with a consultation. Dr. Swati will liste
 title: "IUI, IVF and Egg Freezing in Bangalore | EVE"
 description: "IUI, IVF, egg freezing and TESA/PESA explained by Dr. Swati Shree, MRCOG, in Gunjur, Bangalore. Honest options, clear steps, no pressure."
 url: /treatments/
+lastReviewed: "2026-09-26"
 schema: [CollectionPage, ItemList, FAQPage]
 ```
 
@@ -507,6 +511,7 @@ IUI and IVF are regulated by the ART (Regulation) Act, 2021. Treatment is offere
 title: "PCOS, Endometriosis, Fibroids and More | EVE Bangalore"
 description: "Plain-English guides to PCOS, endometriosis, recurrent miscarriage, fibroids, thyroid, low AMH and menopause, reviewed by Dr. Swati Shree, Bangalore."
 url: /conditions/
+lastReviewed: "2026-09-05"
 schema: [CollectionPage, ItemList, FAQPage]
 ```
 
@@ -554,6 +559,7 @@ Symptoms overlap. Painful periods can be endometriosis or adenomyosis. Irregular
 title: "Your Fertility Journey: IUI or IVF First? | EVE Bangalore"
 description: "How a fertility journey works, step by step: tests, simple options, IUI, IVF and how to decide. Honest guidance from Dr. Swati Shree, Gunjur, Bangalore."
 url: /your-fertility-journey/
+lastReviewed: "2026-09-30"
 reviewer: dr-swati-shree
 schema: [MedicalWebPage, FAQPage]
 entities: [IUI, IVF, ICSI, AMH, ART Act 2021, ESHRE]
@@ -633,7 +639,7 @@ Under the ART (Regulation) Act, 2021, IUI and IVF are offered to married couples
 
 Sources: ESHRE Guideline on Unexplained Infertility (2023); NICE Guideline CG156, Fertility problems: assessment and treatment; ASRM Practice Committee, Definition of infertility (2023); ART (Regulation) Act, 2021
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 30 September 2026.
 
 ---
 
@@ -643,6 +649,7 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Plan Your Visit | EVE Fertility Clinic, Gunjur Bangalore"
 description: "Address, timings, directions, what to bring and how to prepare for your first consultation at EVE Women and Fertility Clinic, Gunjur, Bangalore."
 url: /plan-your-visit/
+lastReviewed: "2026-09-17"
 schema: [WebPage, FAQPage]
 ```
 
@@ -722,6 +729,7 @@ Girls under 18 are welcome with a parent or guardian, and consent is taken from 
 title: "Fertility Doctor Bangalore for Outstation Patients | EVE"
 description: "Planning a fertility consultation with Dr. Swati Shree from another city? How to plan a visit, what to bring, and how follow-up works from far away."
 url: /coming-from-outside-bangalore/
+lastReviewed: "2026-09-05"
 schema: [WebPage, Service, FAQPage]
 ```
 
@@ -774,6 +782,7 @@ Gunjur is in East Bangalore, off Varthur Road. `[CONFIRM: distance and time from
 title: "Book a Fertility Consultation | EVE Bangalore, Gunjur"
 description: "Book with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur. Call 72049 21212 or 72049 21516. We aim to reply within 24 hours."
 url: /contact/
+lastReviewed: "2026-09-12"
 schema: [ContactPage, ReserveAction]
 ```
 
@@ -816,6 +825,7 @@ Map: Show map (click to load; pin from `[CONFIRM: Google Maps share URL]`)
 title: "Fertility and Women's Health FAQs | EVE Bangalore"
 description: "Answers to common questions on fertility tests, IUI, IVF, PCOS, miscarriage, egg freezing, booking, privacy and the ART Act, from EVE, Gunjur, Bangalore."
 url: /faqs/
+lastReviewed: "2026-09-15"
 schema: [FAQPage]
 ```
 
@@ -906,6 +916,7 @@ Intro: Straight answers to the questions we hear most. For anything specific to 
 title: "Fertility and Women's Health Blog | EVE Bangalore"
 description: "Doctor-reviewed articles on fertility tests, PCOS, IUI, IVF, egg freezing, periods and menopause by Dr. Swati Shree, EVE Women and Fertility Clinic."
 url: /blog/
+lastReviewed: "2026-09-03"
 schema: [Blog, ItemList]
 ```
 
@@ -929,6 +940,7 @@ Footer line: New articles are added twice a month. Every article is reviewed by 
 ```yaml
 title: "Thank You | EVE Women and Fertility Clinic"
 url: /thank-you/
+lastReviewed: "2026-09-26"
 robots: noindex
 ```
 
@@ -961,6 +973,8 @@ Each service page follows the same order: Intro (answer-first) · At a glance ·
 title: "Fertility Evaluation in Bangalore | EVE, Gunjur"
 description: "A complete fertility evaluation for both partners: AMH, scans, tubal check and semen analysis, explained by Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /services/fertility-evaluation/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-22"
 h1: "Fertility *evaluation*"
 badge: fertility-evaluation
 about: { type: MedicalTest, name: "Infertility evaluation", alternateName: ["Fertility workup", "Infertility investigation"] }
@@ -1038,7 +1052,7 @@ Even after full testing, about one in four to one in three couples have no cause
 - NICE Guideline CG156: Fertility problems: assessment and treatment
 - WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 22 September 2026.
 
 ---
 
@@ -1048,6 +1062,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Natural Conception Support in Bangalore | EVE Clinic"
 description: "Ovulation tracking, cycle mapping and preconception advice to help you conceive naturally, guided by Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /services/natural-conception-support/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-24"
 h1: "Natural conception *support*"
 badge: natural-conception
 about: { type: MedicalProcedure, name: "Preconception counselling and ovulation timing" }
@@ -1117,7 +1133,7 @@ It cannot open a blocked tube, replace missing sperm, or overcome age-related de
 - WHO guidance on preconception care
 - ICMR and FOGSI guidance on preconception care `[CONFIRM: exact titles]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 24 September 2026.
 
 ---
 
@@ -1127,6 +1143,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Follicular Monitoring in Bangalore | EVE, Gunjur"
 description: "Follicular study with serial ultrasound to time ovulation and plan IUI or natural attempts, with Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /services/follicular-monitoring/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-22"
 h1: "Follicular *monitoring*"
 badge: follicular-monitoring
 about: { type: MedicalTest, name: "Follicular monitoring by transvaginal ultrasound", alternateName: ["Follicular study", "Ovulation tracking scan", "Folliculometry"] }
@@ -1197,7 +1215,7 @@ A transvaginal scan is safe, with no radiation, and may be uncomfortable. If ovu
 - ESHRE Guideline: Ovarian stimulation for IVF/ICSI (2020), for follicle monitoring principles
 - International evidence-based guideline for the assessment and management of PCOS (2023)
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 22 September 2026.
 
 ---
 
@@ -1207,6 +1225,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "HSG Test in Bangalore | Tubal Patency Test, EVE Clinic"
 description: "HSG checks whether your fallopian tubes are open. What happens, how to prepare, risks and results, explained by Dr. Swati Shree, Gunjur, Bangalore."
 url: /services/tubal-patency-test-hsg/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-25"
 h1: "Tubal patency test *(HSG)*"
 badge: hsg
 about: { type: MedicalTest, name: "Hysterosalpingography", alternateName: ["HSG", "Tubal patency test", "Uterine tube X-ray"] }
@@ -1286,7 +1306,7 @@ Dr. Swati advises the best method for you.
 - NICE Guideline CG156: Fertility problems
 - ESHRE Guideline: Unexplained infertility (2023)
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 25 September 2026.
 
 ---
 
@@ -1296,6 +1316,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Male Fertility Test in Bangalore | Semen Analysis, EVE"
 description: "Semen analysis, examination and counselling for male infertility with Dr. Swati Shree at EVE, Gunjur, Bangalore. What results mean and what can help."
 url: /services/male-fertility-evaluation/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-23"
 h1: "Male fertility *evaluation*"
 badge: male-fertility
 about: { type: MedicalTest, name: "Semen analysis", alternateName: ["Semen test", "Sperm test", "Male infertility evaluation"] }
@@ -1382,7 +1404,7 @@ A single normal sample is reassuring, but sperm counts vary, so results are read
 - ASRM Practice Committee, Diagnostic evaluation of the infertile male (2015)
 - EAU Guidelines on Sexual and Reproductive Health `[CONFIRM: edition]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 23 September 2026.
 
 ---
 
@@ -1392,6 +1414,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Contraceptive Counselling in Bangalore | EVE, Gunjur"
 description: "Honest, judgment-free contraception advice with Dr. Swati Shree at EVE, Gunjur, Bangalore: pills, IUDs, implants, emergency contraception and more."
 url: /services/contraceptive-counselling/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-19"
 h1: "Contraceptive *counselling*"
 badge: contraception
 about: { type: MedicalProcedure, name: "Contraceptive counselling" }
@@ -1465,7 +1489,7 @@ Most methods are reversible, and fertility returns soon after stopping. Fertilit
 - Ministry of Health and Family Welfare, India, Family Planning guidelines
 - FOGSI good clinical practice recommendations on contraception `[CONFIRM: exact title]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 19 September 2026.
 
 ---
 ## Page 21 · Early pregnancy scan
@@ -1474,6 +1498,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Early Pregnancy Scan in Bangalore | EVE, Gunjur"
 description: "Early pregnancy scan to confirm location, heartbeat and dates, with Dr. Swati Shree at EVE, Gunjur, Bangalore. What to expect and when to scan."
 url: /services/early-pregnancy-scan/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-21"
 h1: "Early pregnancy *scan*"
 badge: early-pregnancy-scan
 about: { type: MedicalTest, name: "Early pregnancy ultrasound", alternateName: ["Dating scan", "Viability scan", "Heartbeat scan", "Transvaginal pregnancy scan"] }
@@ -1554,7 +1580,7 @@ A scan too early may be inconclusive, which can be stressful but is not unusual.
 - NICE Guideline NG126: Ectopic pregnancy and miscarriage
 - Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, 1994
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 21 September 2026.
 
 ---
 
@@ -1564,6 +1590,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Reproductive Immunology in Bangalore | EVE, Gunjur"
 description: "Immune factors in miscarriage and implantation failure, explained honestly by Dr. Swati Shree at EVE, Gunjur. What is tested, what helps, what is unproven."
 url: /services/reproductive-immunology/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-24"
 h1: "Reproductive *immunology*"
 badge: reproductive-immunology
 about: { type: MedicalProcedure, name: "Evaluation of immune factors in pregnancy loss and implantation failure" }
@@ -1636,7 +1664,7 @@ Not every loss has an immune cause. In about half of couples with recurrent loss
 - ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss (2012)
 `[CONFIRM: Dr. Swati approves the evidence stance on this page.]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 24 September 2026.
 
 ---
 
@@ -1646,6 +1674,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Pap Smear and HPV Vaccine in Bangalore | EVE, Gunjur"
 description: "Cervical cancer screening (Pap smear, HPV test) and HPV vaccination advice with Dr. Swati Shree at EVE, Gunjur, Bangalore. Who, when and what to expect."
 url: /services/cervical-cancer-screening-hpv-vaccination/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-19"
 h1: "Cervical cancer screening and *HPV vaccination*"
 badge: cervical-screening
 about: { type: MedicalTest, name: "Cervical cancer screening", alternateName: ["Pap smear", "Pap test", "HPV DNA test", "Cervical cytology"] }
@@ -1718,7 +1748,7 @@ The vaccine does not treat an existing infection, and does not remove the need f
 - ICMR and National Programme for Prevention and Control of Non-Communicable Diseases screening guidance
 - ACOG and ASCCP cervical screening guidance `[CONFIRM: edition]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 19 September 2026.
 
 ---
 
@@ -1728,6 +1758,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Endometrial Biopsy in Bangalore | EVE, Gunjur"
 description: "Endometrial biopsy checks the uterine lining for abnormal bleeding, thickening or infection. What happens and what to expect, with Dr. Swati Shree, Gunjur."
 url: /services/endometrial-biopsy/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-21"
 h1: "Endometrial *biopsy*"
 badge: endometrial-biopsy
 about: { type: DiagnosticProcedure, name: "Endometrial biopsy", alternateName: ["Endometrial sampling", "Pipelle biopsy"] }
@@ -1804,7 +1836,7 @@ An endometrial biopsy takes a tiny sample of the uterine lining (the endometrium
 - FIGO PALM-COEIN classification of abnormal uterine bleeding
 - NICE Guideline NG88: Heavy menstrual bleeding
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 21 September 2026.
 
 ---
 
@@ -1814,6 +1846,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Adolescent Gynaecologist in Bangalore | EVE, Gunjur"
 description: "A gentle first gynaecology visit for teenage girls: periods, PCOS, pain, HPV vaccine and questions, with Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /services/adolescent-gynaecology/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-18"
 h1: "Adolescent *gynaecology*"
 badge: adolescent-gynaecology
 about: { type: MedicalProcedure, name: "Adolescent gynaecology consultation" }
@@ -1889,7 +1923,7 @@ She will not pressure a young person, will not share what she says with others w
 - International evidence-based guideline for the assessment and management of PCOS (2023)
 - Ministry of Health and Family Welfare, National HPV vaccination programme, 2026
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 18 September 2026.
 
 ---
 # Part 3 · Treatments (4 pages)
@@ -1904,6 +1938,8 @@ Treatment pages carry the ART line and the "no outcome promises" line from `site
 title: "IUI Treatment in Bangalore | EVE, Dr. Swati Shree"
 description: "IUI (intrauterine insemination) explained: who it suits, steps, risks, timing and what to expect, with Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /treatments/iui/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-28"
 h1: "IUI *(intrauterine insemination)*"
 badge: iui
 about: { type: MedicalProcedure, name: "Intrauterine insemination", alternateName: ["IUI", "Artificial insemination with husband's sperm", "IUI-H"] }
@@ -2001,7 +2037,7 @@ IUI is regulated by the ART (Regulation) Act, 2021. Treatment is offered to marr
 - ASRM Practice Committee, Use of clomiphene citrate and intrauterine insemination in unexplained infertility
 - ART (Regulation) Act, 2021 and Rules, 2022
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 28 September 2026.
 
 ---
 
@@ -2011,6 +2047,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "IVF Treatment in Bangalore | EVE, Dr. Swati Shree"
 description: "IVF explained step by step: who needs it, the process, risks, timing and ART Act rules, with Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore."
 url: /treatments/ivf/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-29"
 h1: "In vitro fertilisation *(IVF)*"
 badge: ivf
 about: { type: MedicalProcedure, name: "In vitro fertilisation", alternateName: ["IVF", "IVF-ICSI", "Test tube baby treatment"] }
@@ -2108,7 +2146,7 @@ IVF and ICSI are regulated by the ART (Regulation) Act, 2021. Clinics must be re
 - NICE Guideline CG156: Fertility problems
 - ART (Regulation) Act, 2021 and Rules, 2022
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 29 September 2026.
 
 ---
 
@@ -2118,6 +2156,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Egg Freezing in Bangalore | EVE, Dr. Swati Shree"
 description: "Egg freezing (oocyte cryopreservation) explained: who, when, steps, limits and legal rules, with Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore."
 url: /treatments/egg-freezing/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-28"
 h1: "Egg *freezing*"
 badge: egg-freezing
 about: { type: MedicalProcedure, name: "Oocyte cryopreservation", alternateName: ["Egg freezing", "Fertility preservation", "Vitrification of eggs"] }
@@ -2207,7 +2247,7 @@ Indian law sets rules on who may freeze eggs, the storage period and consent. Th
 - ASRM Ethics Committee and Practice Committee opinions on planned oocyte cryopreservation
 - ART (Regulation) Act, 2021 and Rules, 2022
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 28 September 2026.
 
 ---
 
@@ -2217,6 +2257,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "TESA PESA in Bangalore | Sperm Retrieval, EVE Clinic"
 description: "TESA and PESA retrieve sperm for men with no sperm in the semen. How they work, who needs them, risks and next steps, with EVE, Gunjur, Bangalore."
 url: /treatments/tesa-pesa/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-29"
 h1: "TESA and PESA *(surgical sperm retrieval)*"
 badge: tesa-pesa
 about: { type: MedicalProcedure, name: "Percutaneous sperm retrieval (TESA and PESA)", alternateName: ["Testicular sperm aspiration", "Percutaneous epididymal sperm aspiration"] }
@@ -2304,7 +2346,7 @@ TESA, PESA and ICSI fall under the ART (Regulation) Act, 2021. Consent and couns
 - WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
 - ART (Regulation) Act, 2021 and Rules, 2022
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 29 September 2026.
 
 ---
 # Part 4 · Conditions (10 pages)
@@ -2319,6 +2361,8 @@ Condition pages explain the condition, then how Dr. Swati evaluates and manages 
 title: "PCOS Treatment in Bangalore | EVE, Dr. Swati Shree"
 description: "PCOS explained: symptoms, diagnosis, treatment and getting pregnant with PCOS. Evidence-based care by Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore."
 url: /conditions/pcos/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-10"
 h1: "PCOS *(polycystic ovary syndrome)*"
 badge: pcos
 about: { type: MedicalCondition, name: "Polycystic ovary syndrome", alternateName: ["PCOS", "PCOD", "Polycystic ovarian disease"] }
@@ -2406,7 +2450,7 @@ PCOS is lifelong, though symptoms change over time. Regular checks on blood pres
 - ESHRE and ASRM consensus on PCOS and infertility
 - ICMR and FOGSI guidance on PCOS `[CONFIRM: titles]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 10 September 2026.
 
 ---
 
@@ -2416,6 +2460,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Endometriosis Treatment in Bangalore | EVE Clinic"
 description: "Endometriosis: symptoms, diagnosis, pain care, surgery and fertility, explained by Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore."
 url: /conditions/endometriosis/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-07"
 h1: "*Endometriosis*"
 badge: endometriosis
 about: { type: MedicalCondition, name: "Endometriosis", alternateName: ["Chocolate cyst", "Endometrioma"] }
@@ -2500,7 +2546,7 @@ Endometriosis can affect fertility through inflammation, scarring, blocked tubes
 - ACOG Practice Bulletin: Management of endometriosis
 - ASRM Practice Committee, Treatment of pelvic pain associated with endometriosis
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 7 September 2026.
 
 ---
 
@@ -2510,6 +2556,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Irregular and Heavy Periods Treatment Bangalore | EVE"
 description: "Irregular, heavy, painful or missed periods: causes, tests and treatment with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore."
 url: /conditions/menstrual-disorders/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-10"
 h1: "Menstrual *disorders*"
 badge: menstrual
 about: { type: MedicalCondition, name: "Abnormal uterine bleeding", alternateName: ["Irregular periods", "Heavy menstrual bleeding", "Dysmenorrhoea", "Amenorrhoea"] }
@@ -2588,7 +2636,7 @@ Heavy periods are a common cause of iron-deficiency anaemia in Indian women, cau
 - NICE Guideline NG88: Heavy menstrual bleeding: assessment and management
 - ACOG Committee Opinion: Menstruation in girls and adolescents
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 10 September 2026.
 
 ---
 
@@ -2598,6 +2646,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Recurrent Miscarriage Treatment in Bangalore | EVE"
 description: "Two or more miscarriages? Causes, tests and care for recurrent pregnancy loss with Dr. Swati Shree, MRCOG, at EVE Women and Fertility Clinic, Gunjur."
 url: /conditions/recurrent-pregnancy-loss/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-11"
 h1: "Recurrent pregnancy *loss*"
 badge: pregnancy-loss
 about: { type: MedicalCondition, name: "Recurrent pregnancy loss", alternateName: ["Recurrent miscarriage", "Habitual abortion"] }
@@ -2691,7 +2741,7 @@ Many couples with recurrent loss, even with no cause found, go on to have a heal
 - RCOG Green-top Guideline No. 17: Recurrent first-trimester and second-trimester miscarriage
 - ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 11 September 2026.
 
 ---
 
@@ -2701,6 +2751,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Menopause Clinic in Bangalore | EVE, Dr. Swati Shree"
 description: "Perimenopause and menopause: symptoms, tests, hormone therapy and bone and heart health, with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur."
 url: /conditions/menopause-and-perimenopause/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-09"
 h1: "Menopause and *perimenopause*"
 badge: menopause
 about: { type: MedicalCondition, name: "Menopause", alternateName: ["Perimenopause", "Climacteric", "Premature ovarian insufficiency"] }
@@ -2790,7 +2842,7 @@ Periods that stop before 40 (premature ovarian insufficiency) or between 40 and 
 - The 2022 hormone therapy position statement of The North American Menopause Society
 - Indian Menopause Society position statements `[CONFIRM: titles]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 9 September 2026.
 
 ---
 ## Page 35 · Female factor infertility
@@ -2799,6 +2851,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Female Infertility Causes and Care in Bangalore | EVE"
 description: "Why a woman may not conceive: ovulation, tubes, uterus, ovarian reserve and age. Evaluation and options with Dr. Swati Shree, EVE, Gunjur, Bangalore."
 url: /conditions/female-factor-infertility/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-08"
 h1: "Female factor *infertility*"
 badge: female-infertility
 about: { type: MedicalCondition, name: "Female infertility", alternateName: ["Female factor infertility", "Subfertility"] }
@@ -2889,7 +2943,7 @@ See a specialist after 12 months of trying, 6 months if you are 35 or older, or 
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 8 September 2026.
 
 ---
 
@@ -2899,6 +2953,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Fibroids Treatment in Bangalore | EVE, Dr. Swati Shree"
 description: "Uterine fibroids: symptoms, scan, treatment options and effects on pregnancy, explained by Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur."
 url: /conditions/fibroids/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-09"
 h1: "*Fibroids*"
 badge: fibroids
 about: { type: MedicalCondition, name: "Uterine fibroids", alternateName: ["Leiomyoma", "Myoma", "Uterine fibroid"] }
@@ -2984,7 +3040,7 @@ Most women with fibroids conceive and have healthy pregnancies. Fibroids that di
 - ASRM Practice Committee, Removal of myomas in asymptomatic patients to improve fertility
 - FIGO classification of fibroid location
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 9 September 2026.
 
 ---
 
@@ -2994,6 +3050,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Adenomyosis Treatment in Bangalore | EVE Clinic"
 description: "Adenomyosis: painful, heavy periods and fertility effects, diagnosis by ultrasound or MRI, and treatment options with Dr. Swati Shree, Gunjur, Bangalore."
 url: /conditions/adenomyosis/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-07"
 h1: "*Adenomyosis*"
 badge: adenomyosis
 about: { type: MedicalCondition, name: "Adenomyosis", alternateName: ["Uterine adenomyosis"] }
@@ -3078,7 +3136,7 @@ Adenomyosis is linked with a higher risk of implantation problems, miscarriage a
 - ACOG Practice Bulletin: Abnormal uterine bleeding
 - Morphological Uterus Sonographic Assessment (MUSA) consensus for adenomyosis
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 7 September 2026.
 
 ---
 
@@ -3088,6 +3146,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Low AMH and Thin Endometrium Care in Bangalore | EVE"
 description: "Low ovarian reserve (low AMH) and thin endometrium: causes, tests and options with Dr. Swati Shree, MRCOG, at EVE Women and Fertility Clinic, Gunjur."
 url: /conditions/thin-endometrium-and-low-ovarian-reserve/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-11"
 h1: "Thin endometrium and low *ovarian reserve*"
 badge: ovarian-reserve
 about: { type: MedicalCondition, name: "Diminished ovarian reserve and thin endometrium", alternateName: ["Low AMH", "Poor ovarian reserve", "Thin uterine lining"] }
@@ -3176,7 +3236,7 @@ The endometrium needs to be thick enough, and well-formed, for an embryo to impl
 - ESHRE Good practice recommendations on add-ons in reproductive medicine (2023)
 - ESHRE Guideline: Premature ovarian insufficiency (2024)
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 11 September 2026.
 
 ---
 
@@ -3186,6 +3246,8 @@ Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
 title: "Thyroid and Fertility in Bangalore | EVE, Dr. Swati Shree"
 description: "How thyroid problems affect periods, fertility and pregnancy, which tests to have, and how treatment helps, with Dr. Swati Shree, EVE Clinic, Gunjur."
 url: /conditions/thyroid-and-fertility/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-12"
 h1: "Thyroid and *fertility*"
 badge: thyroid
 about: { type: MedicalCondition, name: "Thyroid disorders in women planning pregnancy", alternateName: ["Hypothyroidism and infertility", "Thyroid and pregnancy"] }
@@ -3267,7 +3329,7 @@ Some women have antibodies against the thyroid (TPO antibodies) even with normal
 - ESHRE Guideline: Recurrent pregnancy loss (2022)
 - Indian Thyroid Society guidance `[CONFIRM: title]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 12 September 2026.
 
 ---
 # Part 5 · Legal and trust pages (7 pages)
@@ -3282,6 +3344,7 @@ These pages are drafts for review by a lawyer before launch `[CONFIRM: legal rev
 title: "Privacy Policy | EVE Women and Fertility Clinic"
 description: "How EVE Women and Fertility Clinic collects, uses, stores and protects your personal data, and your rights under the DPDP Act 2023."
 url: /privacy-policy/
+lastReviewed: "2026-09-17"
 schema: [WebPage]
 ```
 
@@ -3368,6 +3431,7 @@ We may update this policy. The date at the top shows the latest version. The DPD
 title: "Terms of Use | EVE Women and Fertility Clinic"
 description: "The terms for using the EVE Women and Fertility Clinic website, including content, bookings, links and limits of liability."
 url: /terms-of-use/
+lastReviewed: "2026-09-25"
 schema: [WebPage]
 ```
 
@@ -3433,6 +3497,7 @@ These terms are governed by the laws of India. Courts at Bangalore `[CONFIRM]` h
 title: "Medical Disclaimer | EVE Women and Fertility Clinic"
 description: "General information on this website is educational and does not replace a consultation. Read the medical disclaimer for EVE, Gunjur, Bangalore."
 url: /medical-disclaimer/
+lastReviewed: "2026-09-16"
 schema: [WebPage]
 ```
 
@@ -3482,6 +3547,7 @@ Links and references to other sources are for information. We are not responsibl
 title: "Editorial and Medical Review Policy | EVE Clinic"
 description: "How EVE writes, sources, reviews and updates its medical content, who reviews it, and how to report an error."
 url: /editorial-policy/
+lastReviewed: "2026-09-14"
 schema: [WebPage]
 ```
 
@@ -3543,6 +3609,7 @@ If you find something inaccurate or out of date, please write to `[CONFIRM: emai
 title: "Patient Rights and Responsibilities | EVE Clinic"
 description: "Your rights as a patient at EVE Women and Fertility Clinic, including consent, privacy and information, and what we ask of you."
 url: /patient-rights/
+lastReviewed: "2026-09-16"
 schema: [WebPage]
 ```
 
@@ -3589,6 +3656,7 @@ Speak to Dr. Swati or the front desk first. You may also write to `[CONFIRM: ema
 title: "Appointments, Cancellation and Refund | EVE Clinic"
 description: "How booking works at EVE Women and Fertility Clinic, how to reschedule or cancel, and when fees are refunded."
 url: /appointments-cancellation-refund/
+lastReviewed: "2026-09-02"
 schema: [WebPage]
 ```
 
@@ -3644,6 +3712,7 @@ Questions about a booking or payment: 72049 21212 · `[CONFIRM: email]`
 title: "Accessibility Statement | EVE Women and Fertility Clinic"
 description: "How EVE works to make its website and clinic accessible to everyone, what we have done, known gaps and how to ask for help."
 url: /accessibility/
+lastReviewed: "2026-09-02"
 schema: [WebPage]
 ```
 
@@ -3707,11 +3776,12 @@ Each post: title, author chip (Dr. Swati Shree), "Published [date] · Updated [d
 title: "Fertility Tests Explained: AMH, Semen, HSG, Scans"
 description: "What each fertility test measures, what the numbers mean and what they cannot tell you: AMH, antral follicle count, semen analysis, HSG and thyroid tests."
 url: /blog/fertility-tests-explained/
+lastReviewed: "2026-09-03"
 category: Getting started
 author: dr-swati-shree
 reviewer: dr-swati-shree
 datePublished: "[CONFIRM: launch date]"
-dateModified: "[CONFIRM: launch date]"
+dateModified: "2026-09-03"
 badge: fertility-evaluation
 readingTime: 7
 related: [/services/fertility-evaluation/, /services/tubal-patency-test-hsg/, /services/male-fertility-evaluation/]
@@ -3793,11 +3863,12 @@ Reviewer box: use global text.
 title: "PCOS and Getting Pregnant: What the Evidence Says"
 description: "Can you get pregnant with PCOS? How ovulation is treated, what lifestyle changes help, when IUI or IVF is needed, and what to avoid. By Dr. Swati Shree."
 url: /blog/pcos-and-getting-pregnant/
+lastReviewed: "2026-09-04"
 category: Conditions
 author: dr-swati-shree
 reviewer: dr-swati-shree
 datePublished: "[CONFIRM: launch date]"
-dateModified: "[CONFIRM: launch date]"
+dateModified: "2026-09-04"
 badge: pcos
 readingTime: 7
 related: [/conditions/pcos/, /services/follicular-monitoring/, /conditions/thyroid-and-fertility/]
@@ -3872,11 +3943,12 @@ Reviewer box: use global text.
 title: "When to See a Fertility Doctor: 12 Months, 6 or Sooner"
 description: "When to see a fertility specialist: the 12-month and 6-month rules, signs to act sooner, what to bring, and what happens at the first visit."
 url: /blog/when-to-see-a-fertility-doctor/
+lastReviewed: "2026-09-04"
 category: Getting started
 author: dr-swati-shree
 reviewer: dr-swati-shree
 datePublished: "[CONFIRM: launch date]"
-dateModified: "[CONFIRM: launch date]"
+dateModified: "2026-09-04"
 badge: natural-conception
 readingTime: 6
 related: [/your-fertility-journey/, /services/fertility-evaluation/, /treatments/egg-freezing/]

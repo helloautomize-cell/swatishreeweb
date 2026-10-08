@@ -2,6 +2,8 @@
 title: "Male Fertility Test in Bangalore | Semen Analysis, EVE"
 description: "Semen analysis, examination and counselling for male infertility with Dr. Swati Shree at EVE, Gunjur, Bangalore. What results mean and what can help."
 url: /services/male-fertility-evaluation/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-23"
 h1: "Male fertility *evaluation*"
 badge: male-fertility
 about: { type: MedicalTest, name: "Semen analysis", alternateName: ["Semen test", "Sperm test", "Male infertility evaluation"] }
@@ -88,4 +90,4 @@ A single normal sample is reassuring, but sperm counts vary, so results are read
 - ASRM Practice Committee, Diagnostic evaluation of the infertile male (2015)
 - EAU Guidelines on Sexual and Reproductive Health `[CONFIRM: edition]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 23 September 2026.

@@ -2,6 +2,7 @@
 title: "Book a Fertility Consultation | EVE Bangalore, Gunjur"
 description: "Book with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur. Call 72049 21212 or 72049 21516. We aim to reply within 24 hours."
 url: /contact/
+lastReviewed: "2026-09-12"
 schema: [ContactPage, ReserveAction]
 ---
 

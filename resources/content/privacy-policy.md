@@ -2,6 +2,7 @@
 title: "Privacy Policy | EVE Women and Fertility Clinic"
 description: "How EVE Women and Fertility Clinic collects, uses, stores and protects your personal data, and your rights under the DPDP Act 2023."
 url: /privacy-policy/
+lastReviewed: "2026-09-17"
 schema: [WebPage]
 ---
 

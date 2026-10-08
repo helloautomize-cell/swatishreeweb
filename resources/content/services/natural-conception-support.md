@@ -2,6 +2,8 @@
 title: "Natural Conception Support in Bangalore | EVE Clinic"
 description: "Ovulation tracking, cycle mapping and preconception advice to help you conceive naturally, guided by Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /services/natural-conception-support/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-24"
 h1: "Natural conception *support*"
 badge: natural-conception
 about: { type: MedicalProcedure, name: "Preconception counselling and ovulation timing" }
@@ -71,4 +73,4 @@ It cannot open a blocked tube, replace missing sperm, or overcome age-related de
 - WHO guidance on preconception care
 - ICMR and FOGSI guidance on preconception care `[CONFIRM: exact titles]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 24 September 2026.

@@ -2,6 +2,7 @@
 title: "About EVE Women and Fertility Clinic | Gunjur, Bangalore"
 description: "How EVE began, how Dr. Swati Shree works, and what to expect: a founder-led fertility and women's health clinic in Gunjur, East Bangalore, since 2025."
 url: /about/
+lastReviewed: "2026-09-01"
 reviewer: dr-swati-shree
 schema: [AboutPage]
 entities: [Gunjur, Bengaluru, MRCOG, ART Act 2021, KJK Hospital]
@@ -70,4 +71,4 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 6. **How can I check that the clinic and doctor are registered?**
    Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page `[CONFIRM]`.
 
-Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed 1 September 2026.

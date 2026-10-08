@@ -2,6 +2,8 @@
 title: "TESA PESA in Bangalore | Sperm Retrieval, EVE Clinic"
 description: "TESA and PESA retrieve sperm for men with no sperm in the semen. How they work, who needs them, risks and next steps, with EVE, Gunjur, Bangalore."
 url: /treatments/tesa-pesa/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-29"
 h1: "TESA and PESA *(surgical sperm retrieval)*"
 badge: tesa-pesa
 about: { type: MedicalProcedure, name: "Percutaneous sperm retrieval (TESA and PESA)", alternateName: ["Testicular sperm aspiration", "Percutaneous epididymal sperm aspiration"] }
@@ -89,4 +91,4 @@ TESA, PESA and ICSI fall under the ART (Regulation) Act, 2021. Consent and couns
 - WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
 - ART (Regulation) Act, 2021 and Rules, 2022
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 29 September 2026.

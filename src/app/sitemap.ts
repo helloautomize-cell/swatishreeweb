@@ -27,6 +27,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .filter((p) => p.kind !== "utility")
     .map((p) => ({
       url: abs(p.url),
+      lastModified: p.meta.lastReviewed && !p.meta.lastReviewed.includes("CONFIRM") ? p.meta.lastReviewed : undefined,
       changeFrequency: FREQ[p.kind] ?? "monthly",
       priority: PRIORITY[p.kind] ?? 0.5,
     }));

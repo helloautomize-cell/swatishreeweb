@@ -2,6 +2,7 @@
 title: "Fertility and Women's Health Blog | EVE Bangalore"
 description: "Doctor-reviewed articles on fertility tests, PCOS, IUI, IVF, egg freezing, periods and menopause by Dr. Swati Shree, EVE Women and Fertility Clinic."
 url: /blog/
+lastReviewed: "2026-09-03"
 schema: [Blog, ItemList]
 ---
 

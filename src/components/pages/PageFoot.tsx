@@ -3,7 +3,7 @@ import { ArrowRight, MessageCircle, Phone } from "lucide-react";
 import BookButton from "@/components/BookButton";
 import { WithConfirms } from "@/components/ConfirmChip";
 import { resolveConfirm } from "@/lib/confirm";
-import { kmcRegLine } from "@/lib/facts";
+import { formatReviewDate, kmcRegLine } from "@/lib/facts";
 import { site } from "@/lib/site-config";
 import type { PageDoc } from "@/lib/content/load";
 import { loadPages } from "@/lib/content/load";
@@ -12,13 +12,14 @@ const nameFor = (url: string) =>
   loadPages().find((p) => p.url === url)?.name ?? url.replace(/\//g, " ").trim();
 
 /** Global reviewer box (site plan section 6). */
-export function ReviewerBox({ note }: { note: string | null }) {
+export function ReviewerBox({ note, lastReviewed }: { note: string | null; lastReviewed?: string }) {
+  const date = lastReviewed && !lastReviewed.includes("CONFIRM") ? formatReviewDate(lastReviewed) : null;
   return (
     <aside className="pg-reviewer" aria-label="Medical review">
       <p>
         Medically reviewed by <strong>Dr. Swati Shree</strong>, MBBS, DNB (OBG), MRCOG (UK) ·{" "}
         {kmcRegLine} ·{" "}
-        {note ? <WithConfirms text={note.replace(/^reviewed by Dr\. Swati Shree\.\s*/i, "")} /> : "Last reviewed at sign-off"}
+        {date ? `Last reviewed ${date}` : note ? <WithConfirms text={note.replace(/^reviewed by Dr\. Swati Shree\.\s*/i, "")} /> : "Last reviewed at sign-off"}
       </p>
       <p className="pg-reviewer-sub">
         This page explains general care at EVE. It does not replace a consultation. Read our{" "}

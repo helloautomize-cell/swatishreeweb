@@ -2,6 +2,8 @@
 title: "Adenomyosis Treatment in Bangalore | EVE Clinic"
 description: "Adenomyosis: painful, heavy periods and fertility effects, diagnosis by ultrasound or MRI, and treatment options with Dr. Swati Shree, Gunjur, Bangalore."
 url: /conditions/adenomyosis/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-07"
 h1: "*Adenomyosis*"
 badge: adenomyosis
 about: { type: MedicalCondition, name: "Adenomyosis", alternateName: ["Uterine adenomyosis"] }
@@ -86,4 +88,4 @@ Adenomyosis is linked with a higher risk of implantation problems, miscarriage a
 - ACOG Practice Bulletin: Abnormal uterine bleeding
 - Morphological Uterus Sonographic Assessment (MUSA) consensus for adenomyosis
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 7 September 2026.

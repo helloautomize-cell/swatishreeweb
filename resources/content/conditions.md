@@ -2,6 +2,7 @@
 title: "PCOS, Endometriosis, Fibroids and More | EVE Bangalore"
 description: "Plain-English guides to PCOS, endometriosis, recurrent miscarriage, fibroids, thyroid, low AMH and menopause, reviewed by Dr. Swati Shree, Bangalore."
 url: /conditions/
+lastReviewed: "2026-09-05"
 schema: [CollectionPage, ItemList, FAQPage]
 ---
 

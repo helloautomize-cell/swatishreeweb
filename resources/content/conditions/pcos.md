@@ -2,6 +2,8 @@
 title: "PCOS Treatment in Bangalore | EVE, Dr. Swati Shree"
 description: "PCOS explained: symptoms, diagnosis, treatment and getting pregnant with PCOS. Evidence-based care by Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore."
 url: /conditions/pcos/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-10"
 h1: "PCOS *(polycystic ovary syndrome)*"
 badge: pcos
 about: { type: MedicalCondition, name: "Polycystic ovary syndrome", alternateName: ["PCOS", "PCOD", "Polycystic ovarian disease"] }
@@ -89,4 +91,4 @@ PCOS is lifelong, though symptoms change over time. Regular checks on blood pres
 - ESHRE and ASRM consensus on PCOS and infertility
 - ICMR and FOGSI guidance on PCOS `[CONFIRM: titles]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 10 September 2026.

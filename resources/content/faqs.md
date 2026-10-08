@@ -2,6 +2,7 @@
 title: "Fertility and Women's Health FAQs | EVE Bangalore"
 description: "Answers to common questions on fertility tests, IUI, IVF, PCOS, miscarriage, egg freezing, booking, privacy and the ART Act, from EVE, Gunjur, Bangalore."
 url: /faqs/
+lastReviewed: "2026-09-15"
 schema: [FAQPage]
 ---
 

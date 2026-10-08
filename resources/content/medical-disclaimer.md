@@ -2,6 +2,7 @@
 title: "Medical Disclaimer | EVE Women and Fertility Clinic"
 description: "General information on this website is educational and does not replace a consultation. Read the medical disclaimer for EVE, Gunjur, Bangalore."
 url: /medical-disclaimer/
+lastReviewed: "2026-09-16"
 schema: [WebPage]
 ---
 

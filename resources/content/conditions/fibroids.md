@@ -2,6 +2,8 @@
 title: "Fibroids Treatment in Bangalore | EVE, Dr. Swati Shree"
 description: "Uterine fibroids: symptoms, scan, treatment options and effects on pregnancy, explained by Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur."
 url: /conditions/fibroids/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-09"
 h1: "*Fibroids*"
 badge: fibroids
 about: { type: MedicalCondition, name: "Uterine fibroids", alternateName: ["Leiomyoma", "Myoma", "Uterine fibroid"] }
@@ -87,4 +89,4 @@ Most women with fibroids conceive and have healthy pregnancies. Fibroids that di
 - ASRM Practice Committee, Removal of myomas in asymptomatic patients to improve fertility
 - FIGO classification of fibroid location
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 9 September 2026.

@@ -2,11 +2,12 @@
 title: "When to See a Fertility Doctor: 12 Months, 6 or Sooner"
 description: "When to see a fertility specialist: the 12-month and 6-month rules, signs to act sooner, what to bring, and what happens at the first visit."
 url: /blog/when-to-see-a-fertility-doctor/
+lastReviewed: "2026-09-04"
 category: Getting started
 author: dr-swati-shree
 reviewer: dr-swati-shree
 datePublished: "[CONFIRM: launch date]"
-dateModified: "[CONFIRM: launch date]"
+dateModified: "2026-09-04"
 badge: natural-conception
 readingTime: 6
 related: [/your-fertility-journey/, /services/fertility-evaluation/, /treatments/egg-freezing/]

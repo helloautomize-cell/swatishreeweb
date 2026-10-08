@@ -2,6 +2,7 @@
 title: "Fertility Doctor Bangalore for Outstation Patients | EVE"
 description: "Planning a fertility consultation with Dr. Swati Shree from another city? How to plan a visit, what to bring, and how follow-up works from far away."
 url: /coming-from-outside-bangalore/
+lastReviewed: "2026-09-05"
 schema: [WebPage, Service, FAQPage]
 ---
 

@@ -2,6 +2,8 @@
 title: "Menopause Clinic in Bangalore | EVE, Dr. Swati Shree"
 description: "Perimenopause and menopause: symptoms, tests, hormone therapy and bone and heart health, with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur."
 url: /conditions/menopause-and-perimenopause/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-09"
 h1: "Menopause and *perimenopause*"
 badge: menopause
 about: { type: MedicalCondition, name: "Menopause", alternateName: ["Perimenopause", "Climacteric", "Premature ovarian insufficiency"] }
@@ -91,4 +93,4 @@ Periods that stop before 40 (premature ovarian insufficiency) or between 40 and 
 - The 2022 hormone therapy position statement of The North American Menopause Society
 - Indian Menopause Society position statements `[CONFIRM: titles]`
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 9 September 2026.

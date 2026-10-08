@@ -2,11 +2,12 @@
 title: "PCOS and Getting Pregnant: What the Evidence Says"
 description: "Can you get pregnant with PCOS? How ovulation is treated, what lifestyle changes help, when IUI or IVF is needed, and what to avoid. By Dr. Swati Shree."
 url: /blog/pcos-and-getting-pregnant/
+lastReviewed: "2026-09-04"
 category: Conditions
 author: dr-swati-shree
 reviewer: dr-swati-shree
 datePublished: "[CONFIRM: launch date]"
-dateModified: "[CONFIRM: launch date]"
+dateModified: "2026-09-04"
 badge: pcos
 readingTime: 7
 related: [/conditions/pcos/, /services/follicular-monitoring/, /conditions/thyroid-and-fertility/]

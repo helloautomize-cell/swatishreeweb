@@ -2,6 +2,8 @@
 title: "Fertility Evaluation in Bangalore | EVE, Gunjur"
 description: "A complete fertility evaluation for both partners: AMH, scans, tubal check and semen analysis, explained by Dr. Swati Shree at EVE, Gunjur, Bangalore."
 url: /services/fertility-evaluation/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-22"
 h1: "Fertility *evaluation*"
 badge: fertility-evaluation
 about: { type: MedicalTest, name: "Infertility evaluation", alternateName: ["Fertility workup", "Infertility investigation"] }
@@ -79,4 +81,4 @@ Even after full testing, about one in four to one in three couples have no cause
 - NICE Guideline CG156: Fertility problems: assessment and treatment
 - WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 22 September 2026.

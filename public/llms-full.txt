@@ -90,7 +90,7 @@ H1: About EVE Women and Fertility Clinic Intro (answer-first): EVE Women and Fer
 3. Is EVE a hospital? No. EVE is an outpatient clinic. You do not stay overnight. Consultations, scans, tests and clinic procedures happen here. For procedures that need a hospital or a registered ART laboratory, Dr. Swati explains where it will be done before you decide.
 4. Does EVE treat only fertility problems? No. EVE also looks after PCOS, endometriosis, menstrual problems, fibroids, thyroid issues linked to pregnancy, early pregnancy scans, cervical screening, contraception counselling and menopause care. You do not need to be trying to conceive to see Dr. Swati.
 5. Do you accept patients from outside Bangalore? Yes. Many couples travel for the first evaluation. We try to complete tests in as few visits as possible and plan follow-up with you. See Coming from outside Bangalore for a visit plan.
-6. How can I check that the clinic and doctor are registered?* Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page . Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed .
+6. How can I check that the clinic and doctor are registered?* Dr. Swati's registration is with the Karnataka Medical Council, number DLH20090000353KTK, and can be checked on the National Medical Commission's Indian Medical Register. The clinic's ART registration appears in the footer and on the Patient Rights page . Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed 1 September 2026.
 
 
 ## Accessibility statement
@@ -273,7 +273,7 @@ URL: http://localhost:3000/conditions/adenomyosis/
 6. Does adenomyosis go away after menopause?* Usually the symptoms ease after menopause, because the condition depends on hormones. Heavy bleeding or new pain after menopause is not expected and should be checked. ### Sources
 - ESHRE Guideline: Endometriosis (2022), for overlapping conditions
 - ACOG Practice Bulletin: Abnormal uterine bleeding
-- Morphological Uterus Sonographic Assessment (MUSA) consensus for adenomyosis Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- Morphological Uterus Sonographic Assessment (MUSA) consensus for adenomyosis Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 7 September 2026.
 
 
 ## Endometriosis Treatment in Bangalore
@@ -306,7 +306,7 @@ URL: http://localhost:3000/conditions/endometriosis/
 6. Does endometriosis increase the risk of cancer?* The risk of ovarian cancer is slightly higher in some types, but the overall chance remains low. Most women with endometriosis do not develop cancer. Follow-up and scanning of cysts help, and Dr. Swati advises when further tests are needed. ### Sources
 - ESHRE Guideline: Endometriosis (2022)
 - ACOG Practice Bulletin: Management of endometriosis
-- ASRM Practice Committee, Treatment of pelvic pain associated with endometriosis Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ASRM Practice Committee, Treatment of pelvic pain associated with endometriosis Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 7 September 2026.
 
 
 ## Female Infertility Causes and Care in Bangalore
@@ -338,7 +338,7 @@ URL: http://localhost:3000/conditions/female-factor-infertility/
 5. Does genital tuberculosis cause infertility? It can. Genital TB may damage the tubes and uterine lining, and it can be present without obvious symptoms. It is considered when tests suggest it, especially with tubal damage or a thin lining. It is treatable with the right medicines. 6. Can lifestyle changes improve female fertility?* They can help. Quitting smoking, limiting alcohol, achieving a healthy weight, and managing thyroid and diabetes support ovulation and general fertility. They do not replace treatment for blocked tubes or very low reserve, but improving them gives treatment a better chance. ### Sources
 - ASRM Practice Committee, Definition of infertility (2023); Evaluation of the infertile female (2015)
 - ESHRE Guideline: Unexplained infertility (2023)
-- NICE Guideline CG156: Fertility problems Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- NICE Guideline CG156: Fertility problems Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 8 September 2026.
 
 
 ## Fibroids Treatment in Bangalore
@@ -374,7 +374,7 @@ URL: http://localhost:3000/conditions/fibroids/
 - ACOG Practice Bulletin: Management of symptomatic uterine leiomyomas
 - NICE Guideline NG88: Heavy menstrual bleeding
 - ASRM Practice Committee, Removal of myomas in asymptomatic patients to improve fertility
-- FIGO classification of fibroid location Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- FIGO classification of fibroid location Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 9 September 2026.
 
 
 ## Menopause Clinic in Bangalore
@@ -414,7 +414,7 @@ URL: http://localhost:3000/conditions/menopause-and-perimenopause/
 - NICE Guideline NG23: Menopause: diagnosis and management
 - International Menopause Society, Recommendations on women's midlife health and menopause hormone therapy
 - The 2022 hormone therapy position statement of The North American Menopause Society
-- Indian Menopause Society position statements Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- Indian Menopause Society position statements Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 9 September 2026.
 
 
 ## Irregular and Heavy Periods Treatment Bangalore
@@ -447,7 +447,7 @@ URL: http://localhost:3000/conditions/menstrual-disorders/
 6. I missed my period. Should I worry?* First do a pregnancy test. If it is negative and you miss three periods in a row, or are late repeatedly, see a doctor. Causes include stress, weight change, PCOS, thyroid problems and early menopause. They are usually treatable. ### Sources
 - FIGO classification of causes of abnormal uterine bleeding in the reproductive years (PALM-COEIN)
 - NICE Guideline NG88: Heavy menstrual bleeding: assessment and management
-- ACOG Committee Opinion: Menstruation in girls and adolescents Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ACOG Committee Opinion: Menstruation in girls and adolescents Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 10 September 2026.
 
 
 ## PCOS Treatment in Bangalore
@@ -482,7 +482,7 @@ URL: http://localhost:3000/conditions/pcos/
 7. Are birth control pills the only treatment for irregular periods in PCOS?* No. Pills are one option when pregnancy is not wanted, and they regulate periods and reduce acne. Other options include progestins, lifestyle changes, and medicine for insulin resistance. If you want to conceive, ovulation induction is used instead. Dr. Swati matches treatment to your goals. ### Sources
 - International evidence-based guideline for the assessment and management of polycystic ovary syndrome (2023)
 - ESHRE and ASRM consensus on PCOS and infertility
-- ICMR and FOGSI guidance on PCOS Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ICMR and FOGSI guidance on PCOS Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 10 September 2026.
 
 
 ## Recurrent Miscarriage Treatment in Bangalore
@@ -524,7 +524,7 @@ URL: http://localhost:3000/conditions/recurrent-pregnancy-loss/
 6. When can I try again after a miscarriage?* Many couples can try again after one normal period, once physical and emotional recovery allow. If you have had two or more losses, getting evaluated first is wise. Dr. Swati can guide the timing and the early scan. ### Sources
 - ESHRE Guideline: Recurrent pregnancy loss (2022)
 - RCOG Green-top Guideline No. 17: Recurrent first-trimester and second-trimester miscarriage
-- ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 11 September 2026.
 
 
 ## Low AMH and Thin Endometrium Care in Bangalore
@@ -563,7 +563,7 @@ URL: http://localhost:3000/conditions/thin-endometrium-and-low-ovarian-reserve/
 - ASRM Practice Committee, Testing and interpreting measures of ovarian reserve (2015)
 - ESHRE Guideline: Ovarian stimulation for IVF/ICSI (2020)
 - ESHRE Good practice recommendations on add-ons in reproductive medicine (2023)
-- ESHRE Guideline: Premature ovarian insufficiency (2024) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ESHRE Guideline: Premature ovarian insufficiency (2024) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 11 September 2026.
 
 
 ## Thyroid and Fertility in Bangalore
@@ -597,7 +597,7 @@ URL: http://localhost:3000/conditions/thyroid-and-fertility/
 - American Thyroid Association guidelines for the diagnosis and management of thyroid disease during pregnancy and the postpartum (2017)
 - Endocrine Society guideline: Management of thyroid dysfunction during pregnancy and postpartum
 - ESHRE Guideline: Recurrent pregnancy loss (2022)
-- Indian Thyroid Society guidance Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- Indian Thyroid Society guidance Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 12 September 2026.
 
 
 ## Book a consultation or contact us
@@ -644,7 +644,7 @@ URL: http://localhost:3000/dr-swati-shree/
 3. Which languages does Dr. Swati speak? English, Hindi and Kannada. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
 4. Where does Dr. Swati see patients? Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres .
 5. Do I see Dr. Swati herself at every visit? Yes. EVE is a founder-led clinic, and Dr. Swati sees every patient herself. Scans and tests may be done by trained staff under her supervision, but the consultation, the plan and the decisions are hers and yours.
-6. How can I check Dr. Swati's registration?* Dr. Swati is registered with the Karnataka Medical Council, registration number DLH20090000353KTK. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council. Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed .
+6. How can I check Dr. Swati's registration?* Dr. Swati is registered with the Karnataka Medical Council, registration number DLH20090000353KTK. You can verify registered doctors through the National Medical Commission's Indian Medical Register, or by contacting the Karnataka Medical Council. Reviewer note: this page is reviewed and approved by Dr. Swati Shree. Last reviewed 14 September 2026.
 
 
 ## Editorial and medical review policy
@@ -803,7 +803,7 @@ URL: http://localhost:3000/services/adolescent-gynaecology/
 - ACOG Committee Opinion: The initial reproductive health visit
 - ACOG Committee Opinion: Menstruation in girls and adolescents, using the menstrual cycle as a vital sign
 - International evidence-based guideline for the assessment and management of PCOS (2023)
-- Ministry of Health and Family Welfare, National HPV vaccination programme, 2026 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- Ministry of Health and Family Welfare, National HPV vaccination programme, 2026 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 18 September 2026.
 
 
 ## Pap Smear and HPV Vaccine in Bangalore
@@ -830,7 +830,7 @@ URL: http://localhost:3000/services/cervical-cancer-screening-hpv-vaccination/
 - WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention (2021)
 - Ministry of Health and Family Welfare, National HPV vaccination programme, launched February 2026
 - ICMR and National Programme for Prevention and Control of Non-Communicable Diseases screening guidance
-- ACOG and ASCCP cervical screening guidance Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ACOG and ASCCP cervical screening guidance Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 19 September 2026.
 
 
 ## Contraceptive Counselling in Bangalore
@@ -861,7 +861,7 @@ URL: http://localhost:3000/services/contraceptive-counselling/
 6. Can a young or unmarried woman get advice here?* Yes. Contraceptive counselling is private and given without judgment to any adult. Teenagers are welcome with a parent or guardian, and may also speak to the doctor alone for part of the visit. See Adolescent gynaecology. ### Sources
 - WHO Medical eligibility criteria for contraceptive use (5th edition, 2015, with updates)
 - Ministry of Health and Family Welfare, India, Family Planning guidelines
-- FOGSI good clinical practice recommendations on contraception Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- FOGSI good clinical practice recommendations on contraception Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 19 September 2026.
 
 
 ## Early Pregnancy Scan in Bangalore
@@ -894,7 +894,7 @@ URL: http://localhost:3000/services/early-pregnancy-scan/
 6. I had a miscarriage before. Can I come for an early scan?* Yes. An early scan can reassure you, and Dr. Swati can plan extra care. If you have had two or more losses, see Recurrent pregnancy loss for evaluation, ideally before the next pregnancy. ### Sources
 - RCOG Green-top Guideline No. 21: Diagnosis and management of ectopic pregnancy
 - NICE Guideline NG126: Ectopic pregnancy and miscarriage
-- Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, 1994 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, 1994 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 21 September 2026.
 
 
 ## Endometrial Biopsy in Bangalore
@@ -925,7 +925,7 @@ URL: http://localhost:3000/services/endometrial-biopsy/
 6. How soon can I get back to normal activity?* Most women go back to work the same day. Avoid heavy exercise, baths, and intercourse for a day or two or as advised, to reduce infection risk. Light spotting is normal for a short while. ### Sources
 - ACOG Practice Bulletin: Diagnosis of abnormal uterine bleeding in reproductive-aged women
 - FIGO PALM-COEIN classification of abnormal uterine bleeding
-- NICE Guideline NG88: Heavy menstrual bleeding Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- NICE Guideline NG88: Heavy menstrual bleeding Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 21 September 2026.
 
 
 ## Fertility Evaluation in Bangalore
@@ -960,7 +960,7 @@ URL: http://localhost:3000/services/fertility-evaluation/
 - ASRM Practice Committee, Definition of infertility (2023) and Evaluation of the infertile female (2015)
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems: assessment and treatment
-- WHO laboratory manual for the examination and processing of human semen, 6th edition (2021) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- WHO laboratory manual for the examination and processing of human semen, 6th edition (2021) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 22 September 2026.
 
 
 ## Follicular Monitoring in Bangalore
@@ -987,7 +987,7 @@ URL: http://localhost:3000/services/follicular-monitoring/
 6. Can I do a follicular study if I have irregular periods?* Yes, and it is often most useful then. Irregular cycles make timing by calendar unreliable. Monitoring shows if and when you ovulate, and guides treatment such as ovulation induction. ### Sources
 - ESHRE Guideline: Unexplained infertility (2023)
 - ESHRE Guideline: Ovarian stimulation for IVF/ICSI (2020), for follicle monitoring principles
-- International evidence-based guideline for the assessment and management of PCOS (2023) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- International evidence-based guideline for the assessment and management of PCOS (2023) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 22 September 2026.
 
 
 ## Male Fertility Test in Bangalore
@@ -1025,7 +1025,7 @@ URL: http://localhost:3000/services/male-fertility-evaluation/
 - WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
 - AUA/ASRM Guideline: Diagnosis and treatment of infertility in men (2020)
 - ASRM Practice Committee, Diagnostic evaluation of the infertile male (2015)
-- EAU Guidelines on Sexual and Reproductive Health Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- EAU Guidelines on Sexual and Reproductive Health Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 23 September 2026.
 
 
 ## Natural Conception Support in Bangalore
@@ -1055,7 +1055,7 @@ URL: http://localhost:3000/services/natural-conception-support/
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems
 - WHO guidance on preconception care
-- ICMR and FOGSI guidance on preconception care Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ICMR and FOGSI guidance on preconception care Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 24 September 2026.
 
 
 ## Reproductive Immunology in Bangalore
@@ -1081,7 +1081,7 @@ URL: http://localhost:3000/services/reproductive-immunology/
 6. What if my tests are all normal?* Normal results are reassuring. Many women with unexplained recurrent loss go on to have a healthy pregnancy with early scans, supportive care and close follow-up. Dr. Swati continues to support you, and rechecks if something changes. ### Sources
 - ESHRE Guideline: Recurrent pregnancy loss (2022)
 - RCOG Green-top Guideline No. 17: Recurrent first-trimester and second-trimester miscarriage
-- ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss (2012) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ASRM Practice Committee, Evaluation and treatment of recurrent pregnancy loss (2012) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 24 September 2026.
 
 
 ## HSG Test in Bangalore
@@ -1112,7 +1112,7 @@ URL: http://localhost:3000/services/tubal-patency-test-hsg/
 6. How soon can I try to conceive after an HSG? You can usually try in the same cycle, unless advised otherwise. If you have had spotting or cramps, wait until they settle. If you have fever, severe pain or a foul discharge in the days after the test, contact us the same day. > When to get help straight away.* Fever, severe lower abdominal pain, foul-smelling discharge or heavy bleeding in the days after an HSG need urgent review. Call us, or go to the nearest hospital emergency. ### Sources
 - ASRM Practice Committee, Role of tubal surgery in the era of assisted reproductive technology
 - NICE Guideline CG156: Fertility problems
-- ESHRE Guideline: Unexplained infertility (2023) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ESHRE Guideline: Unexplained infertility (2023) Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 25 September 2026.
 
 
 ## Terms of Use
@@ -1172,7 +1172,7 @@ URL: http://localhost:3000/treatments/egg-freezing/
 5. How long can eggs be stored? Frozen eggs can remain viable for many years. Indian regulations set a storage period and conditions, which Dr. Swati explains. Storage fees apply. 6. Can any woman freeze her eggs in India? The ART Act and rules decide who is eligible and under what conditions, including consent and age. Dr. Swati explains what applies to your situation at the consultation, so that you plan with correct information. 7. Does egg freezing affect my natural fertility or periods?* No. A cycle of stimulation uses eggs that would otherwise be lost that month, and does not use up future eggs. Your periods return to normal in the next cycle. It does not bring on menopause. ### Sources
 - ESHRE Guideline: Female fertility preservation (2020)
 - ASRM Ethics Committee and Practice Committee opinions on planned oocyte cryopreservation
-- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 28 September 2026.
 
 
 ## IUI Treatment in Bangalore
@@ -1215,7 +1215,7 @@ URL: http://localhost:3000/treatments/iui/
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems
 - ASRM Practice Committee, Use of clomiphene citrate and intrauterine insemination in unexplained infertility
-- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 28 September 2026.
 
 
 ## IVF Treatment in Bangalore
@@ -1263,7 +1263,7 @@ URL: http://localhost:3000/treatments/ivf/
 - ESHRE Guideline: Ovarian stimulation for IVF/ICSI (2020)
 - ESHRE Good practice recommendations on add-ons in reproductive medicine (2023)
 - NICE Guideline CG156: Fertility problems
-- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 29 September 2026.
 
 
 ## TESA PESA in Bangalore
@@ -1301,7 +1301,7 @@ URL: http://localhost:3000/treatments/tesa-pesa/
 6. Does a male fertility problem mean my sons will have it too?* Sometimes. Certain genetic causes, such as Y chromosome microdeletions or some conditions affecting the vas deferens, can be passed on. Genetic counselling and testing, when advised, help you understand any risk before treatment. ### Sources
 - AUA/ASRM Guideline: Diagnosis and treatment of infertility in men (2020)
 - EAU Guidelines on Sexual and Reproductive Health - WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
-- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+- ART (Regulation) Act, 2021 and Rules, 2022 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 29 September 2026.
 
 
 ## Your fertility journey, step by step
@@ -1331,4 +1331,4 @@ H1: Your fertility journey, step by step Intro (answer-first): A fertility journ
 3. How long does a fertility evaluation take? Usually one to two menstrual cycles, because some tests are timed to specific cycle days. Your first consultation is the longest visit. You may need two or three short visits for scans, blood tests and the tubal check.
 4. Is infertility always the woman's problem? No. A male factor is the main or a contributing cause in about half of couples. That is why a semen analysis is one of the first tests, and why both partners are seen together.
 5. Can stress cause infertility? Everyday stress is unlikely to be the sole cause of infertility, but fertility treatment itself can be stressful. Sleep, meals, movement and honest conversations help. If low mood or anxiety are affecting you, tell us and we can suggest counselling.
-6. How do I know if I should stop treatment?* That is a personal decision. We can review your results and your options at any point. Some couples pause, some change plans, and some stop. Dr. Swati supports each choice without pressure. Sources: ESHRE Guideline on Unexplained Infertility (2023); NICE Guideline CG156, Fertility problems: assessment and treatment; ASRM Practice Committee, Definition of infertility (2023); ART (Regulation) Act, 2021 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed .
+6. How do I know if I should stop treatment?* That is a personal decision. We can review your results and your options at any point. Some couples pause, some change plans, and some stop. Dr. Swati supports each choice without pressure. Sources: ESHRE Guideline on Unexplained Infertility (2023); NICE Guideline CG156, Fertility problems: assessment and treatment; ASRM Practice Committee, Definition of infertility (2023); ART (Regulation) Act, 2021 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 30 September 2026.

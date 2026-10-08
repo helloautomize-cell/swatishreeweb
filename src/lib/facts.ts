@@ -18,3 +18,12 @@ export const languagesDisplay = "English, Hindi and Kannada" as const;
 export const yearsInPracticeDisplay = `${facts.yearsOfExperience} years in practice` as const;
 export const clinicOpenedDisplay = "December 2025" as const;
 export const clinicOpenedShort = "Dec 2025" as const;
+
+/** "2026-09-14" -> "14 September 2026" (UTC so SSR and client agree). */
+export const formatReviewDate = (iso: string) =>
+  new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "UTC",
+  });

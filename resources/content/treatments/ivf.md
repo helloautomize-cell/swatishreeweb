@@ -2,6 +2,8 @@
 title: "IVF Treatment in Bangalore | EVE, Dr. Swati Shree"
 description: "IVF explained step by step: who needs it, the process, risks, timing and ART Act rules, with Dr. Swati Shree, MRCOG, at EVE, Gunjur, Bangalore."
 url: /treatments/ivf/
+reviewer: dr-swati-shree
+lastReviewed: "2026-09-29"
 h1: "In vitro fertilisation *(IVF)*"
 badge: ivf
 about: { type: MedicalProcedure, name: "In vitro fertilisation", alternateName: ["IVF", "IVF-ICSI", "Test tube baby treatment"] }
@@ -99,4 +101,4 @@ IVF and ICSI are regulated by the ART (Regulation) Act, 2021. Clinics must be re
 - NICE Guideline CG156: Fertility problems
 - ART (Regulation) Act, 2021 and Rules, 2022
 
-Reviewer note: reviewed by Dr. Swati Shree. Last reviewed `[date]`.
+Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 29 September 2026.

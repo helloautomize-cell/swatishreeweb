@@ -44,7 +44,7 @@ export default function PostPage({ doc }: { doc: PageDoc }) {
           <SectionBlock key={s.id} section={s} />
         ))}
 
-        <ReviewerBox note={doc.reviewerNote} />
+        <ReviewerBox note={doc.reviewerNote} lastReviewed={doc.meta.lastReviewed} />
         <RelatedLinks doc={doc} />
       </article>
       <CtaBand />
