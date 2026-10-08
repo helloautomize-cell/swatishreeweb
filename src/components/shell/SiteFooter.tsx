@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import { brand, site } from "@/lib/site-config";
+import { kmcRegLine } from "@/lib/facts";
 import { footerColumns, legalLinks } from "@/lib/nav";
 import { MaybeConfirm, WithConfirms } from "@/components/ConfirmChip";
 import { isConfirm } from "@/lib/confirm";
@@ -109,7 +110,7 @@ export default function SiteFooter() {
         <p className="fbot">
           © {year} {site.name}, Bangalore. This website is run by {site.name}, {addr.line1}, {addr.line2},{" "}
           {addr.city} {addr.postalCode}. The information here is for general education and is not a substitute
-          for a consultation. Registration: <MaybeConfirm value={site.registration.kmc} />
+          for a consultation. Registration: {kmcRegLine}
         </p>
       </div>
     </footer>

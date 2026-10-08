@@ -301,6 +301,13 @@
   margin-top: 8px;
 }
 
+.hm-reg {
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  color: var(--ink-2);
+  margin: 10px 0 0;
+}
+
 .hm-exp {
   font-size: 0.95rem;
   color: var(--ink-2);

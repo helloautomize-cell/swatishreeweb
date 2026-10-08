@@ -1,8 +1,9 @@
 import Link from "next/link";
 import { ArrowRight, MessageCircle, Phone } from "lucide-react";
 import BookButton from "@/components/BookButton";
-import { MaybeConfirm, WithConfirms } from "@/components/ConfirmChip";
+import { WithConfirms } from "@/components/ConfirmChip";
 import { resolveConfirm } from "@/lib/confirm";
+import { kmcRegLine } from "@/lib/facts";
 import { site } from "@/lib/site-config";
 import type { PageDoc } from "@/lib/content/load";
 import { loadPages } from "@/lib/content/load";
@@ -16,7 +17,7 @@ export function ReviewerBox({ note }: { note: string | null }) {
     <aside className="pg-reviewer" aria-label="Medical review">
       <p>
         Medically reviewed by <strong>Dr. Swati Shree</strong>, MBBS, DNB (OBG), MRCOG (UK) ·{" "}
-        <MaybeConfirm value={site.registration.kmc} /> ·{" "}
+        {kmcRegLine} ·{" "}
         {note ? <WithConfirms text={note.replace(/^reviewed by Dr\. Swati Shree\.\s*/i, "")} /> : "Last reviewed at sign-off"}
       </p>
       <p className="pg-reviewer-sub">

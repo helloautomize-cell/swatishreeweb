@@ -17,6 +17,7 @@ import type { PageDoc } from "@/lib/content/load";
 import { loadPages } from "@/lib/content/load";
 import { homeData } from "@/lib/home";
 import { resolveConfirm } from "@/lib/confirm";
+import { kmcRegLine } from "@/lib/facts";
 import { badgeFor } from "@/lib/service-badges";
 import { imageEntry } from "@/lib/images";
 import AssetImage from "@/components/AssetImage";
@@ -221,6 +222,7 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
             <div className="seal"><span className="s"><svg className="seal-ring" viewBox="0 0 84 84" aria-hidden><circle cx="42" cy="42" r="38" pathLength="1" /></svg>Fellow</span>Reproductive Medicine, KJK Hospital</div>
             <div className="seal hi"><span className="s"><svg className="seal-ring" viewBox="0 0 84 84" aria-hidden><circle cx="42" cy="42" r="38" pathLength="1" /></svg>MRCOG<br />UK</span>Royal College of Obstetricians and Gynaecologists</div>
           </div>
+          <p className="hm-reg">{kmcRegLine}</p>
           <p className="hm-exp"><WithConfirms text={d.doctor.experience} /></p>
           <div className="path">
             <div><b>AIIMS</b>Training</div>
