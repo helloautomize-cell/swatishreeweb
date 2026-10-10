@@ -27,7 +27,7 @@ Buttons: [Book with Dr. Swati] [Call 72049 21212]
 
 Dr. Swati Shree is a fertility and women's health specialist in Bangalore and the founder of EVE Women and Fertility Clinic in Gunjur. She trained in medicine and then in obstetrics and gynaecology, completing a DNB, and went on to a fellowship in reproductive medicine at KJK Hospital in Trivandrum. She is a Member of the Royal College of Obstetricians and Gynaecologists (MRCOG), a UK postgraduate qualification that tests knowledge and clinical judgment in obstetrics and gynaecology to an international standard.
 
-She worked as a Junior Resident at AIIMS, New Delhi, and as a Senior Resident in obstetrics and gynaecology at Kanke General Hospital and Research Centre, Ranchi, and Sakra World Hospital, Bangalore. She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility`[CONFIRM: current arrangement and wording]`.
+She worked as a Junior Resident at AIIMS, New Delhi, and as a Senior Resident in obstetrics and gynaecology at Kanke General Hospital and Research Centre, Ranchi, and Sakra World Hospital, Bangalore. She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility.
 
 Alongside clinical work, Dr. Swati teaches. She has conducted MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and has been a speaker at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award.
 
@@ -48,17 +48,19 @@ Note for build: quotes are Dr. Swati's own approach, from the client documents, 
 - 2008 · MBBS, Patna Medical College and Hospital, Patna University
 - 2017 · DNB, Obstetrics and Gynaecology, National Board of Examinations
 - 2021 · Fellowship in Reproductive Medicine, KJK Hospital and Fertility Research Centre
+- 2021 · Certificate Course in Laparoscopy and Hysteroscopy (February - March)
 - 2023 · MRCOG, Royal College of Obstetricians and Gynaecologists, UK
 
 ### Work experience
 
 - Since December 2025 · Founder and consultant, EVE Women and Fertility Clinic, Gunjur, Bangalore
-- `[CONFIRM: years]` · Consultant, Garbhagudi IVF Centre
-- `[CONFIRM: years]` · Consultant, Apollo Fertility (visiting consultant `[CONFIRM]`)
-- `[CONFIRM: years]` · Consultant, Motherhood Fertility (visiting consultant `[CONFIRM]`)
+- Nov 2024 - present · Consultant Infertility Specialist, Motherhood Fertility and IVF Centre, Whitefield
+- Feb 2022 - Oct 2024 · Consultant Infertility Specialist, Apollo Fertility, Brookefield and Varthur
+- Mar 2021 - Jan 2022 · Consultant, Garbhagudi IVF Centre, Bangalore
 - Jan 2020 - Jan 2021 · Fellowship in Reproductive Medicine, KJK Hospital and Fertility Research Centre, Trivandrum
 - Apr 2019 - Sep 2019 · Senior Resident, Obstetrics and Gynaecology, Sakra World Hospital, Bangalore
 - May 2017 - Mar 2019 · Senior Resident, Obstetrics and Gynaecology, Kanke General Hospital and Research Centre, Ranchi
+- Jan 2013 - Mar 2014 · Casualty Medical Officer, Deen Dayal Hospital, Delhi
 - Jul 2011 - Sep 2011 · Junior Resident, Department of Blood Bank, AIIMS, New Delhi
 
 ### Teaching, talks and award
@@ -67,7 +69,7 @@ Note for build: quotes are Dr. Swati's own approach, from the client documents, 
 - Session at a one-day Clinical Embryology workshop, Garden City University
 - 16th GCU International Women's Day Award, Garden City University `[CONFIRM: year]`
 
-Publications and memberships: `[CONFIRM: any papers, FOGSI, ISAR, IFS or other society memberships]`
+Publications and memberships: free paper "Role of maternal serum PAPP-A and Uterine artery PI at 11-13 weeks in predicting Pre Eclampsia" at the 60th AICOG, 2017; poster "Seizure in Pregnancy: Malaria or Preeclampsia" at the Obstetric Medicine Update, Society of Obstetric Medicine of India, November 2018. Member of IMA, FOGSI, SOMI and ISAR.
 
 ### Conditions and services (non-clickable chip groups)
 
@@ -88,7 +90,7 @@ Mobile: 6 per group + "Show all (n)".
 3. **Which languages does Dr. Swati speak?**
    English, Hindi and Kannada. You can speak in the language you are most comfortable with, and she will explain your reports and plan in the same language.
 4. **Where does Dr. Swati see patients?**
-   Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She also holds visiting consultant roles with associated fertility centres`[CONFIRM: wording]`.
+   Dr. Swati sees patients at EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087. Call 72049 21212 or 72049 21516 to book. She previously worked as a consultant at associated fertility centres.
 5. **Do I see Dr. Swati herself at every visit?**
    Yes. EVE is a founder-led clinic, and Dr. Swati sees every patient herself. Scans and tests may be done by trained staff under her supervision, but the consultation, the plan and the decisions are hers and yours.
 6. **How can I check Dr. Swati's registration?**

@@ -17,9 +17,20 @@ export const facts = {
    */
   career: [
     { org: "AIIMS, New Delhi", role: "Junior Resident, Department of Blood Bank", from: "2011-07", to: "2011-09" },
+    { org: "Deen Dayal Hospital, Delhi", role: "Casualty Medical Officer", from: "2013-01", to: "2014-03" },
     { org: "Kanke General Hospital and Research Centre, Ranchi", role: "Senior Resident, Department of Obstetrics and Gynaecology", from: "2017-05", to: "2019-03" },
     { org: "Sakra World Hospital, Bangalore", role: "Senior Resident, Department of Obstetrics and Gynaecology", from: "2019-04", to: "2019-09" },
     { org: "KJK Hospital and Fertility Research Centre, Trivandrum", role: "Fellowship in Reproductive Medicine", from: "2020-01", to: "2021-01" },
+    { org: "Garbhagudi IVF Centre, Bangalore", role: "Consultant", from: "2021-03", to: "2022-01" },
+    { org: "Apollo Fertility, Brookefield and Varthur", role: "Consultant Infertility Specialist", from: "2022-02", to: "2024-10" },
+    { org: "Motherhood Fertility and IVF Centre, Whitefield", role: "Consultant Infertility Specialist", from: "2024-11", to: null },
+  ],
+  /** Professional memberships from the CV (11 April 2025). */
+  memberships: [
+    "Indian Medical Association (IMA)",
+    "Federation of Obstetric and Gynaecological Societies of India (FOGSI)",
+    "Society of Obstetric Medicine of India (SOMI)",
+    "Indian Society for Assisted Reproduction (ISAR)",
   ],
   /** Qualifications with awarding body and year, oldest first. */
   qualifications: [

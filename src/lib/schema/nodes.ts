@@ -255,6 +255,7 @@ export function doctorNode(): Json {
     ],
     memberOf: [
       { "@type": "Organization", name: "Royal College of Obstetricians and Gynaecologists" },
+      ...facts.memberships.map((name) => ({ "@type": "Organization" as const, name })),
     ],
     award: "16th GCU International Women's Day Award, Garden City University",
   };

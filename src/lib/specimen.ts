@@ -88,7 +88,7 @@ export const conditionCards = [
 
 export const whyCards = [
   { title: "Time, not rush", text: "Consultations are built around your history and your questions, not the clock. Partners are welcome at every visit.", icon: "why-time.png" },
-  { title: "Years of hospital experience", text: "Dr. Swati has worked as a consultant in busy fertility centres in Bangalore, after resident roles in obstetrics and gynaecology. [CONFIRM: wording of past roles]", icon: "why-experience.png" },
+  { title: "Years of hospital experience", text: "Dr. Swati has worked as a consultant in busy fertility centres in Bangalore, after resident roles in obstetrics and gynaecology.", icon: "why-experience.png" },
   { title: "A full evaluation first", text: "We look at ovulation, the tubes, the uterus, the ovarian reserve and the male partner before recommending any treatment.", icon: "why-evaluation.png" },
   { title: "Every option explained", text: "Natural conception support, IUI, IVF and egg freezing are laid out side by side, with the honest pros and cons of each.", icon: "why-options.png" },
   { title: "One doctor throughout", text: "Dr. Swati sees every patient herself and follows you over time, so you do not repeat your story at each visit.", icon: "badge-doctor.png" },

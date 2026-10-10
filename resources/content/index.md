@@ -52,7 +52,7 @@ Intro: Fertility care is often rushed. At EVE, you get a consultation built arou
 
 Cards (6):
 1. **Time, not rush.** Consultations are built around your history and your questions, not the clock. Partners are welcome at every visit.
-2. **Years of hospital experience.** Dr. Swati has worked as a consultant in busy fertility centres in Bangalore, after resident roles in obstetrics and gynaecology. `[CONFIRM: wording of past roles]`
+2. **Years of hospital experience.** Dr. Swati has worked as a consultant in busy fertility centres in Bangalore, after resident roles in obstetrics and gynaecology.
 3. **A full evaluation first.** We look at ovulation, the tubes, the uterus, the ovarian reserve and the male partner before recommending any treatment.
 4. **Every option explained.** Natural conception support, IUI, IVF and egg freezing are laid out side by side, with the honest pros and cons of each.
 5. **One doctor throughout.** Dr. Swati sees every patient herself and follows you over time, so you do not repeat your story at each visit.
