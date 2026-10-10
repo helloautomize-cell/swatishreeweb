@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 import Image from "next/image";
 import AssetImage from "@/components/AssetImage";
 import {
@@ -130,6 +131,10 @@ function Section({
 }
 
 export default function StyleguidePage() {
+  /* Internal design tool: 404 on the production deploy only. Still reachable
+   * on Vercel preview deploys and in local dev/test (styleguide.spec.ts). */
+  if (process.env.VERCEL_ENV === "production") notFound();
+
   return (
     <main className="sg" id="main">
       <div className="container-eve" style={{ paddingBlock: "40px 120px" }}>
