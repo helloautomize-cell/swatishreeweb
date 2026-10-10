@@ -322,7 +322,7 @@ Buttons: [Book with Dr. Swati] [Call 72049 21212]
 
 Dr. Swati Shree is a fertility and women's health specialist in Bangalore and the founder of EVE Women and Fertility Clinic in Gunjur. She trained in medicine and then in obstetrics and gynaecology, completing a DNB, and went on to a fellowship in reproductive medicine at KJK Hospital in Trivandrum. She is a Member of the Royal College of Obstetricians and Gynaecologists (MRCOG), a UK postgraduate qualification that tests knowledge and clinical judgment in obstetrics and gynaecology to an international standard.
 
-Her training took her through some of India's well-known institutions, including AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital in Bangalore. `[CONFIRM: AIIMS campus, role and years]` She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility`[CONFIRM: current arrangement and wording]`.
+She worked as a Junior Resident at AIIMS, New Delhi, and as a Senior Resident in obstetrics and gynaecology at Kanke General Hospital and Research Centre, Ranchi, and Sakra World Hospital, Bangalore. She has worked as a consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility, and continues as a visiting consultant with Apollo Fertility and Motherhood Fertility`[CONFIRM: current arrangement and wording]`.
 
 Alongside clinical work, Dr. Swati teaches. She has conducted MRCOG Part 1 and Part 2 preparation sessions with StudyMedic and has been a speaker at a one-day Clinical Embryology workshop at Garden City University. She received the 16th GCU International Women's Day Award.
 
@@ -338,15 +338,12 @@ H2: How Dr. Swati *works*
 
 Note for build: quotes are Dr. Swati's own approach, from the client documents, lightly edited for reading. `[CONFIRM: Dr. Swati approves the quoted wording.]`
 
-### Education and training (timeline)
+### Education and qualifications (timeline)
 
-- `[CONFIRM: year]` · MBBS, `[CONFIRM: college]`
-- `[CONFIRM: year]` · DNB, Obstetrics and Gynaecology `[CONFIRM: hospital]`
-- `[CONFIRM: year]` · Training at AIIMS `[CONFIRM: campus and role]`
-- `[CONFIRM: year]` · Kanke General Hospital and Research Centre, Ranchi
-- `[CONFIRM: year]` · Sakra World Hospital, Bangalore
-- `[CONFIRM: year]` · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum
-- `[CONFIRM: year]` · MRCOG, Royal College of Obstetricians and Gynaecologists, UK
+- 2008 · MBBS, Patna Medical College and Hospital, Patna University
+- 2017 · DNB, Obstetrics and Gynaecology, National Board of Examinations
+- 2021 · Fellowship in Reproductive Medicine, KJK Hospital and Fertility Research Centre
+- 2023 · MRCOG, Royal College of Obstetricians and Gynaecologists, UK
 
 ### Work experience
 
@@ -354,6 +351,10 @@ Note for build: quotes are Dr. Swati's own approach, from the client documents, 
 - `[CONFIRM: years]` · Consultant, Garbhagudi IVF Centre
 - `[CONFIRM: years]` · Consultant, Apollo Fertility (visiting consultant `[CONFIRM]`)
 - `[CONFIRM: years]` · Consultant, Motherhood Fertility (visiting consultant `[CONFIRM]`)
+- Jan 2020 - Jan 2021 · Fellowship in Reproductive Medicine, KJK Hospital and Fertility Research Centre, Trivandrum
+- Apr 2019 - Sep 2019 · Senior Resident, Obstetrics and Gynaecology, Sakra World Hospital, Bangalore
+- May 2017 - Mar 2019 · Senior Resident, Obstetrics and Gynaecology, Kanke General Hospital and Research Centre, Ranchi
+- Jul 2011 - Sep 2011 · Junior Resident, Department of Blood Bank, AIIMS, New Delhi
 
 ### Teaching, talks and award
 
@@ -4037,8 +4038,8 @@ What we deliberately left out (compliance, IMC Regulations 2002, DMR Act 1954, A
 1. ~~Years of experience~~ RESOLVED: 16 years
 2. ~~Languages spoken~~ RESOLVED: English, Hindi and Kannada
 3. ~~KMC registration number~~ RESOLVED: DLH20090000353KTK
-4. AIIMS campus, role and years
-5. Years for MBBS, DNB, fellowship, MRCOG, and each consultant role
+4. ~~AIIMS campus, role and years~~ RESOLVED: Junior Resident, Department of Blood Bank, AIIMS New Delhi, Jul-Sep 2011
+5. ~~Years for MBBS, DNB, fellowship, MRCOG~~ RESOLVED: 2008, 2017, 2021, 2023. Still open: years for each consultant role
 6. Visiting consultant arrangements with Apollo Fertility and Motherhood Fertility: exact current wording
 7. Any papers, FOGSI, ISAR, IFS or other memberships
 8. Year of the 16th GCU International Women's Day Award

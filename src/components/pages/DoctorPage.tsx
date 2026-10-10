@@ -118,7 +118,7 @@ export default function DoctorPage({ doc }: { doc: PageDoc }) {
 
         {education && (
           <section className="pg-sec" id={education.id}>
-            <h2><GraduationCap size={22} strokeWidth={1.75} aria-hidden className="sec-ic" /> Education and training</h2>
+            <h2><GraduationCap size={22} strokeWidth={1.75} aria-hidden className="sec-ic" /> Education and qualifications</h2>
             <InView className="tl-wrap">
               <ol className="timeline">
                 {bullets(education).map((item, i) => {
