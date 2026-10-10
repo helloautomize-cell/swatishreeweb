@@ -10,7 +10,8 @@
  * - dominant-colour blur placeholder per file
  * - public/images/images-map.json: file -> widths, dims, slots, flags, blur
  * - public/images/alt-text.json: file -> alt text (never from file names)
- * - public/images/_todo.md: missing, interim and restricted slots
+ * - resources/images/_todo.md: missing, interim and restricted slots
+ *   (kept out of public/ so the notes are never served on the live site)
  *
  * Never processes _hold/, _reference/, _originals-as-received/ or
  * credentials-reference/. Restricted files ("after permission",
@@ -259,7 +260,7 @@ const lines = [
   ...(assetTodo.length ? assetTodo.map((f) => `- ${f}`) : ['- none']),
   '',
 ];
-writeFileSync(join(OUT, '_todo.md'), lines.join('\n'));
+writeFileSync(join(SRC, '_todo.md'), lines.join('\n'));
 
 const processed = Object.values(map).filter((v) => !v.missing).length;
 console.log(`processed ${processed} of ${entries.length} manifest slots; unapproved derivatives remain in the private preview folder.`);

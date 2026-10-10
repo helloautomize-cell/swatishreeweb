@@ -102,7 +102,7 @@ for (const p of pages) {
 }
 
 // Image slots: every badge asset referenced resolves in assets-map or _todo.
-const todo = readFileSync(join(root, 'public/images/_todo.md'), 'utf8');
+const todo = readFileSync(join(root, 'resources/images/_todo.md'), 'utf8');
 const assetsMap = JSON.parse(readFileSync(join(root, 'public/images/assets-map.json'), 'utf8'));
 for (const p of pages) {
   if (!p.badge) continue;

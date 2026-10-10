@@ -53,10 +53,14 @@ resources/images/_hold/
 resources/images/_originals-as-received/
 resources/images/credentials-reference/
 
+# personal documents (CV etc.) must not sit in git
+*.docx
+
+# agent scratch space (screenshots, previews, temp scripts)
+.devin/
+
 # test and server artifacts
 test-results/
 server.log
 artifacts/
-.devin/archive/
-.devin/image-preview/
 /phase1-image-review.png
