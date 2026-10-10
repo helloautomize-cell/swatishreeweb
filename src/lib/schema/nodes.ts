@@ -227,33 +227,25 @@ export function doctorNode(): Json {
     ],
     knowsLanguage: [...facts.languages],
     worksFor: { "@id": IDS.clinic },
+    /* alumniOf = the MBBS school only. AIIMS, Kanke and Sakra were jobs, not
+     * schools; KJK Fellowship sits under hasCredential. */
     alumniOf: [
-      { "@type": "CollegeOrUniversity", name: "All India Institute of Medical Sciences" },
-      { "@type": "Organization", name: "KJK Hospital, Thiruvananthapuram" },
+      { "@type": "CollegeOrUniversity", name: "Patna Medical College and Hospital" },
     ],
     hasCredential: [
-      { "@type": "EducationalOccupationalCredential", credentialCategory: "degree", name: "MBBS" },
-      {
-        "@type": "EducationalOccupationalCredential",
-        credentialCategory: "degree",
-        name: "DNB, Obstetrics and Gynaecology",
-      },
-      {
-        "@type": "EducationalOccupationalCredential",
-        credentialCategory: "certificate",
-        name: "Fellowship in Reproductive Medicine",
-        recognizedBy: { "@type": "Organization", name: "KJK Hospital, Thiruvananthapuram" },
-      },
-      {
-        "@type": "EducationalOccupationalCredential",
-        credentialCategory: "membership",
-        name: "MRCOG",
+      ...facts.qualifications.map((q) => ({
+        "@type": "EducationalOccupationalCredential" as const,
+        credentialCategory: q.category,
+        name: q.name,
         recognizedBy: {
-          "@type": "Organization",
-          name: "Royal College of Obstetricians and Gynaecologists",
-          sameAs: "https://en.wikipedia.org/wiki/Royal_College_of_Obstetricians_and_Gynaecologists",
+          "@type": "Organization" as const,
+          name: q.body,
+          ...(q.name === "MRCOG"
+            ? { sameAs: "https://en.wikipedia.org/wiki/Royal_College_of_Obstetricians_and_Gynaecologists" }
+            : {}),
         },
-      },
+        dateCreated: String(q.year),
+      })),
       {
         "@type": "EducationalOccupationalCredential",
         credentialCategory: "Medical registration",
@@ -265,10 +257,6 @@ export function doctorNode(): Json {
       { "@type": "Organization", name: "Royal College of Obstetricians and Gynaecologists" },
     ],
     award: "16th GCU International Women's Day Award, Garden City University",
-    affiliation: [
-      { "@type": "MedicalOrganization", name: "Apollo Fertility" },
-      { "@type": "MedicalOrganization", name: "Motherhood Fertility" },
-    ],
   };
 }
 

@@ -11,6 +11,23 @@ export const facts = {
   yearsOfExperience: 16,
   /** ISO year-month; display as "December 2025". */
   clinicOpened: "2025-12",
+  /**
+   * Career entries from Dr. Swati Shree's CV (11 April 2025), oldest first.
+   * Roles as held, no embellishment. Display ranges: "Jul 2011 - Sep 2011".
+   */
+  career: [
+    { org: "AIIMS, New Delhi", role: "Junior Resident, Department of Blood Bank", from: "2011-07", to: "2011-09" },
+    { org: "Kanke General Hospital and Research Centre, Ranchi", role: "Senior Resident, Department of Obstetrics and Gynaecology", from: "2017-05", to: "2019-03" },
+    { org: "Sakra World Hospital, Bangalore", role: "Senior Resident, Department of Obstetrics and Gynaecology", from: "2019-04", to: "2019-09" },
+    { org: "KJK Hospital and Fertility Research Centre, Trivandrum", role: "Fellowship in Reproductive Medicine", from: "2020-01", to: "2021-01" },
+  ],
+  /** Qualifications with awarding body and year, oldest first. */
+  qualifications: [
+    { name: "MBBS", body: "Patna Medical College and Hospital, Patna University", year: 2008, category: "degree" },
+    { name: "DNB, Obstetrics and Gynaecology", body: "National Board of Examinations", year: 2017, category: "degree" },
+    { name: "Fellowship in Reproductive Medicine", body: "KJK Hospital and Fertility Research Centre", year: 2021, category: "fellowship" },
+    { name: "MRCOG", body: "Royal College of Obstetricians and Gynaecologists, UK", year: 2023, category: "membership" },
+  ],
 } as const;
 
 export const kmcRegLine = `Karnataka Medical Council Reg. No. ${facts.kmcRegistration}` as const;
