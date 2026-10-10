@@ -52,7 +52,7 @@ Intro: Fertility care is often rushed. At EVE, you get a consultation built arou
 
 Cards (6):
 1. **Time, not rush.** Consultations are built around your history and your questions, not the clock. Partners are welcome at every visit.
-2. **Years of hospital experience.** Dr. Swati has worked as a consultant in busy fertility centres in Bangalore, and trained at AIIMS and Sakra World Hospital. `[CONFIRM: wording of past roles]`
+2. **Years of hospital experience.** Dr. Swati has worked as a consultant in busy fertility centres in Bangalore, after resident roles in obstetrics and gynaecology. `[CONFIRM: wording of past roles]`
 3. **A full evaluation first.** We look at ovulation, the tubes, the uterus, the ovarian reserve and the male partner before recommending any treatment.
 4. **Every option explained.** Natural conception support, IUI, IVF and egg freezing are laid out side by side, with the honest pros and cons of each.
 5. **One doctor throughout.** Dr. Swati sees every patient herself and follows you over time, so you do not repeat your story at each visit.
@@ -139,7 +139,7 @@ H2: Meet *Dr. Swati Shree*
 
 Card text: Reproductive medicine specialist and founder of EVE Women and Fertility Clinic.
 Qualifications line: MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG (UK)
-Experience: Trained at AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital. Former consultant at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility. Recipient, 16th GCU International Women's Day Award.
+Experience: Junior Resident at AIIMS, New Delhi; Senior Resident in obstetrics and gynaecology at Kanke General Hospital and Sakra World Hospital. Former consultant at associated fertility centres in Bangalore. Recipient, 16th GCU International Women's Day Award.
 Chips: `16 years in practice` · `English, Hindi and Kannada`
 Buttons: [Book with Dr. Swati] [Read her profile]
 

@@ -20,7 +20,7 @@ export default function DoctorCard({ compact = false }: { compact?: boolean }) {
         <div className="seal"><span className="s">Fellow</span><span>Reproductive Medicine, KJK Hospital</span></div>
         <div className="seal hi"><span className="s">MRCOG<br />UK</span><span>Royal College of Obstetricians and Gynaecologists</span></div>
       </div>
-      {!compact && <><p>{doctorCard.bio}</p><div className="path"><div><b>AIIMS</b>Training</div><div><b>Sakra World Hospital</b>Bangalore</div><div><b>KJK Hospital</b>Fellowship, Trivandrum</div><div><b>EVE, Gunjur</b>Founded {clinicOpenedShort}</div></div></>}
+      {!compact && <><p>{doctorCard.bio}</p><div className="path"><div><b>AIIMS</b>Junior Resident, 2011</div><div><b>Sakra World Hospital</b>Senior Resident, 2019</div><div><b>KJK Hospital</b>Fellowship, Trivandrum</div><div><b>EVE, Gunjur</b>Founded {clinicOpenedShort}</div></div></>}
       <div className="chips"><ConfirmChip note="years in practice" /><ConfirmChip note="languages" /></div>
       <div className="btns"><BookButton label="Book with Dr. Swati" href="#styleguide-form" /><Link className="link" href="/dr-swati-shree/">Read her profile<ArrowRight size={18} strokeWidth={1.75} aria-hidden /></Link></div>
     </div>

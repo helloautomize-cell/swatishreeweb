@@ -99,5 +99,5 @@ export const doctorCard = {
   name: "Dr. Swati Shree",
   quals: "MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG (UK)",
   role: "Reproductive medicine specialist and founder of EVE Women and Fertility Clinic.",
-  bio: "Trained at AIIMS, Kanke General Hospital and Research Centre, and Sakra World Hospital. Recipient, 16th GCU International Women's Day Award.",
+  bio: "Junior Resident at AIIMS, New Delhi; Senior Resident in obstetrics and gynaecology at Kanke General Hospital and Sakra World Hospital. Recipient, 16th GCU International Women's Day Award.",
 };

@@ -225,8 +225,8 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
           <p className="hm-reg">{kmcRegLine}</p>
           <p className="hm-exp"><WithConfirms text={d.doctor.experience} /></p>
           <div className="path">
-            <div><b>AIIMS</b>Training</div>
-            <div><b>Sakra World Hospital</b>Bangalore</div>
+            <div><b>AIIMS</b>Junior Resident, 2011</div>
+            <div><b>Sakra World Hospital</b>Senior Resident, 2019</div>
             <div><b>KJK Hospital</b>Fellowship, Trivandrum</div>
             <div><b>EVE, Gunjur</b>Founded {clinicOpenedShort}</div>
           </div>

@@ -78,12 +78,20 @@ export type HomeData = {
   contact: { title: string; rows: { label: string; text: string }[] };
 };
 
-/* Approved Home deviation: strip named hospitals from Home copy only. */
+/* Approved Home deviation: strip named hospitals from Home copy only.
+ * Garbhagudi, Apollo Fertility and Motherhood Fertility may appear only on
+ * /dr-swati-shree/ and /about/; anywhere they slip into Home copy they render
+ * as "associated fertility centres". */
 const sanitizeHome = (s: string) =>
-  s.replace(
-    /,?\s*and trained at AIIMS and Sakra World Hospital/i,
-    ", after specialist training in obstetrics, gynaecology and reproductive medicine",
-  );
+  s
+    .replace(
+      /,?\s*and trained at AIIMS and Sakra World Hospital/i,
+      ", after specialist training in obstetrics, gynaecology and reproductive medicine",
+    )
+    .replace(
+      /at Garbhagudi IVF Centre, Apollo Fertility and Motherhood Fertility/gi,
+      "at associated fertility centres",
+    );
 
 export function homeData(doc: PageDoc): HomeData {
   const by = (re: RegExp) => doc.sections.find((s) => re.test(s.id));
@@ -162,9 +170,9 @@ export function homeData(doc: PageDoc): HomeData {
     },
     doctor: {
       h2: stripTicks(field(doctor, /^H2/) ?? doctor?.heading ?? ""),
-      text: stripTicks(field(doctor, /Card text/) ?? ""),
-      quals: stripTicks(field(doctor, /Qualifications/) ?? ""),
-      experience: stripTicks(field(doctor, /^Experience/) ?? ""),
+      text: stripTicks(sanitizeHome(field(doctor, /Card text/) ?? "")),
+      quals: stripTicks(sanitizeHome(field(doctor, /Qualifications/) ?? "")),
+      experience: stripTicks(sanitizeHome(field(doctor, /^Experience/) ?? "")),
       chips: (field(doctor, /^Chips/) ?? "").split(/\s*·\s*/).map(stripTicks).filter(Boolean),
     },
     plan: {
