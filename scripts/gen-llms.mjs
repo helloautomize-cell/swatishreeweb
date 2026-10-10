@@ -11,7 +11,14 @@ import { fileURLToPath } from 'node:url';
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const CONTENT = join(root, 'resources', 'content');
 const OUT = join(root, 'public');
-const BASE = (process.env.SITE_URL ?? 'http://localhost:3000').replace(/\/+$/, '');
+/* Same resolution as src/lib/site-config.ts (SITE_URL -> Vercel env), but the
+ * final fallback is the production domain: llms.txt must never ship localhost
+ * links, even from a local build. */
+const vercelUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL ?? process.env.VERCEL_URL;
+const BASE = (
+  process.env.SITE_URL ??
+  (vercelUrl ? `https://${vercelUrl}` : 'https://www.evefertilityclinic.com')
+).replace(/\/+$/, '');
 
 /* entityStatement lives in src/lib/site-config.ts (single source). This
  * script is plain Node and cannot import the TS module, so it reads the

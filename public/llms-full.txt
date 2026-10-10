@@ -4,7 +4,7 @@
 
 
 ## Fertility care built around you
-URL: http://localhost:3000/
+URL: https://www.evefertilityclinic.com/
 
 ### Hero Eyebrow: EVE WOMEN AND FERTILITY CLINIC · GUNJUR, BANGALORE H1: Fertility care built around you Sub: Unhurried, honest care for fertility, PCOS, pregnancy and women's health, led by Dr. Swati Shree, MRCOG (UK). Buttons: [Book Consultation] [Call 72049 21212] Service chips: Fertility evaluation · PCOS · Recurrent pregnancy loss · IUI and IVF · Egg freezing · Male fertility · Menopause Doctor chip: (avatar) Doctor-led care · Dr. Swati Shree, MRCOG (UK) Portrait card name pill: Dr. Swati Shree · MBBS, DNB (OBG), MRCOG (UK) Mobile short line (under the portrait): A full evaluation first. Every option explained. ### Answer-first summary (visible, directly under the hero; also the `speakable` text) EVE Women and Fertility Clinic is a fertility and women's health clinic in Gunjur, Bengaluru, founded in December 2025 by Dr. Swati Shree, a reproductive medicine specialist with an MRCOG from the Royal College of Obstetricians and Gynaecologists (UK). Every patient starts with a complete evaluation and a long conversation. IUI, IVF, egg freezing and other treatments are explained clearly and used only when they are the right step for you. ### Find care by concern Row label: What brings you here today Pills (each links to a page):
 - Trying to conceive, not yet pregnant → /services/fertility-evaluation/
@@ -69,7 +69,7 @@ Link: Read the blog → ### 09 / Quick answers 1. When should I see a fertility 
 
 
 ## About EVE Women and Fertility Clinic
-URL: http://localhost:3000/about/
+URL: https://www.evefertilityclinic.com/about/
 
 H1: About EVE Women and Fertility Clinic Intro (answer-first): EVE Women and Fertility Clinic is a founder-led fertility and women's health clinic in Gunjur, Bengaluru (Bangalore), started in December 2025 by Dr. Swati Shree. It exists to offer fertility care that is unhurried, honest and clear, with a full evaluation first and every option explained. ### Why EVE was started Dr. Swati Shree spent years as a consultant in busy fertility and IVF centres. She saw how often couples left a visit with a treatment plan but without understanding why, and how often the first conversation was the shortest one. EVE was built to change that. The clinic is small on purpose, so that every patient gets time with the doctor, and every plan is explained in plain words before anything begins. The name "EVE" stands for the woman at the centre of care. The logo, a mother holding her child in a single line, reflects what many patients hope for, and the quiet, steady way we try to help. ### How we work 1. *Listen first. The first consultation is for your story, your questions and your goals, not for a sales conversation.
 2. Evaluate fully. We look at both partners, and at ovulation, hormones, tubes, uterus and ovarian reserve, so that the plan is based on a reason.
@@ -94,7 +94,7 @@ H1: About EVE Women and Fertility Clinic Intro (answer-first): EVE Women and Fer
 
 
 ## Accessibility statement
-URL: http://localhost:3000/accessibility/
+URL: https://www.evefertilityclinic.com/accessibility/
 
 H1: Accessibility statement Last updated: *In short.* We want everyone to be able to use this website and visit the clinic. We aim to meet WCAG 2.2 level AA, and we welcome your feedback. ### 1. Our aim EVE Women and Fertility Clinic wants people of all abilities to find information and book care easily. This website is built to meet the Web Content Accessibility Guidelines (WCAG) 2.2, level AA, and to follow the Guidelines for Indian Government Websites (GIGW) principles where relevant. ### 2. What we have done - Text and background colours checked for contrast
 - A visible keyboard focus and logical tab order
@@ -108,7 +108,7 @@ H1: Accessibility statement Last updated: *In short.* We want everyone to be abl
 
 
 ## Appointments, cancellation and refund
-URL: http://localhost:3000/appointments-cancellation-refund/
+URL: https://www.evefertilityclinic.com/appointments-cancellation-refund/
 
 H1: Appointments, cancellation and refund Last updated: *In short.* A website request is confirmed only when we confirm it. Tell us early if you need to change, and we will help where we can. Mistaken payments are refunded. ### 1. Booking - Request an appointment through the form, by phone (72049 21212 or 72049 21516) or on WhatsApp.
 - We aim to reply within 24 hours. Your appointment is confirmed when we confirm the date and time.
@@ -120,7 +120,7 @@ H1: Appointments, cancellation and refund Last updated: *In short.* A website re
 
 
 ## Fertility and women's health library
-URL: http://localhost:3000/blog/
+URL: https://www.evefertilityclinic.com/blog/
 
 H1: Fertility and women's health library Intro: Clear, doctor-reviewed articles to help you understand tests, conditions and treatments before you decide anything. Written for patients, reviewed by Dr. Swati Shree. Filters: All · Getting started · Conditions · Treatments · Women's health Cards (3 at launch):
 1. Fertility tests explained: AMH, semen analysis, HSG and scans · Getting started · 7 min read
@@ -129,7 +129,7 @@ H1: Fertility and women's health library Intro: Clear, doctor-reviewed articles 
 
 
 ## Fertility tests explained: AMH, semen analysis, HSG and scans
-URL: http://localhost:3000/blog/fertility-tests-explained/
+URL: https://www.evefertilityclinic.com/blog/fertility-tests-explained/
 
 H1: Fertility tests explained: AMH, semen analysis, HSG and scans *In brief
 - A fertility evaluation checks ovulation, egg reserve, the tubes, the uterus and the male partner's semen.
@@ -158,7 +158,7 @@ H1: Fertility tests explained: AMH, semen analysis, HSG and scans *In brief
 
 
 ## PCOS and getting pregnant: what the evidence says
-URL: http://localhost:3000/blog/pcos-and-getting-pregnant/
+URL: https://www.evefertilityclinic.com/blog/pcos-and-getting-pregnant/
 
 H1: PCOS and getting pregnant: what the evidence says *In brief
 - PCOS is one of the most treatable causes of infertility.
@@ -182,7 +182,7 @@ H1: PCOS and getting pregnant: what the evidence says *In brief
 
 
 ## When to see a fertility doctor: 12 months, 6 months, or sooner
-URL: http://localhost:3000/blog/when-to-see-a-fertility-doctor/
+URL: https://www.evefertilityclinic.com/blog/when-to-see-a-fertility-doctor/
 
 H1: When to see a fertility doctor: 12 months, 6 months, or sooner *In brief
 - Infertility is defined as no pregnancy after 12 months of regular unprotected intercourse.
@@ -208,7 +208,7 @@ H1: When to see a fertility doctor: 12 months, 6 months, or sooner *In brief
 
 
 ## Coming to EVE from outside Bangalore
-URL: http://localhost:3000/coming-from-outside-bangalore/
+URL: https://www.evefertilityclinic.com/coming-from-outside-bangalore/
 
 H1: Coming to EVE from outside Bangalore Intro: Many couples travel to Bangalore for a fertility evaluation with Dr. Swati Shree. EVE Women and Fertility Clinic in Gunjur is planned so that the first visit gives you as much clarity as possible, and follow-up can be done with fewer trips. This page explains how to plan. ### Plan a first visit 1. *Book a consultation and tell us your cycle day and where you are travelling from.
 2. Send your reports ahead. Share scans, blood tests and semen analysis by WhatsApp or email, so that Dr. Swati can read them before you arrive. 3. Choose the right cycle day. Some tests are best done on certain days. We tell you the best day to arrive.
@@ -224,7 +224,7 @@ H1: Coming to EVE from outside Bangalore Intro: Many couples travel to Bangalore
 
 
 ## Know what you are dealing with
-URL: http://localhost:3000/conditions/
+URL: https://www.evefertilityclinic.com/conditions/
 
 H1: Know what you are dealing with Intro: Understanding a diagnosis takes away a lot of the fear. These guides explain ten common conditions in women's health and fertility, in plain English, and describe how Dr. Swati Shree evaluates and manages each at EVE Women and Fertility Clinic in Gunjur, Bangalore. ### Fertility conditions - *Female factor infertility · The common reasons a woman may not conceive → /conditions/female-factor-infertility/
 - Male factor infertility · Low sperm count, poor motility and more → /services/male-fertility-evaluation/
@@ -242,7 +242,7 @@ H1: Know what you are dealing with Intro: Understanding a diagnosis takes away a
 
 
 ## Adenomyosis Treatment in Bangalore
-URL: http://localhost:3000/conditions/adenomyosis/
+URL: https://www.evefertilityclinic.com/conditions/adenomyosis/
 
 ### Intro Adenomyosis is a condition where the tissue that lines the uterus grows into the muscle wall of the uterus, making periods heavy and painful and sometimes affecting fertility. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree diagnoses it with a careful history and a specialist ultrasound, and treats it according to whether you want relief, pregnancy or both. ### At a glance - *What happens: endometrial tissue lies within the muscle (myometrium), and the uterus can enlarge and become tender
 - Typical symptoms: heavy periods, painful periods, pelvic pressure, pain with sex
@@ -277,7 +277,7 @@ URL: http://localhost:3000/conditions/adenomyosis/
 
 
 ## Endometriosis Treatment in Bangalore
-URL: http://localhost:3000/conditions/endometriosis/
+URL: https://www.evefertilityclinic.com/conditions/endometriosis/
 
 ### Intro Endometriosis is a condition where tissue similar to the lining of the uterus grows outside it, causing painful periods, pelvic pain and sometimes difficulty getting pregnant. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree evaluates endometriosis carefully, treats pain in a way that respects your plans for pregnancy, and explains the choices between medicine, surgery and fertility treatment. ### At a glance - *How common: about 1 in 10 women of reproductive age
 - Main symptoms: painful periods, pain during sex, pelvic pain, pain on passing stools or urine at the time of periods, heavy bleeding, difficulty conceiving
@@ -310,7 +310,7 @@ URL: http://localhost:3000/conditions/endometriosis/
 
 
 ## Female Infertility Causes and Care in Bangalore
-URL: http://localhost:3000/conditions/female-factor-infertility/
+URL: https://www.evefertilityclinic.com/conditions/female-factor-infertility/
 
 ### Intro Female factor infertility means that a cause in the woman is the main or a contributing reason a couple has not conceived. The causes fall into a few groups: ovulation, the fallopian tubes, the uterus, ovarian reserve and age. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree finds which of these apply, so treatment targets the actual cause. This page explains the causes. The tests and the visit are described under Fertility evaluation. ### At a glance - *Infertility is defined as no pregnancy after 12 months of regular unprotected intercourse, or 6 months if the woman is 35 or older
 - Main causes: ovulation problems, tubal damage, uterine problems, endometriosis, reduced ovarian reserve, age
@@ -342,7 +342,7 @@ URL: http://localhost:3000/conditions/female-factor-infertility/
 
 
 ## Fibroids Treatment in Bangalore
-URL: http://localhost:3000/conditions/fibroids/
+URL: https://www.evefertilityclinic.com/conditions/fibroids/
 
 ### Intro Fibroids are non-cancerous growths in the muscle of the uterus. They are very common, and many cause no problems, but some cause heavy periods, pressure, pain or difficulty with pregnancy. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree maps the fibroids with a scan, tells you whether they matter for your symptoms or your plans, and explains your options, including doing nothing. ### At a glance - *How common: a large share of women develop fibroids by age 50, and they are more common in some groups
 - Non-cancerous: the chance of cancer is very low
@@ -378,7 +378,7 @@ URL: http://localhost:3000/conditions/fibroids/
 
 
 ## Menopause Clinic in Bangalore
-URL: http://localhost:3000/conditions/menopause-and-perimenopause/
+URL: https://www.evefertilityclinic.com/conditions/menopause-and-perimenopause/
 
 ### Intro Menopause is the end of periods, confirmed after 12 months without a period, and perimenopause is the years of change before it. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree supports women through this stage with clear information, symptom relief, and care for bone, heart and sexual health, and also sees women whose periods stop earlier than expected. ### At a glance - *Average age in India: about 46 to 47 years, a few years earlier than in many Western countries
 - Perimenopause: can start in the early to mid forties, or earlier, and last 4 to 8 years
@@ -418,7 +418,7 @@ URL: http://localhost:3000/conditions/menopause-and-perimenopause/
 
 
 ## Irregular and Heavy Periods Treatment Bangalore
-URL: http://localhost:3000/conditions/menstrual-disorders/
+URL: https://www.evefertilityclinic.com/conditions/menstrual-disorders/
 
 ### Intro Menstrual disorders are changes in the timing, amount or pain of periods that are outside the usual pattern. They include irregular periods, heavy bleeding, painful periods and missed periods. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree finds the cause using the FIGO PALM-COEIN framework, treats it, and helps you avoid complications such as anaemia. ### At a glance - *Typical cycle: about 21 to 35 days in adults, with bleeding for up to 8 days
 - Heavy bleeding signs: soaking a pad every 1 to 2 hours, clots larger than a coin, periods that interfere with work or sleep, tiredness or breathlessness from anaemia
@@ -451,7 +451,7 @@ URL: http://localhost:3000/conditions/menstrual-disorders/
 
 
 ## PCOS Treatment in Bangalore
-URL: http://localhost:3000/conditions/pcos/
+URL: https://www.evefertilityclinic.com/conditions/pcos/
 
 ### Intro Polycystic ovary syndrome (PCOS) is a common hormonal condition where ovulation is irregular and androgen (male-type hormone) levels may be high, causing irregular periods, acne, excess hair and sometimes difficulty conceiving. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree diagnoses PCOS carefully, treats the parts that trouble you most, and helps women with PCOS who want to conceive, and those who do not. ### At a glance - *How common: roughly 1 in 10 women of reproductive age worldwide. Indian studies report a wide range, depending on the criteria used.
 - Diagnosis (adults): two of three: irregular or absent ovulation, signs of high androgens, and polycystic ovarian appearance on ultrasound or a high AMH, after other causes are excluded
@@ -486,7 +486,7 @@ URL: http://localhost:3000/conditions/pcos/
 
 
 ## Recurrent Miscarriage Treatment in Bangalore
-URL: http://localhost:3000/conditions/recurrent-pregnancy-loss/
+URL: https://www.evefertilityclinic.com/conditions/recurrent-pregnancy-loss/
 
 ### Intro Recurrent pregnancy loss means two or more pregnancy losses. It is painful, and often comes with guilt and fear that are not deserved. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree offers a careful, kind evaluation based on the ESHRE 2022 guideline, looks for causes that can be treated, and supports you through the next pregnancy. ### At a glance - *Definition (ESHRE 2022): two or more pregnancy losses
 - How common: about 1 to 3 percent of couples
@@ -528,7 +528,7 @@ URL: http://localhost:3000/conditions/recurrent-pregnancy-loss/
 
 
 ## Low AMH and Thin Endometrium Care in Bangalore
-URL: http://localhost:3000/conditions/thin-endometrium-and-low-ovarian-reserve/
+URL: https://www.evefertilityclinic.com/conditions/thin-endometrium-and-low-ovarian-reserve/
 
 ### Intro Two different problems share this page because both are common questions in fertility care. Low ovarian reserve means that the number of eggs left in the ovaries is lower than expected for age. A thin endometrium means the uterine lining is thinner than needed for an embryo to implant. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree explains both honestly: what the numbers mean, what they do not mean, and what can be done. ### At a glance - *Low ovarian reserve: a low AMH or antral follicle count for your age. It affects how many eggs can be collected, and how much time you have.
 - It does not mean that you cannot conceive naturally. Age is the main driver of egg quality.
@@ -567,7 +567,7 @@ URL: http://localhost:3000/conditions/thin-endometrium-and-low-ovarian-reserve/
 
 
 ## Thyroid and Fertility in Bangalore
-URL: http://localhost:3000/conditions/thyroid-and-fertility/
+URL: https://www.evefertilityclinic.com/conditions/thyroid-and-fertility/
 
 ### Intro The thyroid gland controls the body's metabolism, and it also affects periods, ovulation and pregnancy. Thyroid problems are common in Indian women and are simple to test for and usually simple to treat. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree checks thyroid function as part of fertility and miscarriage evaluations, and helps you keep it in the right range before and during pregnancy. ### At a glance - *Test: TSH, a simple blood test, with free T4 when needed; thyroid antibodies in selected women
 - Underactive thyroid (hypothyroidism) is the most common problem and can cause irregular periods, difficulty conceiving, and a higher risk of miscarriage
@@ -601,7 +601,7 @@ URL: http://localhost:3000/conditions/thyroid-and-fertility/
 
 
 ## Book a consultation or contact us
-URL: http://localhost:3000/contact/
+URL: https://www.evefertilityclinic.com/contact/
 
 H1: Book a consultation or contact us Intro: Fill in the form and we will contact you to confirm a time. We aim to reply within 24 hours. You can also call 72049 21212 or 72049 21516. Emergency notice above the form: This form is not for emergencies. In a medical emergency, call 108 or 112. ### Form (`#book`) - Patient name
 - Mobile number (+91)
@@ -618,7 +618,7 @@ H1: Book a consultation or contact us Intro: Fill in the form and we will contac
 
 
 ## Dr. Swati Shree, MRCOG (UK)
-URL: http://localhost:3000/dr-swati-shree/
+URL: https://www.evefertilityclinic.com/dr-swati-shree/
 
 ### Hero (split) H1: Dr. Swati Shree, MRCOG (UK) Title line: Reproductive medicine specialist and gynaecologist, founder of EVE Women and Fertility Clinic Key facts card:
 - *Qualifications: MBBS · DNB (Obstetrics and Gynaecology) · Fellowship in Reproductive Medicine, KJK Hospital, Trivandrum · MRCOG, Royal College of Obstetricians and Gynaecologists (UK)
@@ -652,7 +652,7 @@ URL: http://localhost:3000/dr-swati-shree/
 
 
 ## Editorial and medical review policy
-URL: http://localhost:3000/editorial-policy/
+URL: https://www.evefertilityclinic.com/editorial-policy/
 
 H1: Editorial and medical review policy Last updated: *In short. Every medical page is written for patients, based on named guidelines, and reviewed by Dr. Swati Shree before it is published. We show the review date and the sources. ### 1. Why this matters Fertility and women's health decisions are important. People need information they can trust, so we explain how our content is made. ### 2. Who writes and reviews - Written by: the clinic's content team, working from guidelines and Dr. Swati's clinical approach - Medically reviewed by:* Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), Karnataka Medical Council Reg. No. DLH20090000353KTK
 - Her review checks accuracy, tone, and whether the page matches how she practises ### 3. Sources we use - International and Indian clinical guidelines, such as those of ESHRE, ASRM, NICE, RCOG, WHO, FIGO, ICMR and FOGSI
@@ -667,7 +667,7 @@ H1: Editorial and medical review policy Last updated: *In short. Every medical p
 
 
 ## Questions patients often ask
-URL: http://localhost:3000/faqs/
+URL: https://www.evefertilityclinic.com/faqs/
 
 H1: Questions patients often ask Intro: Straight answers to the questions we hear most. For anything specific to you, book a consultation with Dr. Swati Shree. ### Booking and visits 1. *How do I book an appointment? Use the form on the Contact page, call 72049 21212 or 72049 21516, or message us on WhatsApp. We aim to reply within 24 hours and confirm a time that suits you.
 2. Should my partner come to the first visit? If you can, yes. Fertility involves both partners, and many tests involve the male partner. If your partner cannot come, you can still book, and he can be tested later.
@@ -696,13 +696,13 @@ H1: Questions patients often ask Intro: Straight answers to the questions we hea
 
 
 ## Medical Disclaimer
-URL: http://localhost:3000/medical-disclaimer/
+URL: https://www.evefertilityclinic.com/medical-disclaimer/
 
 H1: Medical Disclaimer Last updated: *In short.* Our pages explain general medical information. They cannot replace a consultation, and results vary from person to person. ### 1. General information only The content on this website is written for general education and is reviewed by Dr. Swati Shree. It is not individual medical advice, diagnosis or treatment. ### 2. See a doctor about your own health Every person is different. Your age, history, tests and goals decide the right plan. Please talk to a qualified doctor about your own situation before making any decision about tests, medicines or treatment. ### 3. Emergencies If you have very heavy bleeding, sudden severe pain, fainting, or any bleeding with pain in early pregnancy, call 108 or 112 or go to the nearest hospital emergency. Do not wait for a clinic appointment. ### 4. No promise of results No treatment can guarantee a pregnancy or a particular outcome. Where we describe what a treatment may do, we describe what is generally expected, not a promise for you. ### 5. Medicines and procedures We do not give doses or brand recommendations on this site. Please take medicines only as prescribed. Do not start, stop or change a medicine because of something you read here. ### 6. Evidence changes Medical knowledge and guidelines change. We review content regularly and show the last review date on each page. If you notice something outdated, please tell us. ### 7. Regulation IUI, IVF, egg freezing and related treatments are regulated by the ART (Regulation) Act, 2021. Eligibility, consent and registration rules apply. Telling or testing for the sex of an unborn baby is prohibited under the PCPNDT Act, 1994, and we never do it. ### 8. Third-party content Links and references to other sources are for information. We are not responsible for their accuracy.
 
 
 ## Patient rights and responsibilities
-URL: http://localhost:3000/patient-rights/
+URL: https://www.evefertilityclinic.com/patient-rights/
 
 H1: Patient rights and responsibilities Last updated: *In short. You have the right to be treated with respect, to understand your care, to say no, and to have your privacy protected. This page follows the Charter of Patients' Rights, and a copy is displayed at the clinic. ### Your rights 1. Respect and dignity. You will be treated with courtesy, without discrimination on grounds of religion, caste, gender, marital status, sexual orientation, disability or any other ground.
 2. Information. You have the right to clear, honest information about your diagnosis, options, risks, benefits, likely costs and alternatives, in a language you understand.
@@ -720,7 +720,7 @@ H1: Patient rights and responsibilities Last updated: *In short. You have the ri
 
 
 ## Plan your visit
-URL: http://localhost:3000/plan-your-visit/
+URL: https://www.evefertilityclinic.com/plan-your-visit/
 
 H1: Plan your visit Intro: EVE Women and Fertility Clinic is on the 1st floor of LG Complex Towers, Gunjur, Bangalore 560087. This page tells you when we are open, how to reach us, what to bring, and how to prepare. ### Timings - *OPD hours: - Phone and WhatsApp hours: - Holidays: Holiday hours may change. Please call before you visit. ### Address and directions EVE Women and Fertility Clinic
 1st Floor, LG Complex Towers
@@ -736,7 +736,7 @@ Gunjur, Bangalore 560087, Karnataka [Get directions] (opens Google Maps) · Show
 
 
 ## Privacy Policy
-URL: http://localhost:3000/privacy-policy/
+URL: https://www.evefertilityclinic.com/privacy-policy/
 
 H1: Privacy Policy Last updated: *In short. We collect only what we need to book your appointment and look after you. We do not sell your data, and we do not publish patient names, photographs or stories. You can ask to see, correct or delete your information at any time. ### 1. Who we are EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087, Karnataka, run by Dr. Swati Shree. We decide why and how your personal data is used, which makes us the "data fiduciary" under the Digital Personal Data Protection Act, 2023 (DPDP Act). Privacy contact:. ### 2. What we collect - Through the website form: your name, mobile number, age, reason for visit, preferred date and time, town, and, for patients under 18, the guardian's name.
 - At the clinic: your medical history, examination notes, scans, test results, treatment records, payment details and your partner's details where relevant to care.
@@ -758,7 +758,7 @@ H1: Privacy Policy Last updated: *In short. We collect only what we need to book
 
 
 ## Care for every stage, every question
-URL: http://localhost:3000/services/
+URL: https://www.evefertilityclinic.com/services/
 
 H1: Care for every stage, every question Intro: EVE Women and Fertility Clinic in Gunjur, Bangalore offers fertility tests, pregnancy care, preventive gynaecology and everyday women's health care with Dr. Swati Shree. Each service below has its own page that explains what it is, who needs it and what happens at the visit. ### Fertility - *Fertility evaluation · A complete first assessment for both partners → /services/fertility-evaluation/
 - Natural conception support · Cycle mapping, ovulation timing and lifestyle advice → /services/natural-conception-support/
@@ -779,7 +779,7 @@ H1: Care for every stage, every question Intro: EVE Women and Fertility Clinic i
 
 
 ## Adolescent Gynaecologist in Bangalore
-URL: http://localhost:3000/services/adolescent-gynaecology/
+URL: https://www.evefertilityclinic.com/services/adolescent-gynaecology/
 
 ### Intro Adolescent gynaecology is care for girls and young women, from about 10 to 19 years, who have questions or problems with periods, pain, hormones, body changes or health. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree offers a gentle, private, unhurried first visit, so that a young person gets honest answers and a parent gets reassurance. ### At a glance - *Who: girls from about 10 to 19 years, usually with a parent or guardian
 - Common reasons: irregular, heavy, painful or missing periods, PCOS signs, acne and hair growth, vaginal discharge, vaccination advice
@@ -811,7 +811,7 @@ URL: http://localhost:3000/services/adolescent-gynaecology/
 
 
 ## Pap Smear and HPV Vaccine in Bangalore
-URL: http://localhost:3000/services/cervical-cancer-screening-hpv-vaccination/
+URL: https://www.evefertilityclinic.com/services/cervical-cancer-screening-hpv-vaccination/
 
 ### Intro Cervical cancer is largely preventable, through screening tests that find early changes and a vaccine that prevents the infection behind most cases. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree offers Pap smear and HPV testing, explains your results, and advises on HPV vaccination for girls and women. ### At a glance - *The cause: persistent infection with high-risk human papillomavirus (HPV), mainly types 16 and 18
 - Screening tests: Pap smear (cells from the cervix), HPV DNA test, or both
@@ -838,7 +838,7 @@ URL: http://localhost:3000/services/cervical-cancer-screening-hpv-vaccination/
 
 
 ## Contraceptive Counselling in Bangalore
-URL: http://localhost:3000/services/contraceptive-counselling/
+URL: https://www.evefertilityclinic.com/services/contraceptive-counselling/
 
 ### Intro Contraceptive counselling is a private conversation to help you choose a method of birth control that suits your body, your health, and your plans. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree explains every option without pressure and without judgment, whether you want protection for a few months, for years, or want to plan the right time for pregnancy. ### At a glance - *Who it is for: any adult who wants to prevent or delay pregnancy, after childbirth, or when changing methods
 - Methods covered: condoms, combined and progestin-only pills, copper and hormonal IUDs, injections, implants where available, emergency contraception, sterilisation, fertility awareness
@@ -869,7 +869,7 @@ URL: http://localhost:3000/services/contraceptive-counselling/
 
 
 ## Early Pregnancy Scan in Bangalore
-URL: http://localhost:3000/services/early-pregnancy-scan/
+URL: https://www.evefertilityclinic.com/services/early-pregnancy-scan/
 
 ### Intro An early pregnancy scan is a transvaginal ultrasound, usually done between 5 and 10 weeks, that confirms the pregnancy is inside the uterus, checks for a heartbeat, and estimates the due date. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree offers early scans for women after a positive test, after fertility treatment, after a previous miscarriage, or when there is bleeding or pain. ### At a glance - *When: usually from about 6 weeks, counted from the first day of your last period; earlier if there is pain, bleeding or a past ectopic pregnancy
 - Method: transvaginal ultrasound, because it shows more detail early on
@@ -902,7 +902,7 @@ URL: http://localhost:3000/services/early-pregnancy-scan/
 
 
 ## Endometrial Biopsy in Bangalore
-URL: http://localhost:3000/services/endometrial-biopsy/
+URL: https://www.evefertilityclinic.com/services/endometrial-biopsy/
 
 ### Intro An endometrial biopsy takes a tiny sample of the uterine lining (the endometrium) to look at it under a microscope. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree advises it when abnormal bleeding, a thickened lining on scan, or a suspected infection needs a firm answer, and she explains each step beforehand. ### At a glance - *What it checks: thickening (hyperplasia), cancer, infection (chronic endometritis), or hormonal effects on the lining
 - Method: a thin, flexible tube is passed through the cervix and a small sample is gently suctioned
@@ -933,7 +933,7 @@ URL: http://localhost:3000/services/endometrial-biopsy/
 
 
 ## Fertility Evaluation in Bangalore
-URL: http://localhost:3000/services/fertility-evaluation/
+URL: https://www.evefertilityclinic.com/services/fertility-evaluation/
 
 ### Intro A fertility evaluation is a planned set of conversations, scans and tests that looks for the reason conception is taking time. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree evaluates both partners together, so that any treatment starts from a clear diagnosis and not from a guess. ### At a glance - *Who needs it: couples who have not conceived after 12 months of trying, or 6 months if the woman is 35 or older, or sooner with irregular periods or known problems
 - What it covers: history, examination, ovulation, ovarian reserve, tubes, uterus and the male partner's semen
@@ -968,7 +968,7 @@ URL: http://localhost:3000/services/fertility-evaluation/
 
 
 ## Follicular Monitoring in Bangalore
-URL: http://localhost:3000/services/follicular-monitoring/
+URL: https://www.evefertilityclinic.com/services/follicular-monitoring/
 
 ### Intro Follicular monitoring uses a series of short ultrasound scans in one cycle to watch the egg-containing follicles grow and to see when ovulation is close. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree uses it to time natural attempts and IUI, and to see whether you ovulate at all. ### At a glance - *What it is: repeated transvaginal ultrasounds across one cycle
 - What it measures: follicle size, the number of growing follicles, the thickness and pattern of the uterine lining, and signs that ovulation has occurred
@@ -995,7 +995,7 @@ URL: http://localhost:3000/services/follicular-monitoring/
 
 
 ## Male Fertility Test in Bangalore
-URL: http://localhost:3000/services/male-fertility-evaluation/
+URL: https://www.evefertilityclinic.com/services/male-fertility-evaluation/
 
 ### Intro Male factor infertility means that a man's sperm count, movement or shape is a main or contributing reason a couple has not conceived. It is found in about half of couples with infertility. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree arranges a semen analysis and a careful counselling visit for the male partner as an early step, since the test is simple and the answer can change the whole plan. ### At a glance - *How common: a male factor contributes to about half of couples' infertility
 - First test: semen analysis, after 2 to 7 days of abstinence
@@ -1033,7 +1033,7 @@ URL: http://localhost:3000/services/male-fertility-evaluation/
 
 
 ## Natural Conception Support in Bangalore
-URL: http://localhost:3000/services/natural-conception-support/
+URL: https://www.evefertilityclinic.com/services/natural-conception-support/
 
 ### Intro Natural conception support helps you get pregnant without IUI or IVF, by finding your fertile window, treating anything that interferes, and improving the health of both partners. At EVE Women and Fertility Clinic in Bangalore, Dr. Swati Shree starts with the simplest approach that can work, because many couples conceive with timing and small changes. ### At a glance - *Who it suits: couples trying for under a year, couples with irregular cycles, and anyone planning a pregnancy
 - What it includes: cycle mapping, ovulation tracking, preconception advice, treatment of minor problems
@@ -1063,7 +1063,7 @@ URL: http://localhost:3000/services/natural-conception-support/
 
 
 ## Reproductive Immunology in Bangalore
-URL: http://localhost:3000/services/reproductive-immunology/
+URL: https://www.evefertilityclinic.com/services/reproductive-immunology/
 
 ### Intro Reproductive immunology looks at whether the immune system, or a clotting or autoimmune problem, is contributing to repeated miscarriage or to failed implantation. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree uses guideline-supported tests, explains where the evidence is strong and where it is weak, and does not recommend treatments that have not been shown to work. ### At a glance - *Who it may help: women with recurrent pregnancy loss (two or more), or repeated failed embryo transfers
 - Strongest-evidence test: antiphospholipid antibodies, which cause antiphospholipid syndrome (APS)
@@ -1089,7 +1089,7 @@ URL: http://localhost:3000/services/reproductive-immunology/
 
 
 ## HSG Test in Bangalore
-URL: http://localhost:3000/services/tubal-patency-test-hsg/
+URL: https://www.evefertilityclinic.com/services/tubal-patency-test-hsg/
 
 ### Intro A tubal patency test checks whether your fallopian tubes are open, so that an egg and sperm can meet. The most common one is hysterosalpingography (HSG), a quick X-ray after a dye is passed through the womb. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree plans an HSG as part of a fertility evaluation, and explains the result and what it means for your treatment. ### At a glance - *What it shows: whether the tubes are open, the shape of the uterine cavity, and some tubal abnormalities
 - How: a thin tube is passed through the cervix, contrast dye is introduced, and X-ray images are taken
@@ -1120,13 +1120,13 @@ URL: http://localhost:3000/services/tubal-patency-test-hsg/
 
 
 ## Terms of Use
-URL: http://localhost:3000/terms-of-use/
+URL: https://www.evefertilityclinic.com/terms-of-use/
 
 H1: Terms of Use Last updated: *In short.* This website gives general information and lets you request appointments. It does not give medical advice, and it is not for emergencies. Please read the terms below. ### 1. Acceptance By using this website, you agree to these terms. If you do not agree, please do not use it. ### 2. What the website is for The website provides information about EVE Women and Fertility Clinic, Dr. Swati Shree and the care we offer, and lets you ask for an appointment. It is not a substitute for a consultation. ### 3. Not medical advice, not for emergencies Information on this site is general and educational. It cannot diagnose or treat you. Please do not delay or avoid seeking care because of something you read here. In an emergency, call 108 or 112 or go to the nearest hospital. ### 4. Appointment requests Submitting the form is a request, not a confirmed appointment. An appointment is confirmed only when we confirm it by phone, WhatsApp or message. See Appointments, Cancellation and Refund. ### 5. Your information You agree to give accurate details. Do not send emergency messages or detailed medical records through the form. Our Privacy Policy explains how we use your data. ### 6. Content and copyright All text, images, logos and design on this site belong to EVE Women and Fertility Clinic or its licensors. You may view and print pages for personal use. You may not copy, republish or sell content without written permission. You may link to our pages. ### 7. Treatment and regulation Fertility treatments such as IUI and IVF are regulated by the ART (Regulation) Act, 2021. Eligibility, consent and counselling rules apply. Nothing on this website promises a particular result. ### 8. Third-party links and services Links to other sites, maps, social media or video are for convenience. We do not control them and are not responsible for their content or privacy practices. ### 9. Limits of liability We take care to keep the information accurate and current, but we do not promise that it is complete or error-free. To the extent the law allows, we are not liable for loss arising from your use of the website. Nothing here limits liability that cannot be limited by law, including for medical negligence. ### 10. Changes We may update the website and these terms. Continued use means you accept the changes. ### 11. Governing law These terms are governed by the laws of India. Courts at Bangalore have jurisdiction, subject to the law. ### 12. Contact · 72049 21212 · 72049 21516
 
 
 ## Fertility treatments, explained before you decide
-URL: http://localhost:3000/treatments/
+URL: https://www.evefertilityclinic.com/treatments/
 
 H1: Fertility treatments, explained before you decide Intro: When natural conception or a simple evaluation is not enough, EVE offers fertility treatments with the same honesty that defines the clinic. Dr. Swati Shree explains what each treatment does, what it cannot do, and why it is, or is not, the right step for you. IUI, IVF and egg freezing are regulated in India by the Assisted Reproductive Technology (Regulation) Act, 2021. ### Treatments - *IUI (intrauterine insemination) · Prepared sperm placed in the uterus around ovulation → /treatments/iui/
 - IVF (in vitro fertilisation) · Eggs and sperm combined in a laboratory, with embryo transfer to the uterus → /treatments/ivf/
@@ -1146,7 +1146,7 @@ H1: Fertility treatments, explained before you decide Intro: When natural concep
 
 
 ## Egg Freezing in Bangalore
-URL: http://localhost:3000/treatments/egg-freezing/
+URL: https://www.evefertilityclinic.com/treatments/egg-freezing/
 
 ### Intro Egg freezing, or oocyte cryopreservation, means collecting and freezing a woman's eggs so that she may try for a pregnancy with them later. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree helps women understand whether egg freezing makes sense for them, what it can and cannot do, and how it is done, so the decision is made with open eyes and not under pressure. ### At a glance - *What it is: hormone stimulation, egg collection and freezing by vitrification, a fast-freezing method
 - Why women do it: to protect fertility before medical treatment, to postpone pregnancy, when no partner is present yet, or because of a family history of early menopause
@@ -1180,7 +1180,7 @@ URL: http://localhost:3000/treatments/egg-freezing/
 
 
 ## IUI Treatment in Bangalore
-URL: http://localhost:3000/treatments/iui/
+URL: https://www.evefertilityclinic.com/treatments/iui/
 
 ### Intro Intrauterine insemination (IUI) is a fertility treatment where washed, concentrated sperm are placed directly into the uterus around the time of ovulation, to raise the chance that sperm meet the egg. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree offers IUI to couples for whom it is a reasonable step, after a proper evaluation, and explains honestly when it is likely to help and when IVF is the better choice. ### At a glance - *What it is: prepared sperm placed in the uterus through a thin catheter, in a short, clinic-based procedure
 - Who it may suit: unexplained infertility, mild male factor, ovulation problems, cervical mucus factor, some cases of mild endometriosis
@@ -1223,7 +1223,7 @@ URL: http://localhost:3000/treatments/iui/
 
 
 ## IVF Treatment in Bangalore
-URL: http://localhost:3000/treatments/ivf/
+URL: https://www.evefertilityclinic.com/treatments/ivf/
 
 ### Intro In vitro fertilisation (IVF) is a fertility treatment where eggs are collected from the ovaries, combined with sperm in a laboratory, and one or more embryos are transferred into the uterus. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree, MRCOG (UK), plans your IVF with you, guides each step, and explains what to expect. The laboratory procedures are carried out at associated, registered ART centres. ### At a glance - *What it is: egg collection, fertilisation in a laboratory, embryo culture and embryo transfer
 - Who may need it: blocked or absent tubes, severe male factor, endometriosis, low ovarian reserve with limited time, unexplained infertility after other treatments, or genetic reasons
@@ -1271,7 +1271,7 @@ URL: http://localhost:3000/treatments/ivf/
 
 
 ## TESA PESA in Bangalore
-URL: http://localhost:3000/treatments/tesa-pesa/
+URL: https://www.evefertilityclinic.com/treatments/tesa-pesa/
 
 ### Intro TESA (testicular sperm aspiration) and PESA (percutaneous epididymal sperm aspiration) are procedures that collect sperm directly from the testicle or the epididymis, using a fine needle, for men whose semen contains no sperm. The sperm found are used in IVF with ICSI. At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree helps couples understand whether sperm retrieval is the right path, and plans the treatment with them. ### At a glance - *Who needs it: men with azoospermia, meaning no sperm in the semen
 - Obstructive azoospermia: sperm are made, but a blockage stops them reaching the semen. Sperm retrieval often finds sperm.
@@ -1309,7 +1309,7 @@ URL: http://localhost:3000/treatments/tesa-pesa/
 
 
 ## Your fertility journey, step by step
-URL: http://localhost:3000/your-fertility-journey/
+URL: https://www.evefertilityclinic.com/your-fertility-journey/
 
 H1: Your fertility journey, step by step Intro (answer-first): A fertility journey at EVE Women and Fertility Clinic in Bangalore usually moves through four stages: understanding why conception is taking time, trying the simplest options that can work, moving to IUI or IVF if needed, and following up with care and clarity. No two paths are the same, and you can stop or pause at any point. This page explains the stages, so that you know what to expect and what to ask. ### At a glance - *When to start: after 12 months of trying, or 6 months if the woman is 35 or older, or sooner with a known problem
 - Stage 1: a full evaluation of both partners
