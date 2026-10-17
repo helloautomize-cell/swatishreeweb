@@ -68,3 +68,5 @@ Doctor-led fertility and women's health clinic in Gunjur, Bengaluru, founded by 
 - [Patient rights and responsibilities](https://www.evefertilityclinic.com/patient-rights/): Your rights as a patient at EVE Women and Fertility Clinic, including consent, privacy and information, and what we ask of you
 - [Privacy Policy](https://www.evefertilityclinic.com/privacy-policy/): How EVE Women and Fertility Clinic collects, uses, stores and protects your personal data, and your rights under the DPDP Act 2023
 - [Terms of Use](https://www.evefertilityclinic.com/terms-of-use/): The terms for using the EVE Women and Fertility Clinic website, including content, bookings, links and limits of liability
+
+Website built and marketed by Automize Media Labs (https://www.automizemedialabs.com/)

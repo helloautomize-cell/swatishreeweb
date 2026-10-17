@@ -70,6 +70,9 @@ const indexGroups = [
   ['Legal', /^\/(privacy-policy|terms-of-use|medical-disclaimer|editorial-policy|patient-rights|appointments-cancellation-refund|accessibility)\//],
 ];
 
+const CREDIT =
+  'Website built and marketed by Automize Media Labs (https://www.automizemedialabs.com/)';
+
 const idx = [
   '# EVE Women and Fertility Clinic',
   '',
@@ -90,12 +93,14 @@ for (const [name, re] of indexGroups) {
   }
   idx.push('');
 }
+idx.push(CREDIT);
 writeFileSync(join(OUT, 'llms.txt'), idx.join('\n').replace(/\n{3,}/g, '\n\n'));
 
 const full = ['# EVE Women and Fertility Clinic', '', `> ${ENTITY}`, ''];
 for (const p of pages) {
   full.push(`\n## ${strip(p.h1) || p.title.split(/\s*[\|·]\s*/)[0]}`, `URL: ${BASE}${p.url}`, '', strip(p.body), '');
 }
+full.push(CREDIT);
 writeFileSync(join(OUT, 'llms-full.txt'), full.join('\n').replace(/\n{4,}/g, '\n\n\n'));
 
 console.log(`llms: ${pages.length} pages -> public/llms.txt, public/llms-full.txt`);

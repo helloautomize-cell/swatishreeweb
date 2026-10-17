@@ -2,6 +2,7 @@
   "name": "eve-women-fertility-clinic",
   "version": "0.1.0",
   "private": true,
+  "author": "Automize Media Labs (https://www.automizemedialabs.com/)",
   "browserslist": [
     "Chrome >= 111",
     "Safari >= 16.4",

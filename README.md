@@ -43,3 +43,5 @@ The Why EVE icon tiles and first-visit illustrations use the final reference's i
 The original documents, legacy photography, brand logos and badge assets are retained. `eve-legacy-phase0-20261006.tar` is a local, Git-ignored snapshot of the previous application and resources. It is not public site content. The resource-preparation command requires that snapshot and refuses to overwrite different canonical document copies or existing image files. It only replaces the archived legacy manifest with the ZIP manifest.
 
 Values not yet confirmed by the client remain `[CONFIRM]` items and must not appear in production output. No phase is complete until its checks have been verified and reported. Work stops at each approval gate. Do not create branches, commit, push, deploy or enable indexing without the user's specific instruction.
+
+Built and marketed by Automize Media Labs - https://www.automizemedialabs.com/

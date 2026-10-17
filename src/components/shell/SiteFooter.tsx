@@ -112,6 +112,13 @@ export default function SiteFooter() {
           {addr.city} {addr.postalCode}. The information here is for general education and is not a substitute
           for a consultation. Registration: {kmcRegLine}
         </p>
+
+        <p className="fcredit">
+          Built &amp; Marketed by{" "}
+          <a href="https://www.automizemedialabs.com/" target="_blank" rel="noopener nofollow">
+            Automize Media Labs
+          </a>
+        </p>
       </div>
     </footer>
   );

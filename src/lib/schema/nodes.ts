@@ -269,6 +269,11 @@ export function websiteNode(): Json {
     name: site.name,
     inLanguage: "en-IN",
     publisher: { "@id": IDS.clinic },
+    creator: {
+      "@type": "Organization",
+      name: "Automize Media Labs",
+      url: "https://www.automizemedialabs.com/",
+    },
   };
 }
 
