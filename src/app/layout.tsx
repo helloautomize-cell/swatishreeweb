@@ -35,8 +35,6 @@ export const metadata: Metadata = {
     images: [{ url: "/og/default.png", width: 1200, height: 630, alt: site.name }],
   },
   twitter: { card: "summary_large_image" },
-  authors: [{ name: "Automize Media Labs", url: "https://www.automizemedialabs.com/" }],
-  creator: "Automize Media Labs",
   robots: process.env.SITE_INDEXABLE === "1" ? undefined : { index: false, follow: false },
 };
 
