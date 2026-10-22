@@ -16,7 +16,7 @@ export default function BlogIndexPage({ doc }: { doc: PageDoc }) {
   const posts = childrenOf("/blog/")
     .map((p) => ({
       url: p.url,
-      name: p.name,
+      name: p.h1.replace(/\*/g, ""),
       category: p.meta.category ?? null,
       badge: p.meta.badge ?? null,
       readingTime: p.meta.readingTime ?? null,

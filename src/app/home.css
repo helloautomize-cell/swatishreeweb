@@ -458,9 +458,6 @@
 .hm-post-meta {
   font-size: 0.85rem;
   color: var(--ink-2);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .hm-more {

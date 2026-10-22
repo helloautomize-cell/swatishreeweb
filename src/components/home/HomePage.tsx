@@ -268,7 +268,7 @@ function BlogStrip({ d }: { d: ReturnType<typeof homeData> }) {
               )}
             </span>
             {p.meta.category && <span className="hm-post-cat">{p.meta.category}</span>}
-            <span className="hm-post-t">{p.name}</span>
+            <span className="hm-post-t">{p.h1.replace(/\*/g, "")}</span>
             <span className="hm-post-meta">
               Written by {site.doctor} · <WithConfirms text={p.meta.datePublished ?? ""} />
               {p.meta.readingTime ? ` · ${p.meta.readingTime} min read` : ""}
