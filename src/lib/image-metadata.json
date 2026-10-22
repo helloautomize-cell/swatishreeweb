@@ -1,40 +1,460 @@
 {
-  "D1": { "alt": "Dr. Swati Shree in a white coat standing in the clinic corridor.", "approved": false, "objectPosition": "50% 22%" },
-  "D2": { "alt": "Dr. Swati Shree in a cream saree against a sage panel.", "approved": false, "objectPosition": "50% 22%" },
-  "D3": { "alt": "Dr. Swati Shree in a cream saree against a sage panel.", "approved": false, "objectPosition": "50% 22%" },
-  "D4": { "alt": "Portrait of Dr. Swati Shree in a white coat.", "approved": false, "objectPosition": "50% 28%" },
-  "D5": { "alt": "Dr. Swati Shree in graduation robes receiving a certificate at a ceremony.", "approved": false },
-  "D6": { "alt": "People standing together with an award at a Garden City University event.", "approved": false },
-  "D7": { "alt": "Dr. Swati Shree consulting a couple in the clinic's warm consultation room.", "approved": false },
-  "D8": { "alt": "Dr. Swati Shree standing with arms crossed in the clinic.", "approved": false },
-  "C1": { "alt": "Clinic reception desk and green waiting-room seating beneath the EVE wall sign.", "approved": false },
-  "C2": { "alt": "The EVE reception area with the clinic wall sign and Dr. Swati Shree standing beside it.", "approved": false, "objectPosition": "50% 100%" },
-  "C3": { "alt": "The clinic entrance decorated with flower garlands, with seating visible through the glass.", "approved": false, "objectPosition": "50% 35%" },
-  "C4": { "alt": "Illustration of a consultation room with a desk, chairs and wall artwork.", "approved": false },
-  "C5": { "alt": "Illustration of an examination room with an ultrasound machine and examination couch.", "approved": false },
-  "H1": { "alt": "A notebook, pen and small plant arranged on a consultation desk.", "approved": false },
-  "H2": { "alt": "Laboratory test tubes and equipment on a workbench.", "approved": false },
-  "H3": { "alt": "Two adults speaking with a doctor across a desk.", "approved": false },
-  "H4": { "alt": "White daisies and other flowers in a sunlit garden.", "approved": false },
-  "S1": { "alt": "Two adults speaking with a doctor in a consultation room.", "approved": false },
-  "S2": { "alt": "Illustration of the uterus, fallopian tubes and ovaries.", "approved": false },
-  "S3": { "alt": "Illustration of an ovary with follicles at different sizes.", "approved": false },
-  "S4": { "alt": "Illustration of the uterus and fallopian tubes with a magnified anatomical inset.", "approved": false },
-  "S5": { "alt": "A laboratory microscope and sample slides on a workbench.", "approved": false },
-  "S6": { "alt": "Contraceptive devices arranged on a clinical tray.", "approved": false },
-  "S7": { "alt": "An ultrasound probe and controls beside an examination couch.", "approved": false },
-  "S8": { "alt": "Illustration of cells and blood vessels in a tissue cross-section.", "approved": false },
-  "S9": { "alt": "Illustration of a cervix with adjacent anatomical cross-sections.", "approved": false },
-  "S10": { "alt": "A gloved hand holding a sampling instrument above a clinical tray.", "approved": false },
-  "S11": { "alt": "Illustration of a young person speaking with a doctor in a consultation room.", "approved": false },
-  "T1": { "alt": "A microscope and sample slides on a laboratory workbench.", "approved": false },
-  "T2": { "alt": "A laboratory worker using a pipette at a workbench.", "approved": false },
-  "T4": { "alt": "Illustration of male reproductive anatomy with magnified anatomical details.", "approved": false },
-  "K1": { "alt": "Illustration of the uterus and ovaries with a magnified view of ovarian follicles.", "approved": false },
-  "K2": { "alt": "Illustration of the uterus and surrounding tissue.", "approved": false },
-  "K3": { "alt": "Illustration of the uterus on a soft peach background.", "approved": false },
-  "K4": { "alt": "A woman seated at a table holding a small flower.", "approved": false },
-  "K5": { "alt": "Illustration of the uterus, ovaries and anatomical details surrounded by leaves.", "approved": false },
-  "B1": { "alt": "Two adults speaking with a doctor across a desk.", "approved": false },
-  "B2": { "alt": "A woman reading a paper at a table with a drawn thought bubble above her.", "approved": false }
+  "D1": {
+    "alt": "Dr. Swati Shree in a white coat standing in the clinic corridor.",
+    "approved": false,
+    "objectPosition": "50% 22%"
+  },
+  "D2": {
+    "alt": "Dr. Swati Shree in a cream saree against a sage panel.",
+    "approved": false,
+    "objectPosition": "50% 22%"
+  },
+  "D3": {
+    "alt": "Dr. Swati Shree in a cream saree against a sage panel.",
+    "approved": false,
+    "objectPosition": "50% 22%"
+  },
+  "D4": {
+    "alt": "Portrait of Dr. Swati Shree in a white coat.",
+    "approved": false,
+    "objectPosition": "50% 28%"
+  },
+  "D5": {
+    "alt": "Dr. Swati Shree in graduation robes receiving a certificate at a ceremony.",
+    "approved": false
+  },
+  "D6": {
+    "alt": "People standing together with an award at a Garden City University event.",
+    "approved": false
+  },
+  "D7": {
+    "alt": "Dr. Swati Shree consulting a couple in the clinic's warm consultation room.",
+    "approved": false
+  },
+  "D8": {
+    "alt": "Dr. Swati Shree standing with arms crossed in the clinic.",
+    "approved": false
+  },
+  "C1": {
+    "alt": "Clinic reception desk and green waiting-room seating beneath the EVE wall sign.",
+    "approved": false
+  },
+  "C2": {
+    "alt": "The EVE reception area with the clinic wall sign and Dr. Swati Shree standing beside it.",
+    "approved": false,
+    "objectPosition": "50% 100%"
+  },
+  "C3": {
+    "alt": "The clinic entrance decorated with flower garlands, with seating visible through the glass.",
+    "approved": false,
+    "objectPosition": "50% 35%"
+  },
+  "C4": {
+    "alt": "Illustration of a consultation room with a desk, chairs and wall artwork.",
+    "approved": false
+  },
+  "C5": {
+    "alt": "Illustration of an examination room with an ultrasound machine and examination couch.",
+    "approved": false
+  },
+  "H1": {
+    "alt": "A notebook, pen and small plant arranged on a consultation desk.",
+    "approved": false
+  },
+  "H2": {
+    "alt": "Laboratory test tubes and equipment on a workbench.",
+    "approved": false
+  },
+  "H3": {
+    "alt": "Two adults speaking with a doctor across a desk.",
+    "approved": false
+  },
+  "H4": {
+    "alt": "White daisies and other flowers in a sunlit garden.",
+    "approved": false
+  },
+  "S1": {
+    "alt": "Two adults speaking with a doctor in a consultation room.",
+    "approved": false
+  },
+  "S2": {
+    "alt": "Illustration of the uterus, fallopian tubes and ovaries.",
+    "approved": false
+  },
+  "S3": {
+    "alt": "Illustration of an ovary with follicles at different sizes.",
+    "approved": false
+  },
+  "S4": {
+    "alt": "Illustration of the uterus and fallopian tubes with a magnified anatomical inset.",
+    "approved": false
+  },
+  "S5": {
+    "alt": "A laboratory microscope and sample slides on a workbench.",
+    "approved": false
+  },
+  "S6": {
+    "alt": "Contraceptive devices arranged on a clinical tray.",
+    "approved": false
+  },
+  "S7": {
+    "alt": "An ultrasound probe and controls beside an examination couch.",
+    "approved": false
+  },
+  "S8": {
+    "alt": "Illustration of cells and blood vessels in a tissue cross-section.",
+    "approved": false
+  },
+  "S9": {
+    "alt": "Illustration of a cervix with adjacent anatomical cross-sections.",
+    "approved": false
+  },
+  "S10": {
+    "alt": "A gloved hand holding a sampling instrument above a clinical tray.",
+    "approved": false
+  },
+  "S11": {
+    "alt": "Illustration of a young person speaking with a doctor in a consultation room.",
+    "approved": false
+  },
+  "T1": {
+    "alt": "A microscope and sample slides on a laboratory workbench.",
+    "approved": false
+  },
+  "T2": {
+    "alt": "A laboratory worker using a pipette at a workbench.",
+    "approved": false
+  },
+  "T4": {
+    "alt": "Illustration of male reproductive anatomy with magnified anatomical details.",
+    "approved": false
+  },
+  "K1": {
+    "alt": "Illustration of the uterus and ovaries with a magnified view of ovarian follicles.",
+    "approved": false
+  },
+  "K2": {
+    "alt": "Illustration of the uterus and surrounding tissue.",
+    "approved": false
+  },
+  "K3": {
+    "alt": "Illustration of the uterus on a soft peach background.",
+    "approved": false
+  },
+  "K4": {
+    "alt": "A woman seated at a table holding a small flower.",
+    "approved": false
+  },
+  "K5": {
+    "alt": "Illustration of the uterus, ovaries and anatomical details surrounded by leaves.",
+    "approved": false
+  },
+  "B1": {
+    "alt": "Two adults speaking with a doctor across a desk.",
+    "approved": false
+  },
+  "B2": {
+    "alt": "A woman reading a paper at a table with a drawn thought bubble above her.",
+    "approved": false
+  },
+  "B3": {
+    "alt": "Illustration for guide on ivf treatment guide: eligibility, process and pregnancy",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B4": {
+    "alt": "Illustration for guide on when is ivf recommended? key situations explained",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B5": {
+    "alt": "Illustration for guide on ivf process step by step: consultation to embryo transfer",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B6": {
+    "alt": "Illustration for guide on how long does ivf take? the real timeline",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B7": {
+    "alt": "Illustration for guide on ivf success factors: age, egg quality, sperm & embryos",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B8": {
+    "alt": "Illustration for guide on what happens after embryo transfer? symptoms and tests",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B9": {
+    "alt": "Illustration for guide on pcos and fertility: ovulation, natural pregnancy, iui & ivf",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B10": {
+    "alt": "Illustration for guide on pcos and pregnancy: can you conceive naturally?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B11": {
+    "alt": "Illustration for guide on pcos and ovulation: why irregular periods affect pregnancy",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B12": {
+    "alt": "Illustration for guide on letrozole for pcos and how it can help you conceive",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B13": {
+    "alt": "Illustration for guide on pcos and ivf: when is ivf needed and when is it not?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B14": {
+    "alt": "Illustration for guide on pcos after 30: age, metabolic health and fertility planning",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B15": {
+    "alt": "Illustration for guide on female infertility: causes, signs, tests and treatment",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B16": {
+    "alt": "Illustration for guide on blocked fallopian tubes symptoms, hsg and treatment",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B17": {
+    "alt": "Illustration for guide on female infertility tests: amh, ultrasound, hormones, hsg",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B18": {
+    "alt": "Illustration for guide on fibroids and fertility can you get pregnant",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B19": {
+    "alt": "Illustration for guide on unexplained infertility: when fertility tests are normal",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B20": {
+    "alt": "Illustration for guide on how long to try before seeing a fertility specialist",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B21": {
+    "alt": "Illustration for guide on low amh & ovarian reserve: what it means for fertility",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B22": {
+    "alt": "Illustration for guide on ovarian hyperstimulation syndrome warning signs",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B23": {
+    "alt": "Illustration for guide on can you get pregnant naturally with low amh?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B24": {
+    "alt": "Illustration for guide on low amh and ivf: what it means for treatment",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B25": {
+    "alt": "Illustration for guide on amh vs egg quality: what is the difference?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B26": {
+    "alt": "Illustration for guide on low amh at 30, 35 or 40: what changes with age",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B27": {
+    "alt": "Illustration for guide on endometriosis and fertility: symptoms, diagnosis and ivf",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B28": {
+    "alt": "Illustration for guide on can endometriosis cause infertility?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B29": {
+    "alt": "Illustration for guide on endometriosis symptoms women should not ignore",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B30": {
+    "alt": "Illustration for guide on adenomyosis and fertility symptoms and treatment",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B31": {
+    "alt": "Illustration for guide on pregnancy with endometriosis without ivf: is it possible?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B32": {
+    "alt": "Illustration for guide on endometriosis and ivf: when is ivf considered?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B33": {
+    "alt": "Illustration for guide on iui treatment: complete guide to intrauterine insemination",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B34": {
+    "alt": "Illustration for guide on ovulation tracking how to know your fertile window",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B35": {
+    "alt": "Illustration for guide on iui vs ivf: which fertility treatment is considered when?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B36": {
+    "alt": "Illustration for guide on how many iui cycles should you try before ivf?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B37": {
+    "alt": "Illustration for guide on what to do after iui: precautions, symptoms and pregnancy test timing",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B38": {
+    "alt": "Illustration for guide on iui success factors: age, ovulation and sperm quality",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B39": {
+    "alt": "Illustration for guide on male infertility: causes, semen analysis, ivf and icsi",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B40": {
+    "alt": "Illustration for guide on male infertility: causes, symptoms and when to seek help",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B41": {
+    "alt": "Illustration for guide on semen analysis explained: count, motility and morphology",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B42": {
+    "alt": "Illustration for guide on low sperm count: natural and medical treatment options",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B43": {
+    "alt": "Illustration for guide on icsi for male infertility: when is it recommended?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B44": {
+    "alt": "Illustration for guide on why both partners need fertility evaluation",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B45": {
+    "alt": "Illustration for guide on pregnancy after ivf: what happens after embryo transfer",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B46": {
+    "alt": "Illustration for guide on positive pregnancy test after ivf: what happens next?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B47": {
+    "alt": "Illustration for guide on embryo implantation after ivf: timeline and signs",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B48": {
+    "alt": "Illustration for guide on blastocyst transfer and embryo grading explained",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B49": {
+    "alt": "Illustration for guide on frozen embryo transfer process and preparation",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B50": {
+    "alt": "Illustration for guide on early pregnancy after ivf: when to call your doctor",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B51": {
+    "alt": "Illustration for guide on recurrent miscarriage: causes, tests & treatment",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B52": {
+    "alt": "Illustration for guide on when is miscarriage called recurrent pregnancy loss?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B53": {
+    "alt": "Illustration for guide on hysteroscopy for infertility when is it needed",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B54": {
+    "alt": "Illustration for guide on tests after recurrent miscarriage: what is checked",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B55": {
+    "alt": "Illustration for guide on thyroid problems and fertility",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B56": {
+    "alt": "Illustration for guide on genetic testing in ivf pgt-a is it worth it",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B57": {
+    "alt": "Illustration for guide on fertility after 35: egg quality, age and your options",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B58": {
+    "alt": "Illustration for guide on fertility after 35: what changes and when to seek help",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B59": {
+    "alt": "Illustration for guide on egg quality after 35: what you can and cannot change",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B60": {
+    "alt": "Illustration for guide on pregnancy after 40: fertility, risks and options",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B61": {
+    "alt": "Illustration for guide on egg freezing: who should consider it?",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  },
+  "B62": {
+    "alt": "Illustration for guide on trying to conceive after 35: when to consider ivf",
+    "approved": true,
+    "objectPosition": "50% 50%"
+  }
 }

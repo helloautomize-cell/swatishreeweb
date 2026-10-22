@@ -13,14 +13,18 @@ export default function BlogIndexPage({ doc }: { doc: PageDoc }) {
     .map((s) => s.trim())
     .filter(Boolean);
   const footer = field("Footer line");
-  const posts = childrenOf("/blog/").map((p) => ({
-    url: p.url,
-    name: p.name,
-    category: p.meta.category ?? null,
-    badge: p.meta.badge ?? null,
-    readingTime: p.meta.readingTime ?? null,
-    datePublished: p.meta.datePublished ?? null,
-  }));
+  const posts = childrenOf("/blog/")
+    .map((p) => ({
+      url: p.url,
+      name: p.name,
+      category: p.meta.category ?? null,
+      badge: p.meta.badge ?? null,
+      readingTime: p.meta.readingTime ?? null,
+      datePublished: p.meta.datePublished ?? null,
+      num: p.num,
+      pillar: p.meta.pillar === true,
+    }))
+    .sort((a, b) => a.num - b.num);
   return (
     <main id="main">
       <div className="pg pg-hub container-eve">

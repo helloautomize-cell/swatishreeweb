@@ -1147,3 +1147,66 @@
     position: static;
   }
 }
+
+/* ---------- Blog post hero + author box + grouped index ---------- */
+
+.pg-post-hero {
+  margin: 8px 0 20px;
+  max-width: 720px;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+}
+
+.pg-author {
+  margin-top: 36px;
+  padding: 20px 24px;
+  max-width: 760px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--primary) 5%, transparent);
+}
+
+.pg-author-row {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
+.pg-author-photo {
+  width: 96px;
+  flex: none;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.pg-author-name {
+  font-size: 1.05rem;
+  margin: 0 0 4px;
+}
+
+.pg-author-role,
+.pg-author-quals {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ink-2);
+}
+
+.pg-author .btns {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 14px 0 4px;
+}
+
+.pg-author-note {
+  font-size: 0.85rem;
+  color: var(--ink-2);
+  margin: 10px 0 0;
+}
+
+.blog-group {
+  grid-column: 1 / -1;
+  margin: 26px 0 6px;
+  font-size: 1.2rem;
+}

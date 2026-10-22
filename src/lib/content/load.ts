@@ -129,7 +129,7 @@ function extractFaqs(markdown: string): FaqItem[] {
 
 function sectionKind(heading: string): Section["kind"] {
   if (/^(quick answers|faqs?|common questions)/i.test(heading)) return "faqs";
-  if (/^sources?$/i.test(heading)) return "sources";
+  if (/^sources?(\s|$)/i.test(heading)) return "sources";
   if (/^at a glance$/i.test(heading)) return "glance";
   return "normal";
 }

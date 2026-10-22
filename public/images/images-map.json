@@ -1583,5 +1583,2705 @@
     },
     "restricted": false,
     "devOnly": false
+  },
+  "blog-ivf-treatment-eligibility-process-embryo-transfer-pregnancy.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B3",
+    "alt": "Illustration for guide on ivf treatment guide: eligibility, process and pregnancy",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B3",
+        "page": "/blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgCHHfk0AAP7wi5zUv2MqApDlLq4/9L4WDbtDxB8WatoAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-when-ivf-recommended-situations.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B4",
+    "alt": "Illustration for guide on when is ivf recommended? key situations explained",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B4",
+        "page": "/blog/when-ivf-recommended-situations/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoIAAUAA4BaJYwCdAEWzFi6dAAA/l9vHwj5mPQ3nmmkHqW8w+TIyH7DeZAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-ivf-process-step-by-step-consultation-embryo-transfer.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B5",
+    "alt": "Illustration for guide on ivf process step by step: consultation to embryo transfer",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B5",
+        "page": "/blog/ivf-process-step-by-step-consultation-embryo-transfer/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgB5vdqIAAP6zvfQPHZn5+rsVrJGd/lX4VVlAZ+JnzHwAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-how-long-does-ivf-take-timeline-pregnancy-test.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B6",
+    "alt": "Illustration for guide on how long does ivf take? the real timeline",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B6",
+        "page": "/blog/how-long-does-ivf-take-timeline-pregnancy-test/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoIAAUAA4BaJYwCdAEfaTyQAAD+a9d4ty/XBcWSuA9BA4K7st1bU4QAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-ivf-success-factors-age-egg-quality-sperm-embryos.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B7",
+    "alt": "Illustration for guide on ivf success factors: age, egg quality, sperm & embryos",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B7",
+        "page": "/blog/ivf-success-factors-age-egg-quality-sperm-embryos/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAUAA4BaJYwCdADyfvaAAP7nrXIrSa7Hd8lgyfxmysHpVVoebb7SIQPwqAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-happens-after-embryo-transfer-symptoms-precautions-pregnancy-test.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B8",
+    "alt": "Illustration for guide on what happens after embryo transfer? symptoms and tests",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B8",
+        "page": "/blog/happens-after-embryo-transfer-symptoms-precautions-pregnancy-test/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoIAAUAA4BaJQBOgB4/EIgA/vOZpaNjXEfEU2twTg9+9xksnSMNbllD/wYAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-pcos-fertility-ovulation-iui-ivf.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B9",
+    "alt": "Illustration for guide on pcos and fertility: ovulation, natural pregnancy, iui & ivf",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B9",
+        "page": "/blog/pcos-fertility-ovulation-iui-ivf/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoIAAUAA4BaJQBOgB6O1GgAAP7x6YFoMRToaiJ5BL6wAy2jvbUPRAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-pcos-pregnancy-natural-conception.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B10",
+    "alt": "Illustration for guide on pcos and pregnancy: can you conceive naturally?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B10",
+        "page": "/blog/pcos-pregnancy-natural-conception/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAUAA4BaJQBOgB5vdqIAAP7yNMvBoKC/fJv3CglmdW5b4hJC8ygLobCVgAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-pcos-ovulation-irregular-periods-pregnancy.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B11",
+    "alt": "Illustration for guide on pcos and ovulation: why irregular periods affect pregnancy",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B11",
+        "page": "/blog/pcos-ovulation-irregular-periods-pregnancy/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAUAA4BaJYwCdADze7UQAP7x/ii0EOr69BXvbssMCn66LyJdDy9QfD4LQAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-letrozole-pcos-ovulation-induction.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B12",
+    "alt": "Illustration for guide on letrozole for pcos and how it can help you conceive",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B12",
+        "page": "/blog/letrozole-pcos-ovulation-induction/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoIAAUAA4BaJYwCdADze7UQAP7yNMsPBtFqY17XXUpTEslv2iaW9AAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-pcos-ivf-when-needed-or-not.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B13",
+    "alt": "Illustration for guide on pcos and ivf: when is ivf needed and when is it not?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B13",
+        "page": "/blog/pcos-ivf-when-needed-or-not/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoIAAUAA4BaJQBOgB5P3tAA/vJs2B1Utn4b9wZl42IYsdR+neMct78l44AAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-pcos-age-metabolic-health-fertility-planning.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B14",
+    "alt": "Illustration for guide on pcos after 30: age, metabolic health and fertility planning",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B14",
+        "page": "/blog/pcos-age-metabolic-health-fertility-planning/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgCHXYJAAAP64FzAqJ5E3yMVFKOaFeH41ddfSAg+LNiMAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-female-infertility-causes-symptoms-tests-treatment.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B15",
+    "alt": "Illustration for guide on female infertility: causes, signs, tests and treatment",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B15",
+        "page": "/blog/female-infertility-causes-symptoms-tests-treatment/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJYwCdADze7UQAP7oZuDFtvCU6VQwAhue481iYYcO73tKuIAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-blocked-fallopian-tubes-symptoms-hsg-treatment.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B16",
+    "alt": "Illustration for guide on blocked fallopian tubes symptoms, hsg and treatment",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B16",
+        "page": "/blog/blocked-fallopian-tubes-symptoms-hsg-treatment/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8f8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAUAA4BaJQBOgB6Q/0uAAP7yNPBI5yrvFSPtM3LRtJFrZPkYwJH7qJwANuuYAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-female-infertility-tests-amh-ultrasound-hsg.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B17",
+    "alt": "Illustration for guide on female infertility tests: amh, ultrasound, hormones, hsg",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B17",
+        "page": "/blog/female-infertility-tests-amh-ultrasound-hsg/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAUAA4BaJQBOgB6GMUaAAP7XPXbg9HeGEhojI+GiggucrnzsVX6KdHMZzrgAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-fibroids-and-fertility-can-you-get-pregnant.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B18",
+    "alt": "Illustration for guide on fibroids and fertility can you get pregnant",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B18",
+        "page": "/blog/fibroids-and-fertility-can-you-get-pregnant/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAUAA4BaJQBOgCFlJvLgAP7HZ+S6p8ycTA6GvLT7/Eu8ZaX5P0dXgFo6AAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-unexplained-infertility-normal-tests.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B19",
+    "alt": "Illustration for guide on unexplained infertility: when fertility tests are normal",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B19",
+        "page": "/blog/unexplained-infertility-normal-tests/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJYwCdAD0cgEQAP7zmaWjUPZmJA8ey8qW7/Wjz4yWjRAHYAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-how-long-try-conceive-before-fertility-specialist.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B20",
+    "alt": "Illustration for guide on how long to try before seeing a fertility specialist",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B20",
+        "page": "/blog/how-long-try-conceive-before-fertility-specialist/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJQBOgBuoHx3wAP7zmZ6DqVLl4cLt134DLIQD7B8ZFv0QAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-low-amh-ovarian-reserve-fertility.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B21",
+    "alt": "Illustration for guide on low amh & ovarian reserve: what it means for fertility",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B21",
+        "page": "/blog/low-amh-ovarian-reserve-fertility/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAUAA4BaJYwCdADyfvaAAP7JdrIosuMsAvUesiFZTvLMg380M7ZQN9c2s5eAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-ovarian-hyperstimulation-syndrome-warning-signs.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B22",
+    "alt": "Illustration for guide on ovarian hyperstimulation syndrome warning signs",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B22",
+        "page": "/blog/ovarian-hyperstimulation-syndrome-warning-signs/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAUAA4BaJZgCdADze7UQAP709aDtl5NehRhD0ngOuxNc7e1VVkpOc0s5Z6AAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-can-you-get-pregnant-naturally-low-amh.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B23",
+    "alt": "Illustration for guide on can you get pregnant naturally with low amh?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B23",
+        "page": "/blog/can-you-get-pregnant-naturally-low-amh/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAUAA4BaJQBOgB5vdqIAAP7z6ZLANl7e+byqo74EgfhXUKUpwChkjFE2nfEAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-low-amh-and-ivf-treatment.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B24",
+    "alt": "Illustration for guide on low amh and ivf: what it means for treatment",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B24",
+        "page": "/blog/low-amh-and-ivf-treatment/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAUAA4BaJQBOgB6TFldgAP6RbrNerOgz5bZ0vcZB+KbTuKVN8wfFoOmYAAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-amh-vs-egg-quality-difference.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B25",
+    "alt": "Illustration for guide on amh vs egg quality: what is the difference?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B25",
+        "page": "/blog/amh-vs-egg-quality-difference/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoIAAUAA4BaJQBOgCPwsKkwAAD+85tVrCSFmZroI2T2/VbnaRBfMOAAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-low-amh-at-30-35-40-age.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B26",
+    "alt": "Illustration for guide on low amh at 30, 35 or 40: what changes with age",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B26",
+        "page": "/blog/low-amh-at-30-35-40-age/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoIAAUAA4BaJYwCdAEPBZWdRgAA/vOZxeFqpkuqj+CQIw0BGhwAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-endometriosis-fertility-symptoms-diagnosis-treatment-ivf.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B27",
+    "alt": "Illustration for guide on endometriosis and fertility: symptoms, diagnosis and ivf",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B27",
+        "page": "/blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAUAA4BaJYwCdADyfvaAAP7h4e82N2/aYtrIpq+mcJODc5heKl1PTHu9eAQA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-can-endometriosis-cause-infertility.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B28",
+    "alt": "Illustration for guide on can endometriosis cause infertility?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B28",
+        "page": "/blog/can-endometriosis-cause-infertility/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJYwCdADze7UQAP7z6XyopAKnT4eJy5tQGR38Z8jC9+oAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-endometriosis-symptoms-not-to-ignore.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B29",
+    "alt": "Illustration for guide on endometriosis symptoms women should not ignore",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B29",
+        "page": "/blog/endometriosis-symptoms-not-to-ignore/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8f8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoIAAUAA4BaJQBOgB8wn3tKwAD+8lzlCVksfKZaCz2+k2AaGt21zd7ozB2AAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-adenomyosis-and-fertility-symptoms-treatment.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B30",
+    "alt": "Illustration for guide on adenomyosis and fertility symptoms and treatment",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B30",
+        "page": "/blog/adenomyosis-and-fertility-symptoms-treatment/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoIAAUAA4BaJQBOgB5P3tAA/vI0zTU9uFiCx8hYL2h2CPtgRE+Mi8cHYAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-pregnant-with-endometriosis-without-ivf.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B31",
+    "alt": "Illustration for guide on pregnancy with endometriosis without ivf: is it possible?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B31",
+        "page": "/blog/pregnant-with-endometriosis-without-ivf/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAUAA4BaJQBOgB8ux0ygAP709Bp0YRYztWdSBIdDECQyY6LXToJpE1mxAAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-endometriosis-and-ivf.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B32",
+    "alt": "Illustration for guide on endometriosis and ivf: when is ivf considered?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B32",
+        "page": "/blog/endometriosis-and-ivf/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoIAAUAA4BaJQBOgB5P3tAA/vTmdHZSuQAJ8YLhbghFQSqB/xgg4aL1QJnyAAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-iui-treatment-intrauterine-insemination.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B33",
+    "alt": "Illustration for guide on iui treatment: complete guide to intrauterine insemination",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B33",
+        "page": "/blog/iui-treatment-intrauterine-insemination/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJYwCw7EOZ/HeAP7gBgflNcPk71XS+HdsVCbq2hSLyxJCAuAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-ovulation-tracking-how-to-know-fertile-window.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B34",
+    "alt": "Illustration for guide on ovulation tracking how to know your fertile window",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B34",
+        "page": "/blog/ovulation-tracking-how-to-know-fertile-window/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJYwCdADx+HEAAP6bVPQ9TPgs/zkZ+PDwXJwZSPfW1YGG8yAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-iui-vs-ivf-which-fertility-treatment.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B35",
+    "alt": "Illustration for guide on iui vs ivf: which fertility treatment is considered when?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B35",
+        "page": "/blog/iui-vs-ivf-which-fertility-treatment/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJQBOgCBuZNlAAP6ZZ9FvHDeghOFj74vRjFllAavktLwAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-how-many-iui-cycles-before-ivf.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B36",
+    "alt": "Illustration for guide on how many iui cycles should you try before ivf?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B36",
+        "page": "/blog/how-many-iui-cycles-before-ivf/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJQBOgCIiveE4AP7wSUnlMxfMtxR+X3LfBML6ns02kQWgGAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-what-to-do-after-iui-precautions-symptoms-test-timing.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B37",
+    "alt": "Illustration for guide on what to do after iui: precautions, symptoms and pregnancy test timing",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B37",
+        "page": "/blog/what-to-do-after-iui-precautions-symptoms-test-timing/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgCHHfhYAAP6bVQHHFS6/1RB9fI6yu+wE032kapBj1+AAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-iui-success-factors.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B38",
+    "alt": "Illustration for guide on iui success factors: age, ovulation and sperm quality",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B38",
+        "page": "/blog/iui-success-factors/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoIAAUAA4BaJYwCdAD0Qn7TIAD+9PQgodUNGqkaYpEErLWcecq2e2DsAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-male-infertility-causes-semen-analysis-treatment.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B39",
+    "alt": "Illustration for guide on male infertility: causes, semen analysis, ivf and icsi",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B39",
+        "page": "/blog/male-infertility-causes-semen-analysis-treatment/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8e8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoIAAUAA4BaJYwCdADZgLAA/rX7sV8j5c+rjKf1NMSo3CmsoHBJWNbODIurGgAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-male-infertility-causes-symptoms.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B40",
+    "alt": "Illustration for guide on male infertility: causes, symptoms and when to seek help",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B40",
+        "page": "/blog/male-infertility-causes-symptoms/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJQBOgCIiveE4AP7wSUnlMxfMtxR+X3LfBML6ns02kQWgGAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-semen-analysis-explained.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B41",
+    "alt": "Illustration for guide on semen analysis explained: count, motility and morphology",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B41",
+        "page": "/blog/semen-analysis-explained/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoIAAUAA4BaJQBOgCHXYJAAAP709Bp2OGZVO3ZZb04BotIgtAMAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-low-sperm-count-treatment-options.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B42",
+    "alt": "Illustration for guide on low sperm count: natural and medical treatment options",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B42",
+        "page": "/blog/low-sperm-count-treatment-options/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoIAAUAA4BaJYgCdAD5idCRAAD+1v/ZfmynvXhgUUAQ+eEm+q/URkmS3On9FycCJwAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-icsi-male-infertility.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B43",
+    "alt": "Illustration for guide on icsi for male infertility: when is it recommended?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B43",
+        "page": "/blog/icsi-male-infertility/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoIAAUAA4BaJYwCdAD5aeEVwAD+1RAp/ZWomh5ZL8kHScaTH5yctpEF8w4AAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-why-both-partners-need-fertility-evaluation.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B44",
+    "alt": "Illustration for guide on why both partners need fertility evaluation",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B44",
+        "page": "/blog/why-both-partners-need-fertility-evaluation/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoIAAUAA4BaJYwCdAEPA6VeIAD+8IteOPmGyNe4yyQpjt5/2/Tjp5rcMwAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-pregnancy-after-ivf.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B45",
+    "alt": "Illustration for guide on pregnancy after ivf: what happens after embryo transfer",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B45",
+        "page": "/blog/pregnancy-after-ivf/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgCPP9BCwAP7WKakhdvRiN4o6Gd6Mbt5fFNUHpsn6OesAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-positive-pregnancy-test-after-ivf-next-steps.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B46",
+    "alt": "Illustration for guide on positive pregnancy test after ivf: what happens next?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B46",
+        "page": "/blog/positive-pregnancy-test-after-ivf-next-steps/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoIAAUAA4BaJQBOgB6SdUSgAP7He8IgDeykqadcVDZLmDoPVc8pSMMgdj83cAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-embryo-implantation-after-ivf-timeline.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B47",
+    "alt": "Illustration for guide on embryo implantation after ivf: timeline and signs",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B47",
+        "page": "/blog/embryo-implantation-after-ivf-timeline/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8f8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoIAAUAA4BaJYwCdAEO137PgAD+4oyTPoC4ZRtWOu+ydLtx6wea/rwrv1mCJAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-blastocyst-transfer-embryo-grading-explained.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B48",
+    "alt": "Illustration for guide on blastocyst transfer and embryo grading explained",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B48",
+        "page": "/blog/blastocyst-transfer-embryo-grading-explained/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoIAAUAA4BaJQBOgBsyF6AA/pPU6vTpxUa380Pa9v50wlkH0Qwgvyfo6FoAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-frozen-embryo-transfer-process-preparation.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B49",
+    "alt": "Illustration for guide on frozen embryo transfer process and preparation",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B49",
+        "page": "/blog/frozen-embryo-transfer-process-preparation/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgB8rIcQAAP6Z86xj7VlH8k8Uea5WH/5WxtFCa9+SygAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-early-pregnancy-after-ivf-warning-signs.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B50",
+    "alt": "Illustration for guide on early pregnancy after ivf: when to call your doctor",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B50",
+        "page": "/blog/early-pregnancy-after-ivf-warning-signs/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgB8tP/GgAP6x820BsFwvv5c1XOOn8mJtdEMRXXLnPgAAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-recurrent-miscarriage-causes-tests-treatment.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B51",
+    "alt": "Illustration for guide on recurrent miscarriage: causes, tests & treatment",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B51",
+        "page": "/blog/recurrent-miscarriage-causes-tests-treatment/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJQBOgCFlJuqAAP7I/lOf9run6HByRXpF2yhgIkw35LKAAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-recurrent-miscarriage-recurrent-pregnancy-loss.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B52",
+    "alt": "Illustration for guide on when is miscarriage called recurrent pregnancy loss?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B52",
+        "page": "/blog/recurrent-miscarriage-recurrent-pregnancy-loss/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoIAAUAA4BaJQBOgBucqlkAAP62eagvW9/qTvtks2W7P422ei/iTUD1NlJqdcMZYG4+AAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-hysteroscopy-for-infertility-when-is-it-needed.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B53",
+    "alt": "Illustration for guide on hysteroscopy for infertility when is it needed",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B53",
+        "page": "/blog/hysteroscopy-for-infertility-when-is-it-needed/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgCHM/jvAAP5r7q3f4+tzvTrl8gG1o70QbsoojDW5QayoAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-tests-after-recurrent-miscarriage.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B54",
+    "alt": "Illustration for guide on tests after recurrent miscarriage: what is checked",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B54",
+        "page": "/blog/tests-after-recurrent-miscarriage/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoIAAUAA4BaJYgCdAEQCtD+mAD+6vHJTI30fX+97w1TeRw4AgsSfcF/rlra5oAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-thyroid-problems-and-fertility.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B55",
+    "alt": "Illustration for guide on thyroid problems and fertility",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B55",
+        "page": "/blog/thyroid-problems-and-fertility/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAUAA4BaJQBOgB5vWRwAAP7U/Lxqq8Piwy+wCdn1hDvEZOg2KZbRzKpAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-genetic-testing-in-ivf-pgt-a-is-it-worth-it.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B56",
+    "alt": "Illustration for guide on genetic testing in ivf pgt-a is it worth it",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B56",
+        "page": "/blog/genetic-testing-in-ivf-pgt-a-is-it-worth-it/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoIAAUAA4BaJYwCdAD0klK8AAD+xyvUgFoG/7b8y8H8j2meSvooIAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-fertility-after-thirty-five-egg-quality-age-treatment.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B57",
+    "alt": "Illustration for guide on fertility after 35: egg quality, age and your options",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B57",
+        "page": "/blog/fertility-after-thirty-five-egg-quality-age-treatment/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJYwCdAEOO2gAAP7q6+wgj2YHUPqNA9J3YFEEeS0Id4dWgAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-fertility-after-35-when-to-seek-help.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B58",
+    "alt": "Illustration for guide on fertility after 35: what changes and when to seek help",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B58",
+        "page": "/blog/fertility-after-35-when-to-seek-help/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoIAAUAA4BaJQBOgB4/DiAA/vTwNLBXrZZVNmSNQ8F0FKE/ranVyAAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-egg-quality-after-35.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B59",
+    "alt": "Illustration for guide on egg quality after 35: what you can and cannot change",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B59",
+        "page": "/blog/egg-quality-after-35/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoIAAUAA4BaJQBOgCPQFSjvAAD+7hsbKyvL8qMTvwgTsSwesBdaZvB1nWTv1gAA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-pregnancy-after-40-fertility-risks-options.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B60",
+    "alt": "Illustration for guide on pregnancy after 40: fertility, risks and options",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B60",
+        "page": "/blog/pregnancy-after-40-fertility-risks-options/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoIAAUAA4BaJYwCdAD0Ma2oAP6xCwXUUaarclt0HbMzytT9eFe8o1AA"
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-egg-freezing-fertility-preservation.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B61",
+    "alt": "Illustration for guide on egg freezing: who should consider it?",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B61",
+        "page": "/blog/egg-freezing-fertility-preservation/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoIAAUAA4BaJQBOgCIfS2WogAD+anpU9ZUwvlmT5vKt/3TTI8lpEFncAAA="
+    },
+    "restricted": false,
+    "devOnly": false
+  },
+  "blog-ivf-after-35-when-to-consider.png": {
+    "widths": [
+      320,
+      480,
+      768,
+      1028,
+      1200,
+      1600
+    ],
+    "source": {
+      "w": 1600,
+      "h": 900
+    },
+    "original": {
+      "w": 1600,
+      "h": 900
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900
+    },
+    "id": "B62",
+    "alt": "Illustration for guide on trying to conceive after 35: when to consider ivf",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B62",
+        "page": "/blog/ivf-after-35-when-to-consider/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoIAAUAA4BaJQBOgB5vdqIAAPysjPz+K4g7+H+PVLgG1AI6uNJAAA=="
+    },
+    "restricted": false,
+    "devOnly": false
   }
 }

@@ -90,7 +90,7 @@ writeFileSync(join(OUT, '_manifest.json'), JSON.stringify(manifest, null, 2) + '
 const pages = files.filter((f) => f.meta.type === 'page').length;
 const posts = files.filter((f) => f.meta.type === 'post').length;
 console.log(`Split into ${files.length} files (${pages} pages, ${posts} posts) -> resources/content/`);
-if (files.length !== 49) {
+if (files.length !== 109) {
   console.error(`Expected 49 files (46 pages + 3 posts), got ${files.length}`);
   process.exit(2);
 }

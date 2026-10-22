@@ -111,12 +111,15 @@ function renderInline(nodes: MdNode[] | undefined, inHeading = false): ReactNode
         if (cm) return [<ConfirmChip key={key()} note={cm[1]?.trim()} />];
         return [<code key={key()}>{v}</code>];
       }
-      case "link":
+      case "link": {
+        const href = n.url ?? "#";
+        const external = /^https?:\/\//.test(href);
         return [
-          <Link key={key()} href={n.url ?? "#"}>
+          <Link key={key()} href={href} rel={external ? "noopener" : undefined}>
             {renderInline(n.children)}
           </Link>,
         ];
+      }
       case "break":
         return [<br key={key()} />];
       case "delete":

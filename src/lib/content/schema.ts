@@ -38,6 +38,9 @@ export const frontmatterSchema = z.looseObject({
   datePublished: z.string().optional(),
   dateModified: z.string().optional(),
   readingTime: z.number().optional(),
+  cluster: z.string().optional(),
+  pillar: z.boolean().optional(),
+  keywords: z.array(z.string()).optional(),
   robots: z.string().optional(),
 });
 

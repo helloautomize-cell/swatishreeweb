@@ -11,6 +11,7 @@ dateModified: "2026-09-03"
 badge: fertility-evaluation
 readingTime: 7
 related: [/services/fertility-evaluation/, /services/tubal-patency-test-hsg/, /services/male-fertility-evaluation/]
+posts: [/blog/female-infertility-tests-amh-ultrasound-hsg/]
 ---
 
 H1: Fertility tests explained: AMH, semen analysis, HSG and *scans*

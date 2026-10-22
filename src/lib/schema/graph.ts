@@ -19,6 +19,7 @@ import {
 import type { PageDoc } from "../content/load";
 import { childrenOf } from "../content/load";
 import { plainText } from "../content/load";
+import { imageEntry, pageLeadImage } from "../images";
 
 type Json = Record<string, unknown>;
 
@@ -50,6 +51,13 @@ function breadcrumbNode(doc: PageDoc): Json | null {
       position: 2,
       name: HUB_SEGMENT[seg[0]].name,
       item: abs(HUB_SEGMENT[seg[0]].url),
+    });
+  }
+  if (doc.kind === "post" && doc.meta.cluster) {
+    items.push({
+      "@type": "ListItem",
+      position: items.length + 1,
+      name: doc.meta.cluster,
     });
   }
   items.push({ "@type": "ListItem", position: items.length + 1, name: doc.name });
@@ -157,6 +165,19 @@ function pageNodes(doc: PageDoc): Json[] {
       break;
     }
     case "post": {
+      const about = aboutNode(doc);
+      if (about) nodes.push(about);
+      const heroFile = pageLeadImage(doc.url);
+      const hero = heroFile ? imageEntry(heroFile) : null;
+      const wordCount = [
+        doc.lead.markdown,
+        ...doc.sections.map((sec) => sec.markdown),
+        ...doc.faqs.map((f) => `${f.q} ${f.a}`),
+      ]
+        .map(plainText)
+        .join(" ")
+        .split(/\s+/)
+        .filter(Boolean).length;
       nodes.push({
         ...pageType(["BlogPosting", "MedicalWebPage"]),
         headline: doc.meta.title ?? doc.h1,
@@ -170,8 +191,15 @@ function pageNodes(doc: PageDoc): Json[] {
           : doc.meta.dateModified,
         publisher: { "@id": IDS.clinic },
         isPartOf: { "@type": "Blog", "@id": `${abs("/blog/")}#blog` },
-        image: abs(`${doc.url}opengraph-image`),
-        citation: doc.sources,
+        image: hero ? abs(hero.src) : abs(`${doc.url}opengraph-image`),
+        citation: doc.sources.map(
+          (src) => src.match(/\((https?:\/\/[^)\s]+)\)/)?.[1] ?? src,
+        ),
+        articleSection: doc.meta.cluster ?? doc.meta.category,
+        keywords: doc.meta.keywords?.length ? doc.meta.keywords.join(", ") : undefined,
+        wordCount,
+        about: about ? { "@id": about["@id"] } : undefined,
+        mainEntityOfPage: { "@id": `${abs(doc.url)}#webpage` },
         mentions: (doc.meta.entities ?? []).map((e) => ({ "@type": "Thing", name: e })),
       });
       break;

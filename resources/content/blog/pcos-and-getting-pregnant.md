@@ -11,6 +11,7 @@ dateModified: "2026-09-04"
 badge: pcos
 readingTime: 7
 related: [/conditions/pcos/, /services/follicular-monitoring/, /conditions/thyroid-and-fertility/]
+posts: [/blog/pcos-pregnancy-natural-conception/]
 ---
 
 H1: PCOS and getting pregnant: what the evidence *says*

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ArrowRight, MessageCircle, Phone } from "lucide-react";
+import EveImage from "@/components/EveImage";
 import BookButton from "@/components/BookButton";
 import { WithConfirms } from "@/components/ConfirmChip";
 import { resolveConfirm } from "@/lib/confirm";
@@ -93,5 +94,59 @@ export function RelatedLinks({ doc }: { doc: PageDoc }) {
         </div>
       )}
     </nav>
+  );
+}
+
+/** Author box for blog posts: photo, bio, clinic link, booking CTA, disclaimers. */
+export function AuthorBox() {
+  return (
+    <aside className="pg-author" aria-label="About the author">
+      <div className="pg-author-row">
+        <EveImage
+          src="doctor-avatar-1x1.png"
+          sizes="96px"
+          className="pg-author-photo"
+          kind="photo"
+        />
+        <div>
+          <h2 className="pg-author-name">
+            Written by <Link href="/dr-swati-shree/">Dr. Swati Shree</Link>
+          </h2>
+          <p className="pg-author-role">
+            Reproductive medicine specialist and gynaecologist, founder of EVE
+            Women and Fertility Clinic, Gunjur, Bangalore
+          </p>
+          <p className="pg-author-quals">
+            MBBS, DNB (OBG), MRCOG (UK), Fellowship in Reproductive Medicine
+          </p>
+        </div>
+      </div>
+      <p>
+        Dr. Swati Shree is an obstetrician and gynaecologist who specialises in
+        reproductive medicine. She holds a DNB in obstetrics and gynaecology, a
+        fellowship in reproductive medicine from KJK Hospital in Trivandrum, and an
+        MRCOG from the Royal College of Obstetricians and Gynaecologists in the
+        UK. She looks after fertility problems and women&#39;s health
+        conditions.{" "}
+        <Link className="link" href="/dr-swati-shree/">
+          Read more about Dr. Swati
+        </Link>
+      </p>
+      <div className="btns">
+        <BookButton />
+        <Link className="btn-s" href="/contact/">
+          Clinic location and contact
+        </Link>
+      </div>
+      <p className="pg-author-note">
+        This article is for general information only. It is not a diagnosis and
+        does not replace a consultation with your doctor.
+      </p>
+      <p className="pg-author-note">
+        Seek urgent care for severe pelvic pain, heavy bleeding, fever, pain or
+        bleeding in early pregnancy, or marked bloating, vomiting or
+        breathlessness after fertility injections or egg collection.
+      </p>
+    </aside>
   );
 }

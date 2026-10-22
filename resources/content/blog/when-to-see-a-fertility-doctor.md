@@ -11,6 +11,7 @@ dateModified: "2026-09-04"
 badge: natural-conception
 readingTime: 6
 related: [/your-fertility-journey/, /services/fertility-evaluation/, /treatments/egg-freezing/]
+posts: [/blog/how-long-try-conceive-before-fertility-specialist/]
 ---
 
 H1: When to see a fertility doctor: 12 months, 6 months, or *sooner*

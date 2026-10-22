@@ -391,6 +391,606 @@
       "illustrative": false,
       "caption": null,
       "notes": "Optional \u2014 crop or regenerate the emoji thought bubble if used"
+    },
+    {
+      "id": "B3",
+      "file": "blog-ivf-treatment-eligibility-process-embryo-transfer-pregnancy.png",
+      "placeholder": false,
+      "page": "/blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: ivf-treatment-eligibility-process-embryo-transfer-pregnancy"
+    },
+    {
+      "id": "B4",
+      "file": "blog-when-ivf-recommended-situations.png",
+      "placeholder": false,
+      "page": "/blog/when-ivf-recommended-situations/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: when-ivf-recommended-situations"
+    },
+    {
+      "id": "B5",
+      "file": "blog-ivf-process-step-by-step-consultation-embryo-transfer.png",
+      "placeholder": false,
+      "page": "/blog/ivf-process-step-by-step-consultation-embryo-transfer/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: ivf-process-step-by-step-consultation-embryo-transfer"
+    },
+    {
+      "id": "B6",
+      "file": "blog-how-long-does-ivf-take-timeline-pregnancy-test.png",
+      "placeholder": false,
+      "page": "/blog/how-long-does-ivf-take-timeline-pregnancy-test/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: how-long-does-ivf-take-timeline-pregnancy-test"
+    },
+    {
+      "id": "B7",
+      "file": "blog-ivf-success-factors-age-egg-quality-sperm-embryos.png",
+      "placeholder": false,
+      "page": "/blog/ivf-success-factors-age-egg-quality-sperm-embryos/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: ivf-success-factors-age-egg-quality-sperm-embryos"
+    },
+    {
+      "id": "B8",
+      "file": "blog-happens-after-embryo-transfer-symptoms-precautions-pregnancy-test.png",
+      "placeholder": false,
+      "page": "/blog/happens-after-embryo-transfer-symptoms-precautions-pregnancy-test/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: happens-after-embryo-transfer-symptoms-precautions-pregnancy-test"
+    },
+    {
+      "id": "B9",
+      "file": "blog-pcos-fertility-ovulation-iui-ivf.png",
+      "placeholder": false,
+      "page": "/blog/pcos-fertility-ovulation-iui-ivf/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: pcos-fertility-ovulation-iui-ivf"
+    },
+    {
+      "id": "B10",
+      "file": "blog-pcos-pregnancy-natural-conception.png",
+      "placeholder": false,
+      "page": "/blog/pcos-pregnancy-natural-conception/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: pcos-pregnancy-natural-conception"
+    },
+    {
+      "id": "B11",
+      "file": "blog-pcos-ovulation-irregular-periods-pregnancy.png",
+      "placeholder": false,
+      "page": "/blog/pcos-ovulation-irregular-periods-pregnancy/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: pcos-ovulation-irregular-periods-pregnancy"
+    },
+    {
+      "id": "B12",
+      "file": "blog-letrozole-pcos-ovulation-induction.png",
+      "placeholder": false,
+      "page": "/blog/letrozole-pcos-ovulation-induction/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: letrozole-pcos-ovulation-induction"
+    },
+    {
+      "id": "B13",
+      "file": "blog-pcos-ivf-when-needed-or-not.png",
+      "placeholder": false,
+      "page": "/blog/pcos-ivf-when-needed-or-not/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: pcos-ivf-when-needed-or-not"
+    },
+    {
+      "id": "B14",
+      "file": "blog-pcos-age-metabolic-health-fertility-planning.png",
+      "placeholder": false,
+      "page": "/blog/pcos-age-metabolic-health-fertility-planning/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: pcos-age-metabolic-health-fertility-planning"
+    },
+    {
+      "id": "B15",
+      "file": "blog-female-infertility-causes-symptoms-tests-treatment.png",
+      "placeholder": false,
+      "page": "/blog/female-infertility-causes-symptoms-tests-treatment/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: female-infertility-causes-symptoms-tests-treatment"
+    },
+    {
+      "id": "B16",
+      "file": "blog-blocked-fallopian-tubes-symptoms-hsg-treatment.png",
+      "placeholder": false,
+      "page": "/blog/blocked-fallopian-tubes-symptoms-hsg-treatment/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: blocked-fallopian-tubes-symptoms-hsg-treatment"
+    },
+    {
+      "id": "B17",
+      "file": "blog-female-infertility-tests-amh-ultrasound-hsg.png",
+      "placeholder": false,
+      "page": "/blog/female-infertility-tests-amh-ultrasound-hsg/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: female-infertility-tests-amh-ultrasound-hsg"
+    },
+    {
+      "id": "B18",
+      "file": "blog-fibroids-and-fertility-can-you-get-pregnant.png",
+      "placeholder": false,
+      "page": "/blog/fibroids-and-fertility-can-you-get-pregnant/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: fibroids-and-fertility-can-you-get-pregnant"
+    },
+    {
+      "id": "B19",
+      "file": "blog-unexplained-infertility-normal-tests.png",
+      "placeholder": false,
+      "page": "/blog/unexplained-infertility-normal-tests/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: unexplained-infertility-normal-tests"
+    },
+    {
+      "id": "B20",
+      "file": "blog-how-long-try-conceive-before-fertility-specialist.png",
+      "placeholder": false,
+      "page": "/blog/how-long-try-conceive-before-fertility-specialist/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: how-long-try-conceive-before-fertility-specialist"
+    },
+    {
+      "id": "B21",
+      "file": "blog-low-amh-ovarian-reserve-fertility.png",
+      "placeholder": false,
+      "page": "/blog/low-amh-ovarian-reserve-fertility/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: low-amh-ovarian-reserve-fertility"
+    },
+    {
+      "id": "B22",
+      "file": "blog-ovarian-hyperstimulation-syndrome-warning-signs.png",
+      "placeholder": false,
+      "page": "/blog/ovarian-hyperstimulation-syndrome-warning-signs/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: ovarian-hyperstimulation-syndrome-warning-signs"
+    },
+    {
+      "id": "B23",
+      "file": "blog-can-you-get-pregnant-naturally-low-amh.png",
+      "placeholder": false,
+      "page": "/blog/can-you-get-pregnant-naturally-low-amh/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: can-you-get-pregnant-naturally-low-amh"
+    },
+    {
+      "id": "B24",
+      "file": "blog-low-amh-and-ivf-treatment.png",
+      "placeholder": false,
+      "page": "/blog/low-amh-and-ivf-treatment/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: low-amh-and-ivf-treatment"
+    },
+    {
+      "id": "B25",
+      "file": "blog-amh-vs-egg-quality-difference.png",
+      "placeholder": false,
+      "page": "/blog/amh-vs-egg-quality-difference/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: amh-vs-egg-quality-difference"
+    },
+    {
+      "id": "B26",
+      "file": "blog-low-amh-at-30-35-40-age.png",
+      "placeholder": false,
+      "page": "/blog/low-amh-at-30-35-40-age/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: low-amh-at-30-35-40-age"
+    },
+    {
+      "id": "B27",
+      "file": "blog-endometriosis-fertility-symptoms-diagnosis-treatment-ivf.png",
+      "placeholder": false,
+      "page": "/blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: endometriosis-fertility-symptoms-diagnosis-treatment-ivf"
+    },
+    {
+      "id": "B28",
+      "file": "blog-can-endometriosis-cause-infertility.png",
+      "placeholder": false,
+      "page": "/blog/can-endometriosis-cause-infertility/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: can-endometriosis-cause-infertility"
+    },
+    {
+      "id": "B29",
+      "file": "blog-endometriosis-symptoms-not-to-ignore.png",
+      "placeholder": false,
+      "page": "/blog/endometriosis-symptoms-not-to-ignore/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: endometriosis-symptoms-not-to-ignore"
+    },
+    {
+      "id": "B30",
+      "file": "blog-adenomyosis-and-fertility-symptoms-treatment.png",
+      "placeholder": false,
+      "page": "/blog/adenomyosis-and-fertility-symptoms-treatment/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: adenomyosis-and-fertility-symptoms-treatment"
+    },
+    {
+      "id": "B31",
+      "file": "blog-pregnant-with-endometriosis-without-ivf.png",
+      "placeholder": false,
+      "page": "/blog/pregnant-with-endometriosis-without-ivf/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: pregnant-with-endometriosis-without-ivf"
+    },
+    {
+      "id": "B32",
+      "file": "blog-endometriosis-and-ivf.png",
+      "placeholder": false,
+      "page": "/blog/endometriosis-and-ivf/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: endometriosis-and-ivf"
+    },
+    {
+      "id": "B33",
+      "file": "blog-iui-treatment-intrauterine-insemination.png",
+      "placeholder": false,
+      "page": "/blog/iui-treatment-intrauterine-insemination/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: iui-treatment-intrauterine-insemination"
+    },
+    {
+      "id": "B34",
+      "file": "blog-ovulation-tracking-how-to-know-fertile-window.png",
+      "placeholder": false,
+      "page": "/blog/ovulation-tracking-how-to-know-fertile-window/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: ovulation-tracking-how-to-know-fertile-window"
+    },
+    {
+      "id": "B35",
+      "file": "blog-iui-vs-ivf-which-fertility-treatment.png",
+      "placeholder": false,
+      "page": "/blog/iui-vs-ivf-which-fertility-treatment/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: iui-vs-ivf-which-fertility-treatment"
+    },
+    {
+      "id": "B36",
+      "file": "blog-how-many-iui-cycles-before-ivf.png",
+      "placeholder": false,
+      "page": "/blog/how-many-iui-cycles-before-ivf/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: how-many-iui-cycles-before-ivf"
+    },
+    {
+      "id": "B37",
+      "file": "blog-what-to-do-after-iui-precautions-symptoms-test-timing.png",
+      "placeholder": false,
+      "page": "/blog/what-to-do-after-iui-precautions-symptoms-test-timing/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: what-to-do-after-iui-precautions-symptoms-test-timing"
+    },
+    {
+      "id": "B38",
+      "file": "blog-iui-success-factors.png",
+      "placeholder": false,
+      "page": "/blog/iui-success-factors/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: iui-success-factors"
+    },
+    {
+      "id": "B39",
+      "file": "blog-male-infertility-causes-semen-analysis-treatment.png",
+      "placeholder": false,
+      "page": "/blog/male-infertility-causes-semen-analysis-treatment/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: male-infertility-causes-semen-analysis-treatment"
+    },
+    {
+      "id": "B40",
+      "file": "blog-male-infertility-causes-symptoms.png",
+      "placeholder": false,
+      "page": "/blog/male-infertility-causes-symptoms/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: male-infertility-causes-symptoms"
+    },
+    {
+      "id": "B41",
+      "file": "blog-semen-analysis-explained.png",
+      "placeholder": false,
+      "page": "/blog/semen-analysis-explained/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: semen-analysis-explained"
+    },
+    {
+      "id": "B42",
+      "file": "blog-low-sperm-count-treatment-options.png",
+      "placeholder": false,
+      "page": "/blog/low-sperm-count-treatment-options/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: low-sperm-count-treatment-options"
+    },
+    {
+      "id": "B43",
+      "file": "blog-icsi-male-infertility.png",
+      "placeholder": false,
+      "page": "/blog/icsi-male-infertility/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: icsi-male-infertility"
+    },
+    {
+      "id": "B44",
+      "file": "blog-why-both-partners-need-fertility-evaluation.png",
+      "placeholder": false,
+      "page": "/blog/why-both-partners-need-fertility-evaluation/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: why-both-partners-need-fertility-evaluation"
+    },
+    {
+      "id": "B45",
+      "file": "blog-pregnancy-after-ivf.png",
+      "placeholder": false,
+      "page": "/blog/pregnancy-after-ivf/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: pregnancy-after-ivf"
+    },
+    {
+      "id": "B46",
+      "file": "blog-positive-pregnancy-test-after-ivf-next-steps.png",
+      "placeholder": false,
+      "page": "/blog/positive-pregnancy-test-after-ivf-next-steps/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: positive-pregnancy-test-after-ivf-next-steps"
+    },
+    {
+      "id": "B47",
+      "file": "blog-embryo-implantation-after-ivf-timeline.png",
+      "placeholder": false,
+      "page": "/blog/embryo-implantation-after-ivf-timeline/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: embryo-implantation-after-ivf-timeline"
+    },
+    {
+      "id": "B48",
+      "file": "blog-blastocyst-transfer-embryo-grading-explained.png",
+      "placeholder": false,
+      "page": "/blog/blastocyst-transfer-embryo-grading-explained/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: blastocyst-transfer-embryo-grading-explained"
+    },
+    {
+      "id": "B49",
+      "file": "blog-frozen-embryo-transfer-process-preparation.png",
+      "placeholder": false,
+      "page": "/blog/frozen-embryo-transfer-process-preparation/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: frozen-embryo-transfer-process-preparation"
+    },
+    {
+      "id": "B50",
+      "file": "blog-early-pregnancy-after-ivf-warning-signs.png",
+      "placeholder": false,
+      "page": "/blog/early-pregnancy-after-ivf-warning-signs/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: early-pregnancy-after-ivf-warning-signs"
+    },
+    {
+      "id": "B51",
+      "file": "blog-recurrent-miscarriage-causes-tests-treatment.png",
+      "placeholder": false,
+      "page": "/blog/recurrent-miscarriage-causes-tests-treatment/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: recurrent-miscarriage-causes-tests-treatment"
+    },
+    {
+      "id": "B52",
+      "file": "blog-recurrent-miscarriage-recurrent-pregnancy-loss.png",
+      "placeholder": false,
+      "page": "/blog/recurrent-miscarriage-recurrent-pregnancy-loss/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: recurrent-miscarriage-recurrent-pregnancy-loss"
+    },
+    {
+      "id": "B53",
+      "file": "blog-hysteroscopy-for-infertility-when-is-it-needed.png",
+      "placeholder": false,
+      "page": "/blog/hysteroscopy-for-infertility-when-is-it-needed/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: hysteroscopy-for-infertility-when-is-it-needed"
+    },
+    {
+      "id": "B54",
+      "file": "blog-tests-after-recurrent-miscarriage.png",
+      "placeholder": false,
+      "page": "/blog/tests-after-recurrent-miscarriage/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: tests-after-recurrent-miscarriage"
+    },
+    {
+      "id": "B55",
+      "file": "blog-thyroid-problems-and-fertility.png",
+      "placeholder": false,
+      "page": "/blog/thyroid-problems-and-fertility/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: thyroid-problems-and-fertility"
+    },
+    {
+      "id": "B56",
+      "file": "blog-genetic-testing-in-ivf-pgt-a-is-it-worth-it.png",
+      "placeholder": false,
+      "page": "/blog/genetic-testing-in-ivf-pgt-a-is-it-worth-it/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: genetic-testing-in-ivf-pgt-a-is-it-worth-it"
+    },
+    {
+      "id": "B57",
+      "file": "blog-fertility-after-thirty-five-egg-quality-age-treatment.png",
+      "placeholder": false,
+      "page": "/blog/fertility-after-thirty-five-egg-quality-age-treatment/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: fertility-after-thirty-five-egg-quality-age-treatment"
+    },
+    {
+      "id": "B58",
+      "file": "blog-fertility-after-35-when-to-seek-help.png",
+      "placeholder": false,
+      "page": "/blog/fertility-after-35-when-to-seek-help/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: fertility-after-35-when-to-seek-help"
+    },
+    {
+      "id": "B59",
+      "file": "blog-egg-quality-after-35.png",
+      "placeholder": false,
+      "page": "/blog/egg-quality-after-35/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: egg-quality-after-35"
+    },
+    {
+      "id": "B60",
+      "file": "blog-pregnancy-after-40-fertility-risks-options.png",
+      "placeholder": false,
+      "page": "/blog/pregnancy-after-40-fertility-risks-options/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: pregnancy-after-40-fertility-risks-options"
+    },
+    {
+      "id": "B61",
+      "file": "blog-egg-freezing-fertility-preservation.png",
+      "placeholder": false,
+      "page": "/blog/egg-freezing-fertility-preservation/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: egg-freezing-fertility-preservation"
+    },
+    {
+      "id": "B62",
+      "file": "blog-ivf-after-35-when-to-consider.png",
+      "placeholder": false,
+      "page": "/blog/ivf-after-35-when-to-consider/",
+      "ratio": "16:9",
+      "illustrative": false,
+      "caption": null,
+      "notes": "Blog cover: ivf-after-35-when-to-consider"
     }
   ],
   "badgeOnly": [
