@@ -2,12 +2,12 @@
 title: "Hysteroscopy for Infertility When Is It Needed"
 description: "Hysteroscopy lets doctors see inside the womb to find polyps, fibroids and scar tissue that affect fertility. Learn when it is advised, how it is done."
 url: /blog/hysteroscopy-for-infertility-when-is-it-needed/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-18"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-18"
+dateModified: "2026-10-18"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"

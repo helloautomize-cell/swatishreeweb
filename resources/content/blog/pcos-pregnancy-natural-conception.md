@@ -2,12 +2,12 @@
 title: "PCOS and Pregnancy: Can You Conceive Naturally?"
 description: "Irregular cycles don't always rule out pregnancy. Understand how PCOS affects ovulation, when natural conception works, and when to see a fertility."
 url: /blog/pcos-pregnancy-natural-conception/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-03"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-03"
+dateModified: "2026-10-03"
 badge: natural-conception
 readingTime: 4
 cluster: "PCOS & Fertility"

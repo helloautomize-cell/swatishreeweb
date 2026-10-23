@@ -2,12 +2,12 @@
 title: "Adenomyosis and Fertility Symptoms and Treatment"
 description: "Adenomyosis causes heavy, painful periods and may affect fertility. Learn how it differs from endometriosis, how it is diagnosed and treatment options."
 url: /blog/adenomyosis-and-fertility-symptoms-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-10"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-10"
+dateModified: "2026-10-10"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"

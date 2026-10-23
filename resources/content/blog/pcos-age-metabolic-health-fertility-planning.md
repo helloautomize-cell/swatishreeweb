@@ -2,12 +2,12 @@
 title: "PCOS After 30: Age, Metabolic Health and Fertility Planning"
 description: "PCOS after 30 can still allow pregnancy. Learn how age, metabolic health and ovarian reserve shape fertility planning, and when to see a specialist early."
 url: /blog/pcos-age-metabolic-health-fertility-planning/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-04"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-04"
+dateModified: "2026-10-04"
 badge: ovarian-reserve
 readingTime: 5
 cluster: "PCOS & Fertility"

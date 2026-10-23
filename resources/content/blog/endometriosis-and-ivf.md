@@ -2,12 +2,12 @@
 title: "Endometriosis and IVF: When Is IVF Considered?"
 description: "IVF may be considered for endometriosis when tubes are damaged, egg reserve is low or simpler options have not worked. Learn how IVF is planned and what."
 url: /blog/endometriosis-and-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-11"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-11"
+dateModified: "2026-10-11"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"

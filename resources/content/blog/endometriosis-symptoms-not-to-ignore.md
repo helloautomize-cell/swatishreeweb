@@ -2,12 +2,12 @@
 title: "Endometriosis Symptoms Women Should Not Ignore"
 description: "Severe period pain is not something to simply live with. Learn the common and less obvious signs of endometriosis, and when they deserve a gynaecology."
 url: /blog/endometriosis-symptoms-not-to-ignore/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-10"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-10"
+dateModified: "2026-10-10"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"

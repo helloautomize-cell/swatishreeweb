@@ -2,12 +2,12 @@
 title: "Blastocyst Transfer and Embryo Grading Explained"
 description: "Embryo grades and blastocyst transfer can be confusing. Learn how embryos develop, how grading works, what it can and cannot predict and why day 5."
 url: /blog/blastocyst-transfer-embryo-grading-explained/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-17"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-17"
+dateModified: "2026-10-17"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Pregnancy After IVF"

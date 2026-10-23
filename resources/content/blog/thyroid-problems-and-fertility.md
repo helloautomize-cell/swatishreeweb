@@ -2,12 +2,12 @@
 title: "Thyroid Problems and Fertility"
 description: "Thyroid disorders can disturb ovulation, periods and early pregnancy. Learn how hypothyroidism and hyperthyroidism affect fertility, which tests matter."
 url: /blog/thyroid-problems-and-fertility/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-19"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-19"
+dateModified: "2026-10-19"
 badge: thyroid
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"

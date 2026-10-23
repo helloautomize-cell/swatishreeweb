@@ -2,12 +2,12 @@
 title: "IUI vs IVF: Which Fertility Treatment Is Considered When?"
 description: "IUI places prepared sperm in the uterus, while IVF fertilises eggs in a lab. Compare how they work, who suits each, intensity, costs and when doctors."
 url: /blog/iui-vs-ivf-which-fertility-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-12"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-12"
+dateModified: "2026-10-12"
 badge: fertility-evaluation
 readingTime: 5
 cluster: "IUI (Intrauterine Insemination)"

@@ -2,12 +2,12 @@
 title: "ICSI for Male Infertility: When Is It Recommended?"
 description: "ICSI injects one sperm directly into each egg during IVF. Learn how it differs from standard IVF, when it is recommended for male infertility and what it."
 url: /blog/icsi-male-infertility/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-15"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-15"
+dateModified: "2026-10-15"
 badge: male-fertility
 readingTime: 4
 cluster: "Male Infertility"

@@ -2,12 +2,12 @@
 title: "Pregnancy With Endometriosis Without IVF: Is It Possible?"
 description: "Many women with endometriosis conceive without IVF. Learn which factors make natural pregnancy more likely and when IUI, surgery or IVF may be considered."
 url: /blog/pregnant-with-endometriosis-without-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-10"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-10"
+dateModified: "2026-10-10"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"

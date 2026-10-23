@@ -2,12 +2,12 @@
 title: "Why Both Partners Need Fertility Evaluation"
 description: "Fertility is a shared issue. Learn why testing both partners together saves time, avoids unnecessary treatment and leads to a clearer, more accurate."
 url: /blog/why-both-partners-need-fertility-evaluation/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-15"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-15"
+dateModified: "2026-10-15"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Male Infertility"

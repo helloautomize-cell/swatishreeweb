@@ -2,12 +2,12 @@
 title: "PCOS and IVF: When Is IVF Needed and When Is It Not?"
 description: "Is IVF always needed for PCOS? Learn when simpler treatments come first, when IVF may be considered, and what to ask your doctor before deciding."
 url: /blog/pcos-ivf-when-needed-or-not/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-04"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-04"
+dateModified: "2026-10-04"
 badge: female-infertility
 readingTime: 4
 cluster: "PCOS & Fertility"

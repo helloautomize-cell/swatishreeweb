@@ -2,12 +2,12 @@
 title: "When Is IVF Recommended? Key Situations Explained"
 description: "Blocked tubes, severe sperm problems, endometriosis, low AMH or IUI that has not worked. Learn when IVF is recommended and what to discuss before deciding."
 url: /blog/when-ivf-recommended-situations/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-01"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-01"
+dateModified: "2026-10-01"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IVF Treatment"

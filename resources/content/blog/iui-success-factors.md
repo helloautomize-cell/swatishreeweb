@@ -2,12 +2,12 @@
 title: "IUI Success Factors: Age, Ovulation and Sperm Quality"
 description: "IUI outcomes depend on age, ovulation, open tubes, sperm quality and timing. Learn which factors matter most, which you can influence and when to."
 url: /blog/iui-success-factors/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-13"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-13"
+dateModified: "2026-10-13"
 badge: male-fertility
 readingTime: 4
 cluster: "IUI (Intrauterine Insemination)"

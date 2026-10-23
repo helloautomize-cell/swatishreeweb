@@ -2,12 +2,12 @@
 title: "How Long to Try Before Seeing a Fertility Specialist"
 description: "Most couples are advised to try for 12 months before testing, or 6 months if the woman is 35 or older. Learn when to seek help sooner and what the first."
 url: /blog/how-long-try-conceive-before-fertility-specialist/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-07"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-07"
+dateModified: "2026-10-07"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Female Infertility"

@@ -2,12 +2,12 @@
 title: "AMH vs Egg Quality: What Is the Difference?"
 description: "AMH reflects how many eggs remain, not how healthy they are. Learn the difference between egg quantity and quality, what affects each and what it means."
 url: /blog/amh-vs-egg-quality-difference/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-08"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-08"
+dateModified: "2026-10-08"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"

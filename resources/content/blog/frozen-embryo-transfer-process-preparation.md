@@ -2,12 +2,12 @@
 title: "Frozen Embryo Transfer Process and Preparation"
 description: "Frozen embryo transfer uses embryos stored from a previous IVF cycle. Learn how the cycle is prepared, what the transfer involves and what to expect."
 url: /blog/frozen-embryo-transfer-process-preparation/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-17"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-17"
+dateModified: "2026-10-17"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Pregnancy After IVF"

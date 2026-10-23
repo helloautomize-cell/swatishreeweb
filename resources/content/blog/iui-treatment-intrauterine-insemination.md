@@ -2,12 +2,12 @@
 title: "IUI Treatment: Complete Guide to Intrauterine Insemination"
 description: "Learn how IUI treatment works, who may benefit, how the procedure is timed, what happens afterward, possible risks and when IVF may be considered."
 url: /blog/iui-treatment-intrauterine-insemination/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-11"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-11"
+dateModified: "2026-10-11"
 badge: fertility-evaluation
 readingTime: 16
 cluster: "IUI (Intrauterine Insemination)"

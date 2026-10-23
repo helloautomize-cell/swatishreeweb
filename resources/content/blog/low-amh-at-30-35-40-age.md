@@ -2,12 +2,12 @@
 title: "Low AMH at 30, 35 or 40: What Changes With Age"
 description: "Low AMH means different things at different ages. Learn how age and ovarian reserve interact at 30, 35 and 40, and what next steps are sensible at each."
 url: /blog/low-amh-at-30-35-40-age/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-09"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-09"
+dateModified: "2026-10-09"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"

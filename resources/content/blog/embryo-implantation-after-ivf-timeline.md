@@ -2,12 +2,12 @@
 title: "Embryo Implantation After IVF: Timeline and Signs"
 description: "Implantation usually happens within a few days of embryo transfer. Learn the day-by-day timeline, why symptoms are unreliable and when a blood test gives."
 url: /blog/embryo-implantation-after-ivf-timeline/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-16"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-16"
+dateModified: "2026-10-16"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Pregnancy After IVF"

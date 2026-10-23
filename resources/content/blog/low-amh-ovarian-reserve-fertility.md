@@ -2,12 +2,12 @@
 title: "Low AMH & Ovarian Reserve: Fertility Explained"
 description: "Low AMH does not always mean infertility. Learn what AMH says about ovarian reserve, egg quality, natural pregnancy, IVF and fertility planning."
 url: /blog/low-amh-ovarian-reserve-fertility/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-07"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-07"
+dateModified: "2026-10-07"
 badge: ovarian-reserve
 readingTime: 16
 cluster: "Low AMH & Ovarian Reserve"

@@ -2,12 +2,12 @@
 title: "Can Endometriosis Cause Infertility?"
 description: "Endometriosis can make conception harder, but many women with it still get pregnant. Learn how it affects fertility, who is more affected and what."
 url: /blog/can-endometriosis-cause-infertility/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-09"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-09"
+dateModified: "2026-10-09"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"

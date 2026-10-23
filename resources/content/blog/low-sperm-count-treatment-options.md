@@ -2,12 +2,12 @@
 title: "Low Sperm Count: Natural and Medical Treatment Options"
 description: "Low sperm count can sometimes improve with lifestyle changes or medical treatment, while other cases need IUI or IVF. Learn which causes are reversible."
 url: /blog/low-sperm-count-treatment-options/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-14"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-14"
+dateModified: "2026-10-14"
 badge: male-fertility
 readingTime: 4
 cluster: "Male Infertility"

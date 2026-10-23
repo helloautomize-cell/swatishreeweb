@@ -2,12 +2,12 @@
 title: "Letrozole for PCOS and How It Can Help You Conceive"
 description: "Letrozole is often the first ovulation treatment for PCOS. Learn how it works, what a cycle involves, possible side effects and when to see a specialist."
 url: /blog/letrozole-pcos-ovulation-induction/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-04"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-04"
+dateModified: "2026-10-04"
 badge: follicular-monitoring
 readingTime: 4
 cluster: "PCOS & Fertility"

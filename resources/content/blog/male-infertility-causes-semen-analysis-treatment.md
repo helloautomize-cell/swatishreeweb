@@ -2,12 +2,12 @@
 title: "Male Infertility Causes, Tests & Treatment | Bangalore"
 description: "Male infertility explained in plain language. Causes, how to read a semen analysis report, and when IUI, IVF or ICSI may be suggested for couples in."
 url: /blog/male-infertility-causes-semen-analysis-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-13"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-13"
+dateModified: "2026-10-13"
 badge: male-fertility
 readingTime: 17
 cluster: "Male Infertility"

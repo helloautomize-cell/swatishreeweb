@@ -2,12 +2,12 @@
 title: "Pregnancy After IVF: Embryo Transfer & Early Pregnancy"
 description: "Pregnancy after IVF explained, including implantation, hCG testing, early symptoms, ultrasound monitoring and warning signs after embryo transfer."
 url: /blog/pregnancy-after-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-15"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-15"
+dateModified: "2026-10-15"
 badge: fertility-evaluation
 readingTime: 16
 cluster: "Pregnancy After IVF"

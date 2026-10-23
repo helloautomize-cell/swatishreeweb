@@ -2,12 +2,12 @@
 title: "Blocked Fallopian Tubes Symptoms, HSG and Treatment"
 description: "Blocked fallopian tubes can stop an egg and sperm from meeting. Learn the causes, how HSG detects blockage, treatment options and when IVF is advised."
 url: /blog/blocked-fallopian-tubes-symptoms-hsg-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-05"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-05"
+dateModified: "2026-10-05"
 badge: hsg
 readingTime: 4
 cluster: "Female Infertility"

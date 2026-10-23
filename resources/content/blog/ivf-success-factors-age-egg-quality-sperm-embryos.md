@@ -2,12 +2,12 @@
 title: "IVF Success Factors: Age, Egg, Sperm and Embryo Quality"
 description: "Age sets the ceiling in IVF, but eggs, sperm and embryos decide how far a cycle can go. Here is how each factor works and what you can act on before."
 url: /blog/ivf-success-factors-age-egg-quality-sperm-embryos/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-02"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-02"
+dateModified: "2026-10-02"
 badge: male-fertility
 readingTime: 4
 cluster: "IVF Treatment"

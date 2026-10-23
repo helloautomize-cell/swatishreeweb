@@ -2,12 +2,12 @@
 title: "Semen Analysis Explained: Count, Motility and Morphology"
 description: "A semen analysis checks sperm count, movement and shape. Learn what each value means, how to prepare for the test and why one abnormal report is not a."
 url: /blog/semen-analysis-explained/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-14"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-14"
+dateModified: "2026-10-14"
 badge: male-fertility
 readingTime: 4
 cluster: "Male Infertility"

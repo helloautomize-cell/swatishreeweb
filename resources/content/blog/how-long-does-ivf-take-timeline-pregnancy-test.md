@@ -2,12 +2,12 @@
 title: "How Long Does IVF Take? Timeline to Pregnancy Test"
 description: "IVF timeline from first consultation to the pregnancy blood test, stage by stage. Learn why some cycles run longer and how to plan leave without guesswork."
 url: /blog/how-long-does-ivf-take-timeline-pregnancy-test/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-02"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-02"
+dateModified: "2026-10-02"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IVF Treatment"

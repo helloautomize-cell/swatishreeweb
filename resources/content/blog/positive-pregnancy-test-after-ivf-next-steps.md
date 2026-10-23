@@ -2,12 +2,12 @@
 title: "Positive Pregnancy Test After IVF: What Happens Next?"
 description: "A positive test after IVF is the start of close monitoring. Learn about repeat hCG tests, the first scans, medicines and when care moves to a regular."
 url: /blog/positive-pregnancy-test-after-ivf-next-steps/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-16"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-16"
+dateModified: "2026-10-16"
 badge: early-pregnancy-scan
 readingTime: 4
 cluster: "Pregnancy After IVF"

@@ -2,12 +2,12 @@
 title: "Female Infertility Tests: AMH, Ultrasound, Hormones, HSG"
 description: "Fertility tests help find why pregnancy is not happening. Learn what AMH, ultrasound, hormone tests and HSG check, when they are done and what results."
 url: /blog/female-infertility-tests-amh-ultrasound-hsg/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-05"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-05"
+dateModified: "2026-10-05"
 badge: hsg
 readingTime: 5
 cluster: "Female Infertility"

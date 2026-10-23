@@ -2,12 +2,12 @@
 title: "What Happens After Embryo Transfer? Symptoms and Tests"
 description: "Find out what is normal after embryo transfer, which symptoms need a doctor, the precautions to follow, and when a pregnancy blood test gives a reliable."
 url: /blog/happens-after-embryo-transfer-symptoms-precautions-pregnancy-test/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-02"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-02"
+dateModified: "2026-10-02"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IVF Treatment"

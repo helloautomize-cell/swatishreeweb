@@ -2,12 +2,12 @@
 title: "Male Infertility: Causes, Symptoms and When to Seek Help"
 description: "Male infertility often has no clear symptoms. Learn the common causes, the subtle warning signs and when a man should get a semen analysis while trying."
 url: /blog/male-infertility-causes-symptoms/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-14"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-14"
+dateModified: "2026-10-14"
 badge: male-fertility
 readingTime: 4
 cluster: "Male Infertility"
