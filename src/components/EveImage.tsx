@@ -17,6 +17,8 @@ type Props = {
    * Defaults from the manifest's illustrative flag.
    */
   kind?: "photo" | "illus";
+  /** Decorative image: renders alt="" regardless of the manifest alt. */
+  decorative?: boolean;
 };
 
 /**
@@ -33,6 +35,7 @@ export default function EveImage({
   caption,
   priority,
   kind,
+  decorative,
 }: Props) {
   const e = imageEntry(src);
   if (!e) return null;
@@ -46,7 +49,7 @@ export default function EveImage({
       <Image
         src={e.src}
         sizes={sizes}
-        alt={e.alt}
+        alt={decorative ? "" : e.alt}
         width={e.source.w}
         height={e.source.h}
         priority={priority}

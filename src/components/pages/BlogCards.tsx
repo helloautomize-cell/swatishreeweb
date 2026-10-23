@@ -1,38 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
-import AssetImage from "@/components/AssetImage";
-import { WithConfirms } from "@/components/ConfirmChip";
-import { badgeFor } from "@/lib/service-badges";
-import { site } from "@/lib/site-config";
+import BlogPostCard, { type BlogCardPost } from "@/components/BlogPostCard";
 
-export type BlogCardPost = {
-  url: string;
-  name: string;
-  category: string | null;
-  badge: string | null;
-  readingTime: number | null;
-  datePublished: string | null;
-  num?: number;
-  pillar?: boolean;
-};
+export type { BlogCardPost };
 
-function card(p: BlogCardPost) {
-  return (
-    <Link className="hm-post" href={p.url} key={p.url}>
-      <span className="hm-post-cover" aria-hidden>
-        {p.badge && badgeFor(p.badge) && <AssetImage file={badgeFor(p.badge)!} size={112} />}
-      </span>
-      {p.category && <span className="hm-post-cat">{p.category}</span>}
-      <span className="hm-post-t">{p.name}</span>
-      <span className="hm-post-meta">
-        Written by {site.doctor} · <WithConfirms text={p.datePublished ?? ""} />
-        {p.readingTime ? ` · ${p.readingTime} min read` : ""}
-      </span>
-    </Link>
-  );
-}
 
 /** Blog index cards with category filter chips (site-plan §13 blog index). */
 export default function BlogCards({ posts, filters }: { posts: BlogCardPost[]; filters: string[] }) {
@@ -64,7 +36,7 @@ export default function BlogCards({ posts, filters }: { posts: BlogCardPost[]; f
         <section key={g.name} aria-label={g.name}>
           <h2 className="blog-group">{g.name}</h2>
           <div className="blog-grid" aria-live="polite">
-            {g.posts.map(card)}
+            {g.posts.map((p) => <BlogPostCard key={p.url} post={p} />)}
           </div>
         </section>
       ))}

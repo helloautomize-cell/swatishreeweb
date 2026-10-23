@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { InlineText } from "@/lib/content/render";
 import { childrenOf, type PageDoc } from "@/lib/content/load";
+import { pageLeadImage } from "@/lib/images";
 import { CtaBand } from "./PageFoot";
 import BlogCards from "./BlogCards";
 
@@ -18,7 +19,7 @@ export default function BlogIndexPage({ doc }: { doc: PageDoc }) {
       url: p.url,
       name: p.h1.replace(/\*/g, ""),
       category: p.meta.category ?? null,
-      badge: p.meta.badge ?? null,
+      cover: pageLeadImage(p.url),
       readingTime: p.meta.readingTime ?? null,
       datePublished: p.meta.datePublished ?? null,
       num: p.num,
