@@ -2,12 +2,12 @@
 title: "How Many IUI Cycles Should You Try Before IVF?"
 description: "There is no single number of IUI cycles for everyone. Learn how age, diagnosis and response shape the decision, and when moving to IVF makes sense."
 url: /blog/how-many-iui-cycles-before-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-12"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-12"
+dateModified: "2026-10-12"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IUI (Intrauterine Insemination)"

@@ -2,12 +2,12 @@
 title: "Ovarian Hyperstimulation Syndrome Warning Signs"
 description: "OHSS is a possible complication of IVF stimulation. Learn the symptoms, who is at higher risk, how it is prevented and when to seek urgent medical help."
 url: /blog/ovarian-hyperstimulation-syndrome-warning-signs/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-07"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-07"
+dateModified: "2026-10-07"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"

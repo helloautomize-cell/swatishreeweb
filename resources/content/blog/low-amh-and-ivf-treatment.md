@@ -2,12 +2,12 @@
 title: "Low AMH and IVF: What It Means for Treatment"
 description: "Low AMH often means fewer eggs in IVF, but pregnancy is still possible. Learn how doctors adjust stimulation, what to expect from egg retrieval and."
 url: /blog/low-amh-and-ivf-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-08"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-08"
+dateModified: "2026-10-08"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"

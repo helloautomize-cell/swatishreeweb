@@ -2,12 +2,12 @@
 title: "Genetic Testing in IVF PGT-A Is It Worth It"
 description: "Preimplantation genetic testing screens embryos for chromosome problems. Learn what PGT-A, PGT-M and PGT-SR are, who may benefit, limits of testing and."
 url: /blog/genetic-testing-in-ivf-pgt-a-is-it-worth-it/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-19"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-19"
+dateModified: "2026-10-19"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"

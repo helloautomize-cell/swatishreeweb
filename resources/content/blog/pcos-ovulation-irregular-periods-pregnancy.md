@@ -2,12 +2,12 @@
 title: "PCOS, Irregular Periods and Ovulation: Pregnancy Guide"
 description: "Irregular periods in PCOS often mean irregular ovulation. Learn why this affects conception, when to get tested and which treatment options may help you."
 url: /blog/pcos-ovulation-irregular-periods-pregnancy/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-03"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-03"
+dateModified: "2026-10-03"
 badge: follicular-monitoring
 readingTime: 4
 cluster: "PCOS & Fertility"

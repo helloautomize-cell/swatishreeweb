@@ -2,12 +2,12 @@
 title: "PCOS and Fertility: Ovulation, Natural Pregnancy, IUI & IVF"
 description: "PCOS can make ovulation unpredictable, but pregnancy is still possible. Understand natural conception, ovulation treatment, IUI and IVF options."
 url: /blog/pcos-fertility-ovulation-iui-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-03"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-03"
+dateModified: "2026-10-03"
 badge: follicular-monitoring
 readingTime: 16
 cluster: "PCOS & Fertility"

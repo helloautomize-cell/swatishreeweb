@@ -2,12 +2,12 @@
 title: "Early Pregnancy After IVF: When to Call Your Doctor"
 description: "Some symptoms in early IVF pregnancy are normal, while others need urgent care. Learn the warning signs of ectopic pregnancy, OHSS and miscarriage, and."
 url: /blog/early-pregnancy-after-ivf-warning-signs/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-17"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-17"
+dateModified: "2026-10-17"
 badge: early-pregnancy-scan
 readingTime: 4
 cluster: "Pregnancy After IVF"

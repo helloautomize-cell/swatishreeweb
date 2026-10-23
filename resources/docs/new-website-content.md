@@ -4025,12 +4025,12 @@ Reviewer box: use global text.
 title: "IVF Treatment in Bangalore: Eligibility, Process, Pregnancy"
 description: "Who needs IVF, what happens from the first injection to embryo transfer, the risks worth knowing, and how early pregnancy after IVF is monitored."
 url: /blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-01"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-01"
+dateModified: "2026-10-01"
 badge: fertility-evaluation
 readingTime: 18
 cluster: "IVF Treatment"
@@ -4404,12 +4404,12 @@ Reviewer box: use global text.
 title: "When Is IVF Recommended? Key Situations Explained"
 description: "Blocked tubes, severe sperm problems, endometriosis, low AMH or IUI that has not worked. Learn when IVF is recommended and what to discuss before deciding."
 url: /blog/when-ivf-recommended-situations/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-01"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-01"
+dateModified: "2026-10-01"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IVF Treatment"
@@ -4510,12 +4510,12 @@ Reviewer box: use global text.
 title: "IVF Process Step by Step in Bangalore"
 description: "Learn the IVF process step by step, from your first fertility consultation and tests to stimulation, egg collection and embryo transfer, with clear."
 url: /blog/ivf-process-step-by-step-consultation-embryo-transfer/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-01"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-01"
+dateModified: "2026-10-01"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IVF Treatment"
@@ -4635,12 +4635,12 @@ Reviewer box: use global text.
 title: "How Long Does IVF Take? Timeline to Pregnancy Test"
 description: "IVF timeline from first consultation to the pregnancy blood test, stage by stage. Learn why some cycles run longer and how to plan leave without guesswork."
 url: /blog/how-long-does-ivf-take-timeline-pregnancy-test/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-02"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-02"
+dateModified: "2026-10-02"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IVF Treatment"
@@ -4748,12 +4748,12 @@ Reviewer box: use global text.
 title: "IVF Success Factors: Age, Egg, Sperm and Embryo Quality"
 description: "Age sets the ceiling in IVF, but eggs, sperm and embryos decide how far a cycle can go. Here is how each factor works and what you can act on before."
 url: /blog/ivf-success-factors-age-egg-quality-sperm-embryos/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-02"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-02"
+dateModified: "2026-10-02"
 badge: male-fertility
 readingTime: 4
 cluster: "IVF Treatment"
@@ -4860,12 +4860,12 @@ Reviewer box: use global text.
 title: "What Happens After Embryo Transfer? Symptoms and Tests"
 description: "Find out what is normal after embryo transfer, which symptoms need a doctor, the precautions to follow, and when a pregnancy blood test gives a reliable."
 url: /blog/happens-after-embryo-transfer-symptoms-precautions-pregnancy-test/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-02"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-02"
+dateModified: "2026-10-02"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IVF Treatment"
@@ -4959,12 +4959,12 @@ Reviewer box: use global text.
 title: "PCOS and Fertility: Ovulation, Natural Pregnancy, IUI & IVF"
 description: "PCOS can make ovulation unpredictable, but pregnancy is still possible. Understand natural conception, ovulation treatment, IUI and IVF options."
 url: /blog/pcos-fertility-ovulation-iui-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-03"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-03"
+dateModified: "2026-10-03"
 badge: follicular-monitoring
 readingTime: 16
 cluster: "PCOS & Fertility"
@@ -5419,12 +5419,12 @@ Reviewer box: use global text.
 title: "PCOS and Pregnancy: Can You Conceive Naturally?"
 description: "Irregular cycles don't always rule out pregnancy. Understand how PCOS affects ovulation, when natural conception works, and when to see a fertility."
 url: /blog/pcos-pregnancy-natural-conception/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-03"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-03"
+dateModified: "2026-10-03"
 badge: natural-conception
 readingTime: 4
 cluster: "PCOS & Fertility"
@@ -5537,12 +5537,12 @@ Reviewer box: use global text.
 title: "PCOS, Irregular Periods and Ovulation: Pregnancy Guide"
 description: "Irregular periods in PCOS often mean irregular ovulation. Learn why this affects conception, when to get tested and which treatment options may help you."
 url: /blog/pcos-ovulation-irregular-periods-pregnancy/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-03"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-03"
+dateModified: "2026-10-03"
 badge: follicular-monitoring
 readingTime: 4
 cluster: "PCOS & Fertility"
@@ -5676,12 +5676,12 @@ Reviewer box: use global text.
 title: "Letrozole for PCOS and How It Can Help You Conceive"
 description: "Letrozole is often the first ovulation treatment for PCOS. Learn how it works, what a cycle involves, possible side effects and when to see a specialist."
 url: /blog/letrozole-pcos-ovulation-induction/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-04"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-04"
+dateModified: "2026-10-04"
 badge: follicular-monitoring
 readingTime: 4
 cluster: "PCOS & Fertility"
@@ -5792,12 +5792,12 @@ Reviewer box: use global text.
 title: "PCOS and IVF: When Is IVF Needed and When Is It Not?"
 description: "Is IVF always needed for PCOS? Learn when simpler treatments come first, when IVF may be considered, and what to ask your doctor before deciding."
 url: /blog/pcos-ivf-when-needed-or-not/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-04"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-04"
+dateModified: "2026-10-04"
 badge: female-infertility
 readingTime: 4
 cluster: "PCOS & Fertility"
@@ -5905,12 +5905,12 @@ Reviewer box: use global text.
 title: "PCOS After 30: Age, Metabolic Health and Fertility Planning"
 description: "PCOS after 30 can still allow pregnancy. Learn how age, metabolic health and ovarian reserve shape fertility planning, and when to see a specialist early."
 url: /blog/pcos-age-metabolic-health-fertility-planning/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-04"
 category: "PCOS & Fertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-04"
+dateModified: "2026-10-04"
 badge: ovarian-reserve
 readingTime: 5
 cluster: "PCOS & Fertility"
@@ -6022,12 +6022,12 @@ Reviewer box: use global text.
 title: "Female Infertility Causes, Tests & Treatment | Bangalore"
 description: "Why some women find it hard to conceive, which fertility tests find the cause, and what treatment usually looks like. Guidance from a Bangalore specialist."
 url: /blog/female-infertility-causes-symptoms-tests-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-05"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-05"
+dateModified: "2026-10-05"
 badge: male-fertility
 readingTime: 17
 cluster: "Female Infertility"
@@ -6383,12 +6383,12 @@ Reviewer box: use global text.
 title: "Blocked Fallopian Tubes Symptoms, HSG and Treatment"
 description: "Blocked fallopian tubes can stop an egg and sperm from meeting. Learn the causes, how HSG detects blockage, treatment options and when IVF is advised."
 url: /blog/blocked-fallopian-tubes-symptoms-hsg-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-05"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-05"
+dateModified: "2026-10-05"
 badge: hsg
 readingTime: 4
 cluster: "Female Infertility"
@@ -6491,12 +6491,12 @@ Reviewer box: use global text.
 title: "Female Infertility Tests: AMH, Ultrasound, Hormones, HSG"
 description: "Fertility tests help find why pregnancy is not happening. Learn what AMH, ultrasound, hormone tests and HSG check, when they are done and what results."
 url: /blog/female-infertility-tests-amh-ultrasound-hsg/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-05"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-05"
+dateModified: "2026-10-05"
 badge: hsg
 readingTime: 5
 cluster: "Female Infertility"
@@ -6609,12 +6609,12 @@ Reviewer box: use global text.
 title: "Fibroids and Fertility Can You Get Pregnant"
 description: "Many women with fibroids conceive naturally, but some fibroids affect fertility. Learn which types matter, how they are diagnosed and when treatment is."
 url: /blog/fibroids-and-fertility-can-you-get-pregnant/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-06"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-06"
+dateModified: "2026-10-06"
 badge: female-infertility
 readingTime: 4
 cluster: "Female Infertility"
@@ -6725,12 +6725,12 @@ Reviewer box: use global text.
 title: "Unexplained Infertility: When Fertility Tests Are Normal"
 description: "Unexplained infertility means standard tests are normal but pregnancy has not happened. Learn possible hidden causes, treatment options from IUI to IVF."
 url: /blog/unexplained-infertility-normal-tests/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-06"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-06"
+dateModified: "2026-10-06"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Female Infertility"
@@ -6831,12 +6831,12 @@ Reviewer box: use global text.
 title: "How Long to Try Before Seeing a Fertility Specialist"
 description: "Most couples are advised to try for 12 months before testing, or 6 months if the woman is 35 or older. Learn when to seek help sooner and what the first."
 url: /blog/how-long-try-conceive-before-fertility-specialist/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-07"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-07"
+dateModified: "2026-10-07"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Female Infertility"
@@ -6932,12 +6932,12 @@ Reviewer box: use global text.
 title: "Low AMH & Ovarian Reserve: Fertility Explained"
 description: "Low AMH does not always mean infertility. Learn what AMH says about ovarian reserve, egg quality, natural pregnancy, IVF and fertility planning."
 url: /blog/low-amh-ovarian-reserve-fertility/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-07"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-07"
+dateModified: "2026-10-07"
 badge: ovarian-reserve
 readingTime: 16
 cluster: "Low AMH & Ovarian Reserve"
@@ -7569,12 +7569,12 @@ Reviewer box: use global text.
 title: "Ovarian Hyperstimulation Syndrome Warning Signs"
 description: "OHSS is a possible complication of IVF stimulation. Learn the symptoms, who is at higher risk, how it is prevented and when to seek urgent medical help."
 url: /blog/ovarian-hyperstimulation-syndrome-warning-signs/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-07"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-07"
+dateModified: "2026-10-07"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"
@@ -7671,12 +7671,12 @@ Reviewer box: use global text.
 title: "Can You Get Pregnant Naturally With Low AMH?"
 description: "Low AMH does not automatically mean infertility. Learn what low AMH really tells you, why natural pregnancy is still possible and when to consider."
 url: /blog/can-you-get-pregnant-naturally-low-amh/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-08"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-08"
+dateModified: "2026-10-08"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"
@@ -7769,12 +7769,12 @@ Reviewer box: use global text.
 title: "Low AMH and IVF: What It Means for Treatment"
 description: "Low AMH often means fewer eggs in IVF, but pregnancy is still possible. Learn how doctors adjust stimulation, what to expect from egg retrieval and."
 url: /blog/low-amh-and-ivf-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-08"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-08"
+dateModified: "2026-10-08"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"
@@ -7873,12 +7873,12 @@ Reviewer box: use global text.
 title: "AMH vs Egg Quality: What Is the Difference?"
 description: "AMH reflects how many eggs remain, not how healthy they are. Learn the difference between egg quantity and quality, what affects each and what it means."
 url: /blog/amh-vs-egg-quality-difference/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-08"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-08"
+dateModified: "2026-10-08"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"
@@ -7982,12 +7982,12 @@ Reviewer box: use global text.
 title: "Low AMH at 30, 35 or 40: What Changes With Age"
 description: "Low AMH means different things at different ages. Learn how age and ovarian reserve interact at 30, 35 and 40, and what next steps are sensible at each."
 url: /blog/low-amh-at-30-35-40-age/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-09"
 category: "Low AMH & Ovarian Reserve"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-09"
+dateModified: "2026-10-09"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Low AMH & Ovarian Reserve"
@@ -8090,12 +8090,12 @@ Reviewer box: use global text.
 title: "Endometriosis and Fertility: Treatment & IVF in Bangalore"
 description: "Can you get pregnant with endometriosis? See how it affects fertility, how doctors diagnose it, and when surgery, IUI or IVF may help you conceive."
 url: /blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-09"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-09"
+dateModified: "2026-10-09"
 badge: female-infertility
 readingTime: 16
 cluster: "Endometriosis"
@@ -8425,12 +8425,12 @@ Reviewer box: use global text.
 title: "Can Endometriosis Cause Infertility?"
 description: "Endometriosis can make conception harder, but many women with it still get pregnant. Learn how it affects fertility, who is more affected and what."
 url: /blog/can-endometriosis-cause-infertility/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-09"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-09"
+dateModified: "2026-10-09"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"
@@ -8537,12 +8537,12 @@ Reviewer box: use global text.
 title: "Endometriosis Symptoms Women Should Not Ignore"
 description: "Severe period pain is not something to simply live with. Learn the common and less obvious signs of endometriosis, and when they deserve a gynaecology."
 url: /blog/endometriosis-symptoms-not-to-ignore/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-10"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-10"
+dateModified: "2026-10-10"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"
@@ -8655,12 +8655,12 @@ Reviewer box: use global text.
 title: "Adenomyosis and Fertility Symptoms and Treatment"
 description: "Adenomyosis causes heavy, painful periods and may affect fertility. Learn how it differs from endometriosis, how it is diagnosed and treatment options."
 url: /blog/adenomyosis-and-fertility-symptoms-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-10"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-10"
+dateModified: "2026-10-10"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"
@@ -8757,12 +8757,12 @@ Reviewer box: use global text.
 title: "Pregnancy With Endometriosis Without IVF: Is It Possible?"
 description: "Many women with endometriosis conceive without IVF. Learn which factors make natural pregnancy more likely and when IUI, surgery or IVF may be considered."
 url: /blog/pregnant-with-endometriosis-without-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-10"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-10"
+dateModified: "2026-10-10"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"
@@ -8862,12 +8862,12 @@ Reviewer box: use global text.
 title: "Endometriosis and IVF: When Is IVF Considered?"
 description: "IVF may be considered for endometriosis when tubes are damaged, egg reserve is low or simpler options have not worked. Learn how IVF is planned and what."
 url: /blog/endometriosis-and-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-11"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-11"
+dateModified: "2026-10-11"
 badge: female-infertility
 readingTime: 4
 cluster: "Endometriosis"
@@ -8984,12 +8984,12 @@ Reviewer box: use global text.
 title: "IUI Treatment: Complete Guide to Intrauterine Insemination"
 description: "Learn how IUI treatment works, who may benefit, how the procedure is timed, what happens afterward, possible risks and when IVF may be considered."
 url: /blog/iui-treatment-intrauterine-insemination/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-11"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-11"
+dateModified: "2026-10-11"
 badge: fertility-evaluation
 readingTime: 16
 cluster: "IUI (Intrauterine Insemination)"
@@ -9542,12 +9542,12 @@ Reviewer box: use global text.
 title: "Ovulation Tracking How to Know Your Fertile Window"
 description: "Timing intercourse around ovulation raises your chance of pregnancy. Learn how to track ovulation using cycle dates, symptoms, kits and ultrasound."
 url: /blog/ovulation-tracking-how-to-know-fertile-window/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-12"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-12"
+dateModified: "2026-10-12"
 badge: follicular-monitoring
 readingTime: 4
 cluster: "IUI (Intrauterine Insemination)"
@@ -9648,12 +9648,12 @@ Reviewer box: use global text.
 title: "IUI vs IVF: Which Fertility Treatment Is Considered When?"
 description: "IUI places prepared sperm in the uterus, while IVF fertilises eggs in a lab. Compare how they work, who suits each, intensity, costs and when doctors."
 url: /blog/iui-vs-ivf-which-fertility-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-12"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-12"
+dateModified: "2026-10-12"
 badge: fertility-evaluation
 readingTime: 5
 cluster: "IUI (Intrauterine Insemination)"
@@ -9778,12 +9778,12 @@ Reviewer box: use global text.
 title: "How Many IUI Cycles Should You Try Before IVF?"
 description: "There is no single number of IUI cycles for everyone. Learn how age, diagnosis and response shape the decision, and when moving to IVF makes sense."
 url: /blog/how-many-iui-cycles-before-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-12"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-12"
+dateModified: "2026-10-12"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "IUI (Intrauterine Insemination)"
@@ -9887,12 +9887,12 @@ Reviewer box: use global text.
 title: "What to Do After IUI: Precautions, Symptoms and Pregnancy"
 description: "After IUI you can usually return to normal activities. Learn what to do during the two-week wait, which symptoms are common, when to take a pregnancy."
 url: /blog/what-to-do-after-iui-precautions-symptoms-test-timing/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-13"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-13"
+dateModified: "2026-10-13"
 badge: early-pregnancy-scan
 readingTime: 4
 cluster: "IUI (Intrauterine Insemination)"
@@ -10020,12 +10020,12 @@ Reviewer box: use global text.
 title: "IUI Success Factors: Age, Ovulation and Sperm Quality"
 description: "IUI outcomes depend on age, ovulation, open tubes, sperm quality and timing. Learn which factors matter most, which you can influence and when to."
 url: /blog/iui-success-factors/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-13"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-13"
+dateModified: "2026-10-13"
 badge: male-fertility
 readingTime: 4
 cluster: "IUI (Intrauterine Insemination)"
@@ -10138,12 +10138,12 @@ Reviewer box: use global text.
 title: "Male Infertility Causes, Tests & Treatment | Bangalore"
 description: "Male infertility explained in plain language. Causes, how to read a semen analysis report, and when IUI, IVF or ICSI may be suggested for couples in."
 url: /blog/male-infertility-causes-semen-analysis-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-13"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-13"
+dateModified: "2026-10-13"
 badge: male-fertility
 readingTime: 17
 cluster: "Male Infertility"
@@ -10540,12 +10540,12 @@ Reviewer box: use global text.
 title: "Male Infertility: Causes, Symptoms and When to Seek Help"
 description: "Male infertility often has no clear symptoms. Learn the common causes, the subtle warning signs and when a man should get a semen analysis while trying."
 url: /blog/male-infertility-causes-symptoms/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-14"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-14"
+dateModified: "2026-10-14"
 badge: male-fertility
 readingTime: 4
 cluster: "Male Infertility"
@@ -10664,12 +10664,12 @@ Reviewer box: use global text.
 title: "Semen Analysis Explained: Count, Motility and Morphology"
 description: "A semen analysis checks sperm count, movement and shape. Learn what each value means, how to prepare for the test and why one abnormal report is not a."
 url: /blog/semen-analysis-explained/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-14"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-14"
+dateModified: "2026-10-14"
 badge: male-fertility
 readingTime: 4
 cluster: "Male Infertility"
@@ -10780,12 +10780,12 @@ Reviewer box: use global text.
 title: "Low Sperm Count: Natural and Medical Treatment Options"
 description: "Low sperm count can sometimes improve with lifestyle changes or medical treatment, while other cases need IUI or IVF. Learn which causes are reversible."
 url: /blog/low-sperm-count-treatment-options/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-14"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-14"
+dateModified: "2026-10-14"
 badge: male-fertility
 readingTime: 4
 cluster: "Male Infertility"
@@ -10894,12 +10894,12 @@ Reviewer box: use global text.
 title: "ICSI for Male Infertility: When Is It Recommended?"
 description: "ICSI injects one sperm directly into each egg during IVF. Learn how it differs from standard IVF, when it is recommended for male infertility and what it."
 url: /blog/icsi-male-infertility/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-15"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-15"
+dateModified: "2026-10-15"
 badge: male-fertility
 readingTime: 4
 cluster: "Male Infertility"
@@ -11008,12 +11008,12 @@ Reviewer box: use global text.
 title: "Why Both Partners Need Fertility Evaluation"
 description: "Fertility is a shared issue. Learn why testing both partners together saves time, avoids unnecessary treatment and leads to a clearer, more accurate."
 url: /blog/why-both-partners-need-fertility-evaluation/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-15"
 category: "Male Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-15"
+dateModified: "2026-10-15"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Male Infertility"
@@ -11114,12 +11114,12 @@ Reviewer box: use global text.
 title: "Pregnancy After IVF: Embryo Transfer & Early Pregnancy"
 description: "Pregnancy after IVF explained, including implantation, hCG testing, early symptoms, ultrasound monitoring and warning signs after embryo transfer."
 url: /blog/pregnancy-after-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-15"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-15"
+dateModified: "2026-10-15"
 badge: fertility-evaluation
 readingTime: 16
 cluster: "Pregnancy After IVF"
@@ -11599,12 +11599,12 @@ Reviewer box: use global text.
 title: "Positive Pregnancy Test After IVF: What Happens Next?"
 description: "A positive test after IVF is the start of close monitoring. Learn about repeat hCG tests, the first scans, medicines and when care moves to a regular."
 url: /blog/positive-pregnancy-test-after-ivf-next-steps/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-16"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-16"
+dateModified: "2026-10-16"
 badge: early-pregnancy-scan
 readingTime: 4
 cluster: "Pregnancy After IVF"
@@ -11707,12 +11707,12 @@ Reviewer box: use global text.
 title: "Embryo Implantation After IVF: Timeline and Signs"
 description: "Implantation usually happens within a few days of embryo transfer. Learn the day-by-day timeline, why symptoms are unreliable and when a blood test gives."
 url: /blog/embryo-implantation-after-ivf-timeline/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-16"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-16"
+dateModified: "2026-10-16"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Pregnancy After IVF"
@@ -11834,12 +11834,12 @@ Reviewer box: use global text.
 title: "Blastocyst Transfer and Embryo Grading Explained"
 description: "Embryo grades and blastocyst transfer can be confusing. Learn how embryos develop, how grading works, what it can and cannot predict and why day 5."
 url: /blog/blastocyst-transfer-embryo-grading-explained/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-17"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-17"
+dateModified: "2026-10-17"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Pregnancy After IVF"
@@ -11950,12 +11950,12 @@ Reviewer box: use global text.
 title: "Frozen Embryo Transfer Process and Preparation"
 description: "Frozen embryo transfer uses embryos stored from a previous IVF cycle. Learn how the cycle is prepared, what the transfer involves and what to expect."
 url: /blog/frozen-embryo-transfer-process-preparation/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-17"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-17"
+dateModified: "2026-10-17"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Pregnancy After IVF"
@@ -12054,12 +12054,12 @@ Reviewer box: use global text.
 title: "Early Pregnancy After IVF: When to Call Your Doctor"
 description: "Some symptoms in early IVF pregnancy are normal, while others need urgent care. Learn the warning signs of ectopic pregnancy, OHSS and miscarriage, and."
 url: /blog/early-pregnancy-after-ivf-warning-signs/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-17"
 category: "Pregnancy After IVF"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-17"
+dateModified: "2026-10-17"
 badge: early-pregnancy-scan
 readingTime: 4
 cluster: "Pregnancy After IVF"
@@ -12179,12 +12179,12 @@ Reviewer box: use global text.
 title: "Recurrent Miscarriage: Causes, Tests & Treatment"
 description: "Learn about recurrent miscarriage, possible causes, recommended tests, treatment options and planning for a future pregnancy with specialist fertility."
 url: /blog/recurrent-miscarriage-causes-tests-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-18"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-18"
+dateModified: "2026-10-18"
 badge: pregnancy-loss
 readingTime: 16
 cluster: "Recurrent Pregnancy Loss"
@@ -12734,12 +12734,12 @@ Reviewer box: use global text.
 title: "When Is Miscarriage Called Recurrent Pregnancy Loss?"
 description: "Recurrent pregnancy loss usually means two or more pregnancy losses. Learn how it is defined, why evaluation matters and what most couples can hope for."
 url: /blog/recurrent-miscarriage-recurrent-pregnancy-loss/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-18"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-18"
+dateModified: "2026-10-18"
 badge: pregnancy-loss
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"
@@ -12838,12 +12838,12 @@ Reviewer box: use global text.
 title: "Hysteroscopy for Infertility When Is It Needed"
 description: "Hysteroscopy lets doctors see inside the womb to find polyps, fibroids and scar tissue that affect fertility. Learn when it is advised, how it is done."
 url: /blog/hysteroscopy-for-infertility-when-is-it-needed/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-18"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-18"
+dateModified: "2026-10-18"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"
@@ -12944,12 +12944,12 @@ Reviewer box: use global text.
 title: "Tests After Recurrent Miscarriage: What Is Checked"
 description: "After repeated pregnancy loss, specialists may check the uterus, hormones, clotting factors and chromosomes. Learn what each test looks for and why not."
 url: /blog/tests-after-recurrent-miscarriage/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-19"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-19"
+dateModified: "2026-10-19"
 badge: pregnancy-loss
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"
@@ -13050,12 +13050,12 @@ Reviewer box: use global text.
 title: "Thyroid Problems and Fertility"
 description: "Thyroid disorders can disturb ovulation, periods and early pregnancy. Learn how hypothyroidism and hyperthyroidism affect fertility, which tests matter."
 url: /blog/thyroid-problems-and-fertility/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-19"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-19"
+dateModified: "2026-10-19"
 badge: thyroid
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"
@@ -13156,12 +13156,12 @@ Reviewer box: use global text.
 title: "Genetic Testing in IVF PGT-A Is It Worth It"
 description: "Preimplantation genetic testing screens embryos for chromosome problems. Learn what PGT-A, PGT-M and PGT-SR are, who may benefit, limits of testing and."
 url: /blog/genetic-testing-in-ivf-pgt-a-is-it-worth-it/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-19"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-19"
+dateModified: "2026-10-19"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"
@@ -13254,12 +13254,12 @@ Reviewer box: use global text.
 title: "Fertility After 35 in Bangalore: Egg Quality & Treatment"
 description: "How age affects egg quality after 35, when to see a fertility specialist, and what IUI, IVF and egg freezing can and can't do. A clear, practical guide."
 url: /blog/fertility-after-thirty-five-egg-quality-age-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-20"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-20"
+dateModified: "2026-10-20"
 badge: ovarian-reserve
 readingTime: 17
 cluster: "Fertility After 35"
@@ -13601,12 +13601,12 @@ Reviewer box: use global text.
 title: "Fertility After 35: What Changes and When to Seek Help"
 description: "Fertility gradually declines after 35, but many women still conceive. Learn what changes with age, which tests help and why seeking help after 6 months."
 url: /blog/fertility-after-35-when-to-seek-help/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-20"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-20"
+dateModified: "2026-10-20"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Fertility After 35"
@@ -13715,12 +13715,12 @@ Reviewer box: use global text.
 title: "Egg Quality After 35: What You Can and Cannot Change"
 description: "Egg quality declines with age, and no supplement can fully reverse that. Learn what egg quality means, which habits support it and which marketing claims."
 url: /blog/egg-quality-after-35/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-20"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-20"
+dateModified: "2026-10-20"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Fertility After 35"
@@ -13832,12 +13832,12 @@ Reviewer box: use global text.
 title: "Pregnancy After 40: Fertility, Risks and Options"
 description: "Pregnancy after 40 is possible, but fertility is lower and some risks are higher. Learn what changes, which checks matter and the treatment options that."
 url: /blog/pregnancy-after-40-fertility-risks-options/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-21"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-21"
+dateModified: "2026-10-21"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Fertility After 35"
@@ -13955,12 +13955,12 @@ Reviewer box: use global text.
 title: "Egg Freezing: Who Should Consider It?"
 description: "Egg freezing lets women store eggs for future use. Learn who may benefit, how the process works, why age at freezing matters and what it can and cannot."
 url: /blog/egg-freezing-fertility-preservation/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-21"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-21"
+dateModified: "2026-10-21"
 badge: egg-freezing
 readingTime: 4
 cluster: "Fertility After 35"

@@ -2,12 +2,12 @@
 title: "Female Infertility Causes, Tests & Treatment | Bangalore"
 description: "Why some women find it hard to conceive, which fertility tests find the cause, and what treatment usually looks like. Guidance from a Bangalore specialist."
 url: /blog/female-infertility-causes-symptoms-tests-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-05"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-05"
+dateModified: "2026-10-05"
 badge: male-fertility
 readingTime: 17
 cluster: "Female Infertility"

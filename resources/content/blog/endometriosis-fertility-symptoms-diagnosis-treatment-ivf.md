@@ -2,12 +2,12 @@
 title: "Endometriosis and Fertility: Treatment & IVF in Bangalore"
 description: "Can you get pregnant with endometriosis? See how it affects fertility, how doctors diagnose it, and when surgery, IUI or IVF may help you conceive."
 url: /blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-09"
 category: "Endometriosis"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-09"
+dateModified: "2026-10-09"
 badge: female-infertility
 readingTime: 16
 cluster: "Endometriosis"

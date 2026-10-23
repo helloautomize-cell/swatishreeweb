@@ -2,12 +2,12 @@
 title: "Egg Freezing: Who Should Consider It?"
 description: "Egg freezing lets women store eggs for future use. Learn who may benefit, how the process works, why age at freezing matters and what it can and cannot."
 url: /blog/egg-freezing-fertility-preservation/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-21"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-21"
+dateModified: "2026-10-21"
 badge: egg-freezing
 readingTime: 4
 cluster: "Fertility After 35"

@@ -2,12 +2,12 @@
 title: "Pregnancy After 40: Fertility, Risks and Options"
 description: "Pregnancy after 40 is possible, but fertility is lower and some risks are higher. Learn what changes, which checks matter and the treatment options that."
 url: /blog/pregnancy-after-40-fertility-risks-options/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-21"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-21"
+dateModified: "2026-10-21"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Fertility After 35"

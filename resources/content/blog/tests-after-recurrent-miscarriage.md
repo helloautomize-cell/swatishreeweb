@@ -2,12 +2,12 @@
 title: "Tests After Recurrent Miscarriage: What Is Checked"
 description: "After repeated pregnancy loss, specialists may check the uterus, hormones, clotting factors and chromosomes. Learn what each test looks for and why not."
 url: /blog/tests-after-recurrent-miscarriage/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-19"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-19"
+dateModified: "2026-10-19"
 badge: pregnancy-loss
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"

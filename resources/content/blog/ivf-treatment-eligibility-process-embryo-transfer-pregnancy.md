@@ -2,12 +2,12 @@
 title: "IVF Treatment in Bangalore: Eligibility, Process, Pregnancy"
 description: "Who needs IVF, what happens from the first injection to embryo transfer, the risks worth knowing, and how early pregnancy after IVF is monitored."
 url: /blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-01"
 category: "IVF Treatment"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-01"
+dateModified: "2026-10-01"
 badge: fertility-evaluation
 readingTime: 18
 cluster: "IVF Treatment"

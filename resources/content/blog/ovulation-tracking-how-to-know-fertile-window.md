@@ -2,12 +2,12 @@
 title: "Ovulation Tracking How to Know Your Fertile Window"
 description: "Timing intercourse around ovulation raises your chance of pregnancy. Learn how to track ovulation using cycle dates, symptoms, kits and ultrasound."
 url: /blog/ovulation-tracking-how-to-know-fertile-window/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-12"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-12"
+dateModified: "2026-10-12"
 badge: follicular-monitoring
 readingTime: 4
 cluster: "IUI (Intrauterine Insemination)"

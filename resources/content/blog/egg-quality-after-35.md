@@ -2,12 +2,12 @@
 title: "Egg Quality After 35: What You Can and Cannot Change"
 description: "Egg quality declines with age, and no supplement can fully reverse that. Learn what egg quality means, which habits support it and which marketing claims."
 url: /blog/egg-quality-after-35/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-20"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-20"
+dateModified: "2026-10-20"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Fertility After 35"

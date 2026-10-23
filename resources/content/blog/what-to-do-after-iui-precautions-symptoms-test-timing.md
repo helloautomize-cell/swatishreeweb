@@ -2,12 +2,12 @@
 title: "What to Do After IUI: Precautions, Symptoms and Pregnancy"
 description: "After IUI you can usually return to normal activities. Learn what to do during the two-week wait, which symptoms are common, when to take a pregnancy."
 url: /blog/what-to-do-after-iui-precautions-symptoms-test-timing/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-13"
 category: "IUI (Intrauterine Insemination)"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-13"
+dateModified: "2026-10-13"
 badge: early-pregnancy-scan
 readingTime: 4
 cluster: "IUI (Intrauterine Insemination)"

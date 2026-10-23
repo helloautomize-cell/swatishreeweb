@@ -2,12 +2,12 @@
 title: "Fertility After 35: What Changes and When to Seek Help"
 description: "Fertility gradually declines after 35, but many women still conceive. Learn what changes with age, which tests help and why seeking help after 6 months."
 url: /blog/fertility-after-35-when-to-seek-help/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-20"
 category: "Fertility After 35"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-20"
+dateModified: "2026-10-20"
 badge: ovarian-reserve
 readingTime: 4
 cluster: "Fertility After 35"

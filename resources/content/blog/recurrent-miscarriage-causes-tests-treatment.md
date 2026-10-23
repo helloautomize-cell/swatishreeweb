@@ -2,12 +2,12 @@
 title: "Recurrent Miscarriage: Causes, Tests & Treatment"
 description: "Learn about recurrent miscarriage, possible causes, recommended tests, treatment options and planning for a future pregnancy with specialist fertility."
 url: /blog/recurrent-miscarriage-causes-tests-treatment/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-18"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-18"
+dateModified: "2026-10-18"
 badge: pregnancy-loss
 readingTime: 16
 cluster: "Recurrent Pregnancy Loss"

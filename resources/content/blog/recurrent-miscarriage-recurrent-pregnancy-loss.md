@@ -2,12 +2,12 @@
 title: "When Is Miscarriage Called Recurrent Pregnancy Loss?"
 description: "Recurrent pregnancy loss usually means two or more pregnancy losses. Learn how it is defined, why evaluation matters and what most couples can hope for."
 url: /blog/recurrent-miscarriage-recurrent-pregnancy-loss/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-18"
 category: "Recurrent Pregnancy Loss"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-18"
+dateModified: "2026-10-18"
 badge: pregnancy-loss
 readingTime: 4
 cluster: "Recurrent Pregnancy Loss"

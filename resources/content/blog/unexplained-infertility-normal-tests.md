@@ -2,12 +2,12 @@
 title: "Unexplained Infertility: When Fertility Tests Are Normal"
 description: "Unexplained infertility means standard tests are normal but pregnancy has not happened. Learn possible hidden causes, treatment options from IUI to IVF."
 url: /blog/unexplained-infertility-normal-tests/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-06"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-06"
+dateModified: "2026-10-06"
 badge: fertility-evaluation
 readingTime: 4
 cluster: "Female Infertility"

@@ -2,12 +2,12 @@
 title: "Fibroids and Fertility Can You Get Pregnant"
 description: "Many women with fibroids conceive naturally, but some fibroids affect fertility. Learn which types matter, how they are diagnosed and when treatment is."
 url: /blog/fibroids-and-fertility-can-you-get-pregnant/
-lastReviewed: "2026-10-22"
+lastReviewed: "2026-10-06"
 category: "Female Infertility"
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "2026-10-22"
-dateModified: "2026-10-22"
+datePublished: "2026-10-06"
+dateModified: "2026-10-06"
 badge: female-infertility
 readingTime: 4
 cluster: "Female Infertility"
