@@ -19,7 +19,8 @@ import { homeData } from "@/lib/home";
 import { resolveConfirm } from "@/lib/confirm";
 import { clinicOpenedShort, kmcRegLine } from "@/lib/facts";
 import { badgeFor } from "@/lib/service-badges";
-import { imageEntry } from "@/lib/images";
+import { imageEntry, pageLeadImage } from "@/lib/images";
+import BlogPostCard from "@/components/BlogPostCard";
 import AssetImage from "@/components/AssetImage";
 import { site } from "@/lib/site-config";
 import { CtaBand } from "@/components/pages/PageFoot";
@@ -261,19 +262,17 @@ function BlogStrip({ d }: { d: ReturnType<typeof homeData> }) {
       </Reveal>
       <AutoScrollRow id="home-blog" className="hm-blog" mobileOnly ariaLabel="From our blog">
         {posts.map((p) => (
-          <Link className="hm-post" href={p.url} key={p.url}>
-            <span className="hm-post-cover" aria-hidden>
-              {p.meta.badge && badgeFor(p.meta.badge) && (
-                <AssetImage file={badgeFor(p.meta.badge)!} size={112} />
-              )}
-            </span>
-            {p.meta.category && <span className="hm-post-cat">{p.meta.category}</span>}
-            <span className="hm-post-t">{p.h1.replace(/\*/g, "")}</span>
-            <span className="hm-post-meta">
-              Written by {site.doctor} · <WithConfirms text={p.meta.datePublished ?? ""} />
-              {p.meta.readingTime ? ` · ${p.meta.readingTime} min read` : ""}
-            </span>
-          </Link>
+          <BlogPostCard
+            key={p.url}
+            post={{
+              url: p.url,
+              name: p.h1.replace(/\*/g, ""),
+              category: p.meta.category ?? null,
+              cover: pageLeadImage(p.url),
+              datePublished: p.meta.datePublished ?? null,
+              readingTime: p.meta.readingTime ?? null,
+            }}
+          />
         ))}
       </AutoScrollRow>
       <p className="hm-more"><Link className="link" href="/blog/">{d.blogLink || "Read the blog"} <ArrowRight size={16} strokeWidth={1.75} aria-hidden /></Link></p>
