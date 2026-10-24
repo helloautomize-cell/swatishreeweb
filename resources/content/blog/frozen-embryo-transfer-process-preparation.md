@@ -26,11 +26,11 @@ Frozen embryo transfer, or FET, is a fertility treatment in which embryos create
 
 This article is part of our [pregnancy after IVF](/blog/pregnancy-after-ivf/) guide.
 
-### Why Is a Frozen Transfer Done?
+### Why is a frozen transfer done?
 
 Reasons include having extra embryos after a fresh IVF cycle, avoiding transfer in a cycle with very high hormone levels or risk of ovarian hyperstimulation, allowing time for genetic testing of embryos, preparing a better uterine lining, and fertility preservation. Many clinics now freeze all embryos in selected situations.
 
-### How Is the Cycle Prepared?
+### How is the cycle prepared?
 
 ## Natural cycle
 
@@ -46,23 +46,23 @@ Some protocols use mild medicines to support ovulation along with monitoring.
 
 Your doctor chooses the plan based on your cycle and history.
 
-### What Happens on Transfer Day?
+### What happens on transfer day?
 
 The embryo is thawed in the laboratory and assessed. You lie down, a speculum is placed, and under ultrasound guidance a soft catheter places the embryo in the womb. The procedure is quick and usually painless, similar to a Pap smear. You may rest briefly afterward.
 
-### What Happens After the Transfer?
+### What happens after the transfer?
 
 You continue hormone support as prescribed. You can usually resume normal activities, avoiding strenuous exercise as advised. A blood pregnancy test is done about ten to fourteen days after transfer. Mild cramping, spotting or bloating can occur but are not reliable signs of success or failure.
 
-### What Are the Possible Risks?
+### What are the possible risks?
 
 FET carries the usual risks of embryo transfer, such as the possibility of multiple pregnancy if more than one embryo is transferred, and ectopic pregnancy. Hormone medicines can cause side effects such as bloating or breast tenderness. Some studies show differences in pregnancy complications between fresh and frozen cycles, which your doctor can explain.
 
-### How Many Embryos Should Be Transferred?
+### How many embryos should be transferred?
 
 Many clinics recommend single embryo transfer to reduce multiple pregnancy risk, particularly with good quality embryos. Your specialist will discuss the best approach for you.
 
-### Does Freezing Harm Embryos?
+### Does freezing harm embryos?
 
 Modern freezing, called vitrification, preserves embryos very well, and most embryos survive thawing. Your clinic will tell you the survival and outcomes relevant to your situation, without making unrealistic promises.
 
@@ -80,16 +80,15 @@ Frozen embryo transfer gives flexibility and, for many patients, a gentler path.
 ### FAQs
 
 1. **Is frozen embryo transfer better than fresh transfer?**
-   Neither is better for everyone. FET offers flexibility and avoids transfer in high-hormone cycles, and for some patients it gives similar or better outcomes. Your doctor will recommend based on your situation.
+         Neither is better for everyone. FET offers flexibility and avoids transfer in high-hormone cycles, and for some patients it gives similar or better outcomes. Your doctor will recommend based on your situation. For many patients outcomes are equal or slightly better, because the lining can be prepared calmly without stimulation hormones. Freezing also lets a transfer wait when OHSS risk or timing argues for it.
 2. **How long can embryos stay frozen?**
-   Embryos can remain frozen for many years without losing viability when stored properly. Storage duration is governed by clinic policy and applicable regulations. Your clinic will explain the details.
+         Embryos can remain frozen for many years without losing viability when stored properly. Storage duration is governed by clinic policy and applicable regulations. Your clinic will explain the details. Many years. Survival on thawing is excellent with modern vitrification, and healthy babies are born from embryos frozen for over a decade. Storage has annual consent and paperwork requirements.
 3. **Is frozen embryo transfer painful?**
-   The transfer is usually painless or mildly uncomfortable, similar to a Pap smear. You do not need anaesthesia. The hormone medicines may cause side effects such as bloating.
+         The transfer is usually painless or mildly uncomfortable, similar to a Pap smear. You do not need anaesthesia. The hormone medicines may cause side effects such as bloating. No. It is a quick procedure like a Pap smear, placing the thawed embryo through a thin catheter without sedation. Most women feel nothing beyond mild discomfort and return to normal activity.
 4. **When should I take a pregnancy test after FET?**
-   A blood pregnancy test is usually done about ten to fourteen days after the transfer, depending on the embryo's stage and your clinic's protocol. Testing too early can give misleading results.
+         A blood pregnancy test is usually done about ten to fourteen days after the transfer, depending on the embryo's stage and your clinic's protocol. Testing too early can give misleading results. On the date your clinic sets, usually nine to twelve days after a day-5 embryo transfer. Testing sooner risks false negatives and, if a trigger was used, a misleading positive.
 5. **Can I resume normal activities after embryo transfer?**
-   Most people can resume light daily activities soon after transfer, avoiding heavy exercise and straining as advised. Complete bed rest is not required. Follow your doctor's instructions.
-
+         Most people can resume light daily activities soon after transfer, avoiding heavy exercise and straining as advised. Complete bed rest is not required. Follow your doctor's instructions. Yes, normal daily activity is fine and bed rest is not needed. Avoid very strenuous exercise, heavy lifting and heat on the abdomen for a few days while the embryo settles.
 ### Sources and further reading
 
 - [NHS: IVF](https://www.nhs.uk/conditions/ivf/)

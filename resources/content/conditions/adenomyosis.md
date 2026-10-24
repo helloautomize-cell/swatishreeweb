@@ -81,8 +81,7 @@ Adenomyosis is linked with a higher risk of implantation problems, miscarriage a
 5. **Does adenomyosis need surgery?**
    Not always. Many women are managed with medicine or a hormonal IUD. Surgery is considered when symptoms persist, or when fertility goals require it. Dr. Swati explains the options, benefits and risks.
 6. **Does adenomyosis go away after menopause?**
-   Usually the symptoms ease after menopause, because the condition depends on hormones. Heavy bleeding or new pain after menopause is not expected and should be checked.
-
+         Usually the symptoms ease after menopause, because the condition depends on hormones. Heavy bleeding or new pain after menopause is not expected and should be checked. Usually it settles, since it is driven by the same hormones that stop at menopause. Until then it is managed with pain relief, hormonal treatment or, in selected cases, surgery.
 ### Sources
 - ESHRE Guideline: Endometriosis (2022), for overlapping conditions
 - ACOG Practice Bulletin: Abnormal uterine bleeding

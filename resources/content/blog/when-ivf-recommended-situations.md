@@ -26,43 +26,43 @@ Most couples reach IVF after simpler options have been tried, or after a special
 
 This article is part of our [IVF treatment](/blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/) guide.
 
-### Why Is IVF Rarely the First Step?
+### Why is IVF rarely the first step?
 
 IVF is far more demanding than ovulation tablets or IUI. It involves daily injections, repeated scans, a short procedure under sedation and laboratory work, and it costs more. Specialists start with the simpler options in most cases. A specific diagnosis is what tips the balance towards IVF.
 
-### When Do Blocked or Damaged Tubes Lead to IVF?
+### When do blocked or damaged tubes lead to IVF?
 
 IUI depends on the egg and sperm meeting inside the fallopian tube. If both tubes are blocked or badly scarred, that meeting cannot happen, and IVF avoids the tubes altogether. Past pelvic infection, an ectopic pregnancy or pelvic surgery are common causes of this damage. A swollen, fluid-filled tube may need treatment before embryo transfer, because fluid leaking into the uterus can interfere with implantation.
 
-### When Do Sperm Problems Lead to IVF?
+### When do sperm problems lead to IVF?
 
 Mild sperm problems often respond to IUI. IVF becomes the more likely route when the count is very low, the sperm barely move, or very few have a normal shape. The embryologist may then use ICSI, which places one selected sperm inside each mature egg. ICSI is a step within the IVF cycle, not a treatment of its own.
 
-### Does Endometriosis Make IVF More Likely?
+### Does endometriosis make IVF more likely?
 
 Mild endometriosis may not prevent natural conception. Moderate to severe disease, endometriosis involving the tubes or ovaries, and disease that has not settled with IUI are the situations where IVF enters the conversation more often. Endometriosis can also reduce ovarian reserve, so AMH results and scans help shape the plan.
 
-### What Does a Low AMH Result Change?
+### What does a low AMH result change?
 
 AMH is a blood test that gives a rough sense of how many eggs remain. A low value usually means fewer eggs can be collected in one cycle, which lowers the chances with IUI. The test does not measure egg quality, and it does not rule out pregnancy. The stimulation dose can be tailored to a lower reserve.
 
-### When Are PCOS and Unexplained Infertility Reasons for IVF?
+### When are PCOS and unexplained infertility reasons for IVF?
 
 Many women with PCOS respond well to ovulation tablets. IVF usually comes up after several cycles of ovulation induction and IUI have been tried. Unexplained infertility means the standard tests look normal. After a reasonable number of IUI cycles, IVF may be advised, because it can work around subtle problems with eggs, sperm or tubes that routine tests miss.
 
-### How Does Age Change the Advice?
+### How does age change the advice?
 
 Age has a strong effect on fertility. Egg number and quality decline over time, and the decline quickens after 35. Women in their late 30s and 40s are often guided towards IVF sooner, rather than spending long stretches on simpler cycles. Egg freezing is also worth discussing for women who want to keep options open for later.
 
-### What Can IVF Not Fix?
+### What can IVF not fix?
 
 IVF cannot improve egg quality on its own. A polyp, a fibroid pressing into the uterine cavity or a very thin lining may need treatment first. Raising these early helps you decide whether IVF should begin now or after a short correction.
 
-### How Is the Decision Made at EVE?
+### How is the decision made at EVE?
 
 At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree usually evaluates both partners before any plan is made. If IVF is the right step, she assesses you at EVE and guides your treatment through her partner fertility centres, Apollo Fertility and Motherhood Fertility. Egg collection, laboratory work and embryo transfer take place at those centres.
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Guidelines generally suggest a check-up if you are under 35 and have not conceived after a year of regular unprotected sex. For women aged 35 or older, six months is the usual point to seek advice. From 40 onwards, waiting is rarely sensible. During treatment, get urgent care for severe belly pain, breathlessness, much less urine or heavy bleeding.
 

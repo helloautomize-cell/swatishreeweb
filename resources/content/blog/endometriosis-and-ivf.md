@@ -14,7 +14,7 @@ cluster: "Endometriosis"
 pillar: false
 keywords: []
 about: {type: MedicalCondition, name: "Endometriosis"}
-related: [/conditions/endometriosis/, /conditions/adenomyosis/]
+related: [/conditions/endometriosis/, /conditions/adenomyosis/, /treatments/ivf/, /services/fertility-evaluation/]
 posts: [/blog/can-endometriosis-cause-infertility/, /blog/low-amh-and-ivf-treatment/, /blog/frozen-embryo-transfer-process-preparation/, /blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/]
 ---
 
@@ -26,7 +26,7 @@ IVF may be considered for women with endometriosis when the fallopian tubes are 
 
 This article is part of our [endometriosis and fertility](/blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/) guide.
 
-### How Does IVF Help With Endometriosis?
+### How does IVF help with endometriosis?
 
 Endometriosis can affect the tubes, ovaries and pelvic environment. IVF helps by:
 - Bypassing blocked or damaged tubes
@@ -34,7 +34,7 @@ Endometriosis can affect the tubes, ovaries and pelvic environment. IVF helps by
 - Allowing fertilisation in a controlled lab setting
 - Placing the embryo directly into the uterus
 
-### When Is IVF Usually Considered?
+### When is IVF usually considered?
 
 ## Tubal damage
 
@@ -60,7 +60,7 @@ If the partner's semen analysis is abnormal, IVF with ICSI may be advised.
 
 If IUI cycles or surgery have not led to pregnancy, IVF may be the next step.
 
-### How Is IVF Planned for Endometriosis?
+### How is IVF planned for endometriosis?
 
 ## Evaluation
 
@@ -78,7 +78,7 @@ Ovaries are stimulated with medicines to grow several eggs, which are then colle
 
 Some clinics may consider a frozen embryo transfer in selected endometriosis cases, after a hormonal preparation. Your doctor will explain the reasons for your plan.
 
-### What Should You Expect?
+### What should you expect?
 
 IVF outcomes depend mainly on age, egg reserve and embryo quality. Endometriosis may lower the number of eggs collected in some women, but many still achieve pregnancy. Your specialist will discuss realistic expectations based on your results.
 
@@ -96,18 +96,17 @@ IVF can be a hopeful option when endometriosis affects fertility, especially whe
 ### FAQs
 
 1. **Is IVF successful with endometriosis?**
-   Many women with endometriosis conceive with IVF. Outcomes depend mostly on age, egg reserve and embryo quality. Your specialist can explain what to expect based on your own test results rather than general figures.
+         Many women with endometriosis conceive with IVF. Outcomes depend mostly on age, egg reserve and embryo quality. Your specialist can explain what to expect based on your own test results rather than general figures. Yes, outcomes are reasonable, though severe disease can lower response and embryo numbers. Protocols are adjusted for the inflammation and reduced reserve that sometimes come with the condition.
 2. **Should I remove endometriosis cysts before IVF?**
-   Not always. Surgery can reduce egg reserve. Small or medium cysts are often left alone. Surgery may be considered if cysts are very large, painful, block egg collection or look unusual on a scan.
+         Not always. Surgery can reduce egg reserve. Small or medium cysts are often left alone. Surgery may be considered if cysts are very large, painful, block egg collection or look unusual on a scan. Not routinely. Cyst surgery can cost you egg reserve, so it is reserved for large cysts, suspicion of something other than endometriosis, or easy access problems at egg collection.
 3. **Does endometriosis affect embryo quality?**
-   Research is ongoing. Some studies suggest a small effect, while others show similar embryo quality. Age remains the most important factor. Your embryologist will assess embryo development in your cycle.
+         Research is ongoing. Some studies suggest a small effect, while others show similar embryo quality. Age remains the most important factor. Your embryologist will assess embryo development in your cycle. Evidence is mixed. Severe disease and ovarian cysts may affect the eggs' environment, but many women with endometriosis make good embryos. Reserve and age are better guides than the label.
 4. **Can endometriosis get worse during IVF?**
-   IVF medicines raise hormone levels for a short time, but this rarely causes lasting worsening. Some women notice temporary pain. Your doctor will monitor you and manage any symptoms.
+         IVF medicines raise hormone levels for a short time, but this rarely causes lasting worsening. Some women notice temporary pain. Your doctor will monitor you and manage any symptoms. Stimulation can temporarily aggravate symptoms, and ovarian cysts can grow a little, but IVF does not typically drive the disease forward. Your team watches for this during the cycle.
 5. **Is frozen embryo transfer better for endometriosis?**
-   Some specialists prefer frozen transfer in selected cases, after preparing the uterus with medicines. Evidence is still evolving. The choice depends on your response to stimulation and your doctor's assessment.
+         Some specialists prefer frozen transfer in selected cases, after preparing the uterus with medicines. Evidence is still evolving. The choice depends on your response to stimulation and your doctor's assessment. Often preferred, because it lets the hormones settle first and sometimes follows a period of suppression that calms the uterus. Your specialist will recommend it when the uterus needs quietening.
 6. **How soon should I move to IVF with endometriosis?**
-   It depends on age, egg reserve, tubal status and previous treatments. Women over 35 or with low reserve may be advised to consider IVF sooner. A fertility specialist can set the right timeline.
-
+         It depends on age, egg reserve, tubal status and previous treatments. Women over 35 or with low reserve may be advised to consider IVF sooner. A fertility specialist can set the right timeline. Sooner if disease is moderate to severe, tubes are damaged, reserve is low or you are over 35. With mild disease and time on your side, a short trial of simpler options may come first.
 ### Sources and further reading
 
 - [NHS: Endometriosis](https://www.nhs.uk/conditions/endometriosis/)

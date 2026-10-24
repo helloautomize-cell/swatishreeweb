@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Breadcrumbs from "@/components/shell/Breadcrumbs";
 import { InlineText } from "@/lib/content/render";
 import { childrenOf, type PageDoc } from "@/lib/content/load";
 import { pageLeadImage } from "@/lib/images";
@@ -28,6 +29,7 @@ export default function BlogIndexPage({ doc }: { doc: PageDoc }) {
     .sort((a, b) => a.num - b.num);
   return (
     <main id="main">
+      <Breadcrumbs items={[{ label: "Blog" }]} />
       <div className="pg pg-hub container-eve">
         <header className="pg-hero">
           <span className="eyebrow">Blog</span>

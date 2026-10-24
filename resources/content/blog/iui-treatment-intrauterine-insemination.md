@@ -28,7 +28,7 @@ IUI, or intrauterine insemination, is a fertility treatment in which prepared sp
 
 The treatment is relatively straightforward, but deciding whether it is suitable requires a proper assessment of both partners.
 
-### How Does IUI Work?
+### How does IUI work?
 
 The easiest way to understand IUI is to compare it with what normally happens during intercourse.
 
@@ -46,7 +46,7 @@ Follicle development, then ovulation, then sperm preparation, then IUI, then fer
 
 The important point is that IUI creates a better opportunity for sperm to meet the egg. It cannot make fertilisation happen.
 
-### Why Might a Fertility Specialist Recommend IUI?
+### Why might a fertility specialist recommend IUI?
 
 IUI is not a treatment that fits every infertility diagnosis.
 
@@ -84,7 +84,7 @@ Because IUI places prepared sperm inside the uterus, it can bypass the cervical 
 
 Whether this is clinically useful depends on the wider fertility assessment.
 
-### When May IUI Not Be the Right Treatment?
+### When may IUI not be the right treatment?
 
 IUI has clear limitations.
 
@@ -100,7 +100,7 @@ Examples include:
 
 The presence of one of these factors does not mean the same treatment is required for everyone. Fertility treatment is individualised.
 
-### What Tests Are Done Before IUI?
+### What tests are done before IUI?
 
 The preparation for IUI is often more important than the insemination itself.
 
@@ -138,7 +138,7 @@ One abnormal semen report does not necessarily tell the whole story. Results can
 
 Fertility evaluation should involve both partners. Infertility is not automatically a female problem.
 
-### What Happens During an IUI Cycle?
+### What happens during an IUI cycle?
 
 There is no single IUI protocol that is used for every patient.
 
@@ -218,7 +218,7 @@ There is no need to expect significant pain from a routine IUI procedure.
 
 However, severe or persistent pain is different. If pain becomes intense, particularly when accompanied by heavy bleeding or fever, contact your fertility team.
 
-### When Is IUI Done?
+### When is IUI done?
 
 IUI is timed around ovulation.
 
@@ -232,7 +232,7 @@ Getting the timing right matters because an egg remains available for fertilisat
 
 This is also why follicular monitoring can be useful in IUI treatment.
 
-### What Happens After IUI?
+### What happens after IUI?
 
 Once the sperm has been placed in the uterus, the rest of the process is biological.
 
@@ -252,7 +252,7 @@ None of these symptoms can reliably confirm pregnancy.
 
 Some of the symptoms associated with early pregnancy overlap with normal hormonal changes after ovulation, so trying to interpret every sensation during the waiting period can be misleading.
 
-### When Should You Take a Pregnancy Test After IUI?
+### When should you take a pregnancy test after IUI?
 
 Your fertility clinic will tell you when to test.
 
@@ -262,7 +262,7 @@ A blood beta-hCG test may be recommended when confirmation is needed.
 
 It is better to follow the testing date provided by the treating team rather than repeatedly testing very early and trying to interpret faint or changing lines.
 
-### What Affects the Chances of Pregnancy With IUI?
+### What affects the chances of pregnancy with IUI?
 
 There is no single IUI success rate that applies to every patient.
 
@@ -285,7 +285,7 @@ The doctor may also consider:
 
 This is why a doctor should not estimate an individual's outcome from one number, such as AMH or sperm count.
 
-### How Many IUI Cycles Should You Try?
+### How many IUI cycles should you try?
 
 This is one of the most common questions patients ask.
 
@@ -307,7 +307,7 @@ The decision to continue IUI or move to another treatment may depend on:
 
 For one couple, another IUI cycle may be reasonable. For another, continuing IUI may simply delay a treatment that is more appropriate.
 
-### IUI vs IVF: How Are They Different?
+### IUI vs IVF: how are they different?
 
 Patients sometimes think of IUI as a simpler version of IVF. They are actually quite different.
 
@@ -329,7 +329,7 @@ On the other hand, some couples may have a reasonable opportunity to try IUI bef
 
 The choice needs to be based on the couple's fertility assessment.
 
-### What Are the Risks of IUI?
+### What are the risks of IUI?
 
 IUI itself is a relatively simple procedure, but fertility medicines used alongside IUI can introduce additional risks.
 
@@ -364,7 +364,7 @@ Mild cramping or light spotting may occur around the time of insemination.
 
 Heavy bleeding or severe pain requires assessment.
 
-### Can IUI Be Used for PCOS?
+### Can IUI be used for PCOS?
 
 It can be considered in selected women with PCOS.
 
@@ -376,7 +376,7 @@ Having PCOS does not automatically mean that IVF is necessary.
 
 The doctor also needs to consider age, sperm quality, fallopian tubes, ovarian reserve, previous treatment and how long the couple has been trying to conceive.
 
-### Can You Have IUI With Low AMH?
+### Can you have IUI with low AMH?
 
 A low AMH result does not automatically rule out IUI.
 
@@ -386,7 +386,7 @@ At the same time, ovarian reserve is relevant when planning fertility treatment,
 
 A doctor will usually look at the complete picture rather than making a treatment decision from AMH alone.
 
-### Is IUI Possible With Endometriosis?
+### Is IUI possible with endometriosis?
 
 Sometimes.
 
@@ -405,7 +405,7 @@ For some women, IUI may be considered. In other situations, IVF may be discussed
 
 The important point is that endometriosis does not automatically lead to one treatment for every patient.
 
-### Common Questions and Misconceptions About IUI
+### Common questions and misconceptions about IUI
 
 ## Does IUI guarantee pregnancy?
 
@@ -431,7 +431,7 @@ No. Male factors, female factors, a combination of factors or unexplained infert
 
 Strict bed rest is generally not necessary after an uncomplicated IUI. Your fertility team may provide specific instructions based on your treatment.
 
-### What Should You Ask Before Starting IUI?
+### What should you ask before starting IUI?
 
 A fertility consultation should leave you with a clear understanding of why IUI is being suggested.
 
@@ -451,7 +451,7 @@ You can ask:
 
 These questions are particularly useful because IUI should be a planned treatment rather than something done simply because it is less invasive than IVF.
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Waiting is not always the right approach.
 
@@ -475,7 +475,7 @@ Women in their mid-to-late 30s and beyond may benefit from discussing fertility 
 
 The right timing depends on the individual history.
 
-### When Should You Seek Urgent Medical Attention?
+### When should you seek urgent medical attention?
 
 Some symptoms after fertility treatment need prompt assessment.
 

@@ -26,17 +26,17 @@ The embryo transfer itself takes only a few minutes. Most women walk out of the 
 
 This article is part of our [IVF treatment](/blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/) guide.
 
-### What Is Happening Inside the Body?
+### What is happening inside the body?
 
 Most transferred embryos are at the blastocyst stage, around day 5 or 6 of development. Over the next several days, the embryo attaches to the uterine lining. This attachment is called implantation. Progesterone keeps the lining receptive during this window, which is why doctors stress regular dosing.
 
-### Common Symptoms After Embryo Transfer
+### Common symptoms after embryo transfer
 
 Many women ask whether a particular twinge means something. The honest answer is that most early symptoms overlap with pregnancy and with progesterone side effects. Mild lower abdominal cramping, light spotting, bloating, breast tenderness, tiredness, and mood swings are typical. If progesterone is given as a gel or pessary, some vaginal discharge or irritation is also expected.
 
 Symptoms alone are not a reliable guide. Some women feel nothing and test positive, while others feel a great deal and test negative.
 
-### When to Seek Urgent Care
+### When to seek urgent care
 
 Contact your clinic immediately, or go to the nearest emergency unit, if you develop:
 - Severe or worsening abdominal pain, or rapid swelling of the belly, which can signal ovarian hyperstimulation syndrome (OHSS)
@@ -50,13 +50,13 @@ Bed rest is not required. Gentle walking and normal daily routines are generally
 
 Stick to the medicines you have been prescribed. Avoid smoking and alcohol, and keep tea and coffee to a couple of cups a day. Herbal mixes and supplements that your doctor has not recommended can interfere with fertility medicines, so check with the clinic before starting anything new.
 
-### When Should You Take a Pregnancy Test?
+### When should you take a pregnancy test?
 
 The dependable test is a beta hCG blood test, usually done 9 to 14 days after transfer. The exact day depends on the embryo's stage and your clinic's protocol.
 
 Home urine tests done too early are a common source of confusion. The trigger injection given before egg collection can remain in the body for several days, which may produce a false positive. A test taken too soon can also miss a pregnancy that is already present. If the blood test is negative, your doctor will go through the cycle with you before suggesting the next step.
 
-### What Happens After a Positive Test?
+### What happens after a positive test?
 
 A positive result usually leads to a repeat blood test after two or three days, to check that the level is rising appropriately. A transvaginal scan about two to three weeks later confirms that the pregnancy is inside the uterus. Progesterone continues until you are told to stop. Light spotting is fairly common in early pregnancy, but any bleeding or pain should be reported so it can be checked.
 
@@ -81,7 +81,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 3. **Can I take a home pregnancy test a few days after transfer?**
    It is better to wait. The trigger injection can leave hCG-like hormone in the body for days, which may cause a false positive. An early test can also miss a real pregnancy. The beta hCG blood test, done 9 to 14 days after transfer, is the most dependable option.
 4. **Is bed rest necessary after embryo transfer?**
-   No. Studies have not shown that bed rest improves implantation. Walking and normal daily routines are generally fine. Avoid heavy lifting and strenuous exercise until your doctor confirms it is safe for you.
+         No. Studies have not shown that bed rest improves implantation. Walking and normal daily routines are generally fine. Avoid heavy lifting and strenuous exercise until your doctor confirms it is safe for you. No. Studies show strict bed rest does not improve implantation and may even reduce blood flow. Normal daily activity is fine; avoid heavy lifting, intense workouts and heat on the abdomen for a few days.
 5. **Where can I get post-transfer care in East Bangalore?**
    Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultations and follow-up guidance, including for patients whose IVF cycles were done at partner centres. Gunjur is close to Varthur and Whitefield. Bring your transfer details, current medicine list, and recent blood reports to the appointment.
 

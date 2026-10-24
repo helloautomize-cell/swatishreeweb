@@ -26,15 +26,15 @@ The fallopian tubes carry the egg from the ovary to the womb and are where ferti
 
 This article is part of our [female infertility](/blog/female-infertility-causes-symptoms-tests-treatment/) guide.
 
-### What Causes Tubal Blockage?
+### What causes tubal blockage?
 
 Common causes include pelvic infections such as pelvic inflammatory disease, past tuberculosis, previous abdominal or pelvic surgery, endometriosis, ruptured appendix, previous ectopic pregnancy and sexually transmitted infections such as chlamydia. In some women no cause is found.
 
-### What Are the Symptoms?
+### What are the symptoms?
 
 Many women have no symptoms. Some have pelvic pain, abnormal discharge or a history of infection. A tube that fills with fluid, called hydrosalpinx, can cause pain or discharge. Infertility may be the only sign.
 
-### How Is It Diagnosed?
+### How is it diagnosed?
 
 ## Hysterosalpingogram
 
@@ -48,7 +48,7 @@ An ultrasound-based method that uses fluid or foam to check whether the tubes ar
 
 A surgical camera test that directly views the pelvis and tubes. It also allows treatment of problems such as adhesions or endometriosis.
 
-### Can Blocked Tubes Be Treated?
+### Can blocked tubes be treated?
 
 ## Tubal surgery
 
@@ -62,11 +62,11 @@ If a tube is filled with fluid, doctors often recommend removing or blocking it 
 
 In vitro fertilisation bypasses the tubes by fertilising eggs in the laboratory and transferring embryos into the womb. It is often the best option for severe tubal damage.
 
-### What About Ectopic Pregnancy Risk?
+### What about ectopic pregnancy risk?
 
 Tubal damage raises the risk of pregnancy implanting in the tube. If you have a positive pregnancy test and tubal disease, early scans are important. Seek urgent help for severe pain, bleeding, dizziness or shoulder pain.
 
-### How Do Doctors Decide on Treatment?
+### How do doctors decide on treatment?
 
 They consider your age, ovarian reserve, partner's semen analysis, the type and site of blockage, previous surgery and your preferences. Time is important, especially for women over 35.
 
@@ -84,16 +84,15 @@ A tubal factor does not mean pregnancy is impossible. Today's options give many 
 ### FAQs
 
 1. **Can you get pregnant with one blocked fallopian tube?**
-   Yes, many women conceive with one open tube, though the chance may be reduced depending on other factors. Your doctor will assess the open tube and the rest of your fertility picture.
+         Yes, many women conceive with one open tube, though the chance may be reduced depending on other factors. Your doctor will assess the open tube and the rest of your fertility picture. Yes, many women conceive with one open tube, since either ovary can release the egg that month. The open tube must be healthy, which an HSG confirms. If it does not happen within the usual time, evaluation is the next step.
 2. **Is HSG painful?**
-   Many women feel cramping similar to period pain during the dye injection, and some feel little. Pain medicine taken beforehand and a gentle technique help. Discomfort usually settles soon after.
+         Many women feel cramping similar to period pain during the dye injection, and some feel little. Pain medicine taken beforehand and a gentle technique help. Discomfort usually settles soon after. Most women feel strong period-like cramps for a few minutes as the dye is pushed through. Taking a painkiller an hour before helps. Severe pain is uncommon, and the discomfort settles quickly once the test ends.
 3. **When is the best time to do an HSG?**
-   It is usually done after the period has stopped and before ovulation, in the first half of the cycle, to avoid disturbing a possible pregnancy. Your doctor will give exact timing.
+         It is usually done after the period has stopped and before ovulation, in the first half of the cycle, to avoid disturbing a possible pregnancy. Your doctor will give exact timing. It is done after your period ends and before ovulation, usually between cycle day 7 and 10, when there is no chance of an early pregnancy. Your clinic will tell you which day to book.
 4. **Can blocked tubes open on their own?**
-   Some temporary blockage can clear, and flushing during HSG may open minor obstructions in some women, but established damage does not usually resolve on its own. Your doctor will advise next steps.
+         Some temporary blockage can clear, and flushing during HSG may open minor obstructions in some women, but established damage does not usually resolve on its own. Your doctor will advise next steps. Sometimes mild spasm or a mucus plug clears, but true scarring or damage does not reverse on its own. If the blockage is real, options are tubal surgery in selected cases or IVF, which bypasses the tubes.
 5. **Is IVF the only option for blocked tubes?**
-   No. Some tubal problems can be treated surgically, but when damage is severe or surgery is unlikely to help, IVF is usually advised because it bypasses the tubes. The best option depends on your situation.
-
+         No. Some tubal problems can be treated surgically, but when damage is severe or surgery is unlikely to help, IVF is usually advised because it bypasses the tubes. The best option depends on your situation. Not always. Younger women with limited damage near the tube end may be offered laparoscopic repair. IVF is preferred when damage is severe, both tubes are affected, or other fertility factors coexist.
 ### Sources and further reading
 
 - [ACOG: Evaluating infertility](https://www.acog.org/womens-health/faqs/evaluating-infertility)

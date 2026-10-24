@@ -72,15 +72,15 @@ A single normal sample is reassuring, but sperm counts vary, so results are read
 ### FAQs
 
 1. **What is a normal sperm count?**
-   The WHO 2021 manual gives a lower reference limit of 16 million sperm per millilitre, and 39 million in the whole sample. These are lower limits of normal in fertile men, not a pass mark. Dr. Swati reads your full report, including motility and shape.
+         The WHO 2021 manual gives a lower reference limit of 16 million sperm per millilitre, and 39 million in the whole sample. These are lower limits of normal in fertile men, not a pass mark. Dr. Swati reads your full report, including motility and shape. WHO reference values are about 16 million per mL concentration and 39 million per ejaculate, with motility and shape also counted. One slightly low value matters less than the trend across two tests.
 2. **Can male infertility be treated?**
-   Often, yes. Some causes can be treated directly, such as a varicocele or an infection. Lifestyle changes improve sperm in many men. If sperm numbers or motility stay low, IUI, IVF with ICSI or sperm retrieval can help. The right choice depends on your report.
+         Often, yes. Some causes can be treated directly, such as a varicocele or an infection. Lifestyle changes improve sperm in many men. If sperm numbers or motility stay low, IUI, IVF with ICSI or sperm retrieval can help. The right choice depends on your report. Often, yes, depending on the cause: infections, hormones, varicocele, lifestyle and some blockages are treatable. When direct treatment falls short, ICSI with IVF can work with very few sperm.
 3. **How do I give a semen sample?**
    After 2 to 7 days without ejaculation, collect the sample by masturbation into the clean container given, with clean hands. Do not use lubricants or condoms. Keep it at body temperature and deliver it promptly. We explain this when you book.
 4. **What if the first semen report is abnormal?**
    Repeat the test after 2 to 3 months, because sperm production takes about three months and results vary. Dr. Swati also looks for a cause. A repeat avoids unnecessary worry or unnecessary treatment.
 5. **Does age affect male fertility?**
-   Sperm quality and DNA integrity decline slowly with age, and some risks rise for fathers over 40 to 45. This is a smaller effect than the age effect in women, and many men remain fertile into later life.
+         Sperm quality and DNA integrity decline slowly with age, and some risks rise for fathers over 40 to 45. This is a smaller effect than the age effect in women, and many men remain fertile into later life. Yes, though far more gradually than in women. Counts and motility decline with age and DNA damage rises, which is why very low values or repeated failures deserve a proper urology review.
 6. **Do tight underwear, mobile phones or hot baths cause infertility?**
    Evidence is limited and the effects are small. Smoking, heavy alcohol, obesity, anabolic steroids and untreated varicocele matter more. Avoiding heat is harmless but should not replace testing.
 

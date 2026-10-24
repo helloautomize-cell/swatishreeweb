@@ -6,7 +6,7 @@ lastReviewed: "2026-09-03"
 category: Getting started
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "[CONFIRM: launch date]"
+datePublished: "2026-09-03"
 dateModified: "2026-09-03"
 badge: fertility-evaluation
 readingTime: 7
@@ -78,6 +78,10 @@ About one in four to one in three couples have no cause found. This is unexplain
 5. **Do I need all these tests?**
    Not always. Dr. Swati chooses tests after hearing your history. Some couples need fewer, and some need more. If something is not helpful for you, she will tell you, and explain why.
 
-Sources: WHO laboratory manual for the examination and processing of human semen, 6th edition (2021); ASRM Practice Committee, Testing and interpreting measures of ovarian reserve (2015); NICE Guideline CG156; ESHRE Guideline: Unexplained infertility (2023)
+### Sources
+- WHO laboratory manual for the examination and processing of human semen, 6th edition (2021)
+- ASRM Practice Committee, Testing and interpreting measures of ovarian reserve (2015)
+- NICE Guideline CG156
+- ESHRE Guideline: Unexplained infertility (2023)
 
 Reviewer box: use global text.

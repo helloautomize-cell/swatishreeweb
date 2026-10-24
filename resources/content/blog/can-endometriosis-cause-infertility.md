@@ -1,5 +1,5 @@
 ---
-title: "Can Endometriosis Cause Infertility?"
+title: "Can Endometriosis Cause Infertility? What Helps"
 description: "Endometriosis can make conception harder, but many women with it still get pregnant. Learn how it affects fertility, who is more affected and what."
 url: /blog/can-endometriosis-cause-infertility/
 lastReviewed: "2026-10-09"
@@ -14,7 +14,7 @@ cluster: "Endometriosis"
 pillar: false
 keywords: []
 about: {type: MedicalCondition, name: "Endometriosis"}
-related: [/conditions/endometriosis/, /conditions/adenomyosis/]
+related: [/conditions/endometriosis/, /conditions/adenomyosis/, /treatments/ivf/, /services/fertility-evaluation/]
 posts: [/blog/endometriosis-symptoms-not-to-ignore/, /blog/endometriosis-and-ivf/, /blog/adenomyosis-and-fertility-symptoms-treatment/, /blog/female-infertility-tests-amh-ultrasound-hsg/]
 ---
 
@@ -26,11 +26,11 @@ Yes, endometriosis can cause infertility, but it does not affect every woman the
 
 This article is part of our [endometriosis and fertility](/blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/) guide.
 
-### What Is Endometriosis?
+### What is endometriosis?
 
 Endometriosis is a condition where tissue similar to the lining of the womb grows outside it, usually on the ovaries, fallopian tubes, the lining of the pelvis or behind the uterus. This tissue reacts to monthly hormones, causing inflammation, pain and sometimes scarring.
 
-### How Can Endometriosis Affect Fertility?
+### How can endometriosis affect fertility?
 
 ## Inflammation in the pelvis
 
@@ -52,11 +52,11 @@ Cysts on the ovaries, often called chocolate cysts, can affect healthy ovarian t
 
 Pain during sex can reduce how often couples try, which also affects the chance of conception.
 
-### Does Every Woman With Endometriosis Have Infertility?
+### Does every woman with endometriosis have infertility?
 
 No. Many women with endometriosis have children without help. The severity of pain does not always match the effect on fertility. Some women with mild pain have significant disease, and others with severe pain have only small patches.
 
-### What Factors Change the Outlook?
+### What factors change the outlook?
 - Your age and egg reserve (AMH and antral follicle count)
 - Stage and location of endometriosis
 - Whether the tubes are open
@@ -64,7 +64,7 @@ No. Many women with endometriosis have children without help. The severity of pa
 - Your partner's semen analysis
 - How long you have been trying
 
-### What Options May Be Considered?
+### What options may be considered?
 - Trying naturally for a time in mild cases
 - Ovulation support with IUI in selected couples
 - Laparoscopic surgery to remove endometriosis or scar tissue in some cases
@@ -86,18 +86,17 @@ A diagnosis of endometriosis can feel heavy, especially when you are planning a 
 ### FAQs
 
 1. **Can I get pregnant naturally with endometriosis?**
-   Many women do, especially when the disease is mild, the tubes are open and egg reserve is good. If pregnancy does not happen within the recommended time for your age, a fertility specialist can suggest next steps.
+         Many women do, especially when the disease is mild, the tubes are open and egg reserve is good. If pregnancy does not happen within the recommended time for your age, a fertility specialist can suggest next steps. Many women do, especially with mild disease. The chance depends on how severe it is, whether the tubes and ovaries are affected, your age and egg reserve. A specialist can stage the likely impact.
 2. **Does endometriosis affect egg quality?**
-   It may affect the pelvic environment and, in some women, ovarian reserve. The effect on egg quality is still being studied. Age remains the most important factor for egg quality in most women.
+         It may affect the pelvic environment and, in some women, ovarian reserve. The effect on egg quality is still being studied. Age remains the most important factor for egg quality in most women. The evidence is mixed. Severe disease and ovarian cysts can lower reserve and may affect the environment eggs mature in, but many women with endometriosis produce good embryos. Individual assessment matters more than the label.
 3. **Does surgery for endometriosis improve fertility?**
-   In some women, removing endometriosis or scar tissue may help. Surgery on ovarian cysts must be planned carefully because it can reduce egg reserve. Your doctor will weigh the benefits and risks for your situation.
+         In some women, removing endometriosis or scar tissue may help. Surgery on ovarian cysts must be planned carefully because it can reduce egg reserve. Your doctor will weigh the benefits and risks for your situation. Sometimes, mainly for moderate to severe disease or painful symptoms, where removing lesions can restore anatomy. Surgery on ovarian cysts can also reduce reserve, so it is weighed carefully before operating.
 4. **How is endometriosis diagnosed?**
-   Doctors use your symptoms, a pelvic examination and ultrasound. Endometriomas and deep disease can often be seen on scans. Laparoscopy can confirm the diagnosis in uncertain cases and treat it at the same time.
+         Doctors use your symptoms, a pelvic examination and ultrasound. Endometriomas and deep disease can often be seen on scans. Laparoscopy can confirm the diagnosis in uncertain cases and treat it at the same time. Ultrasound can pick up endometriotic cysts and deep disease, and MRI adds detail. Mild endometriosis is only proven by laparoscopy, which is not always needed to start treatment.
 5. **Is IVF needed for endometriosis?**
-   Not always. IVF may be considered when tubes are damaged, egg reserve is low, age is a concern or other treatments have not worked. Many women with mild disease conceive without IVF.
+         Not always. IVF may be considered when tubes are damaged, egg reserve is low, age is a concern or other treatments have not worked. Many women with mild disease conceive without IVF. Not always. Mild disease with open tubes and good reserve may be tried naturally or with IUI first. IVF is advised when tubes are damaged, reserve is low, age is a factor or simpler steps have failed.
 6. **Should I see a specialist if I have painful periods and cannot conceive?**
-   Yes. Painful periods, pain during sex or pelvic pain along with difficulty conceiving can point to endometriosis. A fertility specialist can evaluate both pain and fertility together and plan suitable care.
-
+         Yes. Painful periods, pain during sex or pelvic pain along with difficulty conceiving can point to endometriosis. A fertility specialist can evaluate both pain and fertility together and plan suitable care. Yes. Severe period pain plus difficulty conceiving is a classic reason to look for endometriosis. Early review finds treatable causes and avoids months of waiting while the disease progresses.
 ### Sources and further reading
 
 - [NHS: Endometriosis](https://www.nhs.uk/conditions/endometriosis/)

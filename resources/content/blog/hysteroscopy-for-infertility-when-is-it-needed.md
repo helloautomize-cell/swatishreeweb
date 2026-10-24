@@ -15,7 +15,7 @@ pillar: false
 keywords: []
 about: {type: DiagnosticProcedure, name: "Hysteroscopy"}
 related: [/conditions/recurrent-pregnancy-loss/, /services/reproductive-immunology/]
-posts: [/blog/fibroids-and-fertility-can-you-get-pregnant/, /blog/blocked-fallopian-tubes-symptoms-hsg-treatment/, /blog/recurrent-miscarriage-causes-tests-treatment/, /blog/frozen-embryo-transfer-process-preparation/, /blog/female-infertility-tests-amh-ultrasound-hsg/]
+posts: [/blog/fibroids-and-fertility-can-you-get-pregnant/, /blog/blocked-fallopian-tubes-symptoms-hsg-treatment/, /blog/recurrent-miscarriage-causes-tests-treatment/, /blog/frozen-embryo-transfer-process-preparation/, /blog/female-infertility-tests-amh-ultrasound-hsg/, /blog/recurrent-miscarriage-recurrent-pregnancy-loss/]
 ---
 
 H1: Hysteroscopy for Infertility When Is It Needed
@@ -26,15 +26,15 @@ Hysteroscopy is a procedure in which a thin telescope with a camera is passed th
 
 This article is part of our [recurrent miscarriage](/blog/recurrent-miscarriage-causes-tests-treatment/) guide.
 
-### Why Does the Uterine Cavity Matter?
+### Why does the uterine cavity matter?
 
 The inside of the womb is where the embryo implants. Anything that distorts or disturbs the cavity, such as polyps, submucosal fibroids, adhesions or a septum, can reduce the chance of implantation or increase the risk of miscarriage. Finding and correcting these problems can help.
 
-### When Is It Recommended?
+### When is it recommended?
 
 Your fertility specialist may suggest hysteroscopy if you have abnormal findings on ultrasound or HSG, repeated IVF failures, recurrent miscarriage, heavy or irregular bleeding, suspected scar tissue after previous surgery or infection, or before certain fertility treatments. It is not required for everyone.
 
-### What Can Hysteroscopy Find and Treat?
+### What can hysteroscopy find and treat?
 
 ## Polyps
 
@@ -56,15 +56,15 @@ A wall of tissue dividing the cavity, which can be removed.
 
 Endometrial changes or retained tissue after a miscarriage or delivery.
 
-### How Is It Done?
+### How is it done?
 
 Diagnostic hysteroscopy is often done in a clinic or day-care setting with little or no anaesthesia. Operative hysteroscopy is usually done under sedation or anaesthesia. A fluid or gas expands the cavity so the camera can view the walls. The procedure typically takes from a few minutes to under an hour, depending on what is done.
 
-### What Is Recovery Like?
+### What is recovery like?
 
 Most women go home the same day. Mild cramping, spotting or watery discharge for a few days is common. Your doctor will advise when to resume intercourse and when to try conceiving, which is often within the next cycle or two, depending on the procedure.
 
-### What Are the Risks?
+### What are the risks?
 
 Hysteroscopy is generally safe. Rare risks include infection, bleeding, uterine perforation and fluid overload with operative procedures. Report fever, severe pain or heavy bleeding promptly.
 
@@ -82,16 +82,15 @@ A healthy uterine cavity is a foundation for pregnancy. If your tests suggest a 
 ### FAQs
 
 1. **Is hysteroscopy painful?**
-   Diagnostic hysteroscopy may cause mild to moderate cramping, and many women tolerate it well in a clinic. Operative procedures are usually done under sedation or anaesthesia, so you feel little during the procedure.
+         Diagnostic hysteroscopy may cause mild to moderate cramping, and many women tolerate it well in a clinic. Operative procedures are usually done under sedation or anaesthesia, so you feel little during the procedure. It is usually done under sedation or short anaesthesia, so you feel nothing during it. Mild cramping and spotting for a day or two afterward is common and settles quickly.
 2. **Does hysteroscopy improve fertility?**
-   Removing polyps, fibroids that distort the cavity, scar tissue or a septum can improve the uterine environment and may improve the chance of implantation in selected women. It does not help everyone.
+         Removing polyps, fibroids that distort the cavity, scar tissue or a septum can improve the uterine environment and may improve the chance of implantation in selected women. It does not help everyone. When it finds and removes a problem such as a polyp, small fibroid, septum or scar tissue, yes. As a routine step with a normal cavity it adds little, which is why it is used selectively.
 3. **When can I try to conceive after hysteroscopy?**
-   Many women can try in the next cycle or after a short interval, depending on what was done. Your doctor will give specific advice, particularly after removing fibroids or scar tissue.
+         Many women can try in the next cycle or after a short interval, depending on what was done. Your doctor will give specific advice, particularly after removing fibroids or scar tissue. Often after one normal period, though removing a septum or larger lesion may need a few months for the lining to heal. Your surgeon gives a clear timeframe for your procedure.
 4. **Do I need hysteroscopy before IVF?**
-   Not for everyone. It may be advised if scans suggest cavity problems, after repeated implantation failure or when otherwise indicated. Your specialist will decide.
+         Not for everyone. It may be advised if scans suggest cavity problems, after repeated implantation failure or when otherwise indicated. Your specialist will decide. Not routinely. It is advised when scans suggest a polyp, fibroid, septum or scarring, or after repeated failed transfers with good embryos. A normal cavity does not need routine scoping.
 5. **What are the risks of hysteroscopy?**
-   Risks are uncommon and include infection, bleeding and, rarely, uterine perforation or fluid overload. Seek help for fever, heavy bleeding or severe pain after the procedure.
-
+         Risks are uncommon and include infection, bleeding and, rarely, uterine perforation or fluid overload. Seek help for fever, heavy bleeding or severe pain after the procedure. It is generally safe; uncommon risks include infection, bleeding, or rarely a small hole in the uterine wall. These are uncommon, and your specialist explains them before the procedure.
 ### Sources and further reading
 
 - [NHS: Miscarriage](https://www.nhs.uk/conditions/miscarriage/)

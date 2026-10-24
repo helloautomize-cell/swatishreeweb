@@ -27,7 +27,7 @@ const instrument = Instrument_Serif({
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: site.name,
-  description: `${site.name}, Gunjur, Bangalore.`,
+  description: `${site.name}, Gunjur, Bangalore. Fertility evaluation, IUI, IVF, egg freezing and women's health care with ${site.doctor}, MBBS, DNB (OBG), MRCOG (UK).`,
   openGraph: {
     siteName: site.name,
     locale: "en_IN",

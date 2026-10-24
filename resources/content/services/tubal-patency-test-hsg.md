@@ -78,6 +78,8 @@ Dr. Swati advises the best method for you.
 
 > **When to get help straight away.** Fever, severe lower abdominal pain, foul-smelling discharge or heavy bleeding in the days after an HSG need urgent review. Call us, or go to the nearest hospital emergency.
 
+7. **What does an HSG test cost in Bangalore?**
+   Charges differ between diagnostic centres and clinics, and depend on whether contrast or ultrasound dye is used. Ask the clinic for the exact fee when you book, including any review appointment after the test.
 ### Sources
 - ASRM Practice Committee, Role of tubal surgery in the era of assisted reproductive technology
 - NICE Guideline CG156: Fertility problems

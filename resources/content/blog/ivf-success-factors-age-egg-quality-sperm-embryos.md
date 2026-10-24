@@ -26,31 +26,31 @@ If you have started reading about IVF, you have probably seen the same question 
 
 This article is part of our [IVF treatment](/blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/) guide.
 
-### Why Does Age Matter So Much?
+### Why does age matter so much?
 
 Every woman is born with the eggs she will have for life, and that supply falls steadily. Fewer eggs remain each year, and more of them carry chromosome errors. Chromosome errors are one of the main reasons an embryo fails to implant or is lost early. The decline is gentle through the late twenties and early thirties, then becomes noticeable after 35. Two couples on the same protocol can get very different results, and age is usually the first reason a doctor will point to.
 
-### Egg Reserve and Egg Quality Are Not the Same Thing
+### Egg reserve and egg quality are not the same thing
 
 Egg reserve is estimated with the AMH blood test and the antral follicle count. Together, these tests tell your doctor roughly how many follicles may respond to stimulation. They do not show how healthy each egg is. A low AMH usually means fewer eggs per cycle, and the medicine dose is adjusted to suit. It does not mean pregnancy is out of reach, because a handful of good eggs can still become a healthy embryo. Egg quality is judged indirectly, through how many eggs mature, fertilise and develop into embryos.
 
-### What Role Does Sperm Quality Play?
+### What role does sperm quality play?
 
 Semen analysis looks at count, movement and shape. DNA integrity also shapes how an embryo develops, but it is not part of a routine report. Your doctor may suggest a DNA fragmentation test after repeated miscarriages or cycles that failed without a clear reason. Sperm take around three months to mature, so smoking, heavy drinking and long hours of heat exposure can affect the sperm used in a cycle a few months from now.
 
 In standard IVF, sperm reach the egg without help. In ICSI, the embryologist selects one sperm and injects it into a mature egg. ICSI addresses many male factor problems, so a weak semen report usually changes the method rather than ending the plan.
 
-### Do Embryos Really Decide the Result?
+### Do embryos really decide the result?
 
 Embryos are graded after fertilisation, based on cell number and how evenly the cells divide. Embryos that reach the blastocyst stage, around day 5 or 6, usually implant more often than those that stop developing earlier. A high grade is encouraging, but it is never a guarantee. Some embryos with a lower grade go on to healthy pregnancies, and some well graded embryos do not implant.
 
 Chromosome screening (PGT-A) is not advised for every patient by ESHRE or ASRM. It is usually discussed for older women, couples with repeated pregnancy loss, or those who have had several unsuccessful transfers.
 
-### What About the Uterus and General Health?
+### What about the uterus and general health?
 
 A healthy embryo still needs a receptive uterus. Polyps, fibroids that distort the cavity, adhesions and a thin lining can all make implantation harder, and many of these can be treated before transfer. General health counts too. Thyroid disease, poorly controlled diabetes, obesity, smoking and heavy drinking can lower the chances, and addressing them early usually helps.
 
-### What Can You Change and What Can You Not?
+### What can you change and what can you not?
 
 | Factor | Can it be changed? | What helps |
 |---|---|---|
@@ -62,11 +62,11 @@ A healthy embryo still needs a receptive uterus. Polyps, fibroids that distort t
 | Smoking, alcohol, body weight | Yes | Quitting, a healthy weight, medical guidance |
 
 
-### Why Are Published Success Rates So Hard to Use?
+### Why are published success rates so hard to use?
 
 Published rates pool women of many ages and diagnoses, so an average can say little about your own odds. A more useful conversation starts with your numbers. Bring your AMH report, your scan results, the semen analysis and notes from any earlier cycles, and ask what those results suggest for your plan.
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Do not wait too long if you are 35 or older, have had two or more miscarriages, have a low AMH, or had a cycle that did not lead to pregnancy. During treatment, seek urgent care for worsening belly pain or bloating, breathlessness, a sharp drop in urine output, fever after a procedure, or heavy bleeding. These symptoms can point to ovarian hyperstimulation syndrome (OHSS) or another complication, so do not wait for your next scheduled visit.
 

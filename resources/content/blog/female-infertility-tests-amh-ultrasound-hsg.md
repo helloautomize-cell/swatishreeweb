@@ -26,15 +26,15 @@ When pregnancy does not happen as expected, fertility testing helps identify pos
 
 This article is part of our [female infertility](/blog/female-infertility-causes-symptoms-tests-treatment/) guide.
 
-### What Does AMH Show?
+### What does AMH show?
 
 Anti-Mullerian hormone is made by small follicles in the ovaries. Its level gives an estimate of ovarian reserve, meaning the number of eggs remaining. It helps predict how the ovaries may respond to IVF stimulation. AMH does not measure egg quality and cannot predict natural fertility accurately on its own.
 
-### What Does a Transvaginal Ultrasound Check?
+### What does a transvaginal ultrasound check?
 
 A transvaginal scan examines the uterus and ovaries. It can detect fibroids, polyps, ovarian cysts, endometriomas and signs of PCOS. It is also used to count antral follicles, small follicles in early cycle that reflect ovarian reserve.
 
-### Which Hormone Tests Are Done?
+### Which hormone tests are done?
 
 ## Day 2 to 3 FSH, LH and oestradiol
 
@@ -56,7 +56,7 @@ High prolactin can disrupt ovulation.
 
 Testosterone and related tests may be done if PCOS is suspected.
 
-### How Are the Fallopian Tubes Checked?
+### How are the fallopian tubes checked?
 
 ## Hysterosalpingogram (HSG)
 
@@ -70,13 +70,13 @@ An ultrasound-based alternative using fluid or foam, without radiation.
 
 A surgical camera test used when other tests suggest tubal disease or endometriosis.
 
-### Are Other Tests Needed?
+### Are other tests needed?
 - Rubella immunity and infection screening such as HIV, hepatitis B and C
 - Blood count and blood group
 - Vitamin D or other tests based on history
 - Hysteroscopy if an abnormality of the uterine cavity is suspected
 
-### When Should Testing Start?
+### When should testing start?
 
 Testing is usually recommended after 12 months of trying under age 35, after 6 months at 35 or older, and sooner if periods are irregular, there is known endometriosis, previous pelvic surgery or infection, or the woman is over 40.
 
@@ -94,16 +94,15 @@ The right tests give a clear picture and help avoid unnecessary delays. Your fer
 ### FAQs
 
 1. **What tests are done for female infertility?**
-   Common tests include AMH, transvaginal ultrasound with antral follicle count, hormone tests such as FSH, LH, oestradiol, TSH and prolactin, progesterone to confirm ovulation and HSG to check the tubes.
+         Common tests include AMH, transvaginal ultrasound with antral follicle count, hormone tests such as FSH, LH, oestradiol, TSH and prolactin, progesterone to confirm ovulation and HSG to check the tubes. The standard set is AMH and other hormone blood tests, a pelvic ultrasound with antral follicle count, a tubal check such as HSG or HyCoSy, and a mid-luteal progesterone test. Your partner's semen analysis runs alongside.
 2. **What does a low AMH mean?**
-   Low AMH suggests a lower egg reserve. It does not mean you cannot conceive and does not measure egg quality. It helps plan treatment, especially IVF.
+         Low AMH suggests a lower egg reserve. It does not mean you cannot conceive and does not measure egg quality. It helps plan treatment, especially IVF. It means the ovary's egg reserve is smaller than average for your age. It does not mean you cannot conceive, because it says nothing about egg quality. It mainly guides how urgently to plan treatment.
 3. **Is the HSG test painful?**
-   Many women feel cramping similar to period pain during HSG. Taking pain relief beforehand as advised can help. Discomfort usually settles quickly.
+         Many women feel cramping similar to period pain during HSG. Taking pain relief beforehand as advised can help. Discomfort usually settles quickly. Most women feel brief period-like cramps while the dye passes through the tubes, settling within minutes. A painkiller beforehand helps. If a tube is blocked, pressure can build up and cause stronger but still short-lived pain.
 4. **When should I get fertility tests?**
-   Usually after 12 months of trying under 35, after 6 months at 35 or older, and earlier with irregular periods, endometriosis, previous pelvic surgery or age over 40.
+         Usually after 12 months of trying under 35, after 6 months at 35 or older, and earlier with irregular periods, endometriosis, previous pelvic surgery or age over 40. After 12 months of trying under 35, or after 6 months if you are 35 or older. Come sooner with very irregular periods, known tubal damage, severe period pain or a previous pelvic infection.
 5. **Does my partner need testing too?**
-   Yes. Male factors contribute to many cases of infertility. A semen analysis is usually done at the same time as female testing.
-
+         Yes. Male factors contribute to many cases of infertility. A semen analysis is usually done at the same time as female testing. Yes. Male factors play a role in around a third of couples, and a semen analysis is far simpler than the tests women undergo. Testing both partners together avoids months of one-sided investigation.
 ### Sources and further reading
 
 - [ACOG: Evaluating infertility](https://www.acog.org/womens-health/faqs/evaluating-infertility)

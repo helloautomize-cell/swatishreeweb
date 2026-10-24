@@ -76,7 +76,7 @@ Indian law sets rules on who may freeze eggs, the storage period and consent. Th
 1. **What is the right age for egg freezing?**
    Younger is generally better, because egg quality is higher and more eggs can be collected. Many specialists suggest considering it in the late twenties to mid-thirties. Results fall steadily after 35. Dr. Swati reviews your AMH, scan and age, and explains what is realistic for you.
 2. **How many eggs should I freeze?**
-   It depends on your age and what you hope for. More eggs frozen at a younger age gives better chances. One cycle may not be enough, especially if reserve is low. Dr. Swati estimates a target for you after your tests.
+         It depends on your age and what you hope for. More eggs frozen at a younger age gives better chances. One cycle may not be enough, especially if reserve is low. Dr. Swati estimates a target for you after your tests. Commonly ten to twenty mature eggs gives a reasonable chance of one future pregnancy, depending on age at freezing. Some women need more than one cycle, which your specialist estimates upfront.
 3. **Is egg freezing a guarantee of a future baby?**
    No. Frozen eggs may not all survive thawing, fertilise or become embryos, and an embryo may not implant. Freezing improves your options, but it is not insurance. Dr. Swati gives realistic expectations before you start.
 4. **Is egg freezing painful or risky?**
@@ -88,6 +88,8 @@ Indian law sets rules on who may freeze eggs, the storage period and consent. Th
 7. **Does egg freezing affect my natural fertility or periods?**
    No. A cycle of stimulation uses eggs that would otherwise be lost that month, and does not use up future eggs. Your periods return to normal in the next cycle. It does not bring on menopause.
 
+8. **What does egg freezing cost in Bangalore?**
+   Costs depend on the stimulation medicines, the number of eggs and cycles, and storage fees, which recur each year. Prices vary between clinics. EVE shares a written estimate after your first consultation, so you can plan clearly.
 ### Sources
 - ESHRE Guideline: Female fertility preservation (2020)
 - ASRM Ethics Committee and Practice Committee opinions on planned oocyte cryopreservation

@@ -29,7 +29,8 @@ const errors = [];
 const pages = [];
 
 for (const f of files) {
-  const raw = readFileSync(f, 'utf8');
+  // Normalise CRLF -> LF so Windows autocrlf checkouts parse identically.
+  const raw = readFileSync(f, 'utf8').replace(/\r\n/g, '\n');
   const rel = f.slice(DIR.length + 1).replace(/\\/g, '/');
   const fm = raw.match(/^---\n([\s\S]*?)\n---\n/);
   const yaml = fm ? fm[1] : '';

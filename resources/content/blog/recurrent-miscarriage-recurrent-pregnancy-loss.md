@@ -26,11 +26,11 @@ Recurrent pregnancy loss is generally defined as two or more pregnancy losses. S
 
 This article is part of our [recurrent miscarriage](/blog/recurrent-miscarriage-causes-tests-treatment/) guide.
 
-### How Common Is Miscarriage?
+### How common is miscarriage?
 
 Miscarriage is common. A large share of recognised pregnancies end in early loss, often due to chromosomal problems in the embryo. Having one miscarriage does not usually mean there is an underlying problem. Repeated loss is much less common and deserves evaluation.
 
-### What Counts as a Pregnancy Loss?
+### What counts as a pregnancy loss?
 
 Different guidelines count losses differently, but they usually include:
 - Pregnancies confirmed by blood test or ultrasound
@@ -39,14 +39,14 @@ Different guidelines count losses differently, but they usually include:
 
 Ectopic and molar pregnancies are usually counted separately.
 
-### Why Does Evaluation Matter?
+### Why does evaluation matter?
 
 Finding a cause can guide treatment that may improve the chance of a healthy pregnancy. Even when no cause is found, evaluation:
 - Rules out treatable conditions
 - Gives couples clearer information
 - Helps plan early pregnancy monitoring and support
 
-### What Are the Main Cause Categories?
+### What are the main cause categories?
 - Genetic factors: chromosome changes in the embryo or, less often, in a parent
 - Uterine factors: septum, fibroids, polyps or scar tissue
 - Hormonal and metabolic factors: thyroid problems, uncontrolled diabetes, PCOS
@@ -54,13 +54,13 @@ Finding a cause can guide treatment that may improve the chance of a healthy pre
 - Age: egg quality declines with age, increasing chromosomal issues
 - Lifestyle: smoking, heavy alcohol and obesity
 
-### When Should You Seek Evaluation?
+### When should you seek evaluation?
 - After two pregnancy losses
 - After one loss if you are over 35 and have had trouble conceiving
 - After a second-trimester loss
 - If you have a known condition such as thyroid disease or a clotting disorder
 
-### Emotional Support Matters
+### Emotional support matters
 
 Repeated loss can cause grief, anxiety and strain on relationships. Counselling, support groups and open conversation with your partner can help. Many couples find that early scans and close care in the next pregnancy reduce anxiety.
 
@@ -78,18 +78,17 @@ Losing a pregnancy more than once is deeply painful, and it is not your fault. A
 ### FAQs
 
 1. **How many miscarriages before testing is recommended?**
-   Many specialists now recommend evaluation after two pregnancy losses, rather than waiting for three. Testing may be advised after one loss in women over 35 or with other fertility concerns.
+         Many specialists now recommend evaluation after two pregnancy losses, rather than waiting for three. Testing may be advised after one loss in women over 35 or with other fertility concerns. Evaluation is generally offered after two consecutive losses, and after three is standard. With a strong history or older age, earlier review is reasonable. Your doctor will tailor when to begin.
 2. **Is recurrent miscarriage caused by something I did?**
-   Usually not. Most miscarriages are due to chromosomal problems in the embryo, which are not caused by anything the woman did. Normal activity, work and intercourse do not cause miscarriage.
+         Usually not. Most miscarriages are due to chromosomal problems in the embryo, which are not caused by anything the woman did. Normal activity, work and intercourse do not cause miscarriage. No. Most early losses come from chromosome errors in that embryo, not from work, exercise, travel or anything you ate or did. The evaluation looks for the few treatable causes.
 3. **Can I have a healthy pregnancy after recurrent miscarriage?**
    Yes. Many couples go on to have a healthy pregnancy, even when no cause is found. Close monitoring and support in the next pregnancy can be helpful.
 4. **Do men need to be tested after recurrent miscarriage?**
-   In some cases, both partners may be offered blood tests to check chromosomes. Sperm DNA testing may be discussed in selected cases. Your specialist will decide what is useful.
+         In some cases, both partners may be offered blood tests to check chromosomes. Sperm DNA testing may be discussed in selected cases. Your specialist will decide what is useful. Yes. A semen analysis and sometimes DNA fragmentation are checked, since sperm factors contribute to embryo quality. Both partners' chromosome testing is part of the standard workup.
 5. **Does age affect the risk of miscarriage?**
-   Yes. The risk of miscarriage rises with the woman's age, mainly because of chromosomal changes in eggs. This is why women over 35 may be evaluated sooner.
+         Yes. The risk of miscarriage rises with the woman's age, mainly because of chromosomal changes in eggs. This is why women over 35 may be evaluated sooner. Yes, clearly. Chromosome errors rise with egg age, so risk climbs through the late 30s and 40s. Age also shapes which tests and treatments offer the best value for you.
 6. **Should I try again soon after a miscarriage?**
-   It depends on your physical and emotional readiness and your doctor's advice. Many women can try again after their next normal period. If you have had recurrent losses, evaluation first is often helpful.
-
+         It depends on your physical and emotional readiness and your doctor's advice. Many women can try again after their next normal period. If you have had recurrent losses, evaluation first is often helpful. Physically, most women can try after one normal cycle once they feel ready emotionally. There is no medical need to wait many months, though recurrent loss deserves its evaluation first.
 ### Sources and further reading
 
 - [NHS: Miscarriage](https://www.nhs.uk/conditions/miscarriage/)

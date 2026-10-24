@@ -32,7 +32,7 @@ The important thing to remember is that symptoms alone cannot tell you whether i
 
 After IVF embryo transfer, the embryo may implant in the uterine lining and begin producing hCG. Your fertility clinic will tell you when to have the pregnancy test. If the result is positive, further hCG testing and an early ultrasound may be advised to assess how the pregnancy is developing and confirm that it is located inside the uterus. Heavy bleeding, severe abdominal or pelvic pain, fainting, shoulder-tip pain or severe breathlessness need prompt medical assessment.
 
-### What Happens After an IVF Embryo Transfer?
+### What happens after an IVF embryo transfer?
 
 Embryo transfer is the procedure in which an embryo is placed into the uterus. It is an important part of IVF, but the transfer itself does not confirm pregnancy.
 
@@ -46,7 +46,7 @@ Mild cramps, breast tenderness, tiredness or spotting can occur. Some women have
 
 None of these findings can reliably confirm implantation.
 
-### What Is Implantation After IVF?
+### What is implantation after IVF?
 
 Implantation is the process in which an embryo attaches to and becomes established within the lining of the uterus.
 
@@ -68,7 +68,7 @@ So, if you do not feel anything, it does not mean implantation has not happened.
 
 The pregnancy test is far more useful than trying to interpret these sensations.
 
-### What Is hCG After IVF?
+### What is hCG after IVF?
 
 Human chorionic gonadotropin, or hCG, is a hormone produced by pregnancy tissue after implantation.
 
@@ -80,7 +80,7 @@ The result needs to be interpreted in context. The date of embryo transfer, the 
 
 One hCG number cannot answer every question about an early pregnancy.
 
-### When Is the Pregnancy Test Done After IVF?
+### When is the pregnancy test done after IVF?
 
 Your fertility clinic will give you a specific date for pregnancy testing.
 
@@ -90,7 +90,7 @@ There is another reason very early testing can sometimes be misleading. Some IVF
 
 For this reason, it is better to follow the testing date provided by your fertility team rather than repeatedly testing at home.
 
-### What Happens After a Positive IVF Pregnancy Test?
+### What happens after a positive IVF pregnancy test?
 
 A positive pregnancy test is an important milestone, but early follow-up still matters.
 
@@ -107,7 +107,7 @@ Depending on the stage of pregnancy, the scan may show a gestational sac, yolk s
 
 The exact timing matters. A scan performed too early may not show structures that become visible a few days later.
 
-### What Is the Early Pregnancy Timeline After IVF?
+### What is the early pregnancy timeline after IVF?
 
 The sequence is broadly similar for many IVF pregnancies, although the timing can vary.
 
@@ -125,7 +125,7 @@ The sequence is broadly similar for many IVF pregnancies, although the timing ca
 
 Your own timeline may not match someone else's exactly. That is normal.
 
-### What Symptoms Can Occur After Embryo Transfer?
+### What symptoms can occur after embryo transfer?
 
 The days after transfer can be confusing because IVF medicines can produce symptoms that feel similar to early pregnancy.
 
@@ -157,7 +157,7 @@ Likewise, having several symptoms does not prove that the IVF cycle has resulted
 
 The scheduled pregnancy test provides much more useful information.
 
-### Is Spotting After Embryo Transfer Normal?
+### Is spotting after embryo transfer normal?
 
 Light spotting can occur after embryo transfer, but it should not automatically be labelled as implantation bleeding.
 
@@ -169,7 +169,7 @@ If bleeding becomes heavy, continues or occurs with significant pain, contact yo
 
 Heavy bleeding accompanied by severe pain, fainting or marked weakness requires urgent medical assessment.
 
-### Should IVF Medicines Be Continued After a Positive Pregnancy Test?
+### Should IVF medicines be continued after a positive pregnancy test?
 
 Do not stop or change your IVF medicines without speaking to your fertility doctor.
 
@@ -179,7 +179,7 @@ A positive pregnancy test does not automatically mean that medication should be 
 
 Continue medicines according to the instructions you were given. If you are uncertain about a medicine, call the clinic rather than making the decision yourself.
 
-### What Happens at the First Ultrasound After IVF?
+### What happens at the first ultrasound after IVF?
 
 An early pregnancy ultrasound provides information that a pregnancy test cannot.
 
@@ -197,7 +197,7 @@ It is also important not to panic if an early scan does not show everything you 
 
 Pregnancy structures become visible at different stages. If the scan is performed very early, your doctor may recommend repeating it after an appropriate interval.
 
-### Why Is Pregnancy Location Checked After IVF?
+### Why is pregnancy location checked after IVF?
 
 An ectopic pregnancy occurs when a pregnancy develops outside the main cavity of the uterus. The fallopian tube is the most common location.
 
@@ -207,7 +207,7 @@ That is one reason early pregnancy follow-up is important. The doctor needs to c
 
 If the first scan does not clearly establish the pregnancy location, additional monitoring may be necessary.
 
-### What Are the Warning Signs of an Ectopic Pregnancy?
+### What are the warning signs of an ectopic pregnancy?
 
 Seek urgent medical attention if you develop:
 - Severe or worsening abdominal pain
@@ -221,7 +221,7 @@ These symptoms do not automatically mean you have an ectopic pregnancy. They can
 
 Do not wait for your next routine appointment if severe symptoms develop.
 
-### What Happens After a Frozen Embryo Transfer?
+### What happens after a frozen embryo transfer?
 
 A frozen embryo transfer, often shortened to FET, uses an embryo that was previously frozen and stored during an earlier IVF cycle.
 
@@ -233,7 +233,7 @@ The doctor may monitor hCG and arrange an early ultrasound to assess pregnancy l
 
 The fact that the embryo was frozen does not remove the need for routine early pregnancy assessment.
 
-### Fresh vs Frozen Embryo Transfer in Early Pregnancy
+### Fresh vs frozen embryo transfer in early pregnancy
 
 Fresh and frozen embryo transfers differ in how the treatment cycle is organised, but the goals of early pregnancy monitoring are similar.
 
@@ -249,7 +249,7 @@ Fresh and frozen embryo transfers differ in how the treatment cycle is organised
 
 Your doctor will decide the follow-up plan according to your individual treatment cycle.
 
-### Can Early Pregnancy Symptoms Be Different After IVF?
+### Can early pregnancy symptoms be different after IVF?
 
 They can.
 
@@ -263,7 +263,7 @@ For example, progesterone can cause tiredness and breast tenderness even before 
 
 That is why symptom comparison with another IVF patient is rarely helpful.
 
-### Why Does Early Pregnancy After IVF Feel So Uncertain?
+### Why does early pregnancy after IVF feel so uncertain?
 
 For many couples, the positive pregnancy test comes after a long period of treatment, appointments and waiting.
 
@@ -277,7 +277,7 @@ Try to remember that symptoms are not a daily scorecard for pregnancy health. Th
 
 If anxiety becomes difficult to manage, tell your doctor. Counselling or other emotional support can be useful during fertility treatment and early pregnancy.
 
-### What Should You Do After a Positive IVF Pregnancy Test?
+### What should you do after a positive IVF pregnancy test?
 
 Once pregnancy is confirmed, the focus should shift from repeatedly checking for symptoms to following the care plan.
 
@@ -295,7 +295,7 @@ You do not need to monitor every sensation in your body.
 
 A calm and structured follow-up plan is more useful.
 
-### Is Bed Rest Necessary After Embryo Transfer?
+### Is bed rest necessary after embryo transfer?
 
 Prolonged bed rest is not routinely necessary simply because an embryo has been transferred.
 
@@ -305,7 +305,7 @@ Your doctor may give specific instructions based on your medical situation or th
 
 It is also worth being careful about advice from social media, relatives or other patients. What was recommended to one person may not be necessary for another.
 
-### What Should You Avoid After Embryo Transfer?
+### What should you avoid after embryo transfer?
 
 Your fertility clinic should provide individual instructions.
 
@@ -322,7 +322,7 @@ You should also contact your clinic if you develop:
 
 There is no benefit in turning every normal activity into a source of fear.
 
-### When Should You Contact Your IVF Doctor?
+### When should you contact your IVF doctor?
 
 Contact your fertility team if you are concerned about:
 - Vaginal bleeding
@@ -347,7 +347,7 @@ Some symptoms require urgent care rather than a routine phone call.
 
 These symptoms can have different causes, but some require immediate assessment.
 
-### What If the First Ultrasound Is Too Early?
+### What if the first ultrasound is too early?
 
 Sometimes an early ultrasound does not show everything that a patient expects.
 
@@ -361,7 +361,7 @@ The same principle applies to hCG.
 
 One result rarely tells the entire story. Your doctor may look at how the hormone changes over time and combine that information with ultrasound findings.
 
-### What Are Common Mistakes During the Waiting Period?
+### What are common mistakes during the waiting period?
 
 The time between embryo transfer and pregnancy testing can lead to a lot of unnecessary worry.
 
@@ -389,7 +389,7 @@ Another woman's hCG levels, symptoms or ultrasound dates may be completely diffe
 
 A positive pregnancy test does not make severe pain or heavy bleeding normal. Concerning symptoms still need assessment.
 
-### Questions to Ask Your Fertility Doctor After a Positive IVF Test
+### Questions to ask your fertility doctor after a positive IVF test
 
 You can take a short list of questions to your appointment:
 - When should I repeat my hCG test?
@@ -405,7 +405,7 @@ You can take a short list of questions to your appointment:
 
 Having these questions written down can be useful. It is easy to forget them when an appointment brings a mixture of excitement and anxiety.
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 A fertility consultation can be useful if you are planning IVF, have questions after embryo transfer, have had a cycle that did not result in pregnancy or need help understanding early pregnancy monitoring.
 

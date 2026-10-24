@@ -32,6 +32,51 @@ const ABOUT_FRAG: Record<string, string> = {
   TherapeuticProcedure: "procedure",
 };
 
+/* Well-known medical entity -> canonical Wikipedia article, for about-node
+ * sameAs (audit SEO-017). Only entities with a stable article are listed. */
+const WIKIPEDIA_SAMEAS: Record<string, string> = {
+  "endometriosis": "https://en.wikipedia.org/wiki/Endometriosis",
+  "polycystic ovary syndrome": "https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome",
+  "adenomyosis": "https://en.wikipedia.org/wiki/Adenomyosis",
+  "uterine fibroids": "https://en.wikipedia.org/wiki/Uterine_fibroid",
+  "uterine fibroid": "https://en.wikipedia.org/wiki/Uterine_fibroid",
+  "female infertility": "https://en.wikipedia.org/wiki/Infertility",
+  "male infertility": "https://en.wikipedia.org/wiki/Male_infertility",
+  "recurrent pregnancy loss": "https://en.wikipedia.org/wiki/Miscarriage#Recurrent_miscarriage",
+  "recurrent miscarriage": "https://en.wikipedia.org/wiki/Miscarriage#Recurrent_miscarriage",
+  "miscarriage": "https://en.wikipedia.org/wiki/Miscarriage",
+  "in vitro fertilisation": "https://en.wikipedia.org/wiki/In_vitro_fertilisation",
+  "in vitro fertilization": "https://en.wikipedia.org/wiki/In_vitro_fertilisation",
+  "intrauterine insemination": "https://en.wikipedia.org/wiki/Intrauterine_insemination",
+  "oocyte cryopreservation": "https://en.wikipedia.org/wiki/Oocyte_cryopreservation",
+  "egg freezing": "https://en.wikipedia.org/wiki/Oocyte_cryopreservation",
+  "embryo transfer": "https://en.wikipedia.org/wiki/Embryo_transfer",
+  "frozen embryo transfer": "https://en.wikipedia.org/wiki/Embryo_transfer",
+  "blastocyst": "https://en.wikipedia.org/wiki/Blastocyst",
+  "anti-mullerian hormone test": "https://en.wikipedia.org/wiki/Anti-M%C3%BCllerian_hormone",
+  "hysterosalpingography": "https://en.wikipedia.org/wiki/Hysterosalpingography",
+  "preimplantation genetic testing": "https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis",
+  "intracytoplasmic sperm injection": "https://en.wikipedia.org/wiki/Intracytoplasmic_sperm_injection",
+  "icsi": "https://en.wikipedia.org/wiki/Intracytoplasmic_sperm_injection",
+  "semen analysis": "https://en.wikipedia.org/wiki/Semen_analysis",
+  "ovarian reserve": "https://en.wikipedia.org/wiki/Ovarian_reserve",
+  "age-related fertility decline": "https://en.wikipedia.org/wiki/Advanced_maternal_age",
+  "ovarian hyperstimulation syndrome": "https://en.wikipedia.org/wiki/Ovarian_hyperstimulation_syndrome",
+  "hysteroscopy": "https://en.wikipedia.org/wiki/Hysteroscopy",
+  "letrozole": "https://en.wikipedia.org/wiki/Letrozole",
+  "menopause": "https://en.wikipedia.org/wiki/Menopause",
+  "perimenopause": "https://en.wikipedia.org/wiki/Menopause",
+  "menstrual disorder": "https://en.wikipedia.org/wiki/Menstrual_disorder",
+  "menstrual disorders": "https://en.wikipedia.org/wiki/Menstrual_disorder",
+  "endometrial biopsy": "https://en.wikipedia.org/wiki/Endometrial_biopsy",
+  "cervical cancer screening": "https://en.wikipedia.org/wiki/Cervical_screening",
+  "pap smear": "https://en.wikipedia.org/wiki/Pap_test",
+  "early pregnancy scan": "https://en.wikipedia.org/wiki/Obstetric_ultrasonography",
+  "thyroid and fertility": "https://en.wikipedia.org/wiki/Thyroid",
+  "testicular sperm extraction": "https://en.wikipedia.org/wiki/Testicular_sperm_extraction",
+  "tesa": "https://en.wikipedia.org/wiki/Testicular_sperm_extraction",
+};
+
 const HUB_SEGMENT: Record<string, { name: string; url: string }> = {
   services: { name: "Services", url: "/services/" },
   treatments: { name: "Treatments", url: "/treatments/" },
@@ -89,6 +134,7 @@ function aboutNode(doc: PageDoc): Json | null {
     "@id": `${abs(doc.url)}#${ABOUT_FRAG[about.type] ?? "about"}`,
     name: about.name,
     alternateName: about.alternateName,
+    sameAs: WIKIPEDIA_SAMEAS[about.name.toLowerCase()],
   };
 }
 
@@ -200,7 +246,9 @@ function pageNodes(doc: PageDoc): Json[] {
         wordCount,
         about: about ? { "@id": about["@id"] } : undefined,
         mainEntityOfPage: { "@id": `${abs(doc.url)}#webpage` },
-        mentions: (doc.meta.entities ?? []).map((e) => ({ "@type": "Thing", name: e })),
+        mentions: (
+          doc.meta.entities?.length ? doc.meta.entities : about ? [about.name] : []
+        ).map((e) => ({ "@type": "Thing", name: e })),
       });
       break;
     }

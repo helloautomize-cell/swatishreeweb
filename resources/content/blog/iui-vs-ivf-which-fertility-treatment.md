@@ -26,7 +26,7 @@ IUI (intrauterine insemination) and IVF (in vitro fertilisation) are two of the 
 
 This article is part of our [IUI treatment](/blog/iui-treatment-intrauterine-insemination/) guide.
 
-### How Does IUI Work?
+### How does IUI work?
 
 1. Ovulation is monitored, often with mild medicines to stimulate one or two follicles.
 
@@ -38,7 +38,7 @@ This article is part of our [IUI treatment](/blog/iui-treatment-intrauterine-ins
 
 5. A pregnancy test follows about two weeks later.
 
-### How Does IVF Work?
+### How does IVF work?
 
 1. The ovaries are stimulated with injections to grow several follicles.
 
@@ -52,25 +52,18 @@ This article is part of our [IUI treatment](/blog/iui-treatment-intrauterine-ins
 
 6. A pregnancy test follows.
 
-### How Do They Compare?
+### How do they compare?
 
 | Feature | IUI | IVF |
-
 |---|---|---|
-
 | Where fertilisation happens | Inside the body | In the laboratory |
-
 | Medicines | Mild or none | More intensive stimulation |
-
 | Procedures | Simple insemination | Egg collection and embryo transfer |
-
 | Tubes need to be open | Yes | No |
-
 | Success per cycle | Lower | Higher |
-
 | Cost and time | Lower | Higher |
 
-### Who May Be Suited to IUI?
+### Who may be suited to IUI?
 - Mild male factor infertility
 - Unexplained infertility in younger women
 - Ovulation problems such as PCOS, with ovulation induction
@@ -79,7 +72,7 @@ This article is part of our [IUI treatment](/blog/iui-treatment-intrauterine-ins
 
 At least one fallopian tube must be open.
 
-### Who May Be Suited to IVF?
+### Who may be suited to IVF?
 - Blocked or damaged fallopian tubes
 - Moderate to severe male factor infertility
 - Endometriosis affecting fertility
@@ -88,7 +81,7 @@ At least one fallopian tube must be open.
 - Need for embryo genetic testing
 - Fertility preservation
 
-### When Do Doctors Move From IUI to IVF?
+### When do doctors move from IUI to IVF?
 
 Many couples try a limited number of IUI cycles first if suitable. Moving to IVF is often considered if IUI cycles are unsuccessful, if the woman is older, if new findings appear or if the couple prefers a more effective option.
 
@@ -106,13 +99,13 @@ There is no one-size-fits-all fertility treatment. A specialist can match the ap
 ### FAQs
 
 1. **What is the main difference between IUI and IVF?**
-   In IUI, sperm is placed in the uterus and fertilisation happens inside the body. In IVF, eggs are collected and fertilised in a laboratory, and an embryo is transferred to the uterus.
+         In IUI, sperm is placed in the uterus and fertilisation happens inside the body. In IVF, eggs are collected and fertilised in a laboratory, and an embryo is transferred to the uterus. The difference also drives everything else: cost, intensity, medicines and who each treatment suits. Your diagnosis and how long you have been trying decide which starting point makes sense for you.
 2. **Is IUI or IVF more successful?**
-   IVF generally has higher success rates per cycle than IUI. However, IUI may be appropriate for some couples because it is simpler and less intensive.
+         IVF generally has higher success rates per cycle than IUI. However, IUI may be appropriate for some couples because it is simpler and less intensive. Per cycle IVF gives higher rates, which is why older women or those with tubal or severe sperm issues are advised it earlier. For suitable couples, a few IUI cycles first is a reasonable plan.
 3. **Can I have IUI if my tubes are blocked?**
-   No. IUI requires at least one open fallopian tube. IVF bypasses the tubes and is usually recommended for blocked tubes.
+         No. IUI requires at least one open fallopian tube. IVF bypasses the tubes and is usually recommended for blocked tubes. No, at least one tube must be open for the egg and sperm to meet. With both tubes blocked, IVF is the effective route; with one open and healthy tube, IUI may still be tried.
 4. **Should I try IUI before IVF?**
-   For some couples, such as those with mild male factor or unexplained infertility and younger age, a few IUI cycles may be tried first. Others may be advised to go directly to IVF.
+         For some couples, such as those with mild male factor or unexplained infertility and younger age, a few IUI cycles may be tried first. Others may be advised to go directly to IVF. If you are younger with mild male factor, ovulation problems or unexplained infertility, a few IUI cycles first is reasonable. Severe tubal or sperm disease points straight to IVF instead.
 5. **Is IUI painful?**
    IUI is usually quick and causes only mild discomfort, similar to a Pap smear. Some women have mild cramping afterward.
 

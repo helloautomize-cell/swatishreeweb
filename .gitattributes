@@ -1,0 +1,8 @@
+# Keep generated content + scripts LF on every platform. A CRLF working-tree
+# copy breaks scripts/build-check.mjs frontmatter parsing (Windows autocrlf).
+*.md text eol=lf
+*.mjs text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.css text eol=lf

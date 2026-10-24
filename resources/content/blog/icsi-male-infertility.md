@@ -26,7 +26,7 @@ ICSI, or intracytoplasmic sperm injection, is a lab technique used during IVF wh
 
 This article is part of our [male infertility](/blog/male-infertility-causes-semen-analysis-treatment/) guide.
 
-### How Is ICSI Different From Standard IVF?
+### How is ICSI different from standard IVF?
 
 ## Standard IVF
 
@@ -38,7 +38,7 @@ An embryologist selects one sperm and injects it directly into the egg using a v
 
 All other IVF steps, such as ovarian stimulation, egg collection, embryo culture and transfer, stay the same.
 
-### When Is ICSI Recommended?
+### When is ICSI recommended?
 
 ## Severe male factor
 
@@ -60,7 +60,7 @@ When sperm numbers are limited, such as after cancer treatment, ICSI makes the b
 
 ICSI may be considered for testing embryos genetically or when few eggs are available. Your specialist will explain if this applies.
 
-### What ICSI Cannot Do
+### What ICSI cannot do
 - It cannot improve egg quality
 - It cannot fully correct genetic problems in sperm
 - It does not guarantee fertilisation or pregnancy
@@ -70,7 +70,7 @@ ICSI may be considered for testing embryos genetically or when few eggs are avai
 
 ICSI has been widely used for decades. Most babies born after ICSI are healthy. Some studies suggest a small increase in certain risks, which may relate to the underlying male infertility rather than the technique. Genetic counselling may be offered in selected cases, such as severe male factor with genetic causes.
 
-### How Is Sperm Selected?
+### How is sperm selected?
 
 Embryologists choose sperm with good movement and shape under high magnification. Some centres use advanced selection methods, though their benefit varies.
 
@@ -88,18 +88,17 @@ ICSI has given many couples with male factor infertility a real chance of parent
 ### FAQs
 
 1. **Is ICSI the same as IVF?**
-   ICSI is a technique used within IVF. The main difference is how fertilisation happens. In standard IVF, sperm fertilise the egg on their own. In ICSI, a single sperm is injected directly into each egg.
+         ICSI is a technique used within IVF. The main difference is how fertilisation happens. In standard IVF, sperm fertilise the egg on their own. In ICSI, a single sperm is injected directly into each egg. ICSI is a step inside an IVF cycle, not a different treatment. Standard IVF lets sperm and egg meet in a dish; ICSI injects one chosen sperm directly into each egg, mainly for male factor.
 2. **Does ICSI improve pregnancy chances?**
-   ICSI improves fertilisation when there is significant male infertility. It does not usually improve pregnancy chances when sperm are normal. Pregnancy still depends on egg quality, embryo development and the uterus.
+         ICSI improves fertilisation when there is significant male infertility. It does not usually improve pregnancy chances when sperm are normal. Pregnancy still depends on egg quality, embryo development and the uterus. When sperm is the problem, yes, it markedly improves fertilisation. For couples without male factor it adds little, so clinics reserve it for the cases where it genuinely helps.
 3. **Is ICSI painful for the woman?**
-   The ICSI step happens in the lab, so it causes no extra pain. The woman goes through the same IVF steps, including stimulation and egg collection, which is done under sedation.
+         The ICSI step happens in the lab, so it causes no extra pain. The woman goes through the same IVF steps, including stimulation and egg collection, which is done under sedation. The process is identical to IVF for her: injections, monitoring and egg collection under sedation. ICSI happens entirely in the lab afterward, so she feels no difference at all.
 4. **Can ICSI be used with surgically retrieved sperm?**
-   Yes. Sperm collected from the testis or epididymis are usually few and less mobile, so ICSI is the standard way to use them for fertilisation.
+         Yes. Sperm collected from the testis or epididymis are usually few and less mobile, so ICSI is the standard way to use them for fertilisation. Yes, and that is one of its main uses. Sperm from TESA or PESA are too few and too immature for standard IVF, so injecting them directly into the egg is how such samples are used.
 5. **Are babies born through ICSI healthy?**
-   Most babies born through ICSI are healthy. Some small increased risks have been reported, which may be linked to the father's infertility itself. Your doctor can discuss genetic counselling if needed.
+         Most babies born through ICSI are healthy. Some small increased risks have been reported, which may be linked to the father's infertility itself. Your doctor can discuss genetic counselling if needed. Large studies show outcomes broadly similar to standard IVF, with a small debated increase in certain anomalies linked more to the infertility itself than the technique. Your doctor will discuss this openly.
 6. **Will ICSI fix poor sperm DNA quality?**
-   ICSI helps sperm enter the egg, but it does not repair damaged DNA. In some cases, doctors may suggest lifestyle changes, treatment of causes or using testicular sperm. Results vary.
-
+         ICSI helps sperm enter the egg, but it does not repair damaged DNA. In some cases, doctors may suggest lifestyle changes, treatment of causes or using testicular sperm. Results vary. Not necessarily. ICSI gets the sperm into the egg but cannot repair DNA fragmentation. High fragmentation may need lifestyle change, treatment of causes, or testicular sperm in selected cases.
 ### Sources and further reading
 
 - [WHO: Infertility fact sheet](https://www.who.int/news-room/fact-sheets/detail/infertility)

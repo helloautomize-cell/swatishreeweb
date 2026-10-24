@@ -26,11 +26,11 @@ AMH naturally declines with age as the number of eggs decreases. A low AMH resul
 
 This article is part of our [low AMH and ovarian reserve](/blog/low-amh-ovarian-reserve-fertility/) guide.
 
-### Why Does Age Matter So Much?
+### Why does age matter so much?
 
 AMH tells you about egg quantity. Age tells you most about egg quality. Together, they help predict both natural fertility timelines and IVF response.
 
-### What Does Low AMH Mean at 30?
+### What does low AMH mean at 30?
 - Fewer eggs than typical for your age
 - Egg quality is usually still relatively good
 - Natural conception is often possible, especially with regular cycles
@@ -41,7 +41,7 @@ AMH tells you about egg quantity. Age tells you most about egg quality. Together
 - Do not delay trying if pregnancy is planned
 - Consider egg freezing if pregnancy is not planned soon
 
-### What Does Low AMH Mean at 35?
+### What does low AMH mean at 35?
 - Egg numbers are lower than expected
 - Egg quality is beginning to decline with age
 - Natural conception remains possible but time matters more
@@ -51,7 +51,7 @@ AMH tells you about egg quantity. Age tells you most about egg quality. Together
 - Discuss timelines for natural trying, IUI or IVF
 - Consider fertility preservation promptly if pregnancy is not planned soon
 
-### What Does Low AMH Mean at 40?
+### What does low AMH mean at 40?
 - Low AMH is more common at this age
 - Egg quality is the main limiting factor
 - Natural conception chances are lower, and miscarriage risk is higher
@@ -62,11 +62,11 @@ AMH tells you about egg quantity. Age tells you most about egg quality. Together
 - Consider options such as donor eggs where appropriate
 - Get support for emotional and practical decisions
 
-### Can AMH Change Over Time?
+### Can AMH change over time?
 
 AMH can vary slightly between tests and laboratories, and some factors such as hormonal contraception or vitamin D deficiency may affect readings. Overall, AMH declines with age and cannot be significantly increased.
 
-### What Other Tests Help?
+### What other tests help?
 
 Antral follicle count, FSH, oestradiol and a full fertility evaluation of both partners help interpret AMH more accurately.
 
@@ -84,16 +84,15 @@ Low AMH is a planning tool, not a final answer. Understanding what it means at y
 ### FAQs
 
 1. **What does low AMH mean at age 30?**
-   It suggests fewer eggs than typical for your age, but egg quality is usually still good. Natural conception is often possible, and early specialist evaluation helps with planning.
+         It suggests fewer eggs than typical for your age, but egg quality is usually still good. Natural conception is often possible, and early specialist evaluation helps with planning. It means reserve is smaller than typical for your age, but egg quality is usually still good. The practical advice is to start trying sooner or discuss egg freezing rather than assuming infertility.
 2. **Is low AMH at 35 a concern?**
-   It means time matters more. Seek specialist evaluation sooner and discuss timelines for natural trying or treatment, as egg quality also begins to decline with age.
+         It means time matters more. Seek specialist evaluation sooner and discuss timelines for natural trying or treatment, as egg quality also begins to decline with age. It deserves prompt attention because both quantity and quality decline from here. It is still very possible to conceive; the point is not to lose time. Evaluation of both partners should start now.
 3. **Can I get pregnant at 40 with low AMH?**
-   It is possible, but chances are lower and miscarriage risk is higher because egg quality declines with age. Prompt specialist advice on options such as IVF or donor eggs is important.
+         It is possible, but chances are lower and miscarriage risk is higher because egg quality declines with age. Prompt specialist advice on options such as IVF or donor eggs is important. It is possible but harder, since age affects quality as well as quantity. Options include prompt IVF, banking embryos or, honestly discussed, donor eggs. A specialist should map realistic odds for you.
 4. **Does AMH decrease every year?**
-   AMH generally declines with age, though individual results can vary between tests. Your specialist will interpret trends alongside other tests.
+         AMH generally declines with age, though individual results can vary between tests. Your specialist will interpret trends alongside other tests. Broadly yes, it declines with age, though the fall varies between women and occasional readings fluctuate. One value matters less than the trend and the whole picture, including your scan.
 5. **Should I freeze my eggs if I have low AMH at 30?**
-   If you are not planning pregnancy soon, egg freezing may be worth discussing. Earlier freezing generally gives better outcomes.
-
+         If you are not planning pregnancy soon, egg freezing may be worth discussing. Earlier freezing generally gives better outcomes. It is a reasonable option if pregnancy is some years away, since eggs frozen now are younger than any you would produce later. Discuss expected yield with your specialist before deciding.
 ### Sources and further reading
 
 - [NICHD: Infertility and fertility](https://www.nichd.nih.gov/health/topics/infertility)

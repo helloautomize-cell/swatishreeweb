@@ -26,11 +26,11 @@ IUI is often used as an earlier, less intensive fertility treatment. A common qu
 
 This article is part of our [IUI treatment](/blog/iui-treatment-intrauterine-insemination/) guide.
 
-### Why Is There No Fixed Number?
+### Why is there no fixed number?
 
 Each couple's situation is different. A younger woman with unexplained infertility and good ovarian reserve may reasonably try more cycles, while an older woman may benefit from moving to IVF sooner because time affects egg quality.
 
-### Which Factors Influence the Decision?
+### Which factors influence the decision?
 
 ## Age
 
@@ -52,11 +52,11 @@ How follicles develop and the quality of the sperm sample after washing are revi
 
 The stress and cost of repeated cycles also matter.
 
-### Why Do Most IUI Pregnancies Happen Early?
+### Why do most IUI pregnancies happen early?
 
 Studies suggest most IUI pregnancies occur within the first three to four cycles. If pregnancy has not happened by then, the chance per additional cycle tends to fall, which is why many couples consider IVF at that point.
 
-### When Is IVF Recommended Directly?
+### When is IVF recommended directly?
 - Blocked or damaged fallopian tubes
 - Moderate to severe male factor infertility
 - Older age, especially near or over 40
@@ -64,7 +64,7 @@ Studies suggest most IUI pregnancies occur within the first three to four cycles
 - Moderate to severe endometriosis
 - Need for genetic testing of embryos
 
-### What Should You Discuss With Your Specialist?
+### What should you discuss with your specialist?
 - Your age and ovarian reserve
 - Results of previous cycles
 - Your diagnosis and other factors
@@ -85,16 +85,15 @@ Choosing when to move from IUI to IVF is a personal decision best made with expe
 ### FAQs
 
 1. **How many IUI cycles should I try?**
-   Many specialists suggest up to about three to four cycles for suitable couples. Older women or those with other fertility factors may move to IVF sooner.
+         Many specialists suggest up to about three to four cycles for suitable couples. Older women or those with other fertility factors may move to IVF sooner. Commonly three to four, since most IUI pregnancies happen in the first few cycles. If it has not worked by then, more cycles rarely change the odds and moving to IVF is usually wiser.
 2. **Is it worth trying more than four IUI cycles?**
-   The chance per cycle tends to fall after the first few attempts. Some couples continue, but many are advised to consider IVF. Discuss with your specialist.
+         The chance per cycle tends to fall after the first few attempts. Some couples continue, but many are advised to consider IVF. Discuss with your specialist. Usually not, because success drops sharply after the first three to four attempts. Exceptions exist for specific situations, but in general continuing adds cost and delay without improving the odds much.
 3. **Should women over 35 try IUI?**
-   IUI may be tried in some women over 35 with suitable conditions, but fewer cycles are often advised before moving to IVF because of age-related fertility decline.
+         IUI may be tried in some women over 35 with suitable conditions, but fewer cycles are often advised before moving to IVF because of age-related fertility decline. A short trial may be reasonable if tests look good, but time matters more after 35. Many specialists suggest fewer IUI cycles, or going to IVF sooner, so the best years are not lost.
 4. **Why did my IUI fail?**
-   IUI may not work because of egg or sperm factors, timing, unexplained factors or age. It does not always mean something is wrong. Your specialist will review and suggest next steps.
+         IUI may not work because of egg or sperm factors, timing, unexplained factors or age. It does not always mean something is wrong. Your specialist will review and suggest next steps. A failed cycle usually reflects the monthly chance, not something done wrong. Repeated failures may point to factors IUI cannot overcome, like egg quality or mild sperm issues, and argue for reassessment.
 5. **When should we go directly to IVF?**
-   IVF is often recommended directly for blocked tubes, significant male factor infertility, older age, low ovarian reserve or severe endometriosis.
-
+         IVF is often recommended directly for blocked tubes, significant male factor infertility, older age, low ovarian reserve or severe endometriosis. When both tubes are blocked, sperm counts are very low, egg reserve is poor, the woman is older, or infertility has run for years. In those cases IUI adds little and IVF is the effective route.
 ### Sources and further reading
 
 - [NHS: Intrauterine insemination](https://www.nhs.uk/conditions/intrauterine-insemination-iui/)

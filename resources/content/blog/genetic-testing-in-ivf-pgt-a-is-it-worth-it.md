@@ -15,7 +15,7 @@ pillar: false
 keywords: []
 about: {type: MedicalTest, name: "Preimplantation genetic testing", alternateName: ["PGT"]}
 related: [/conditions/recurrent-pregnancy-loss/, /services/reproductive-immunology/]
-posts: [/blog/blastocyst-transfer-embryo-grading-explained/, /blog/recurrent-miscarriage-causes-tests-treatment/, /blog/fertility-after-35-when-to-seek-help/, /blog/ivf-success-factors-age-egg-quality-sperm-embryos/, /blog/frozen-embryo-transfer-process-preparation/]
+posts: [/blog/blastocyst-transfer-embryo-grading-explained/, /blog/recurrent-miscarriage-causes-tests-treatment/, /blog/fertility-after-35-when-to-seek-help/, /blog/ivf-success-factors-age-egg-quality-sperm-embryos/, /blog/frozen-embryo-transfer-process-preparation/, /blog/tests-after-recurrent-miscarriage/]
 ---
 
 H1: Genetic Testing in IVF PGT-A Is It Worth It
@@ -26,7 +26,7 @@ Preimplantation genetic testing, or PGT, is a set of tests that examine embryos 
 
 This article is part of our [recurrent miscarriage](/blog/recurrent-miscarriage-causes-tests-treatment/) guide.
 
-### What Are the Types of PGT?
+### What are the types of PGT?
 
 ## PGT-A (aneuploidy)
 
@@ -40,23 +40,23 @@ Tests embryos for a specific single-gene disorder, such as thalassaemia or cysti
 
 Checks for balanced translocations or other structural changes in a parent's chromosomes that can lead to unbalanced embryos.
 
-### How Is It Done?
+### How is it done?
 
 After fertilisation, embryos are grown to the blastocyst stage. A few cells are carefully removed from the outer layer, which will become the placenta, and sent for genetic analysis. Embryos are usually frozen while results are awaited, and a suitable embryo is transferred in a later frozen cycle.
 
-### Who May Benefit?
+### Who may Benefit?
 
 PGT-M and PGT-SR are clearly indicated when there is a known genetic condition or translocation. PGT-A may be considered in women of advanced maternal age, couples with recurrent pregnancy loss or repeated implantation failure and, in some cases, when previous pregnancies had chromosomal abnormalities. Evidence for benefit in all patients is debated, and results differ by age group and clinic.
 
-### What Are the Limitations?
+### What are the limitations?
 
 PGT does not guarantee a pregnancy or a healthy baby. It cannot detect every genetic or health condition. Biopsy results from a few cells may not perfectly represent the whole embryo, and mosaic results, where some cells are normal and others abnormal, can be difficult to interpret. Some embryos may be discarded or not used because of results, which raises ethical questions that you should discuss. Testing adds cost and requires embryo freezing.
 
-### What Are the Risks?
+### What are the risks?
 
 The biopsy is performed by skilled embryologists and is considered safe, but there is a small theoretical risk to the embryo. Prenatal tests such as NIPT or amniocentesis may still be recommended during pregnancy.
 
-### What Should You Ask Your Specialist?
+### What should you ask your specialist?
 
 Is PGT recommended in my situation, what exactly will it test, how accurate is it and what are its limits, how many embryos might be suitable, what is the cost, how are mosaic embryos handled and what are the legal and ethical considerations? In India, sex selection is prohibited by law, and testing must follow legal requirements.
 
@@ -74,16 +74,15 @@ PGT is a tool, not a guarantee. A thoughtful discussion helps you decide whether
 ### FAQs
 
 1. **What is PGT-A in IVF?**
-   PGT-A is testing of embryos for an abnormal number of chromosomes before transfer. It aims to help choose embryos with a normal chromosome count, but it does not guarantee a pregnancy and its routine benefit is debated.
+         PGT-A is testing of embryos for an abnormal number of chromosomes before transfer. It aims to help choose embryos with a normal chromosome count, but it does not guarantee a pregnancy and its routine benefit is debated. A biopsy of a few cells from a day-5 embryo, tested to count its chromosomes before transfer. It aims to avoid transferring embryos with the wrong number, a major cause of failure and miscarriage.
 2. **Does PGT-A improve IVF success?**
-   It may help some groups, such as older women or those with recurrent pregnancy loss, by reducing transfers of chromosomally abnormal embryos, but it does not benefit everyone. Your specialist will discuss whether it suits you.
+         It may help some groups, such as older women or those with recurrent pregnancy loss, by reducing transfers of chromosomally abnormal embryos, but it does not benefit everyone. Your specialist will discuss whether it suits you. It helps selected groups, mainly older women and those with repeated failures or losses, by avoiding transfers destined to fail. For younger women with few embryos the benefit is debated.
 3. **Is embryo biopsy safe?**
-   Embryo biopsy is performed by experienced embryologists and is considered safe, though a small theoretical risk to the embryo exists. Discuss the details with your clinic.
+         Embryo biopsy is performed by experienced embryologists and is considered safe, though a small theoretical risk to the embryo exists. Discuss the details with your clinic. Generally yes in experienced labs; the biopsy takes a few outer cells that would form the placenta, not the part that becomes the baby. A small risk of harming the embryo exists and is weighed.
 4. **What is the difference between PGT-A and PGT-M?**
-   PGT-A looks for the wrong number of chromosomes, while PGT-M tests for a specific single-gene disorder that parents carry. Their purposes and indications differ.
+         PGT-A looks for the wrong number of chromosomes, while PGT-M tests for a specific single-gene disorder that parents carry. Their purposes and indications differ. PGT-A screens chromosome numbers for common errors. PGT-M tests for a specific inherited disease the couple carries, and needs a custom probe built for that family's mutation first.
 5. **Do I still need prenatal tests after PGT?**
-   Yes. PGT does not detect every condition, so prenatal screening or diagnostic tests may still be recommended. Your doctor will advise during pregnancy.
-
+         Yes. PGT does not detect every condition, so prenatal screening or diagnostic tests may still be recommended. Your doctor will advise during pregnancy. Yes. PGT is a screening tool, not a guarantee, so standard prenatal screening and, when advised, diagnostic tests like amniocentesis are still recommended during the pregnancy.
 ### Sources and further reading
 
 - [NHS: Miscarriage](https://www.nhs.uk/conditions/miscarriage/)

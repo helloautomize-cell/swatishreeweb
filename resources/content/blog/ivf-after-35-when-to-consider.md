@@ -26,11 +26,11 @@ After 35, IVF may be considered sooner than for younger women, but it is not alw
 
 This article is part of our [fertility after 35](/blog/fertility-after-thirty-five-egg-quality-age-treatment/) guide.
 
-### How Does Age Change the Plan?
+### How does age change the plan?
 
 As age increases, the monthly chance of pregnancy decreases and time becomes more valuable. Specialists often shorten the time spent on simpler treatments to avoid losing months when egg reserve is falling.
 
-### When Might Simpler Treatment Be Tried First?
+### When might simpler treatment be tried first?
 - Age 35 to 37 with normal egg reserve
 - Open fallopian tubes
 - Normal or mildly reduced sperm parameters
@@ -40,7 +40,7 @@ As age increases, the monthly chance of pregnancy decreases and time becomes mor
 
 Options may include ovulation induction with monitoring and a limited number of IUI cycles.
 
-### When Might IVF Be Considered Sooner?
+### When might IVF be considered sooner?
 - Low AMH or low antral follicle count
 - Blocked or damaged tubes
 - Severe male factor infertility
@@ -50,7 +50,7 @@ Options may include ovulation induction with monitoring and a limited number of 
 - Age 40 or above
 - Desire for embryo genetic testing in selected cases
 
-### What Does IVF Offer After 35?
+### What does IVF offer after 35?
 - Several eggs can be collected in one cycle
 - Fertilisation is checked in the lab
 - Embryos can be assessed before transfer
@@ -59,14 +59,14 @@ Options may include ovulation induction with monitoring and a limited number of 
 
 IVF outcomes still depend strongly on age and egg reserve, so your specialist will give realistic expectations based on your results.
 
-### How Should You Prepare?
+### How should you prepare?
 - Complete basic fertility tests for both partners
 - Take folic acid
 - Manage weight, thyroid and blood sugar
 - Stop smoking and limit alcohol
 - Discuss costs, timelines and emotional support
 
-### Questions to Ask Your Specialist
+### Questions to ask your specialist
 - What is my egg reserve for my age?
 - Is IUI reasonable for us, and for how many cycles?
 - What would make you recommend IVF now?
@@ -87,18 +87,17 @@ There is no single right time for IVF after 35, only the right time for you. A c
 ### FAQs
 
 1. **Should I go straight to IVF at 35?**
-   Not always. If your egg reserve is good, tubes are open and sperm is normal, simpler treatments may be tried for a short time. Your specialist will consider all factors before advising IVF.
+         Not always. If your egg reserve is good, tubes are open and sperm is normal, simpler treatments may be tried for a short time. Your specialist will consider all factors before advising IVF. Not automatically. If tests look good, a short trial of natural attempts or IUI may come first; IVF is favoured when time, reserve or the diagnosis argues for faster results. The workup decides.
 2. **How many IUI cycles should I try after 35?**
-   Often fewer than younger women, because time is important. Many specialists suggest a limited number of well-timed IUI cycles before discussing IVF. The exact number depends on your results.
+         Often fewer than younger women, because time is important. Many specialists suggest a limited number of well-timed IUI cycles before discussing IVF. The exact number depends on your results. Fewer than a younger woman might, since time matters more. Many specialists suggest two to three at most before reassessing, or skipping IUI entirely when reserve or sperm factors argue for IVF.
 3. **Is IVF more successful than IUI after 35?**
-   IVF usually offers a higher chance per cycle than IUI, especially when other factors are present. However, it is more intensive and costly. The best option depends on your diagnosis and age.
+         IVF usually offers a higher chance per cycle than IUI, especially when other factors are present. However, it is more intensive and costly. The best option depends on your diagnosis and age. Per cycle, yes, which is exactly why it is favoured when time is short. The trade-off is greater cost and intensity, so the decision weighs your age, diagnosis and how long you have tried.
 4. **Does low AMH mean I need IVF immediately?**
-   Low AMH means fewer eggs remain, so specialists often suggest moving to treatment sooner. It does not always mean IVF is the only option. Your age and other results guide the choice.
+         Low AMH means fewer eggs remain, so specialists often suggest moving to treatment sooner. It does not always mean IVF is the only option. Your age and other results guide the choice. Not always, but it argues against a long unmonitored wait. If reserve is low at 35-plus, evaluation should be prompt and IVF often enters the plan sooner than it would for a younger woman.
 5. **Can I freeze embryos during IVF for later?**
-   Yes. Extra good-quality embryos can often be frozen for future use. This may help couples plan a second child or another attempt without repeating stimulation.
+         Yes. Extra good-quality embryos can often be frozen for future use. This may help couples plan a second child or another attempt without repeating stimulation. Yes, spare good embryos are routinely frozen for a later transfer or a sibling. Freezing adds flexibility, and outcomes with modern vitrification are as good as fresh transfer.
 6. **Is genetic testing of embryos needed after 35?**
-   It is not essential for everyone. PGT-A may be discussed for women over 35, especially with recurrent miscarriage or failed IVF. Your specialist will explain the benefits and limitations.
-
+         It is not essential for everyone. PGT-A may be discussed for women over 35, especially with recurrent miscarriage or failed IVF. Your specialist will explain the benefits and limitations. Not required, but more relevant, since a larger share of embryos carry chromosome errors. Whether PGT-A helps depends on how many embryos you produce and your history.
 ### Sources and further reading
 
 - [ACOG: Having a baby after age 35](https://www.acog.org/womens-health/faqs/having-a-baby-after-age-35-how-aging-affects-fertility-and-pregnancy)

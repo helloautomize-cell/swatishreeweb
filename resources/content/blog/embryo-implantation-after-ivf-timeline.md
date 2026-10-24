@@ -26,7 +26,7 @@ Implantation is when the embryo attaches to and begins to embed in the lining of
 
 This article is part of our [pregnancy after IVF](/blog/pregnancy-after-ivf/) guide.
 
-### What Happens After Embryo Transfer?
+### What happens after embryo transfer?
 
 ## Day 0
 
@@ -54,7 +54,7 @@ A blood beta-hCG test can usually detect pregnancy. Your clinic will give you th
 
 Timings are slightly longer after a day 3 embryo transfer.
 
-### Are There Signs of Implantation?
+### Are there signs of implantation?
 
 Some women notice:
 - Mild cramping
@@ -65,15 +65,15 @@ Some women notice:
 
 However, these symptoms are very common with progesterone and other IVF medicines. They can occur whether or not pregnancy happens. Many women who conceive have no symptoms at all.
 
-### Why Are Symptoms Unreliable?
+### Why are symptoms unreliable?
 
 Progesterone, which is given after transfer, causes many pregnancy-like symptoms. The body's response to the procedure itself can also cause mild cramps. Only a blood test can confirm pregnancy.
 
-### Should You Take a Home Test Early?
+### Should you take a home test early?
 
 Testing too early can give false results. A trigger injection used for egg collection contains hCG, which may still be in the blood in some cases. Early tests can also be negative even if implantation is happening. Waiting for the clinic test date avoids confusion and stress.
 
-### What Can Help During the Wait?
+### What can help during the wait?
 - Take all medicines as prescribed
 - Continue normal light activity; strict bed rest is not usually needed
 - Eat well and stay hydrated
@@ -81,7 +81,7 @@ Testing too early can give false results. A trigger injection used for egg colle
 - Keep busy with gentle, enjoyable activities
 - Lean on your partner, friends or a counsellor
 
-### When to Contact Your Clinic
+### When to contact your clinic
 - Heavy bleeding
 - Severe abdominal pain
 - Fever
@@ -101,18 +101,17 @@ The wait after embryo transfer can feel very long. Knowing what is happening ins
 ### FAQs
 
 1. **How soon does implantation happen after embryo transfer?**
-   After a day 5 blastocyst transfer, implantation usually begins within about 1 to 3 days. After a day 3 transfer, it may take a few extra days. hCG then starts rising in the blood.
+         After a day 5 blastocyst transfer, implantation usually begins within about 1 to 3 days. After a day 3 transfer, it may take a few extra days. hCG then starts rising in the blood. Usually within one to three days after a day-5 transfer, once the embryo hatches and embeds in the lining. The blood test about nine to twelve days later is the reliable way to know it worked.
 2. **Is implantation bleeding common after IVF?**
-   Some women notice light spotting, but many do not. Spotting can also come from progesterone or the transfer itself. It does not confirm pregnancy. Inform your clinic about any bleeding.
+         Some women notice light spotting, but many do not. Spotting can also come from progesterone or the transfer itself. It does not confirm pregnancy. Inform your clinic about any bleeding. Light spotting around the expected period can happen but is not reliable evidence either way, and many successful cycles have none. Only the blood test gives a real answer.
 3. **Can I feel the embryo implanting?**
-   Most women do not feel anything during implantation. Mild cramps may occur but are usually due to medicines or the uterus settling. Feeling nothing is completely normal.
+         Most women do not feel anything during implantation. Mild cramps may occur but are usually due to medicines or the uterus settling. Feeling nothing is completely normal. Almost never. Mild cramps or twinges in the two-week wait are common and mean nothing either way, since progesterone causes similar sensations. Symptoms are a poor guide; the test is the answer.
 4. **When should I take a pregnancy test after embryo transfer?**
-   Most clinics recommend a blood hCG test about 9 to 12 days after transfer. Testing earlier can give false positive or false negative results. Follow your clinic's advice.
+         Most clinics recommend a blood hCG test about 9 to 12 days after transfer. Testing earlier can give false positive or false negative results. Follow your clinic's advice. On the day your clinic advises, usually nine to twelve days after a day-5 transfer. Testing early risks a false negative, or a false positive if a trigger injection is still clearing.
 5. **Does bed rest help implantation?**
-   Research does not show that strict bed rest improves implantation. Light, normal activity is usually fine. Avoid heavy lifting and intense workouts if your doctor advises it.
+         Research does not show that strict bed rest improves implantation. Light, normal activity is usually fine. Avoid heavy lifting and intense workouts if your doctor advises it. No. Studies show bed rest does not improve implantation and may even be unhelpful. Gentle normal activity is fine; just avoid heavy lifting, intense workouts and heat on the abdomen for a few days.
 6. **Can stress stop implantation?**
-   There is no strong evidence that everyday stress prevents implantation. The wait is stressful for most couples. Gentle activities, rest and emotional support can help you feel better during this time.
-
+         There is no strong evidence that everyday stress prevents implantation. The wait is stressful for most couples. Gentle activities, rest and emotional support can help you feel better during this time. Ordinary stress has not been shown to block implantation, though the two-week wait is genuinely hard. Simple routines, gentle activity and avoiding hour-by-hour symptom checking help more than chasing calm.
 ### Sources and further reading
 
 - [NHS: IVF](https://www.nhs.uk/conditions/ivf/)

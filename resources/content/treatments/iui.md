@@ -81,7 +81,7 @@ IUI is regulated by the ART (Regulation) Act, 2021. Treatment is offered to marr
 ### FAQs
 
 1. **Is IUI painful?**
-   Most women feel little more than mild cramping, similar to a Pap test. No anaesthetic is needed, and the procedure takes a few minutes. You can rest briefly and then go home or back to work. Tell us if you feel uncomfortable, and we will pause.
+         Most women feel little more than mild cramping, similar to a Pap test. No anaesthetic is needed, and the procedure takes a few minutes. You can rest briefly and then go home or back to work. Tell us if you feel uncomfortable, and we will pause. It feels much like a Pap smear: a thin catheter passes through the cervix in under a minute, with mild cramping possible for a few hours after. No anaesthesia or recovery time is needed.
 2. **When should I consider IUI instead of IVF?**
    IUI is usually considered when the tubes are open, sperm quality is adequate after preparation, and the cause is unexplained, mild male factor or ovulation related. IVF is usually advised for blocked tubes, severe male factor, endometriosis, or limited time. Dr. Swati advises after your evaluation.
 3. **How many IUI cycles should we try?**
@@ -95,6 +95,8 @@ IUI is regulated by the ART (Regulation) Act, 2021. Treatment is offered to marr
 7. **What can I do after IUI?**
    You can resume normal activities, including work and light exercise. Bed rest is not needed. Take any progesterone as prescribed, avoid smoking and alcohol, and do a pregnancy test on the date advised, not earlier, to avoid confusing results.
 
+8. **What does IUI cost in Bangalore?**
+   Costs vary with the medicines used, the number of monitoring scans and the clinic. IUI is usually far less expensive than IVF per cycle. At EVE you receive a written estimate before the cycle starts, so ask for it at your consultation.
 ### Sources
 - ESHRE Guideline: Unexplained infertility (2023)
 - NICE Guideline CG156: Fertility problems

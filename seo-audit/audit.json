@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "site": "EVE Women and Fertility Clinic (evefertilityclinic.com)",
+    "audited": "2026-10-24",
+    "build": "Next.js 16.3.5 production build, SITE_INDEXABLE=1, SITE_URL=https://evefertilityclinic.com, 107 indexable pages",
+    "overallScore": 85,
+    "scores": {
+      "crawlingAndAiBotAccess": 93,
+      "technical": 90,
+      "schema": 94,
+      "eeat": 88,
+      "pillarLinking": 82,
+      "faqs": 76,
+      "entitiesAndSemantics": 84,
+      "keywords": 86,
+      "contentHumanness": 70,
+      "aeoGeoReadiness": 88
+    }
+  },
+  "issues": [
+    {
+      "id": "SEO-001", "priority": "P1", "area": "content-humanness",
+      "title": "261 Title Case H3 headings across 59 blog files",
+      "pages": "resources/content/blog/*.md (59 of 63 posts)",
+      "evidence": "e.g. 'What Should You Discuss With Your Doctor?', 'Step 4: Trigger Injection and Egg Collection'. Sentence-case is used by the older conditions/services pages; only the new blog batch uses Title Case.",
+      "fix": "Lowercase all words except the first word and proper nouns in ### headings. e.g. 'What should you discuss with your doctor?'"
+    },
+    {
+      "id": "SEO-002", "priority": "P1", "area": "keywords",
+      "title": "3 legacy unclustered posts cannibalise cluster articles",
+      "pages": "/blog/pcos-and-getting-pregnant/ vs /blog/pcos-pregnancy-natural-conception/; /blog/fertility-tests-explained/ vs /blog/female-infertility-tests-amh-ultrasound-hsg/; /blog/when-to-see-a-fertility-doctor/ vs /blog/how-long-try-conceive-before-fertility-specialist/",
+      "evidence": "Each pair targets near-identical intent: 'PCOS and Getting Pregnant: What the Evidence Says' vs 'PCOS and Pregnancy: Natural Conception'; 'Fertility tests explained: AMH, semen analysis, HSG and scans' vs 'Female Infertility Tests: AMH, Ultrasound, Hormones, HSG'; 'when to see a fertility doctor' vs 'how long to try before seeing a fertility specialist'.",
+      "fix": "For each pair either merge into the stronger page with a 301 redirect, or rewrite titles/intros/FAQs so each page owns a distinct intent (e.g. keep the legacy page as the broad 'tests' overview and narrow the cluster post to female-only workup). Add the surviving legacy posts to clusters or remove them from the index."
+    },
+    {
+      "id": "SEO-003", "priority": "P1", "area": "technical",
+      "title": "Markdown tables render as literal pipe text on 2 posts",
+      "pages": "/blog/amh-vs-egg-quality-difference/, /blog/iui-vs-ivf-which-fertility-treatment/",
+      "evidence": "Blank lines separate every table row ('| Feature | IUI | IVF |' then blank line then '|---|---|'), so GFM never parses a table. Raw HTML shows the pipe text inside <p> elements; no <table> is emitted. 33 files use tables; only these 2 have broken rows.",
+      "fix": "Remove the blank lines between table rows in resources/content/blog/amh-vs-egg-quality-difference.md and iui-vs-ivf-which-fertility-treatment.md (and in resources/docs/new-website-content.md if that is the source of truth), then re-split."
+    },
+    {
+      "id": "SEO-004", "priority": "P2", "area": "faqs",
+      "title": "FAQ answers too short on ~45 supporting posts",
+      "pages": "Most supporting blog posts, e.g. /blog/can-you-get-pregnant-naturally-low-amh/ (17-27 words), /blog/how-long-try-conceive-before-fertility-specialist/ (17-29), /blog/iui-vs-ivf-which-fertility-treatment/ (20-33)",
+      "evidence": "Extracted answer word counts: supporting posts mostly 17-38 words vs the 40-60 word guideline. Pillars and condition/service pages meet 40-60.",
+      "fix": "Expand each short answer to 40-60 words: keep the direct first sentence, then add one concrete detail (number, timeframe, exception) and one 'what to do next' clause."
+    },
+    {
+      "id": "SEO-005", "priority": "P2", "area": "pillar-linking",
+      "title": "7 supporting posts link to fewer than 2 siblings",
+      "pages": "/blog/fibroids-and-fertility-can-you-get-pregnant/ (1), /blog/genetic-testing-in-ivf-pgt-a-is-it-worth-it/ (1), /blog/hysteroscopy-for-infertility-when-is-it-needed/ (1), /blog/thyroid-problems-and-fertility/ (1), /blog/ovulation-tracking-how-to-know-fertile-window/ (1), /blog/letrozole-pcos-ovulation-induction/ (1), /blog/pcos-age-metabolic-health-fertility-planning/ (1)",
+      "evidence": "Counted unique same-cluster URLs across body links, related: and posts: frontmatter.",
+      "fix": "Add 1-2 in-copy links to same-cluster siblings plus list them in posts: frontmatter."
+    },
+    {
+      "id": "SEO-006", "priority": "P2", "area": "pillar-linking",
+      "title": "Endometriosis cluster never links to a service/treatment page",
+      "pages": "All 6 pages in cluster 'Endometriosis' incl. pillar /blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/",
+      "evidence": "Zero /services/ or /treatments/ URLs in body links, related: or posts:. The cluster links to /conditions/endometriosis/ only.",
+      "fix": "Add contextual links to /treatments/ivf/, /treatments/iui/ and /services/fertility-evaluation/ where the copy discusses those options."
+    },
+    {
+      "id": "SEO-007", "priority": "P2", "area": "technical",
+      "title": "3 posts render 'Published' with an empty date",
+      "pages": "/blog/pcos-and-getting-pregnant/, /blog/fertility-tests-explained/, /blog/when-to-see-a-fertility-doctor/",
+      "evidence": "datePublished is '[CONFIRM: launch date]' so the chip renders nothing in production: 'Written by Dr. Swati Shree... · Published  · Updated 4 September 2026'. JSON-LD datePublished is also pruned.",
+      "fix": "Either supply real dates in frontmatter or drop the 'Published' label when the value is a CONFIRM. Prefer real dates before launch."
+    },
+    {
+      "id": "SEO-008", "priority": "P2", "area": "eeat",
+      "title": "Citations exist in JSON-LD but no visible Sources block on 4 pages",
+      "pages": "/blog/fertility-tests-explained/, /blog/pcos-and-getting-pregnant/, /blog/when-to-see-a-fertility-doctor/, /your-fertility-journey/",
+      "evidence": "These files use the legacy inline 'Sources:' trailer which the loader removes from the body for JSON-LD citation[]. The 85 pages with '### Sources' sections render a visible <details class='pg-sources'> block; these 4 render nothing.",
+      "fix": "Convert the inline 'Sources:' lines into '### Sources' sections with linked entries so readers and crawlers see the references."
+    },
+    {
+      "id": "SEO-009", "priority": "P2", "area": "on-page",
+      "title": "4 titles under 50 chars; 2 descriptions under 140 chars",
+      "pages": "titles: /blog/thyroid-problems-and-fertility/ (30), /blog/can-endometriosis-cause-infertility/ (36), /blog/egg-freezing-fertility-preservation/ (37), /blog/ivf-process-step-by-step-consultation-embryo-transfer/ (37); descriptions: /appointments-cancellation-refund/ and /editorial-policy/ (109)",
+      "fix": "Lengthen titles toward 50-60 chars with qualifier + location (e.g. 'Thyroid Problems and Fertility: Tests and Treatment'). Lengthen the two legal descriptions."
+    },
+    {
+      "id": "SEO-010", "priority": "P2", "area": "on-page",
+      "title": "/blog/ index has no visible breadcrumb",
+      "evidence": "crawl: hasBreadcrumb=false on /blog/ only; BreadcrumbList schema is present.",
+      "fix": "Render <Breadcrumbs items=[{label:'Blog'}]> in BlogIndexPage."
+    },
+    {
+      "id": "SEO-011", "priority": "P2", "area": "aeo-geo",
+      "title": "No INR cost content anywhere on the site",
+      "pages": "all",
+      "evidence": "grep for ₹/INR/Rs/rupee across resources/content: 0 hits. 'IVF cost in Bangalore', 'IUI cost' etc. are high-volume PAA questions the site does not answer; AI engines will cite competitors for cost queries.",
+      "fix": "Add a 'What it costs' section (with honest ranges and a 'confirm at consultation' note) to IVF, IUI, egg-freezing and HSG pages, or a dedicated costs page — needs client-approved price ranges first."
+    },
+    {
+      "id": "SEO-012", "priority": "P2", "area": "tooling",
+      "title": "Windows autocrlf checkout breaks build-check (114 phantom link errors)",
+      "pages": "scripts/build-check.mjs vs resources/content/*.md",
+      "evidence": "With core.autocrlf=true, git writes CRLF; the frontmatter regex /^---\\n/ then fails so urls are never registered and every internal link to those pages errors. Production/Vercel (LF checkout) is unaffected.",
+      "fix": "Add '*.md text eol=lf' to .gitattributes and/or make build-check split lines on /\\r?\\n/."
+    },
+    {
+      "id": "SEO-013", "priority": "P3", "area": "eeat",
+      "title": "'Medically reviewed by' appears only at page bottom",
+      "pages": "all 63 posts",
+      "evidence": "PostPage shows 'Written by ... Published ... Updated' in the header; ReviewerBox sits after the article body.",
+      "fix": "Add a compact 'Medically reviewed by Dr. Swati Shree, MRCOG (UK)' line to the post header meta row."
+    },
+    {
+      "id": "SEO-014", "priority": "P3", "area": "crawling",
+      "title": "robots.txt allow-list misses some AI user agents; /styleguide and /thank-you not disallowed",
+      "evidence": "Allowed: Googlebot, Bingbot, GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, Claude-SearchBot, PerplexityBot, Google-Extended, Applebot-Extended. Not named: Claude-User, Perplexity-User, Applebot, CCBot, anthropic-ai (catch-all still allows them). /styleguide and /thank-you carry meta noindex but are not Disallowed.",
+      "fix": "Optional: extend the AI_BOTS list; optionally add Disallow /styleguide/ and /thank-you/ for belt-and-braces."
+    },
+    {
+      "id": "SEO-015", "priority": "P3", "area": "crawling",
+      "title": "Home page has no sitemap <lastmod>",
+      "evidence": "lastmod omitted because home lastReviewed is a CONFIRM placeholder.",
+      "fix": "Supply a real lastReviewed date for index.md at launch."
+    },
+    {
+      "id": "SEO-016", "priority": "P3", "area": "technical",
+      "title": "No site.webmanifest",
+      "evidence": "favicon.ico, icon.png, apple-icon.png all 200; no manifest link or file.",
+      "fix": "Add app/manifest.ts (name, short_name, icons, theme_color #F8F3EA)."
+    },
+    {
+      "id": "SEO-017", "priority": "P3", "area": "schema",
+      "title": "Doctor entity has no sameAs; about-nodes lack Wikipedia/MeSH sameAs",
+      "evidence": "Physician node sameAs is CONFIRM-pruned (socials pending). about nodes emit name/alternateName only.",
+      "fix": "Add confirmed social/profile URLs as sameAs when client supplies them; add sameAs to MedicalCondition/MedicalProcedure about nodes pointing at Wikipedia/MeSH."
+    },
+    {
+      "id": "SEO-018", "priority": "P3", "area": "content-humanness",
+      "title": "Identical article template on all 63 posts",
+      "evidence": "Every post: H1 > 'Quick answer' callout > 'In brief' bullets > sections > FAQs > AuthorBox > ReviewerBox > RelatedLinks. Strong for AEO but uniform-structure is a checklist-53 tell.",
+      "fix": "Acceptable as a design system; vary section order and lead format on a subset where natural."
+    },
+    {
+      "id": "SEO-019", "priority": "P3", "area": "client-input",
+      "title": "~120 [CONFIRM]/[date] placeholders across 34 content files",
+      "evidence": "OPD hours/times, clinic email, ART registry number, social URLs, payment methods, legal last-updated dates, 3 posts' datePublished.",
+      "fix": "Collect from client; npm run launch-check already enforces these before indexing."
+    },
+    {
+      "id": "SEO-020", "priority": "P3", "area": "entities",
+      "title": "Reading level FK ~9-13 vs target 7-9",
+      "evidence": "Measured on 5 sample pages; inflated by unavoidable medical terms (intrauterine, fertilisation, gynaecology).",
+      "fix": "Shorten the longest sentences; keep the medical+plain-term pairing already in use."
+    },
+    {
+      "id": "SEO-021", "priority": "P3", "area": "crawling",
+      "title": "Host canonicalisation (www/non-www, http->https) is infra-dependent",
+      "evidence": "Canonicals/OG/sitemap all hard-code https://evefertilityclinic.com; 308 trailing-slash redirect verified locally. www vs apex redirect must be configured at DNS/host (Vercel domain settings).",
+      "fix": "At launch set evefertilityclinic.com as primary in Vercel; redirect www->apex and http->https (Vercel does http->https automatically)."
+    },
+    {
+      "id": "SEO-022", "priority": "P3", "area": "schema",
+      "title": "BlogPosting.mentions is empty on most posts",
+      "evidence": "mentions:[] seen in JSON-LD where meta.entities is unset.",
+      "fix": "Populate entities: frontmatter (2-5 key entities per post) or derive mentions from the about node."
+    },
+    {
+      "id": "SEO-023", "priority": "P3", "area": "on-page",
+      "title": "Root layout fallback description is thin",
+      "evidence": "src/app/layout.tsx: description 'EVE Women and Fertility Clinic, Gunjur, Bangalore.' Used only where a page lacks meta.description (none currently).",
+      "fix": "Optional: expand the fallback description."
+    }
+  ],
+  "clientInputsNeeded": [
+    "OPD opening/closing times (24h HH:MM) and display hours",
+    "Clinic email address",
+    "National ART and Surrogacy Registry number",
+    "Instagram / Facebook / YouTube / LinkedIn URLs",
+    "Payment methods accepted",
+    "Last-updated dates for legal pages",
+    "datePublished for pcos-and-getting-pregnant, fertility-tests-explained, when-to-see-a-fertility-doctor",
+    "Approved INR price ranges if cost content is wanted",
+    "Google Business Profile name/address/phone for NAP cross-check at launch"
+  ]
+}

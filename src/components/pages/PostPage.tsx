@@ -64,6 +64,13 @@ export default function PostPage({ doc }: { doc: PageDoc }) {
             ) : null}
             {doc.meta.readingTime ? ` · ${doc.meta.readingTime} min read` : ""}
           </p>
+          <p className="pg-postmeta pg-postmeta--review">
+            Medically reviewed by{" "}
+            <Link className="link" href="/dr-swati-shree/">
+              {site.doctor}
+            </Link>
+            , MBBS, DNB (OBG), MRCOG (UK)
+          </p>
         </header>
 
         {heroFile && (

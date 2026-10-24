@@ -62,7 +62,7 @@ Not every loss has an immune cause. In about half of couples with recurrent loss
 2. **Should I have an NK cell test?**
    Guidelines from ESHRE and RCOG do not recommend routine NK cell testing in recurrent loss or failed IVF, because results do not reliably predict outcomes or guide treatment. If you are considering it, Dr. Swati explains the evidence and the cost first.
 3. **What is antiphospholipid syndrome?**
-   APS is an autoimmune condition where antibodies raise the risk of blood clots and pregnancy loss. It is diagnosed by blood tests repeated at least 12 weeks apart. In pregnancy it is treated with blood-thinning medicine, which improves the chance of a healthy pregnancy.
+         APS is an autoimmune condition where antibodies raise the risk of blood clots and pregnancy loss. It is diagnosed by blood tests repeated at least 12 weeks apart. In pregnancy it is treated with blood-thinning medicine, which improves the chance of a healthy pregnancy. An immune condition where certain antibodies raise clotting risk and are linked to recurrent miscarriage. It is found on blood tests and treated in the next pregnancy with aspirin and heparin.
 4. **Can immune treatments like IVIG or intralipids help me?**
    Current guidelines do not recommend them for unexplained recurrent miscarriage or failed implantation, because trials have not shown that they improve live births. Some carry risks. Dr. Swati will not recommend an unproven treatment as routine.
 5. **Do I need a thrombophilia test?**
