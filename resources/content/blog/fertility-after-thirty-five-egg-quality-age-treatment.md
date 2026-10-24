@@ -26,7 +26,7 @@ Fertility after 35 is a woman's ability to conceive and carry a pregnancy in her
 
 A lot of couples in Bangalore start trying later than their parents did. Marriage happens later, careers take priority for a while, and some people simply weren't ready at 28. None of that is a mistake. But it does help to know how age affects your fertility, which parts you can influence, and at what point waiting stops being a good idea.
 
-### Why Does Fertility Decline After 35?
+### Why does fertility decline after 35?
 
 The short version is that eggs age and the uterus mostly doesn't. A woman's uterus can usually carry a pregnancy well into her forties. The ovaries are what change.
 
@@ -52,7 +52,7 @@ It does, though the effect is usually milder. Older men can have lower semen vol
 
 So a semen test belongs in the first round of tests, not the last. It's quick, it doesn't hurt, and many men in India put it off longer than they should.
 
-### What Is the Difference Between Egg Quantity and Egg Quality?
+### What is the difference between egg quantity and egg quality?
 
 People mix these two up all the time, and the difference matters.
 
@@ -66,7 +66,7 @@ People mix these two up all the time, and the difference matters.
 
 A 32-year-old with low AMH may still have decent eggs. A 41-year-old with a normal AMH may have plenty of eggs, many of which aren't chromosomally normal. A good fertility doctor reads both together and never judges by one number.
 
-### How Does Age Affect Your Chances of Getting Pregnant?
+### How does age affect your chances of getting pregnant?
 
 Nothing dramatic happens on your 35th birthday. The decline is slow at first and picks up speed in the late 30s and after 40. Here is a rough guide, along with the timing that bodies such as ASRM and ACOG suggest for getting checked.
 
@@ -91,7 +91,7 @@ Most women over 35 have healthy pregnancies. Some risks do climb with age, thoug
 
 Regular antenatal check-ups catch most of these early. You'll also be offered screening, and sometimes diagnostic tests, for chromosomal conditions during pregnancy. In India these tests are done only for medical reasons. Finding out or choosing a baby's sex is illegal under the PCPNDT Act.
 
-### Can You Get Pregnant Naturally After 35?
+### Can you get pregnant naturally after 35?
 
 Many women in their late 30s do, and some in their early 40s too. Age is one factor among several. Your doctor will also want to know if you ovulate regularly, what your ovarian reserve looks like, whether your tubes are open, and whether PCOS, endometriosis, fibroids or thyroid problems are in the picture. Your partner's semen report matters just as much. So does something more basic, which is how often you're actually together during the fertile days.
 
@@ -105,7 +105,7 @@ For a lot of couples working in Whitefield or on Outer Ring Road, the real obsta
 
 Not necessarily. A regular cycle usually means you're ovulating, which is good news. It says nothing about egg quality, ovarian reserve, your tubes or your partner's sperm. Women with clockwork cycles find out they have low ovarian reserve all the time.
 
-### How Long Should You Try to Conceive After 35 Before Getting Help?
+### How long should you try to conceive after 35 before getting help?
 
 At 35 to 39, give it six months. At 40 or older, see someone when you start trying or within a couple of months.
 
@@ -113,7 +113,7 @@ Don't wait that long if you have irregular or very infrequent periods, known PCO
 
 A first consultation doesn't sign you up for treatment. It tells you where things stand, and after 35 the months you'd otherwise spend guessing are worth a lot.
 
-### Which Fertility Tests Are Done After 35?
+### Which fertility tests are done after 35?
 
 The workup covers eggs, tubes, uterus, hormones and sperm. Most of it is done in one or two cycles.
 
@@ -137,7 +137,7 @@ No. AMH estimates how many eggs you have left. It helps predict how your ovaries
 
 Seeing "low AMH" on a report is frightening for most women. It means planning matters more and you shouldn't drift for another year. It doesn't mean you can't get pregnant.
 
-### What Are the Fertility Treatment Options After 35?
+### What are the fertility treatment options after 35?
 
 The plan depends on your age, your results, how long you've been trying and what you both want. After 35, doctors tend to move to the next step a bit sooner than they would for a younger couple, because time counts.
 
@@ -187,7 +187,7 @@ Egg freezing means collecting eggs now and storing them for later. It's worth a 
 
 Younger eggs freeze and thaw better, so the age at freezing matters more than the age at use. Frozen eggs give you an option, not a promise. Women freezing in their late 30s often need more eggs stored to have a reasonable chance later. Collection and freezing happen at a centre with an IVF lab, after testing and counselling.
 
-### What Happens in an IVF Cycle After 35? A Step-by-Step Look
+### What happens in an IVF cycle after 35? a step-by-step look
 - Tests and consultation. Both of you are evaluated. Reserve, uterus, tubes, hormones and semen are all checked.
 - Planning. Your doctor picks a stimulation protocol based on your age, AMH and follicle count.
 - Stimulation. You take hormone injections for roughly 8 to 12 days so several follicles grow at once.
@@ -200,7 +200,7 @@ Younger eggs freeze and thaw better, so the age at freezing matters more than th
 
 After 35 you may get fewer eggs, and some won't develop into embryos that can be used. Some couples do two or more collection cycles and freeze embryos before attempting a transfer. Ask your doctor whether that approach suits you.
 
-### Pregnancy Planning After 35: What Can You Do Before Trying?
+### Pregnancy planning after 35: what can you do before trying?
 
 Get a preconception check-up. It's one of the simplest and most useful things you can do. Your doctor will go over your health history and any medicines you take, and check your blood pressure, sugar, thyroid and haemoglobin. Rubella immunity and a few other screens are usually part of it.
 
@@ -228,7 +228,7 @@ Lean on your partner and let them lean on you. It's fine to tell relatives you w
 
 Stress on its own rarely causes infertility, whatever an aunt may say.
 
-### What Are the Risks and Limitations of Fertility Treatment After 35?
+### What are the risks and limitations of fertility treatment after 35?
 
 Treatment works for many couples over 35, but going in with realistic expectations makes the hard moments easier to handle.
 
@@ -236,7 +236,7 @@ With your own eggs, the chance of pregnancy per IVF cycle generally drops as you
 
 There are physical risks too. Fertility injections occasionally overstimulate the ovaries, a condition called OHSS (ovarian hyperstimulation syndrome) that causes swelling and fluid build-up. Twins or triplets carry higher risks for mother and babies, which is one reason doctors often prefer transferring a single embryo.
 
-### What Are the Common Myths About Fertility After 35?
+### What are the common myths about fertility after 35?
 
 "My periods are regular, so I'm fine."
 
@@ -266,7 +266,7 @@ No diet or supplement has been shown to reverse egg aging.
 
 Strict bed rest hasn't been shown to help. Light normal activity is generally fine unless your doctor says otherwise.
 
-### What Questions Should You Ask Your Fertility Doctor?
+### What questions should you ask your fertility doctor?
 - What do my AMH and follicle count mean at my age?
 - Is my husband's semen report normal?
 - Are my tubes open and is my uterus healthy?
@@ -277,7 +277,7 @@ Strict bed rest hasn't been shown to help. Light normal activity is generally fi
 - What should I do to get healthy before pregnancy?
 - Which symptoms during treatment mean I should call you right away?
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Book an appointment if you're 35 to 39 and six months have passed, if you're 40 or older and want a baby, or if you have irregular periods, a known gynaecological condition, past miscarriages or a partner with a sperm concern. You don't need to wait for a problem, either. Some women come in before they start trying, just to know where they stand.
 
@@ -323,7 +323,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 2. **What is a good AMH level at 35 or 40?**
    AMH drops naturally with age, and labs use slightly different reference ranges, so a single number means little on its own. Your doctor will read it alongside your age, antral follicle count and other results. Low AMH suggests fewer eggs are left. It says nothing about egg quality and doesn't mean pregnancy is impossible.
 3. **Can I improve my egg quality after 35?**
-   Age-related changes in egg quality can't be reversed. What you can do is support your overall health by not smoking, cutting down on alcohol, eating regular balanced meals, staying active and keeping conditions like thyroid disease under control. Many supplements claim to help, but the evidence is thin, so check with your doctor first.
+         Age-related changes in egg quality can't be reversed. What you can do is support your overall health by not smoking, cutting down on alcohol, eating regular balanced meals, staying active and keeping conditions like thyroid disease under control. Many supplements claim to help, but the evidence is thin, so check with your doctor first. You cannot reverse age-related change, but stopping smoking, treating thyroid or metabolic problems and good general health support the environment eggs mature in. Supplements have limited, unproven benefit.
 4. **Should I try IUI or go straight to IVF after 35?**
    That depends on your test results and how long you've been trying. A few IUI cycles can make sense if your tubes are open, your reserve is reasonable and sperm counts are adequate. After about 38 to 40, or if tubes are blocked, reserve is low or there's a significant sperm problem, IVF is usually discussed earlier.
 5. **Is egg freezing worth it at 35?**

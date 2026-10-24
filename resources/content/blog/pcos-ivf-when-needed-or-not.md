@@ -26,15 +26,15 @@ Many women with PCOS hear that IVF is the only way forward. In practice, it usua
 
 This article is part of our [PCOS and fertility](/blog/pcos-fertility-ovulation-iui-ivf/) guide.
 
-### Why Doesn't PCOS Always Lead to IVF?
+### Why doesn't PCOS always lead to IVF?
 
 PCOS mostly disrupts ovulation. The eggs are often still there, but they may be released less often and at unpredictable times. Blocked tubes or a significant sperm problem are separate issues, and each needs its own treatment. Your partner's semen report, your ovarian reserve, your age and how long you have been trying all matter too. A PCOS diagnosis alone seldom settles the question.
 
-### When Are Simpler Treatments Tried First?
+### When are simpler treatments tried first?
 
 Less intensive options usually come first when ovulation responds to medicines and monitoring, the fallopian tubes are open, and the semen report is suitable for IUI or timed intercourse.
 
-### When May IVF Be Considered?
+### When may IVF be considered?
 
 Here is where IVF typically enters the discussion.
 
@@ -47,17 +47,17 @@ Here is where IVF typically enters the discussion.
 | Age and ovarian reserve | Time allows the steps to be tried in order | Time is a significant factor |
 
 
-### What Does IVF Involve for Women With PCOS?
+### What does IVF involve for women with PCOS?
 
 An IVF cycle means stimulating the ovaries, tracking follicle growth with ultrasound and blood tests, retrieving the eggs, fertilising them in the laboratory and transferring an embryo into the uterus. Women with PCOS can respond briskly to stimulation, which is why the protocol is planned with care to reduce the risk of ovarian hyperstimulation syndrome (OHSS). A higher risk is not the same as a certainty.
 
 Dr. Swati Shree can assess you at EVE Women and Fertility Clinic in Gunjur, Bangalore, and guide your IVF treatment from there. The laboratory stages are carried out at partner centres, Apollo Fertility and Motherhood Fertility.
 
-### Is IVF Better Than IUI for PCOS?
+### Is IVF better than IUI for PCOS?
 
 Not as a rule. IVF is not a higher level that everyone eventually moves up to. IUI is simpler and suits selected couples well. IVF earns its place when its extra steps offer a particular couple a realistic advantage. Your evaluation should guide that call, not the PCOS label.
 
-### Which Myths About PCOS and IVF Should You Drop?
+### Which myths about PCOS and IVF should you drop?
 
 "PCOS means IVF is the only way to conceive." Most women with PCOS never need it.
 
@@ -65,11 +65,11 @@ Not as a rule. IVF is not a higher level that everyone eventually moves up to. I
 
 "IVF is always quicker." It can shorten the timeline in some situations, but it is more intensive, so the timing is worth discussing in detail with your doctor.
 
-### When Should You Seek Urgent Care?
+### When should you seek urgent care?
 
 Get medical help without delay if you develop severe abdominal pain, rapid swelling, breathlessness, reduced urine, heavy bleeding, fainting or fever after a procedure. These can signal complications and should not wait.
 
-### When to See a Fertility Specialist?
+### When to see a fertility specialist?
 
 Book an evaluation sooner if your periods are very irregular or have stopped. For women under 35, a workup is generally considered after 12 months of trying. From age 35, it is usually suggested after 6 months. If you already know about tubal disease, endometriosis or an earlier fertility treatment, do not wait for those timelines.
 

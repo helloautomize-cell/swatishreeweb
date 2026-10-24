@@ -26,41 +26,41 @@ After a positive pregnancy test following IVF, your clinic will usually repeat t
 
 This article is part of our [pregnancy after IVF](/blog/pregnancy-after-ivf/) guide.
 
-### Step 1: Repeat hCG Test
+### Step 1: Repeat hCG test
 
 hCG is the pregnancy hormone. A single positive result is good news, but doctors look for a rising trend. In a healthy early pregnancy, levels usually rise significantly over 48 hours. A slow rise or fall may need closer monitoring.
 
-### Step 2: First Ultrasound
+### Step 2: First ultrasound
 
 Usually done around 5 to 7 weeks of pregnancy, counting from the start of the last period equivalent date your clinic calculates. This scan checks:
 - The pregnancy is inside the uterus
 - The number of gestational sacs
 - The early yolk sac
 
-### Step 3: Heartbeat Scan
+### Step 3: Heartbeat scan
 
 A heartbeat is usually visible around 6 to 8 weeks. Seeing it is an important reassurance milestone, though early pregnancy still needs care.
 
-### Step 4: Medicines and Support
+### Step 4: Medicines and support
 
 Most IVF pregnancies need hormone support, usually progesterone, for some weeks. In frozen embryo transfers, estrogen may also be used. Never stop these medicines without asking your doctor.
 
-### Step 5: Moving to Regular Antenatal Care
+### Step 5: Moving to regular antenatal care
 
 Many fertility clinics continue care until about 8 to 12 weeks. Then care moves to an obstetrician for routine antenatal visits, including the 11 to 14 week scan and screening tests.
 
-### What Should You Expect to Feel?
+### What should you expect to feel?
 
 Some women feel nausea, breast tenderness or tiredness. Others feel nothing at all. Both are normal. Symptoms alone are not a reliable guide to how the pregnancy is going.
 
-### When Should You Contact Your Doctor Immediately?
+### When should you contact your doctor immediately?
 - Heavy bleeding or passing clots
 - Severe one-sided abdominal pain
 - Shoulder tip pain, dizziness or fainting
 - Severe bloating, breathlessness or reduced urine, which could signal ovarian hyperstimulation
 - Fever or foul-smelling discharge
 
-### How to Care for Yourself
+### How to care for yourself
 - Take medicines exactly as prescribed
 - Continue folic acid
 - Eat balanced meals and stay hydrated
@@ -82,18 +82,17 @@ A positive test after IVF brings joy and many questions. Clear steps and timely 
 ### FAQs
 
 1. **Why is hCG repeated after a positive test?**
-   One result shows pregnancy, but a repeat test shows whether hCG is rising as expected. A healthy rise is reassuring. A slow rise or fall may need more tests or an early scan.
+         One result shows pregnancy, but a repeat test shows whether hCG is rising as expected. A healthy rise is reassuring. A slow rise or fall may need more tests or an early scan. One value confirms pregnancy; the rise between two tests a few days apart shows whether it is developing as expected. A slow or falling level prompts earlier scanning to check the pregnancy is in the right place.
 2. **When will I have my first scan after IVF?**
-   Most clinics do the first ultrasound around 5 to 7 weeks of pregnancy. It confirms the pregnancy is in the uterus and shows the number of sacs. A heartbeat scan usually follows.
+         Most clinics do the first ultrasound around 5 to 7 weeks of pregnancy. It confirms the pregnancy is in the uterus and shows the number of sacs. A heartbeat scan usually follows. Usually around six to seven weeks of pregnancy, when the scan can confirm the sac is inside the uterus and ideally show a heartbeat. Your clinic schedules it once the hCG trend looks right.
 3. **Is spotting normal in early IVF pregnancy?**
-   Light spotting can happen and does not always mean a problem. Still, inform your clinic about any bleeding. Heavy bleeding, clots or pain need prompt assessment.
+         Light spotting can happen and does not always mean a problem. Still, inform your clinic about any bleeding. Heavy bleeding, clots or pain need prompt assessment. Light spotting is common, especially with progesterone support and a sensitive cervix, and is often harmless. Heavy bleeding, pain or one-sided pain needs a same-day call, since ectopic risk matters after IVF.
 4. **How long do I need progesterone after IVF?**
-   It varies by clinic and type of transfer, but many women continue progesterone for several weeks. Your doctor will tell you when it is safe to stop. Do not stop on your own.
+         It varies by clinic and type of transfer, but many women continue progesterone for several weeks. Your doctor will tell you when it is safe to stop. Do not stop on your own. Commonly until about ten to twelve weeks, when the placenta takes over hormone production. Your clinic gives a clear stopping plan, so do not stop early even if everything feels fine.
 5. **Is an IVF pregnancy high risk?**
-   Most IVF pregnancies progress like natural pregnancies. Some factors, such as twins, age or underlying conditions, may need closer monitoring. Your obstetrician will plan care based on your health.
+         Most IVF pregnancies progress like natural pregnancies. Some factors, such as twins, age or underlying conditions, may need closer monitoring. Your obstetrician will plan care based on your health. Not automatically. Most IVF pregnancies progress normally, though early monitoring is closer and some factors like age or twins add risk. After the first trimester it is managed much like any pregnancy.
 6. **When can I share the news?**
-   This is a personal choice. Many couples wait until after the heartbeat scan or the 12-week scan. Choose the time that feels right for you and your family.
-
+         This is a personal choice. Many couples wait until after the heartbeat scan or the 12-week scan. Choose the time that feels right for you and your family. Whenever you feel ready, though many couples wait for the first heartbeat scan or the end of the first trimester when miscarriage risk falls. There is no medical rule about timing.
 ### Sources and further reading
 
 - [NHS: IVF](https://www.nhs.uk/conditions/ivf/)

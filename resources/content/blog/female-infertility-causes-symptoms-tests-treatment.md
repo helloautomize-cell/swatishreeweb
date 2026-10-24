@@ -28,7 +28,7 @@ It's more common than most people think. The World Health Organization estimates
 
 Below you'll find what causes infertility in women, which symptoms deserve attention, how doctors test for it, and what treatment usually involves.
 
-### What Counts as Female Infertility?
+### What counts as female infertility?
 
 Doctors use time and age to decide when to start investigating. If you're under 35, the usual advice is to see a doctor after 12 months of trying. Between 35 and 40, that drops to six months. Over 40, most specialists would rather see you right away.
 
@@ -46,7 +46,7 @@ No, and this belief causes real harm in Indian families. Infertility can sit wit
 
 That's why a proper evaluation includes both partners from the first visit. A semen test is quick and painless. Skipping it can mean months of scans and medicines for the woman that were never going to solve the problem.
 
-### Why It Helps to Get Checked Sooner
+### Why it helps to get checked sooner
 
 Women are born with every egg they will ever have. The number goes down every year, and so does the quality, with the change becoming more noticeable after the mid thirties.
 
@@ -54,7 +54,7 @@ A lot of fertility problems are simple to pick up. Thyroid imbalance, high prola
 
 Seeing a specialist doesn't commit you to IVF. Quite often the first appointment ends with a clearer picture and a small next step, like better timing or a course of medicine.
 
-### What Causes Infertility in Women?
+### What causes infertility in women?
 
 Doctors sort the causes into a few broad groups. It's common to have more than one.
 
@@ -118,7 +118,7 @@ Doctors call this [unexplained infertility](/blog/unexplained-infertility-normal
 
 Weight at either extreme, smoking (including passive smoke at home), heavy drinking, poorly controlled diabetes and some medicines can all lower fertility. So can past chemotherapy or radiation. These are rarely the whole story, and none of them is a reason to blame yourself.
 
-### What Are the Signs of Female Infertility?
+### What are the signs of female infertility?
 
 For most women, the only sign is that pregnancy isn't happening. You can feel completely healthy and still have a blocked tube or low reserve.
 
@@ -130,7 +130,7 @@ Your history matters too. A past pelvic infection, TB, abdominal surgery, or two
 
 None of these on its own means you're infertile. They just mean it's sensible not to wait.
 
-### How Do Doctors Diagnose Female Infertility?
+### How do doctors diagnose female infertility?
 
 Testing happens in stages, and not everyone needs every test. Your doctor will pick what's useful based on your age, your history and anything already done.
 
@@ -174,7 +174,7 @@ If the first round raises questions, your doctor might suggest a hysteroscopy, w
 
 A semen analysis looks at how many sperm there are, how well they move and their shape. One abnormal result is often repeated after a few weeks, since sperm counts can vary from sample to sample. Many men feel awkward about this test. It's routine, and it's one of the most useful tests a couple can do.
 
-### How Is Female Infertility Treated?
+### How is female infertility treated?
 
 The plan depends on the cause, your age, how long you've been trying and your partner's report. Usually doctors start with the simplest option that has a fair chance of working, and step up if needed.
 
@@ -227,7 +227,7 @@ Egg freezing lets some women keep the option of pregnancy for later, for example
 | Often considered for | Milder problems, earlier in treatment | Blocked tubes, severe male factor, low reserve, after IUI cycles that didn't work |
 
 
-### What Does a Fertility Work-Up Look Like in Practice?
+### What does a fertility work-up look like in practice?
 
 For most couples it goes something like this. You meet the doctor together and go through your history. Early in your next cycle, around day 2 to 5, you have blood tests and a scan. Your partner gives a semen sample. Once your period finishes, the tubes are checked with an HSG or HyCoSy. Later that cycle, a progesterone test or a few follicle scans show whether you ovulated.
 
@@ -235,7 +235,7 @@ Then you sit down with the results and talk about what they mean and what to do 
 
 The basic tests can usually be finished within one or two cycles.
 
-### Food, Exercise and Looking After Yourself
+### Food, exercise and looking after yourself
 
 There isn't a single food that makes you fertile, and there isn't one that ruins your chances either. An ordinary balanced Indian diet works well. Dal, rajma and chana, seasonal vegetables and fruit, curd, a handful of nuts, and whole grains like ragi, jowar, brown rice or whole wheat rotis.
 
@@ -247,7 +247,7 @@ Moderate exercise like brisk walking, yoga or swimming helps with weight and ins
 
 The emotional side gets less attention than it should. The monthly wait, the disappointment, the questions at family functions, the unasked-for advice. It wears people down. Stress on its own is rarely what causes infertility, so working long hours or feeling anxious doesn't mean you did this. Talking honestly with your partner, deciding together how much to share with family, and seeing a counsellor if things feel heavy can all make the months easier.
 
-### Risks and Limits of Treatment
+### Risks and limits of treatment
 
 Supervised fertility treatment is generally safe, but it isn't free of risk.
 
@@ -261,7 +261,7 @@ Tests like HSG and hysteroscopy, and egg collection in IVF, can leave you with c
 
 And no treatment can promise a baby. Treatment raises the odds, and how much depends on age, diagnosis, egg reserve, sperm quality and other individual factors.
 
-### Myths Worth Letting Go Of
+### Myths worth letting go of
 
 The idea that infertility is the woman's fault is probably the most damaging one. Male factors are common, and both partners need testing.
 
@@ -277,7 +277,7 @@ Some families worry that IVF babies aren't "normal." The vast majority of childr
 
 Probably the costliest mistake is spending years on herbal mixtures and wait-and-see advice, especially after 35, when time is worth more.
 
-### Questions You Might Want to Ask Your Doctor
+### Questions you might want to ask your doctor
 - Which tests do we both need, and what will each one tell us?
 - What do my AMH and scan results mean at my age?
 - Are my tubes open, and am I ovulating?
@@ -287,7 +287,7 @@ Probably the costliest mistake is spending years on herbal mixtures and wait-and
 - If we need IVF, how does that work and where is it done?
 - Is there anything we can do at home that actually helps?
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Book an appointment if you're under 35 and have been trying for a year, if you're between 35 and 40 and it's been six months, or if you're over 40 and want to conceive. Don't wait the full time if your periods are very irregular or have stopped, if you already know you have PCOS, endometriosis, fibroids or a thyroid problem, if you've had pelvic infection, TB or pelvic surgery, if you've had two or more miscarriages, or if your partner has a known sperm problem or hasn't been tested yet.
 
@@ -339,7 +339,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Can female infertility be treated?**
    Often, yes. Thyroid and prolactin problems usually respond to medicine, ovulation can be helped with tablets or injections, and some uterine problems can be corrected with a short procedure. IUI and IVF are options when simpler steps aren't enough. Treatment improves the chance of pregnancy, though results depend on age, diagnosis and other personal factors.
 5. **How long should we try before seeing a fertility doctor?**
-   The general advice is 12 months of regular unprotected sex if you're under 35, and six months if you're between 35 and 40. Over 40, it's sensible to see a doctor straight away. Go sooner if your periods are irregular, you have PCOS or endometriosis, you've had a pelvic infection, or you've had repeated miscarriages.
+         The general advice is 12 months of regular unprotected sex if you're under 35, and six months if you're between 35 and 40. Over 40, it's sensible to see a doctor straight away. Go sooner if your periods are irregular, you have PCOS or endometriosis, you've had a pelvic infection, or you've had repeated miscarriages. Twelve months of regular unprotected intercourse under 35, or six months at 35 and above. Come earlier with irregular periods, severe pain, known conditions or a history of pelvic infection.
 6. **Does low AMH mean I can't get pregnant?**
    No. Low AMH means your ovaries hold fewer eggs than average for your age. It doesn't measure egg quality and doesn't rule out pregnancy, and many women with low AMH conceive either naturally or with treatment. Doctors mainly use AMH to judge how your ovaries may respond to fertility medicines and how soon to start treatment.
 7. **Where can I get a fertility consultation in East Bangalore?**

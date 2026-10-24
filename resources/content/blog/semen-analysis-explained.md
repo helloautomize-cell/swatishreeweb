@@ -26,7 +26,7 @@ A semen analysis is a lab test that checks the health of sperm and semen. The ma
 
 This article is part of our [male infertility](/blog/male-infertility-causes-semen-analysis-treatment/) guide.
 
-### How Do You Prepare?
+### How do you prepare?
 - Avoid ejaculation for 2 to 7 days before the test, as advised by the lab
 - Collect the sample by masturbation into the sterile container provided
 - Avoid lubricants, saliva or regular condoms
@@ -34,7 +34,7 @@ This article is part of our [male infertility](/blog/male-infertility-causes-sem
 - Deliver it to the lab within the advised time, usually within an hour, kept at body temperature
 - Tell the lab about recent fever or medicines
 
-### What Do the Main Values Mean?
+### What do the main values mean?
 
 ## Volume
 
@@ -68,11 +68,11 @@ Semen should liquefy within a set time and have a normal pH. Abnormal values may
 
 Raised white cells may point to infection or inflammation.
 
-### What If There Are No Sperm?
+### What if there are no sperm?
 
 This is called azoospermia. It may be due to blockage or a production problem. Further tests, including hormone levels, scans and genetic tests, help find the cause. In some cases, sperm can be retrieved surgically for IVF with ICSI.
 
-### Why Repeat the Test?
+### Why repeat the test?
 
 Sperm numbers naturally vary between samples. Fever, illness, stress and short or long abstinence can change results. If the first report is abnormal, doctors usually repeat it after a few weeks.
 
@@ -92,16 +92,15 @@ A semen analysis gives couples quick, useful answers early in their fertility ev
 1. **What is a normal sperm count?**
    Labs use reference values, often based on World Health Organization standards, to decide what is within the expected range. Your report will show these values. A count slightly below the range does not always mean infertility.
 2. **Can I collect a semen sample at home?**
-   Some labs allow home collection if the sample reaches them within the advised time and is kept at body temperature. Others prefer collection on site. Ask the lab for clear instructions before you start.
+         Some labs allow home collection if the sample reaches them within the advised time and is kept at body temperature. Others prefer collection on site. Ask the lab for clear instructions before you start. Often yes, if the lab allows it and the sample reaches them within about an hour kept at body temperature. Many clinics prefer on-site collection so conditions and timing are controlled.
 3. **What does low motility mean?**
    Low motility means fewer sperm are moving forward well. This can make it harder for sperm to reach the egg. Treatment depends on the cause and severity, and may include IUI or IVF with ICSI.
 4. **Is low morphology a serious problem?**
-   Morphology is judged by strict criteria, so many fertile men have a low percentage of normal forms. On its own, it may have limited impact. Doctors look at all values together.
+         Morphology is judged by strict criteria, so many fertile men have a low percentage of normal forms. On its own, it may have limited impact. Doctors look at all values together. Not always. Strict scoring makes even normal samples show low normal-shape percentages, and many men with low morphology still father children. It matters most read with count and motility.
 5. **How long does a semen analysis take?**
-   The test is usually completed on the same day, and results are often available within a day or two. Some advanced tests, such as DNA fragmentation, may take longer.
+         The test is usually completed on the same day, and results are often available within a day or two. Some advanced tests, such as DNA fragmentation, may take longer. The appointment itself is short, and results usually come within a few days. Two to seven days of abstinence before the test gives a sample that reflects your usual production.
 6. **What should I do if my semen analysis is abnormal?**
-   Do not panic. Ask your doctor to repeat the test after a few weeks. If it is still abnormal, further tests may be advised. Many problems can be treated or worked around with assisted reproduction.
-
+         Do not panic. Ask your doctor to repeat the test after a few weeks. If it is still abnormal, further tests may be advised. Many problems can be treated or worked around with assisted reproduction. Repeat it after several weeks, since single results fluctuate with illness, fever and abstinence. A persistently abnormal result leads to a physical exam, hormone tests or a urology review.
 ### Sources and further reading
 
 - [WHO: Infertility fact sheet](https://www.who.int/news-room/fact-sheets/detail/infertility)

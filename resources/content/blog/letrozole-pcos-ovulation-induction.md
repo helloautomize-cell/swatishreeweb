@@ -15,7 +15,7 @@ pillar: false
 keywords: []
 about: {type: MedicalTherapy, name: "Ovulation induction"}
 related: [/conditions/pcos/, /services/follicular-monitoring/]
-posts: [/blog/pcos-fertility-ovulation-iui-ivf/]
+posts: [/blog/pcos-fertility-ovulation-iui-ivf/, /blog/pcos-ovulation-irregular-periods-pregnancy/]
 ---
 
 H1: Letrozole for PCOS and How It Can Help You Conceive
@@ -24,39 +24,39 @@ Letrozole is usually the first tablet a fertility specialist considers when PCOS
 
 This article is part of our [PCOS and fertility](/blog/pcos-fertility-ovulation-iui-ivf/) guide.
 
-### What Is Letrozole Used For in PCOS?
+### What is Letrozole used for in PCOS?
 
 Letrozole is the recommended first-line medicine for ovulation induction in women with PCOS who do not ovulate regularly and have no other significant fertility factor. The 2023 international evidence-based PCOS guideline supports this position. It is a prescription medicine, and it works best when a doctor monitors each cycle. It can make ovulation more predictable, but it cannot promise pregnancy.
 
-### Why Is Letrozole Often Chosen Before Other Options?
+### Why is Letrozole often chosen before other options?
 
 Clomiphene citrate was the default first tablet for years. Studies in PCOS have generally found that letrozole achieves similar or better ovulation and pregnancy results, with a lower chance of twins. That combination is the main reason it moved to the front of the treatment ladder.
 
-### Who Is a Good Candidate?
+### Who is a good candidate?
 
 Letrozole makes most sense when periods are irregular or absent, ovulation tests point to a problem, and the fallopian tubes and semen analysis look reassuring. Your age, body weight and metabolic health also shape the plan.
 
-### What Does a Letrozole Cycle Involve?
+### What does a Letrozole cycle involve?
 
 Most protocols begin early in the cycle and run for a set number of days. Serial ultrasound scans, known as follicular studies, measure how a follicle is growing. Once the follicle is mature, the team advises timed intercourse or an IUI. A pregnancy test follows at the advised time.
 
 The dose and duration are individual. Please do not change them, and do not restart a missed course, without speaking to your doctor.
 
-### What Side Effects Can Happen?
+### What side effects can happen?
 
 Headache, hot flushes, fatigue, mood changes and mild lower abdominal discomfort are the most commonly reported effects. They usually settle. Report anything that persists or feels unusual.
 
-### What Are the Limitations?
+### What are the limitations?
 
 Ovulation medicines can stimulate more than one follicle, which can lead to twins. The risk is lower with letrozole than with older options, but it is not zero. Severe ovarian overstimulation is uncommon with oral treatment, and monitoring is how it gets caught early.
 
 A cycle without pregnancy is very common. It rarely means the door has closed. Doctors often refine the plan after reviewing how the ovaries responded.
 
-### Is Letrozole Used With IUI?
+### Is Letrozole used with IUI?
 
 When ovulation is confirmed and semen parameters are suitable, letrozole is often paired with IUI. Prepared sperm is placed into the uterus close to ovulation. Fertilisation still takes place inside the reproductive tract.
 
-### Common Myths About Letrozole
+### Common myths about Letrozole
 
 "Letrozole is an injection." It is a tablet.
 
@@ -64,15 +64,15 @@ When ovulation is confirmed and semen parameters are suitable, letrozole is ofte
 
 "One unsuccessful cycle means treatment has ended." Many couples conceive once the plan has been refined.
 
-### How Do Lifestyle and Emotions Fit In?
+### How do lifestyle and emotions fit in?
 
 Adequate sleep, regular movement and balanced meals support insulin sensitivity and hormonal balance, both relevant in PCOS. Rice, dal, roti and sweets can remain part of a balanced diet when portions are sensible. Waiting out each cycle is emotionally draining, and counselling eases that strain for many couples. A delayed pregnancy affects both partners, and neither should carry the blame alone.
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Speak to a specialist before starting letrozole, particularly if periods are very irregular or absent. Evaluation is generally advised after 12 months of trying for women under 35, and after 6 months from age 35.
 
-### When Is Urgent Care Needed?
+### When is urgent care needed?
 
 Seek prompt medical care for severe abdominal or pelvic pain, bloating with breathlessness, markedly reduced urine output, heavy bleeding, fainting, one-sided pelvic pain in early pregnancy, or fever after a procedure.
 

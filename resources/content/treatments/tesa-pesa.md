@@ -85,6 +85,8 @@ TESA, PESA and ICSI fall under the ART (Regulation) Act, 2021. Consent and couns
 6. **Does a male fertility problem mean my sons will have it too?**
    Sometimes. Certain genetic causes, such as Y chromosome microdeletions or some conditions affecting the vas deferens, can be passed on. Genetic counselling and testing, when advised, help you understand any risk before treatment.
 
+7. **What does TESA or PESA cost in Bangalore?**
+   The procedure fee depends on whether it is done alone or as part of an IVF-ICSI cycle, plus lab and storage charges. Costs vary, so ask for a written estimate at your consultation before deciding.
 ### Sources
 - AUA/ASRM Guideline: Diagnosis and treatment of infertility in men (2020)
 - EAU Guidelines on Sexual and Reproductive Health `[CONFIRM: edition]`

@@ -26,37 +26,32 @@ Many women assume that AMH tells them how good their eggs are. In reality, AMH a
 
 This article is part of our [low AMH and ovarian reserve](/blog/low-amh-ovarian-reserve-fertility/) guide.
 
-### What Is Egg Quantity?
+### What is egg quantity?
 
 Egg quantity is the number of eggs left in the ovaries. It decreases throughout life. AMH and antral follicle count on ultrasound are the main ways to estimate it.
 
-### What Is Egg Quality?
+### What is egg quality?
 
 Egg quality refers to whether an egg has the right genetic material and cellular health to be fertilised and develop into a healthy embryo. Poor-quality eggs are more likely to have chromosomal errors, which can lead to failed fertilisation, failed implantation or miscarriage.
 
-### How Do They Compare?
+### How do they compare?
 
 | Feature | Egg quantity | Egg quality |
-
 |---|---|---|
-
 | Meaning | Number of eggs remaining | Ability to form a healthy embryo |
-
 | Main tests | AMH, antral follicle count | No direct test, inferred from age and IVF outcomes |
-
 | Main influence | Age, genetics, surgery, conditions | Mainly age |
-
 | Role in IVF | Predicts number of eggs collected | Influences embryo development and pregnancy |
 
-### Why Is Age the Key Factor for Quality?
+### Why is age the key factor for quality?
 
 Eggs age along with the woman. As age increases, especially after about 35, a higher proportion of eggs have chromosomal abnormalities. This is why pregnancy chances fall and miscarriage risk rises with age, even when AMH is normal.
 
-### Can a Young Woman With Low AMH Have Good Eggs?
+### Can a young woman with low AMH have good eggs?
 
 Yes. A younger woman with low AMH may have fewer eggs but each egg is more likely to be chromosomally normal than an egg from an older woman. Her chances per embryo may be relatively good.
 
-### Can Egg Quality Be Improved?
+### Can egg quality be improved?
 
 Age-related changes cannot be reversed. However, healthy habits may support overall reproductive health:
 - Not smoking
@@ -67,7 +62,7 @@ Age-related changes cannot be reversed. However, healthy habits may support over
 
 Evidence for supplements is limited, so discuss them with your doctor.
 
-### How Is Egg Quality Assessed in IVF?
+### How is egg quality assessed in IVF?
 
 During IVF, embryologists observe how eggs fertilise and how embryos develop. Genetic testing of embryos (PGT-A) may give information about chromosomes in selected cases.
 
@@ -85,16 +80,15 @@ Understanding the difference between AMH and egg quality helps set realistic exp
 ### FAQs
 
 1. **Does AMH measure egg quality?**
-   No. AMH estimates how many eggs remain in the ovaries. It does not measure whether those eggs are healthy.
+         No. AMH estimates how many eggs remain in the ovaries. It does not measure whether those eggs are healthy. No. AMH reflects how many follicles remain, not how healthy the eggs inside them are. Age is the main marker of quality. A low AMH in a young woman is not the same problem as in an older one.
 2. **What determines egg quality?**
-   Age is the main factor. As women age, more eggs carry chromosomal errors. Lifestyle and some medical conditions may also play a role.
+         Age is the main factor. As women age, more eggs carry chromosomal errors. Lifestyle and some medical conditions may also play a role. Mainly age. Chromosome errors rise steadily through the 30s and sharply after 38, which is why age, not AMH, predicts embryo health. Smoking, severe illness and some conditions also play a role.
 3. **Can you have low AMH and good egg quality?**
-   Yes. Younger women with low AMH may have fewer eggs, but those eggs can still be of good quality.
+         Yes. Younger women with low AMH may have fewer eggs, but those eggs can still be of good quality. Yes, especially if you are younger. Low AMH narrows the number of eggs per cycle, not their health. It argues for acting sooner rather than assuming the eggs themselves are the problem.
 4. **Is there a test for egg quality?**
-   There is no direct test. Egg quality is inferred from age and observed in IVF through fertilisation and embryo development. Genetic testing of embryos can provide additional information.
+                           There is no direct test. Egg quality is inferred from age and observed in IVF through fertilisation and embryo development. Genetic testing of embryos can provide additional information. No blood or scan test reads egg quality directly. Age is the best guide, and embryo development during IVF shows it indirectly. Marketing claims of quality tests should be treated carefully. No test reads egg quality directly. Age is the best guide, and embryo development during IVF shows it indirectly. Be cautious of products or tests that claim to measure it.
 5. **Can I improve my egg quality?**
-   Age-related changes cannot be reversed, but not smoking, limiting alcohol, a healthy weight and managing health conditions support reproductive health.
-
+         Age-related changes cannot be reversed, but not smoking, limiting alcohol, a healthy weight and managing health conditions support reproductive health. You cannot reverse age-related change, but stopping smoking, limiting alcohol, treating thyroid problems and good metabolic health help the environment eggs mature in. Supplements have limited, unproven benefit.
 ### Sources and further reading
 
 - [NICHD: Infertility and fertility](https://www.nichd.nih.gov/health/topics/infertility)

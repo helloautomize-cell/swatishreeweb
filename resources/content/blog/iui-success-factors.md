@@ -30,7 +30,7 @@ This article is part of our [IUI treatment](/blog/iui-treatment-intrauterine-ins
 
 Intrauterine insemination places a washed and concentrated sperm sample directly into the uterus around the time of ovulation. It shortens the distance sperm must travel and increases the number of sperm reaching the egg. It is less intensive than IVF.
 
-### Which Factors Affect IUI Outcomes?
+### Which factors affect IUI outcomes?
 
 ## Woman's age
 
@@ -64,14 +64,14 @@ IUI is planned close to ovulation, often after a trigger injection. Accurate tim
 
 Most pregnancies from IUI happen in the first few cycles. If several well-timed cycles do not work, your specialist may suggest moving on.
 
-### Which Factors Can You Influence?
+### Which factors can you influence?
 - Stop smoking and limit alcohol, for both partners
 - Maintain a healthy weight
 - Manage thyroid, sugar and other health conditions
 - Follow abstinence advice before sample collection
 - Attend all monitoring scans on time
 
-### When Might IVF Be Better?
+### When might IVF be better?
 - Blocked or damaged tubes
 - Very low sperm count or motility
 - Low egg reserve or older age
@@ -92,18 +92,17 @@ IUI is a gentle first step for many couples, and understanding what shapes its s
 ### FAQs
 
 1. **What is the best age for IUI?**
-   IUI generally has better outcomes in younger women because egg quality is higher. Women over 35 can still benefit, but specialists may suggest fewer IUI cycles before considering IVF. Age is always weighed with other test results.
+         IUI generally has better outcomes in younger women because egg quality is higher. Women over 35 can still benefit, but specialists may suggest fewer IUI cycles before considering IVF. Age is always weighed with other test results. Younger women do better, with the strongest results under about 35. Rates decline with age, which is why older women are often advised fewer IUI cycles before moving to IVF.
 2. **Does sperm count matter for IUI?**
-   Yes. The number of moving sperm after washing is an important factor. If counts are very low, IUI may not be the best option, and IVF with ICSI may be considered instead.
+         Yes. The number of moving sperm after washing is an important factor. If counts are very low, IUI may not be the best option, and IVF with ICSI may be considered instead. Yes. The prepared sample needs enough moving sperm; severe male factor lowers IUI success considerably, and IVF with ICSI is usually advised instead once counts are very poor.
 3. **Do both tubes need to be open for IUI?**
-   At least one healthy, open tube is needed. If both tubes are blocked, IUI cannot work because the egg and sperm cannot meet. A tubal test is usually done before planning IUI.
+         At least one healthy, open tube is needed. If both tubes are blocked, IUI cannot work because the egg and sperm cannot meet. A tubal test is usually done before planning IUI. At least one must be open and healthy, since fertilisation still happens inside the tube. An HSG or HyCoSy confirms this before starting; both blocked tubes mean IVF is the route.
 4. **Does ovulation medicine improve IUI outcomes?**
-   In many couples, mild ovulation medicines with monitoring can improve IUI outcomes by ensuring an egg is ready at the right time. They are used carefully to avoid too many follicles.
+         In many couples, mild ovulation medicines with monitoring can improve IUI outcomes by ensuring an egg is ready at the right time. They are used carefully to avoid too many follicles. For women with ovulation problems or unexplained infertility, mild stimulation improves the odds by ensuring one or two mature follicles. It is monitored to avoid too many follicles and twins.
 5. **Can lifestyle changes improve IUI success?**
-   Healthy habits support fertility for both partners. Stopping smoking, limiting alcohol, keeping a healthy weight and managing health conditions may help. They do not change age-related factors.
+         Healthy habits support fertility for both partners. Stopping smoking, limiting alcohol, keeping a healthy weight and managing health conditions may help. They do not change age-related factors. To a degree: not smoking, sensible weight, low alcohol and folic acid help the odds. They support the cycle but cannot overcome blocked tubes, severe sperm problems or the effect of age.
 6. **Can stress affect IUI results?**
-   Stress is common during fertility treatment. Its direct effect on IUI outcomes is uncertain, but managing stress improves well-being. Counselling, gentle exercise and support from your partner can help.
-
+         Stress is common during fertility treatment. Its direct effect on IUI outcomes is uncertain, but managing stress improves well-being. Counselling, gentle exercise and support from your partner can help. Everyday stress does not appear to change outcomes measurably, though it makes the process harder to live through. Practical support and realistic expectations help more than chasing perfect calm.
 ### Sources and further reading
 
 - [NHS: Intrauterine insemination](https://www.nhs.uk/conditions/intrauterine-insemination-iui/)

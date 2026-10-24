@@ -15,7 +15,7 @@ pillar: false
 keywords: []
 about: {type: MedicalCondition, name: "Uterine fibroids"}
 related: [/conditions/female-factor-infertility/, /services/fertility-evaluation/]
-posts: [/blog/adenomyosis-and-fertility-symptoms-treatment/, /blog/hysteroscopy-for-infertility-when-is-it-needed/, /blog/female-infertility-causes-symptoms-tests-treatment/, /blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/, /blog/when-ivf-recommended-situations/]
+posts: [/blog/adenomyosis-and-fertility-symptoms-treatment/, /blog/hysteroscopy-for-infertility-when-is-it-needed/, /blog/female-infertility-causes-symptoms-tests-treatment/, /blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/, /blog/when-ivf-recommended-situations/, /blog/female-infertility-tests-amh-ultrasound-hsg/]
 ---
 
 H1: Fibroids and Fertility Can You Get Pregnant
@@ -26,7 +26,7 @@ Uterine fibroids are non-cancerous growths in the muscle of the womb. They are v
 
 This article is part of our [female infertility](/blog/female-infertility-causes-symptoms-tests-treatment/) guide.
 
-### What Are the Types of Fibroids?
+### What are the types of fibroids?
 
 ## Submucosal
 
@@ -40,23 +40,23 @@ Grow within the muscle wall. Large ones that distort the cavity may affect ferti
 
 Grow on the outer surface and generally have little effect on fertility unless very large.
 
-### How Can Fibroids Affect Fertility?
+### How can fibroids affect fertility?
 
 Fibroids can distort the uterine cavity, interfere with embryo implantation, block the openings of the fallopian tubes, alter blood flow to the lining or change uterine contractions. Not every fibroid causes these problems.
 
-### What Are the Symptoms?
+### What are the symptoms?
 
 Many women have no symptoms. Others have heavy or prolonged periods, pelvic pressure, frequent urination, constipation, pain or a feeling of fullness. Heavy bleeding can cause anaemia.
 
-### How Are Fibroids Diagnosed?
+### How are fibroids diagnosed?
 
 A pelvic ultrasound, often transvaginal, shows fibroids' size and location. Hysteroscopy, saline infusion sonography or MRI can evaluate the uterine cavity and map fibroids more precisely when planning treatment.
 
-### When Is Treatment Recommended?
+### When is treatment recommended?
 
 If you are trying to conceive and have a fibroid that distorts the uterine cavity, treatment before conception is often advised. Fibroids that do not distort the cavity and are small may not need removal. Your fertility specialist weighs your age, other fertility factors and symptoms.
 
-### What Are the Treatment Options?
+### What are the treatment options?
 
 ## Hysteroscopic myomectomy
 
@@ -74,7 +74,7 @@ Some medicines control bleeding or shrink fibroids temporarily but are not suita
 
 Uterine artery embolisation and similar treatments are generally not preferred when future pregnancy is desired.
 
-### What Happens After Surgery?
+### What happens after surgery?
 
 Your doctor advises how long to wait before trying to conceive and whether delivery should be by caesarean section, depending on how deep the fibroid was.
 
@@ -92,16 +92,15 @@ A fibroid diagnosis does not mean you cannot have a baby. A careful evaluation h
 ### FAQs
 
 1. **Can fibroids cause infertility?**
-   Fibroids can reduce fertility, especially when they grow into the uterine cavity or distort its shape. Many women with fibroids still conceive naturally. A fertility evaluation shows whether fibroids are relevant in your case.
+         Fibroids can reduce fertility, especially when they grow into the uterine cavity or distort its shape. Many women with fibroids still conceive naturally. A fertility evaluation shows whether fibroids are relevant in your case. Only certain ones do. Fibroids that bulge into the uterine cavity (submucosal) or large ones that distort it can interfere with implantation. Fibroids in the outer wall usually do not affect fertility.
 2. **Do I need to remove fibroids before IVF?**
-   Fibroids that distort the uterine cavity are usually treated before IVF because they can reduce implantation success. Small fibroids outside the cavity may not need removal. Your specialist will advise.
+         Fibroids that distort the uterine cavity are usually treated before IVF because they can reduce implantation success. Small fibroids outside the cavity may not need removal. Your specialist will advise. Not automatically. Removal is considered when the fibroid distorts the cavity, is large, or previous transfers failed. Small fibroids away from the lining are usually left alone and just monitored.
 3. **How long after myomectomy can I try to conceive?**
-   The waiting time depends on the type of surgery and how deeply the fibroid extended into the muscle, and is typically a few months. Your surgeon will give specific advice.
+         The waiting time depends on the type of surgery and how deeply the fibroid extended into the muscle, and is typically a few months. Your surgeon will give specific advice. Usually three to six months, depending on how deeply the fibroid sat in the wall. Your surgeon will advise based on the cavity and whether a caesarean-style entry was made into the uterus.
 4. **Can fibroids cause miscarriage?**
-   Submucosal fibroids and some large fibroids are linked with higher miscarriage risk. Removing cavity-distorting fibroids before pregnancy may help. Discuss your history with your doctor.
+         Submucosal fibroids and some large fibroids are linked with higher miscarriage risk. Removing cavity-distorting fibroids before pregnancy may help. Discuss your history with your doctor. Cavity-distorting fibroids are linked to a higher miscarriage risk, which is one reason they may be removed before pregnancy. Fibroids that leave the lining untouched are not clearly tied to miscarriage.
 5. **Do fibroids shrink on their own?**
-   Fibroids can shrink after menopause, and some change in size during pregnancy. During the reproductive years they often remain or grow slowly. Your doctor will monitor and advise.
-
+         Fibroids can shrink after menopause, and some change in size during pregnancy. During the reproductive years they often remain or grow slowly. Your doctor will monitor and advise. They can shrink after menopause when hormone levels fall, but during the reproductive years they tend to stay or slowly grow. Small fibroids are usually watched with periodic scans rather than treated.
 ### Sources and further reading
 
 - [ACOG: Evaluating infertility](https://www.acog.org/womens-health/faqs/evaluating-infertility)

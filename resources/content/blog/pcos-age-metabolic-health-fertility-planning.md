@@ -15,7 +15,7 @@ pillar: false
 keywords: []
 about: {type: MedicalCondition, name: "Polycystic ovary syndrome", alternateName: ["PCOS"]}
 related: [/conditions/pcos/, /services/follicular-monitoring/]
-posts: [/blog/endometriosis-and-ivf/, /blog/fertility-after-35-when-to-seek-help/]
+posts: [/blog/endometriosis-and-ivf/, /blog/fertility-after-35-when-to-seek-help/, /blog/pcos-ovulation-irregular-periods-pregnancy/]
 ---
 
 H1: PCOS After 30: Age, Metabolic Health and Fertility Planning
@@ -26,11 +26,11 @@ Most women with PCOS can still conceive after 30. The condition itself does not 
 
 This article is part of our [PCOS and fertility](/blog/pcos-fertility-ovulation-iui-ivf/) guide.
 
-### Why Does Age Matter More With PCOS?
+### Why does age matter more with PCOS?
 
 Egg supply declines with age in every woman. With PCOS, the bigger problem is that cycles are hard to read. If ovulation happens only now and then, fertile days pass without anyone noticing. Those unnoticed months add up, and they add up faster after 30.
 
-### How Does Metabolic Health Affect Fertility?
+### How does metabolic health affect fertility?
 
 Insulin resistance is common in PCOS. The body produces more insulin to keep blood sugar in range, and that extra insulin can push the ovaries to make more androgens. Higher androgen levels can disturb ovulation.
 
@@ -42,7 +42,7 @@ Metabolic health also shapes the pregnancy itself. Women with PCOS carry a highe
 
 Modest, steady weight loss helps some women ovulate more regularly. The aim is a healthier cycle, not a particular number on the scale.
 
-### Which Fertility Tests Matter After 30?
+### Which fertility tests matter after 30?
 
 AMH and antral follicle count estimate ovarian reserve, meaning the number of eggs remaining. They say little about egg quality or the likelihood of natural conception. AMH tends to run high in PCOS, which makes the number easy to misread. A high result does not guarantee easy conception, and a lower one does not close the door.
 
@@ -55,19 +55,19 @@ AMH and antral follicle count estimate ovarian reserve, meaning the number of eg
 | Fallopian tubes | Needed before IUI or IVF decisions | Tubal assessment if advised |
 
 
-### When Should You Start Fertility Planning?
+### When should you start fertility planning?
 
 There is no single age cutoff. A specialist looks at your age, cycle pattern, ovarian reserve, tubal status and your partner's semen report as one picture. Many couples lose time waiting for periods to become regular before anyone checks anything. Starting early keeps more options available.
 
-### What Treatment Options Are Usually Discussed?
+### What treatment options are usually discussed?
 
 The assessment shapes the plan. When ovulation is irregular and other tests are normal, ovulation induction with oral medicines is often the first step. Follicular monitoring then helps time intercourse or IUI. IVF may come up sooner if age, ovarian reserve or another factor makes it the better fit. Dr. Swati Shree evaluates patients at EVE and guides IVF treatment through her partner fertility centres in Bangalore.
 
-### Can Everyday Habits Help?
+### Can everyday habits help?
 
 They can, and the changes do not need to be dramatic. Rice, dal and roti can stay on the plate. Smaller portions of refined carbohydrates, more protein and fibre at each meal, a short walk after eating, regular sleep and quitting smoking all support metabolic health. Planning a pregnancy is also stressful, and talking to someone about it is a reasonable step.
 
-### When Should You Seek Urgent Care?
+### When should you seek urgent care?
 
 Get medical help quickly if you have:
 - Severe or one-sided lower abdominal pain, dizziness or fainting, or bleeding in early pregnancy, which may point to an ectopic pregnancy

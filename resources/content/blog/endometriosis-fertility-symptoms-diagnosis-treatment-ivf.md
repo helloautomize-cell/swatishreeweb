@@ -14,7 +14,7 @@ cluster: "Endometriosis"
 pillar: true
 keywords: []
 about: {type: MedicalCondition, name: "Endometriosis"}
-related: [/conditions/endometriosis/, /conditions/adenomyosis/]
+related: [/conditions/endometriosis/, /conditions/adenomyosis/, /treatments/ivf/, /services/fertility-evaluation/]
 posts: [/blog/female-infertility-causes-symptoms-tests-treatment/, /blog/recurrent-miscarriage-causes-tests-treatment/, /blog/can-endometriosis-cause-infertility/, /blog/endometriosis-symptoms-not-to-ignore/, /blog/endometriosis-and-ivf/]
 ---
 
@@ -26,7 +26,7 @@ Endometriosis is a long-term condition where tissue similar to the lining of the
 
 Below, we go through how endometriosis interferes with fertility, how it's diagnosed, what treatment involves, and where IVF fits in.
 
-### What Is Endometriosis?
+### What is endometriosis?
 
 The inside of the uterus is lined by the endometrium, the tissue that thickens each month and sheds as your period. In endometriosis, tissue much like it turns up in places it doesn't belong. It still reacts to your monthly hormones. It swells, bleeds a little and irritates whatever it's sitting on, and over months and years that irritation can leave scar tissue. Sometimes the scarring forms adhesions, sticky bands that hold organs together in odd positions.
 
@@ -46,7 +46,7 @@ The medical name is endometrioma. It's a cyst on the ovary filled with old, thic
 
 Adenomyosis is a cousin of endometriosis. Here the lining-like tissue grows into the muscle wall of the uterus instead of outside it. Periods tend to be heavy and painful, and the uterus can feel enlarged. The two conditions often show up together, so a good scan will look for both.
 
-### Can Endometriosis Cause Infertility?
+### Can endometriosis cause infertility?
 
 It can, and it's one of the conditions doctors find most often in women who are struggling to conceive. Still, a diagnosis of endometriosis is not a diagnosis of infertility. Many women get pregnant without ever knowing they had it.
 
@@ -66,7 +66,7 @@ Doctors usually grade endometriosis from stage I to IV, minimal to severe, based
 
 The stage has surprising blind spots, though. Pain doesn't track it well. Someone with stage I disease can be in agony while someone with stage IV barely notices. And stage alone won't tell you your odds of pregnancy. After surgery, some specialists use the Endometriosis Fertility Index, which factors in your age, how long you've been trying, how well your tubes work and what the surgeon found, to estimate the chance of conceiving naturally.
 
-### What Are the Symptoms?
+### What are the symptoms?
 
 Period pain is the classic one, particularly pain that has crept up over the years or makes you miss work or college. Other common signs:
 - Pelvic pain on days when you're not bleeding
@@ -83,7 +83,7 @@ If you've been told that pain is just part of being a woman, or that it'll settl
 
 Yes. Some women have no pain at all. Their endometriosis is found during fertility tests, a scan done for another reason, or an unrelated operation.
 
-### What Causes Endometriosis?
+### What causes endometriosis?
 
 Nobody knows for sure. One long-standing theory is retrograde menstruation, where some period blood flows backwards through the tubes into the pelvis. Most women have a little of this, so the immune system probably plays a part too, perhaps failing to clear the stray tissue. Oestrogen feeds the condition, which is why symptoms rise and fall with the cycle. It also runs in families. If your mother or sister has it, your own risk is higher.
 
@@ -91,7 +91,7 @@ Starting periods early, having short cycles and having heavy flow may all add to
 
 What doesn't cause it is anything you did. Stress didn't cause it. Neither did marrying late, focusing on your career or having used contraception.
 
-### How Is Endometriosis Diagnosed?
+### How is endometriosis diagnosed?
 
 It starts with a conversation. Your doctor will want to know about your periods, your pain, how long you've been trying and what you've already been told. A pelvic examination comes next, then imaging.
 
@@ -111,7 +111,7 @@ The current ESHRE guideline takes a different view. It accepts ultrasound or MRI
 
 If you're trying to conceive, the laparoscopy question becomes part of the fertility plan. Surgery costs you recovery time and may cost you some egg reserve, and those trade-offs have to be weighed against what it might gain.
 
-### Which Fertility Tests Will You Need?
+### Which fertility tests will you need?
 
 The endometriosis is only one piece. Before deciding anything, your doctor will usually check:
 - AMH, a simple blood test
@@ -123,7 +123,7 @@ The endometriosis is only one piece. Before deciding anything, your doctor will 
 
 That last one gets skipped more often than it should. Men in India can be reluctant to give a sample, and there's still a quiet assumption in many families that fertility is the woman's problem. It isn't. A sperm issue changes the whole treatment plan, and finding it early can spare you procedures that were never going to work.
 
-### How Is Endometriosis Treated When You Want a Baby?
+### How is endometriosis treated when you want a baby?
 
 There are two goals here and they don't always point the same way. One is controlling pain. The other is getting pregnant. Which matters more to you right now, along with your age and test results, shapes the plan.
 
@@ -166,7 +166,7 @@ For minimal or mild endometriosis, IUI can be a reasonable step if at least one 
 
 Couples living around Gunjur, Varthur, Whitefield and Sarjapur Road can start their evaluation, follicle monitoring, ovulation induction and IUI with Dr. Swati Shree at EVE Women and Fertility Clinic, without travelling across Bangalore for the early stages of care.
 
-### When Does IVF Come In?
+### When does IVF come in?
 
 In IVF, eggs are collected from the ovaries and fertilised with sperm in a laboratory. A resulting embryo is then placed in the uterus. Because fertilisation happens outside the body, IVF sidesteps most of the damage endometriosis does in the pelvis and tubes.
 
@@ -196,19 +196,19 @@ The biggest influence on IVF in women with endometriosis is the same as for ever
 
 Some studies find that women with severe endometriosis tend to get fewer eggs at collection, while the chance of pregnancy per embryo is often fairly similar. What that means for you depends on your own numbers, and your doctor can walk you through them. Any clinic promising a baby from a single cycle isn't being straight with you.
 
-### Can You Get Pregnant Naturally With Endometriosis?
+### Can you get pregnant naturally with endometriosis?
 
 Many women do. The odds are better when the disease is mild, at least one tube is open, you ovulate regularly, your egg reserve is reasonable for your age, your husband's semen analysis is normal and you're on the younger side.
 
 With that kind of picture, your doctor may suggest giving it a set amount of time, sometimes after laparoscopy, before moving on to treatment. If you're over 35, your AMH is low or you've already been trying for a while, open-ended waiting usually isn't the best use of the time you have.
 
-### Is Egg Freezing Worth Considering?
+### Is egg freezing worth considering?
 
 It can be, especially if you aren't ready for a baby yet but your reserve is under pressure. That includes women with cysts on both ovaries, women facing ovarian surgery, women whose AMH is already low for their age, and women who plan to delay pregnancy for personal or work reasons.
 
 Frozen eggs don't come with a promise. Their chances later depend mostly on how old you were when they were frozen and how many were stored. Whether it's right for you is a personal call, and one worth making with good information rather than in a rush.
 
-### What About Pregnancy With Endometriosis?
+### What about pregnancy with endometriosis?
 
 Most women with endometriosis go on to have healthy pregnancies. Without periods, pain often eases for those nine months, though not for everyone.
 
@@ -216,7 +216,7 @@ Some research links endometriosis with a slightly higher chance of certain compl
 
 Pregnancy doesn't make endometriosis go away. Symptoms often come back once periods return after delivery, so it helps to plan your ongoing care before then.
 
-### Daily Life, Food and Feelings
+### Daily life, food and feelings
 
 No diet or supplement has been shown to cure endometriosis or reliably improve fertility with it. Online claims to the contrary are everywhere, so be wary.
 
@@ -230,7 +230,7 @@ Years of pain that nobody took seriously, followed by months of negative pregnan
 
 Endometriosis is a medical condition. You didn't bring it on yourself, and fertility is something you and your partner face together. A counsellor, a support group, or just honest conversations at home can lighten the load. Looking after your mind is part of the treatment, not a distraction from it.
 
-### Myths You Can Let Go Of
+### Myths you can let go of
 
 "Period pain is normal, so there's nothing to check." Some cramping is normal. Pain that stops you functioning, or that's getting worse, isn't.
 
@@ -246,7 +246,7 @@ Endometriosis is a medical condition. You didn't bring it on yourself, and ferti
 
 "The right diet will make it disappear." Eating well supports your health. It won't make endometriosis vanish.
 
-### Questions Worth Asking Your Fertility Doctor
+### Questions worth asking your fertility doctor
 - What type and stage of endometriosis do you think I have, and how certain are we?
 - What do my AMH and follicle count mean at my age?
 - Are my tubes open?
@@ -257,7 +257,7 @@ Endometriosis is a medical condition. You didn't bring it on yourself, and ferti
 - Should I freeze eggs or embryos before any operation?
 - How do we manage my pain while I'm trying to conceive?
 
-### Warning Signs That Need Urgent Care
+### Warning signs that need urgent care
 
 Get to an emergency department, or call your doctor straight away, if you notice any of the following.
 - Sudden, severe pain in the lower abdomen, which can mean a cyst has burst or an ovary has twisted
@@ -269,7 +269,7 @@ Get to an emergency department, or call your doctor straight away, if you notice
 
 Don't hold on until your next appointment with any of these.
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 NICE and ASRM both suggest getting checked after 12 months of trying if you're under 35, or after 6 months if you're 35 or older. If you already know you have endometriosis, there's no need to wait that long.
 

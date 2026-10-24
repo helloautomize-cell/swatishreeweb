@@ -13,9 +13,13 @@ const AI_BOTS = [
   "ChatGPT-User",
   "ClaudeBot",
   "Claude-SearchBot",
+  "Claude-User",
+  "anthropic-ai",
   "PerplexityBot",
+  "Perplexity-User",
   "Google-Extended",
   "Applebot-Extended",
+  "CCBot",
 ];
 
 export default function robots(): MetadataRoute.Robots {
@@ -25,7 +29,7 @@ export default function robots(): MetadataRoute.Robots {
   }
   return {
     rules: [
-      { userAgent: "*", allow: "/" },
+      { userAgent: "*", allow: "/", disallow: ["/styleguide/", "/thank-you/", "/api/"] },
       { userAgent: ["Googlebot", "Bingbot", ...AI_BOTS], allow: "/" },
     ],
     sitemap: abs("/sitemap.xml"),

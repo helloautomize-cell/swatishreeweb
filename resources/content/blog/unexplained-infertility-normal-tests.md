@@ -26,14 +26,14 @@ Unexplained infertility is diagnosed when a couple has not conceived after tryin
 
 This article is part of our [female infertility](/blog/female-infertility-causes-symptoms-tests-treatment/) guide.
 
-### What Tests Are Usually Normal?
+### What tests are usually normal?
 - Regular ovulation confirmed by cycle tracking or hormone tests
 - Open fallopian tubes on HSG or similar tests
 - Normal uterine cavity on ultrasound
 - Normal semen analysis for the male partner
 - Adequate ovarian reserve for age
 
-### What Might Be Behind It?
+### What might be behind it?
 - Egg quality, which cannot be measured directly
 - Subtle sperm function problems not seen on routine analysis
 - Mild endometriosis not visible on ultrasound
@@ -42,7 +42,7 @@ This article is part of our [female infertility](/blog/female-infertility-causes
 - Timing of intercourse
 - Age-related decline in fertility
 
-### How Is Unexplained Infertility Treated?
+### How is unexplained infertility treated?
 
 ## Expectant management
 
@@ -60,11 +60,11 @@ IVF can bypass several possible hidden causes and also reveals information about
 
 Healthy weight, not smoking, limiting alcohol, managing stress and good sleep support fertility for both partners.
 
-### How Do Doctors Decide the Next Step?
+### How do doctors decide the next step?
 
 They consider the woman's age, ovarian reserve, how long the couple has been trying, previous treatments, emotional and financial factors and the couple's preferences.
 
-### How Can Couples Cope Emotionally?
+### How can couples cope emotionally?
 
 Unexplained infertility can feel especially frustrating because there is no clear answer. Open communication, emotional support, counselling and connecting with others in similar situations can help.
 
@@ -82,16 +82,15 @@ An unexplained diagnosis can be hard to accept, but effective treatments exist a
 ### FAQs
 
 1. **What does unexplained infertility mean?**
-   It means standard fertility tests for both partners are normal, yet pregnancy has not occurred after the recommended time of trying. A specific cause has not been identified by routine tests.
+         It means standard fertility tests for both partners are normal, yet pregnancy has not occurred after the recommended time of trying. A specific cause has not been identified by routine tests. It means standard tests show normal ovulation, open tubes, a normal uterus and a reasonable semen report, yet pregnancy has not happened. About a quarter of couples fall into this group.
 2. **Can couples with unexplained infertility get pregnant naturally?**
-   Yes, some couples conceive naturally, especially when younger and with a shorter duration of trying. Others benefit from treatment such as IUI or IVF.
+         Yes, some couples conceive naturally, especially when younger and with a shorter duration of trying. Others benefit from treatment such as IUI or IVF. Yes, a meaningful share conceive without treatment over the following one to two years, especially younger women. Whether to keep trying or move to treatment depends mainly on age and time already spent.
 3. **Is IUI or IVF better for unexplained infertility?**
-   IUI with ovulation induction may be tried first in some couples, while IVF is often recommended for older women or after unsuccessful IUI. Your specialist will advise based on your situation.
+         IUI with ovulation induction may be tried first in some couples, while IVF is often recommended for older women or after unsuccessful IUI. Your specialist will advise based on your situation. IUI with ovulation medicine is often tried first because it is simpler and cheaper. If a few cycles do not work, or age and duration argue for faster results, IVF is the next step.
 4. **What causes unexplained infertility?**
-   Possible hidden causes include egg or sperm quality issues, mild endometriosis, fertilisation problems and implantation difficulties that routine tests cannot detect.
+         Possible hidden causes include egg or sperm quality issues, mild endometriosis, fertilisation problems and implantation difficulties that routine tests cannot detect. The label hides subtler issues current tests miss: egg or sperm quality, fertilisation problems, mild endometriosis, or tubal transport problems. IVF itself sometimes reveals where the failure happens.
 5. **Should we do more tests for unexplained infertility?**
-   Additional tests may sometimes be considered, but many couples move to treatment rather than extensive testing. Your specialist will discuss what is useful.
-
+         Additional tests may sometimes be considered, but many couples move to treatment rather than extensive testing. Your specialist will discuss what is useful. Often not, because routine testing already covers the main causes. Repeating tests rarely changes the plan. A specialist may add a laparoscopy or specific tests only when your history suggests something.
 ### Sources and further reading
 
 - [ACOG: Evaluating infertility](https://www.acog.org/womens-health/faqs/evaluating-infertility)

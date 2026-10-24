@@ -26,11 +26,11 @@ Many couples wonder how long they should keep trying before seeking help. The an
 
 This article is part of our [female infertility](/blog/female-infertility-causes-symptoms-tests-treatment/) guide.
 
-### Why Does Age Matter?
+### Why does age matter?
 
 Female fertility gradually declines with age, especially after about 35, because the number and quality of eggs decrease. Earlier evaluation helps make the most of available time.
 
-### When Should You Seek Help Sooner?
+### When should you seek help sooner?
 
 ## For women
 - Irregular, very infrequent or absent periods
@@ -47,7 +47,7 @@ Female fertility gradually declines with age, especially after about 35, because
 - Previous cancer treatment
 - Known low sperm count
 
-### What Increases Your Chance of Conceiving?
+### What increases your chance of conceiving?
 - Intercourse every two to three days, or around ovulation
 - Healthy weight for both partners
 - Not smoking and limiting alcohol
@@ -55,11 +55,11 @@ Female fertility gradually declines with age, especially after about 35, because
 - Managing chronic conditions such as diabetes or thyroid disease
 - Reducing stress where possible
 
-### What Happens at the First Fertility Visit?
+### What happens at the first fertility visit?
 
 The specialist takes a detailed history of both partners, examines as needed and orders tests such as AMH, ultrasound, hormone tests, tubal assessment and semen analysis. A plan is then made based on results.
 
-### Is It Okay to Seek Help Earlier Without a Reason?
+### Is it okay to seek help earlier without a reason?
 
 Yes. If you are anxious or want reassurance, a consultation can provide information and basic tests. Early advice can help optimise your chances.
 
@@ -79,14 +79,13 @@ Knowing when to seek help helps couples make the most of time and avoid unnecess
 1. **How long should we try before seeing a fertility doctor?**
    If the woman is under 35, after 12 months of trying. If she is 35 or older, after 6 months. If she is over 40, see a specialist promptly.
 2. **Should we see a specialist sooner if periods are irregular?**
-   Yes. Irregular or absent periods may indicate ovulation problems such as PCOS, so evaluation should happen sooner.
+         Yes. Irregular or absent periods may indicate ovulation problems such as PCOS, so evaluation should happen sooner. Yes. Irregular periods usually mean irregular or absent ovulation, which testing can confirm quickly. There is little value waiting a full year when the problem is already visible and easily treated.
 3. **Does the male partner need testing?**
-   Yes. Male factors contribute to many infertility cases. A semen analysis is a simple, important early test.
+         Yes. Male factors contribute to many infertility cases. A semen analysis is a simple, important early test. Yes. A semen analysis is simple, cheap and answers a large part of the question. Male factors contribute to about a third of infertility, so testing him early prevents one-sided treatment.
 4. **Can we see a fertility specialist before trying?**
-   Yes. A preconception consultation can review health, check basic fertility markers and give advice to improve your chances.
+         Yes. A preconception consultation can review health, check basic fertility markers and give advice to improve your chances. Yes. A preconception visit covers health checks, folic acid, medicines review, vaccination and conditions like thyroid or diabetes. It is sensible planning, not a sign that something is wrong.
 5. **How often should we have intercourse when trying?**
-   Intercourse every two to three days throughout the cycle, or more often around ovulation, gives a good chance of conception without needing perfect timing.
-
+         Intercourse every two to three days throughout the cycle, or more often around ovulation, gives a good chance of conception without needing perfect timing. Every two to three days through the cycle covers the fertile window without pressure. Timing only the ovulation day actually lowers the chances, because sperm live several days and the window is wider than one day.
 ### Sources and further reading
 
 - [ACOG: Evaluating infertility](https://www.acog.org/womens-health/faqs/evaluating-infertility)

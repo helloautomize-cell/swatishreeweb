@@ -28,7 +28,7 @@ Recurrent miscarriage, also called recurrent pregnancy loss, can have several po
 
 The purpose of an evaluation is not to order every possible test. It is to understand the pregnancy history, look for causes that are relevant to that individual, and identify anything that could change treatment or future pregnancy care.
 
-### What Does Recurrent Pregnancy Loss Mean?
+### What does recurrent pregnancy loss mean?
 
 Recurrent pregnancy loss refers to repeated miscarriages or pregnancy losses. The terms recurrent miscarriage and recurrent pregnancy loss (RPL) are both used in clinical practice.
 
@@ -48,7 +48,7 @@ They may want to know:
 
 A detailed history can help narrow down which investigations are actually useful.
 
-### Why Does Recurrent Miscarriage Happen?
+### Why does recurrent miscarriage happen?
 
 There is no single explanation for recurrent miscarriage.
 
@@ -124,7 +124,7 @@ Sometimes no definite cause is found.
 
 That can be frustrating, but it does not mean the losses were insignificant or that there is nothing more to discuss. It simply means that the available evaluation has not identified a specific explanation that can be acted upon.
 
-### Is Recurrent Miscarriage Only a Woman's Problem?
+### Is recurrent miscarriage only a woman's problem?
 
 No.
 
@@ -136,7 +136,7 @@ The important point is that recurrent pregnancy loss should not automatically be
 
 This matters even more when families or relatives place pressure on a woman after a miscarriage. Pregnancy loss is a medical issue, not a reason to assign blame.
 
-### What Tests Are Done After Recurrent Miscarriage?
+### What tests are done after recurrent miscarriage?
 
 There is no single "recurrent miscarriage test."
 
@@ -213,7 +213,7 @@ The recurrent pregnancy loss strategy developed for Dr. Swati Shree specifically
 
 That approach can reduce unnecessary investigations and keep the discussion focused on findings that may actually affect care.
 
-### Can PCOS or Thyroid Problems Cause Recurrent Miscarriage?
+### Can PCOS or thyroid problems cause recurrent miscarriage?
 
 PCOS and thyroid disorders can be relevant to reproductive health, but neither should automatically be blamed for repeated pregnancy loss.
 
@@ -225,7 +225,7 @@ The important distinction is between having a medical condition and proving that
 
 The supporting content plan for this pillar specifically includes PCOS and thyroid-related pregnancy loss as a topic requiring evidence-qualified explanations rather than blanket statements. Dr_Swati_Shree_Content_Strategy…
 
-### How Is Recurrent Miscarriage Treated?
+### How is recurrent miscarriage treated?
 
 There is no single treatment that works for every case.
 
@@ -288,7 +288,7 @@ The discussion may cover:
 
 The value of genetic counselling is often in making a complicated report easier to understand and putting it into the context of future pregnancy planning.
 
-### When Is IVF Considered After Recurrent Miscarriage?
+### When is IVF considered after recurrent miscarriage?
 
 Recurrent miscarriage does not automatically mean that IVF is necessary.
 
@@ -309,7 +309,7 @@ IVF also cannot guarantee that miscarriage will not occur.
 
 For patients who need advanced ART, Dr. Swati Shree can evaluate them at EVE Women and Fertility Clinic and guide treatment through partner fertility centres in Bangalore. EVE's ART Level 1 scope includes fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. Advanced IVF laboratory procedures are carried out through partner facilities. Pasted text(20261003-120516)
 
-### Does Embryo Genetic Testing Prevent Miscarriage?
+### Does embryo genetic testing prevent miscarriage?
 
 Embryo genetic testing may be discussed in selected circumstances, particularly when there is a relevant genetic concern.
 
@@ -319,7 +319,7 @@ The decision depends on the reason for considering IVF, the genetic findings, ag
 
 It is also important to understand what genetic testing can and cannot tell you. Testing can provide information about specific genetic characteristics, but it cannot guarantee implantation, an ongoing pregnancy or a healthy baby.
 
-### What Should You Do Before Trying Again?
+### What should you do before trying again?
 
 After repeated pregnancy loss, it is reasonable to pause and review the situation before trying again.
 
@@ -337,7 +337,7 @@ There is no universal waiting period that applies to every person after pregnanc
 
 Your doctor can advise you based on what happened and your current health.
 
-### What Happens After a Positive Pregnancy Test?
+### What happens after a positive pregnancy test?
 
 A positive pregnancy test after recurrent miscarriage can bring mixed emotions.
 
@@ -355,7 +355,7 @@ Depending on the situation, this may involve:
 
 The exact schedule varies from person to person.
 
-### Which Symptoms Need Urgent Attention in Early Pregnancy?
+### Which symptoms need urgent attention in early pregnancy?
 
 Some symptoms should not wait for a routine appointment.
 
@@ -372,7 +372,7 @@ Bleeding combined with one-sided pelvic pain, shoulder-tip pain or fainting can 
 
 If symptoms are severe, seek emergency medical care rather than waiting for your fertility clinic appointment.
 
-### Can Stress Cause Recurrent Miscarriage?
+### Can stress cause recurrent miscarriage?
 
 After a miscarriage, people often replay everything they did during the pregnancy.
 
@@ -386,7 +386,7 @@ At the same time, emotional wellbeing matters. Recurrent pregnancy loss can affe
 
 Support should complement medical care, not replace it.
 
-### Does Bed Rest Prevent Miscarriage?
+### Does bed rest prevent miscarriage?
 
 Routine bed rest is not a general treatment for recurrent miscarriage.
 
@@ -396,7 +396,7 @@ Advice about activity after a miscarriage or during a subsequent pregnancy shoul
 
 If someone recommends complete bed rest, avoiding all exercise or stopping normal activities, it is worth discussing that advice with the treating doctor rather than assuming it is necessary.
 
-### Lifestyle Changes Before Pregnancy
+### Lifestyle changes before pregnancy
 
 Healthy habits can support general health before and during pregnancy, although they cannot prevent every miscarriage.
 
@@ -415,7 +415,7 @@ These steps should not be presented as a guarantee against pregnancy loss.
 
 A previous miscarriage does not mean that a woman failed to follow the "right" lifestyle.
 
-### Common Misconceptions About Recurrent Miscarriage
+### Common misconceptions about recurrent miscarriage
 
 ## "One miscarriage means something is seriously wrong."
 
@@ -449,7 +449,7 @@ Aspirin has specific medical uses. It should not be started without medical advi
 
 Routine bed rest is not a universal treatment for miscarriage or recurrent pregnancy loss. Activity recommendations should be individualized.
 
-### Questions to Ask Your Fertility Specialist
+### Questions to ask your fertility specialist
 
 It can help to take your previous medical records to the appointment.
 
@@ -467,7 +467,7 @@ Consider asking:
 - When should I contact you after a positive pregnancy test?
 - Is IVF or embryo genetic testing relevant to my situation?
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 A fertility specialist can be helpful when pregnancy losses have happened repeatedly or when you want a structured review before trying again.
 
@@ -537,7 +537,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Is IVF recommended for recurrent miscarriage?**
    IVF is not automatically recommended after recurrent miscarriage. It may be considered when there is another fertility indication or when particular genetic circumstances make assisted reproduction relevant. Embryo genetic testing may be discussed in selected cases, but IVF cannot guarantee that a future pregnancy will continue normally.
 7. **Can I have a healthy pregnancy after recurrent miscarriage?**
-   Yes, a healthy future pregnancy can be possible after recurrent pregnancy loss. The appropriate care depends on factors such as age, medical history, previous pregnancy findings and test results. No treatment can guarantee a particular outcome, but identifying a treatable cause and planning early pregnancy care can help guide management.
+         Yes, a healthy future pregnancy can be possible after recurrent pregnancy loss. The appropriate care depends on factors such as age, medical history, previous pregnancy findings and test results. No treatment can guarantee a particular outcome, but identifying a treatable cause and planning early pregnancy care can help guide management. Yes, most couples do. Even after several losses, a good share of next pregnancies succeed, especially once treatable causes are found. Early supportive monitoring in the next pregnancy helps.
 8. **Where can recurrent miscarriage be evaluated in Bangalore?**
    Recurrent pregnancy loss can be assessed by a gynecologist or fertility specialist with experience in reproductive medicine. Dr. Swati Shree provides fertility evaluation at EVE Women and Fertility Clinic in Gunjur, Bangalore, where the assessment can be tailored to the individual's previous pregnancy history and medical findings.
 

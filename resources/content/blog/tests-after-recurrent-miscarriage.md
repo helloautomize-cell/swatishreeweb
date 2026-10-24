@@ -26,11 +26,11 @@ After two or more pregnancy losses, a fertility specialist may recommend tests t
 
 This article is part of our [recurrent miscarriage](/blog/recurrent-miscarriage-causes-tests-treatment/) guide.
 
-### Why Are Tests Done?
+### Why are tests done?
 
 The aim is to find conditions that can be treated or managed to improve the chance of a healthy pregnancy. Tests also help couples understand what happened and plan the next pregnancy.
 
-### Which Tests May Be Considered?
+### Which tests may be considered?
 
 ## Uterine assessment
 - 3D ultrasound: checks the shape of the uterus for a septum, fibroids or polyps
@@ -55,11 +55,11 @@ Blood tests for lupus anticoagulant, anticardiolipin antibodies and anti-beta-2 
 
 Vitamin D, sperm DNA fragmentation or other tests may be discussed depending on history. Some tests offered elsewhere have limited evidence, so your specialist will explain which ones are useful.
 
-### What If All Tests Are Normal?
+### What if all tests are normal?
 
 This is common and is called unexplained recurrent pregnancy loss. It can be frustrating, but the chance of a successful next pregnancy is often still encouraging. Supportive care, early scans and regular contact with your doctor can help.
 
-### What Treatments May Follow?
+### What treatments may follow?
 - Surgery to correct a uterine septum or remove polyps or fibroids
 - Thyroid medicine if needed
 - Blood thinners such as low-dose aspirin and heparin for antiphospholipid syndrome, under medical supervision
@@ -80,18 +80,17 @@ Tests after repeated loss can bring clarity and, in many cases, a treatable caus
 ### FAQs
 
 1. **Do I need every test after recurrent miscarriage?**
-   No. Tests are chosen based on your history, age, timing of losses and previous results. Your specialist will recommend tests that are useful for your situation and avoid those with limited value.
+         No. Tests are chosen based on your history, age, timing of losses and previous results. Your specialist will recommend tests that are useful for your situation and avoid those with limited value. No. The standard set covers the uterus, parental chromosomes, antiphospholipid antibodies and thyroid; extras like extensive immune panels are added only when your history suggests them.
 2. **What is antiphospholipid syndrome?**
    It is an immune condition where antibodies increase the risk of blood clots, which can affect the placenta. It is a treatable cause of recurrent miscarriage. Diagnosis needs positive tests on two occasions about 12 weeks apart.
 3. **Why test the uterus after miscarriage?**
-   Problems such as a uterine septum, fibroids or polyps can interfere with implantation or pregnancy growth. Many of these can be treated with minor surgery like hysteroscopy.
+         Problems such as a uterine septum, fibroids or polyps can interfere with implantation or pregnancy growth. Many of these can be treated with minor surgery like hysteroscopy. To look for structural problems that can disturb implantation or growth, such as a septum, polyps, fibroids or scar tissue. Ultrasound, saline sonography or hysteroscopy shows them clearly.
 4. **What is a parental karyotype?**
-   It is a blood test that checks the chromosomes of both partners. In a small number of couples, one partner carries a balanced chromosome change that can lead to pregnancy loss. Genetic counselling helps plan next steps.
+         It is a blood test that checks the chromosomes of both partners. In a small number of couples, one partner carries a balanced chromosome change that can lead to pregnancy loss. Genetic counselling helps plan next steps. A blood test that maps the chromosomes of each partner to find balanced rearrangements. A carrier is healthy but can make embryos with unbalanced chromosome sets, which is one cause of repeated loss.
 5. **Can thyroid problems cause miscarriage?**
-   Untreated thyroid problems are linked with a higher risk of pregnancy loss. Testing TSH and treating abnormal levels before and during pregnancy is a simple and important step.
+         Untreated thyroid problems are linked with a higher risk of pregnancy loss. Testing TSH and treating abnormal levels before and during pregnancy is a simple and important step. Untreated thyroid disease and thyroid antibodies are linked to higher miscarriage risk, which is why TSH is part of the workup. Treating a genuinely abnormal result improves the outlook.
 6. **Should pregnancy tissue be tested after a miscarriage?**
-   If possible, testing tissue from a future loss can show whether chromosome problems were the cause. This can help guide further evaluation. Ask your doctor whether it can be arranged.
-
+         If possible, testing tissue from a future loss can show whether chromosome problems were the cause. This can help guide further evaluation. Ask your doctor whether it can be arranged. When available, chromosome testing of the tissue can show whether the loss was a random embryo error, which guides whether deeper testing of the couple is useful. Your doctor will advise when it helps.
 ### Sources and further reading
 
 - [NHS: Miscarriage](https://www.nhs.uk/conditions/miscarriage/)

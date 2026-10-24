@@ -26,7 +26,7 @@ If your periods come every 45 days, or skip months altogether, you may be wonder
 
 This article is part of our [PCOS and fertility](/blog/pcos-fertility-ovulation-iui-ivf/) guide.
 
-### What PCOS Changes About Ovulation
+### What PCOS changes about ovulation
 
 Each cycle, a follicle in the ovary is meant to mature and release an egg. In PCOS, follicles often begin to develop but do not reach release on schedule, or do not reach it at all. The ovaries are still active. What's missing is a predictable rhythm.
 
@@ -34,15 +34,15 @@ Each cycle, a follicle in the ovary is meant to mature and release an egg. In PC
 
 Not reliably. Bleeding and ovulation are linked, but a woman can bleed without releasing an egg. Many women only learn this after a blood test or a scan.
 
-### Can You Conceive Naturally With PCOS?
+### Can you conceive naturally with PCOS?
 
 For many women, yes. A regular 28-day cycle makes fertile days easy to estimate. With PCOS, cycles may stretch to 35 to 60 days, or shift in length from one month to the next. Ovulation kits can also give unclear readings. Couples often do better with regular intercourse through the cycle than with a single guessed date.
 
-### How Long Should You Try Before Seeing a Doctor?
+### How long should you try before seeing a doctor?
 
 For women under 35 without known problems, specialists generally suggest a fertility evaluation after 12 months of trying. From age 35, the advice is to come in after 6 months. If your periods are very infrequent, there is little point in waiting for those milestones. Infrequent ovulation may be the reason pregnancy is delayed, and an early check can save months of guesswork.
 
-### What Tests Are Needed?
+### What tests are needed?
 
 A PCOS diagnosis is only one part of the picture. A proper assessment looks at both partners.
 
@@ -58,7 +58,7 @@ A PCOS diagnosis is only one part of the picture. A proper assessment looks at b
 
 Lifestyle changes can help many women feel better and support metabolic health, though they are rarely a quick fix. Regular activity, adequate sleep, balanced meals and steady blood sugar all play a part. Rice, dal and roti don't need to leave the plate. Portion size and consistency usually count for more than strict elimination. Body weight is also not the whole story, since women at many different weights have PCOS, and many of them conceive.
 
-### When Is Ovulation Treatment Considered?
+### When is ovulation treatment considered?
 
 Doctors usually start with ovulation induction when ovulation is absent and no other major factor is present. The international PCOS guideline recommends letrozole, a tablet taken by mouth, as the first-line choice. It should only be started on a doctor's prescription, with monitoring to match.
 
@@ -68,7 +68,7 @@ Follicular monitoring uses a series of ultrasound scans to show how the ovary re
 
 Some women with PCOS respond strongly to ovulation medicines. In uncommon cases, this can lead to ovarian hyperstimulation syndrome (OHSS), so treatment is planned with that risk in mind. PCOS is also linked to a slightly higher chance of gestational diabetes and high blood pressure in pregnancy, which is why early monitoring helps. These are patterns seen across large groups of women. They cannot predict what will happen in your pregnancy.
 
-### When Should You See a Doctor?
+### When should you see a doctor?
 
 Book a consultation if your periods are very irregular or absent, if you have been trying for the timeframes above, or if you have a known tubal, endometriosis or semen concern.
 

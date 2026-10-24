@@ -26,11 +26,11 @@ Most IVF cycles run about four to six weeks, from the first hormone injection to
 
 This article is part of our [IVF treatment](/blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/) guide.
 
-### Why Planning Comes First
+### Why planning comes first
 
 Stimulation doesn't start until the team has the full picture. Expect an AMH blood test, hormone levels from early in the cycle, an antral follicle scan, a semen analysis, and infection screening for both partners. Several of these must be done on specific cycle days, so the start date is often fixed a few weeks ahead.
 
-### What Does the Timeline Look Like, Stage by Stage?
+### What does the timeline look like, stage by stage?
 
 | Stage | Typical timing | What to expect |
 |---|---|---|
@@ -43,11 +43,11 @@ Stimulation doesn't start until the team has the full picture. Expect an AMH blo
 | Pregnancy blood test | 9 to 14 days after transfer | Beta hCG test |
 
 
-### How Long Do the Injections Take?
+### How long do the injections take?
 
 Stimulation runs 8 to 14 days. Scans every two or three days show how the follicles are growing, and the dose changes based on what they find. Some women respond slowly and need a few extra days. That gives the doctor more to work with, and it doesn't mean the cycle is lost. The trigger shot has to be taken at the exact hour your clinic gives you, since egg collection follows 34 to 36 hours later.
 
-### What Happens Between Collection and the Test?
+### What happens between collection and the test?
 
 Eggs are fertilised the same day, through standard IVF or ICSI. The embryos are then tracked for three to five days. Many clinics prefer to transfer a blastocyst, an embryo that reaches day 5 or 6. Not every embryo keeps developing, so numbers often drop along the way. Most clinics will call you with updates as they come in.
 
@@ -55,7 +55,7 @@ Transfer is brief, and most women describe it as similar to a Pap smear. Progest
 
 Home tests can mislead during this window. The trigger shot leaves a hormone similar to hCG in the body for several days, so a test taken too soon may show a positive result with no pregnancy behind it.
 
-### Why Do Some Cycles Take Longer?
+### Why do some cycles take longer?
 - A slow or excessive response to stimulation, which adds injection days
 - A pause or cancellation for safety reasons
 - Embryos that stop developing before reaching the blastocyst stage
@@ -63,11 +63,11 @@ Home tests can mislead during this window. The trigger shot leaves a hormone sim
 - A uterine finding, such as a polyp, that is treated before transfer
 - A frozen transfer, which needs time to prepare the lining
 
-### How Can You Plan Around the Timeline?
+### How can you plan around the timeline?
 
 Scan dates can move at short notice, so it helps to build some flexibility into your work plans. Ask for leave early, especially if your commute across Bangalore is long. Many clinics also expect a companion to take you home after egg collection, since sedation is involved. A written calendar from the first visit makes all of this easier to manage.
 
-### When Should You Seek Urgent Care?
+### When should you seek urgent care?
 
 Call your clinic or doctor without delay if you notice:
 - Severe pain in the belly, rapid bloating, breathlessness, or passing very little urine after injections or collection. These can be signs of OHSS.

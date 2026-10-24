@@ -28,7 +28,7 @@ Doctors use IVF for a wide range of fertility problems. Blocked fallopian tubes,
 
 Maybe a doctor has just mentioned IVF to you. Or maybe you've been trying for a while and want to know what the treatment involves before you sit across from a specialist. Either way, the sections below cover eligibility, each stage of a cycle, the risks, and what happens once a pregnancy test comes back positive.
 
-### What Is IVF and How Does It Work?
+### What is IVF and how does it work?
 
 Think about how conception happens naturally. Each month the ovary releases one egg, which is picked up by the fallopian tube. Sperm has to swim up to meet it there. If fertilisation happens, the early embryo drifts down into the uterus over several days and tries to implant.
 
@@ -46,7 +46,7 @@ ICSI (intracytoplasmic sperm injection) is a lab technique used as part of an IV
 
 It's mainly used when sperm count, movement or shape is very poor, or when eggs didn't fertilise well in an earlier IVF attempt.
 
-### Who May Need IVF Treatment?
+### Who may need IVF treatment?
 
 IVF usually isn't the first thing a fertility specialist tries. Plenty of couples conceive with ovulation tablets or IUI (intrauterine insemination), which are simpler and cost less. IVF tends to come in when those options are unlikely to work for a particular diagnosis, or when they've already been tried without success.
 
@@ -81,7 +81,7 @@ Sometimes it makes sense, and sometimes it would only waste time. IUI can work r
 
 It is. The Assisted Reproductive Technology (Regulation) Act, 2021 governs IVF clinics and banks in India. Clinics have to be registered, and the law covers consent, donors, record keeping and who can access treatment. Eligibility can turn on individual circumstances, so it's worth raising any questions about it directly with your clinic.
 
-### What Tests Are Done Before IVF?
+### What tests are done before IVF?
 
 Both partners get tested. The results tell your doctor what's causing the difficulty and help decide how much medicine to use, whether ICSI is needed, and whether anything in the uterus should be corrected first.
 
@@ -99,7 +99,7 @@ Both partners get tested. The results tell your doctor what's causing the diffic
 
 If the scan hints at a polyp or something inside the uterine cavity, your doctor may suggest a hysteroscopy. A thin camera is passed through the cervix to look directly inside, and small problems can often be removed at the same time.
 
-### What Happens During an IVF Cycle?
+### What happens during an IVF cycle?
 
 Clinics differ in the details, but most IVF cycles follow the same broad sequence.
 
@@ -158,7 +158,7 @@ Try not to test at home before then. The trigger injection can leave enough hCG-
 
 So once injections begin, a fresh cycle takes about four to six weeks to reach the pregnancy test. If the embryos are frozen and transferred later, add another month or more.
 
-### Fresh or Frozen Embryo Transfer?
+### Fresh or frozen embryo transfer?
 
 With a fresh transfer, the embryo goes in a few days after egg collection, in the same cycle. With a frozen embryo transfer (FET), the embryos are frozen by a fast-freezing method called vitrification and transferred in a later month once the uterine lining has been prepared, either in a natural cycle or with hormone tablets.
 
@@ -172,13 +172,13 @@ With a fresh transfer, the embryo goes in a few days after egg collection, in th
 
 Neither one is the better choice for everybody. Your doctor decides based on how your ovaries responded and how your hormone levels look around egg collection. A practical advantage of freezing is that any extra good embryos can be stored, so a second transfer may not require another round of injections.
 
-### How Many Embryos Should Be Transferred?
+### How many embryos should be transferred?
 
 The move worldwide has been towards transferring one embryo at a time, particularly for younger women with a good-quality blastocyst. Putting back two or more raises the odds of twins or triplets, and carrying multiples brings higher risks of premature birth, high blood pressure and diabetes in pregnancy.
 
 You and your doctor will decide together, looking at your age, embryo quality, earlier cycles and the limits set under Indian law.
 
-### What Affects the Chances of IVF Working?
+### What affects the chances of IVF working?
 
 No clinic can promise that IVF will result in a baby. What's possible is to understand the factors in your own case.
 
@@ -190,7 +190,7 @@ Then there's the uterus. Polyps, fibroids inside the cavity, scarring or a thin 
 
 The success rates you see online are averages pooled across thousands of women of different ages and diagnoses. They may tell you very little about your own situation. A better question to put to your doctor is what your particular results suggest.
 
-### What Are the Risks and Side Effects of IVF?
+### What are the risks and side effects of IVF?
 
 For most women IVF goes smoothly, but there are some risks you should know before you start.
 
@@ -222,7 +222,7 @@ Nobody warns you how tiring the waiting is. Waiting for scan results, waiting fo
 
 The large majority are healthy and grow up like any other child. Some studies have found slightly higher rates of certain pregnancy complications after IVF, though part of that seems to relate to the underlying infertility, not the treatment itself. Your doctor can explain how this applies to you.
 
-### What Happens After a Positive IVF Pregnancy Test?
+### What happens after a positive IVF pregnancy test?
 
 A positive result is the start of a few weeks of closer follow-up.
 
@@ -232,7 +232,7 @@ A transvaginal scan is usually done about two to three weeks after the positive 
 
 Some spotting is quite common in early IVF pregnancies. Still, tell your doctor about any bleeding or pain so it can be checked.
 
-### What If the Cycle Doesn't Work?
+### What if the cycle doesn't work?
 
 Sometimes good embryos don't implant, and nobody can fully explain why. When a cycle ends without a pregnancy, the disappointment can be heavy. Give yourselves time before deciding anything.
 
@@ -240,7 +240,7 @@ When you're ready, a follow-up consultation looks back at the whole cycle. How d
 
 If your earlier IVF was at another centre, a second opinion can help you see whether anything should be done differently.
 
-### Diet, Lifestyle and Coping During IVF
+### Diet, lifestyle and coping during IVF
 
 There's no special IVF diet, whatever you may read on social media. Ordinary home food does the job. Dal, sabzi, curd, eggs or other protein, fruit, and whole grains such as millets, brown rice or rotis made from whole wheat give you what you need. If you have PCOS, cutting back on sweets, fried snacks and packaged food helps more than any supplement.
 
@@ -250,7 +250,7 @@ Only take supplements your doctor has recommended. Herbal powders and "fertility
 
 On the emotional side, decide together how much you'll share and with whom. You don't owe your extended family a running update. Some couples find counselling or a support group useful. Others just need a few evenings where IVF isn't the topic of conversation.
 
-### Common IVF Myths in India
+### Common IVF myths in India
 
 ## "If a couple can't conceive, it's the woman's problem."
 
@@ -276,13 +276,13 @@ Twins happen mostly when two or more embryos are transferred. One embryo at a ti
 
 Low AMH usually means fewer eggs are collected in a cycle. It doesn't measure egg quality, and it doesn't rule out a pregnancy.
 
-### How Much Does IVF Cost in Bangalore?
+### How much does IVF cost in Bangalore?
 
 There's no single figure, because the total depends on your treatment. The biggest variable is usually the medicine dose, which depends on your ovarian reserve and response. ICSI, embryo freezing and storage, the type of transfer, extra procedures such as hysteroscopy, embryo testing or surgical sperm retrieval, and the number of cycles you need all change the cost.
 
 Before you start, ask for a written estimate that spells out what's included and what isn't.
 
-### Questions Worth Asking Your Fertility Doctor
+### Questions worth asking your fertility doctor
 - Why IVF for us, and not IUI or another option?
 - Based on our reports, what are our chances?
 - Will we need ICSI?
@@ -292,7 +292,7 @@ Before you start, ask for a written estimate that spells out what's included and
 - What will the full cycle cost?
 - Who do we call at night or on a Sunday if something feels wrong?
 
-### How Is IVF Planned at EVE Women and Fertility Clinic?
+### How is IVF planned at EVE Women and Fertility Clinic?
 
 At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree starts with a full evaluation of both partners. She goes through your history, AMH and hormone results, ultrasound findings and semen report, and looks first at whether ovulation induction or IUI could reasonably work for you.
 
@@ -300,7 +300,7 @@ If IVF is the right next step, Dr. Swati Shree assesses you at EVE and guides yo
 
 EVE is a registered ART Level 1 clinic, close to Varthur, Whitefield, Sarjapur Road and Bellandur.
 
-### When Should You Get Urgent Medical Help During IVF?
+### When should you get urgent medical help during IVF?
 
 Call your doctor straight away, or go to the nearest emergency department, if any of the following happen.
 - Severe belly pain or bloating that keeps getting worse after injections or egg collection
@@ -312,7 +312,7 @@ Call your doctor straight away, or go to the nearest emergency department, if an
 
 The first three can point to OHSS. The last can be a sign of ectopic pregnancy.
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Most guidelines suggest getting checked if you're under 35 and haven't conceived after a year of regular unprotected sex, or if you're 35 or older and it's been six months. At 40 and above, it's sensible not to wait.
 

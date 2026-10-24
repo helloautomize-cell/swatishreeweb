@@ -1,12 +1,12 @@
 ---
-title: "When to See a Fertility Doctor: 12 Months, 6 or Sooner"
+title: "When to See a Fertility Doctor: Signs You Shouldn't Wait"
 description: "When to see a fertility specialist: the 12-month and 6-month rules, signs to act sooner, what to bring, and what happens at the first visit."
 url: /blog/when-to-see-a-fertility-doctor/
 lastReviewed: "2026-09-04"
 category: Getting started
 author: dr-swati-shree
 reviewer: dr-swati-shree
-datePublished: "[CONFIRM: launch date]"
+datePublished: "2026-09-04"
 dateModified: "2026-09-04"
 badge: natural-conception
 readingTime: 6
@@ -67,6 +67,9 @@ At EVE Women and Fertility Clinic, Dr. Swati Shree begins with a long conversati
 5. **I want to delay pregnancy. Should I see a fertility doctor?**
    It can help. A check of AMH and antral follicle count, plus a talk about egg freezing, gives you information. Age matters most, and the earlier you ask, the more options you have. Dr. Swati explains what is realistic, without pressure.
 
-Sources: ASRM Practice Committee, Definition of infertility (2023); ESHRE Guideline: Unexplained infertility (2023); NICE Guideline CG156: Fertility problems
+### Sources
+- ASRM Practice Committee, Definition of infertility (2023)
+- ESHRE Guideline: Unexplained infertility (2023)
+- NICE Guideline CG156: Fertility problems
 
 Reviewer box: use global text.

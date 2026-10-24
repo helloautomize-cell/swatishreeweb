@@ -26,7 +26,7 @@ Fertility gradually declines with age, and the change becomes more noticeable af
 
 This article is part of our [fertility after 35](/blog/fertility-after-thirty-five-egg-quality-age-treatment/) guide.
 
-### What Changes With Age?
+### What changes with age?
 
 ## Egg quantity
 
@@ -44,18 +44,18 @@ Conditions such as fibroids, endometriosis, thyroid problems and high blood pres
 
 Sperm quality may also decline with age, especially after the mid-forties, though more slowly.
 
-### Can You Still Conceive Naturally After 35?
+### Can you still conceive naturally after 35?
 
 Yes. Many women conceive naturally in their late thirties and some in their early forties. It may simply take a little longer. Having regular intercourse every 2 to 3 days through the cycle gives a good chance without needing exact timing.
 
-### When Should You Seek Help?
+### When should you seek help?
 - Age 35 to 39: after 6 months of trying without pregnancy
 - Age 40 and above: at the start, or within a few months
 - Sooner if you have irregular periods, known endometriosis, PCOS, past pelvic infection or surgery
 - Sooner if your partner has known sperm problems
 - After two or more miscarriages
 
-### What Tests Are Usually Done?
+### What tests are usually done?
 - AMH and antral follicle count to assess egg reserve
 - Hormone tests such as FSH, TSH and prolactin
 - Pelvic ultrasound
@@ -63,11 +63,11 @@ Yes. Many women conceive naturally in their late thirties and some in their earl
 - Semen analysis for the partner
 - General health checks such as blood sugar and blood pressure
 
-### What Options Are Available?
+### What options are available?
 
 Depending on results, options may include timed intercourse, ovulation support, IUI or IVF. Some women consider egg freezing if they plan to delay pregnancy further. Your specialist will suggest a plan that matches your age and test results.
 
-### Healthy Steps That Help
+### Healthy steps that help
 - Take folic acid before trying to conceive
 - Stop smoking and limit alcohol
 - Maintain a healthy weight
@@ -88,18 +88,17 @@ Age is one important factor, but it is not the whole story. With timely evaluati
 ### FAQs
 
 1. **Is it harder to get pregnant after 35?**
-   It can take longer because both egg quantity and quality decline with age. Many women still conceive naturally. Seeking help after 6 months without pregnancy helps avoid unnecessary delay.
+         It can take longer because both egg quantity and quality decline with age. Many women still conceive naturally. Seeking help after 6 months without pregnancy helps avoid unnecessary delay. Yes, gradually rather than suddenly. Egg quantity and quality decline, so it often takes longer, but many women conceive in their late 30s. Time matters more, which is why the six-month rule exists.
 2. **Why should I see a specialist after 6 months if I am over 35?**
-   Time matters more as fertility declines with age. Earlier evaluation can find treatable problems sooner and allows more treatment options while egg reserve is still adequate.
+         Time matters more as fertility declines with age. Earlier evaluation can find treatable problems sooner and allows more treatment options while egg reserve is still adequate. Because each month has a smaller chance and waiting a full year loses time that matters at this age. A basic evaluation quickly shows whether anything needs correcting before more trying.
 3. **Does a normal AMH mean my fertility is fine after 35?**
-   A normal AMH suggests good egg quantity for your age, but it does not measure egg quality. Age remains the most important factor for egg quality. Your doctor will consider all results together.
+         A normal AMH suggests good egg quantity for your age, but it does not measure egg quality. Age remains the most important factor for egg quality. Your doctor will consider all results together. Not by itself. AMH counts eggs, not their quality, which declines with age regardless. A normal AMH at 38 is reassuring but does not reset the clock on quality or time.
 4. **Does miscarriage risk increase after 35?**
-   Yes. The risk of miscarriage rises with age, mainly due to more chromosomal changes in eggs. Good antenatal care and early monitoring can help, and many pregnancies after 35 are healthy.
+         Yes. The risk of miscarriage rises with age, mainly due to more chromosomal changes in eggs. Good antenatal care and early monitoring can help, and many pregnancies after 35 are healthy. Yes, because chromosome errors rise with egg age. It climbs gradually through the late 30s and more steeply after 40, which is part of why acting sooner is advised rather than waiting.
 5. **Should I consider IVF straight away after 35?**
-   Not necessarily. Many women conceive naturally or with simpler treatments. IVF may be recommended sooner if there are other factors like low egg reserve, blocked tubes or male factor problems.
+         Not necessarily. Many women conceive naturally or with simpler treatments. IVF may be recommended sooner if there are other factors like low egg reserve, blocked tubes or male factor problems. Not automatically. If tests look good, a timed natural or IUI trial may come first; IVF is favoured when time, reserve or diagnosis argues for faster results. The plan follows the workup.
 6. **Can lifestyle changes improve fertility after 35?**
-   Healthy habits support overall fertility and pregnancy health, but they cannot reverse age-related changes in eggs. Stopping smoking, keeping a healthy weight and managing health conditions are still worthwhile.
-
+         Healthy habits support overall fertility and pregnancy health, but they cannot reverse age-related changes in eggs. Stopping smoking, keeping a healthy weight and managing health conditions are still worthwhile. They support the odds but cannot reverse age. Stopping smoking, limiting alcohol, healthy weight and folic acid help, but the biggest lever after 35 is simply not losing more time.
 ### Sources and further reading
 
 - [ACOG: Having a baby after age 35](https://www.acog.org/womens-health/faqs/having-a-baby-after-age-35-how-aging-affects-fertility-and-pregnancy)

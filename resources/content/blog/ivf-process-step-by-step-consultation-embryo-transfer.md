@@ -1,5 +1,5 @@
 ---
-title: "IVF Process Step by Step in Bangalore"
+title: "IVF Process Step by Step in Bangalore: What to Expect"
 description: "Learn the IVF process step by step, from your first fertility consultation and tests to stimulation, egg collection and embryo transfer, with clear."
 url: /blog/ivf-process-step-by-step-consultation-embryo-transfer/
 lastReviewed: "2026-10-01"
@@ -26,31 +26,31 @@ IVF, or in vitro fertilisation, is a treatment in which eggs are collected from 
 
 This article is part of our [IVF treatment](/blog/ivf-treatment-eligibility-process-embryo-transfer-pregnancy/) guide.
 
-### Step 1: The First Consultation and Tests
+### Step 1: The first consultation and tests
 
 The first visit is mostly a conversation. The doctor asks about your periods, past treatment, surgeries and infections, and asks your partner similar questions. Bring any reports you already have. An AMH result, ultrasound films, hormone levels, a semen analysis and notes from earlier IUI or IVF cycles all shape the plan. Sometimes the results point to a simpler option, such as ovulation tablets or IUI, before IVF is considered.
 
 The workup typically covers AMH, an antral follicle count scan, day 2 or 3 hormone levels, thyroid and prolactin tests, a transvaginal ultrasound and a semen analysis. Both partners also complete infection screening, because eggs, sperm and embryos need safe handling in the lab.
 
-### Step 2: Planning the Cycle
+### Step 2: Planning the cycle
 
 Once the reports are in, the doctor picks a stimulation protocol, decides whether ICSI is needed and discusses fresh versus frozen transfer. This is a good moment to ask for a written cost estimate and timeline, so you can arrange leave and family support early. Consent forms are signed before treatment starts, as required under India's Assisted Reproductive Technology (Regulation) Act, 2021.
 
-### Step 3: Stimulation and Monitoring
+### Step 3: Stimulation and monitoring
 
 Over 8 to 14 days, you inject a hormone medicine every day, usually into the skin of the belly. Scans every two or three days measure the follicles, fluid-filled sacs that can each hold an egg. Their growth guides any change in dose. Bloating, tender breasts and mood swings are common during this phase, and they settle once the injections stop.
 
-### Step 4: Trigger Injection and Egg Collection
+### Step 4: Trigger injection and egg collection
 
 The trigger injection helps the eggs complete their final stage of maturing. Its timing is strict, so set an alarm for the exact hour your clinic gives you. Collection follows 34 to 36 hours later. Under sedation, a fine needle guided by ultrasound draws fluid from each follicle. The procedure takes 15 to 30 minutes, and most women go home the same day with cramping that eases within a day or two.
 
 Collection and IVF laboratory work take place at partner centres, Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant.
 
-### Step 5: Fertilisation and Embryo Culture
+### Step 5: Fertilisation and embryo culture
 
 Your partner gives a semen sample that same day. Eggs are fertilised by standard IVF or by ICSI, which places a single sperm into each mature egg. The embryologist then tracks development for three to five days. Embryos stop growing at different points, so the number often falls each day. A drop does not mean something went wrong, and your team will keep you updated at every stage.
 
-### Step 6: Embryo Transfer
+### Step 6: Embryo transfer
 
 A fresh transfer happens 3 to 5 days after collection, within the same cycle. A frozen transfer uses embryos that were vitrified (rapidly frozen) and is planned for a later cycle. Freezing is often chosen when the risk of ovarian hyperstimulation is high or the uterine lining needs more time.
 
@@ -65,11 +65,11 @@ The transfer itself is brief and usually needs no anaesthesia. Many women compar
 | Transfer to pregnancy test | 9 to 14 days | Continue progesterone and avoid early home tests |
 
 
-### The Two-Week Wait
+### The two-week wait
 
 For many couples, this is the hardest part of the process. Progesterone usually continues through it. The beta hCG blood test is done 9 to 14 days after transfer. Bed rest does not improve implantation, so light daily activity, including office work, is fine.
 
-### When Should You Get Urgent Medical Help?
+### When should you get urgent medical help?
 
 Contact your doctor promptly, or go to the nearest emergency department, if you notice:
 - Severe or worsening belly pain, or rapid bloating, after injections or egg collection
@@ -79,7 +79,7 @@ Contact your doctor promptly, or go to the nearest emergency department, if you 
 
 The first two can point to ovarian hyperstimulation. The third can point to an ectopic pregnancy.
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Most guidelines suggest an evaluation after a year of trying, or after six months from age 35. If you already know about PCOS, endometriosis, tube problems or a sperm issue, there is no need to wait that long.
 

@@ -14,7 +14,7 @@ cluster: "Endometriosis"
 pillar: false
 keywords: []
 about: {type: MedicalCondition, name: "Endometriosis"}
-related: [/conditions/endometriosis/, /conditions/adenomyosis/]
+related: [/conditions/endometriosis/, /conditions/adenomyosis/, /treatments/ivf/, /services/fertility-evaluation/]
 posts: [/blog/can-endometriosis-cause-infertility/, /blog/endometriosis-and-ivf/, /blog/adenomyosis-and-fertility-symptoms-treatment/, /blog/fibroids-and-fertility-can-you-get-pregnant/]
 ---
 
@@ -26,7 +26,7 @@ The most common symptom of endometriosis is period pain that is severe enough to
 
 This article is part of our [endometriosis and fertility](/blog/endometriosis-fertility-symptoms-diagnosis-treatment-ivf/) guide.
 
-### Why Is Endometriosis Often Missed?
+### Why is endometriosis often missed?
 
 Period pain is common, so severe pain is often dismissed as normal. Symptoms also overlap with other conditions such as irritable bowel syndrome or urinary infection. Many women live with symptoms for years before diagnosis.
 
@@ -52,7 +52,7 @@ Some women have heavy periods or spotting between periods.
 
 Endometriosis is found in many women undergoing fertility evaluation.
 
-### Less Obvious Symptoms
+### Less obvious symptoms
 - Pain while passing stools, especially during periods
 - Pain or burning while passing urine during periods
 - Bloating, often called "endo belly"
@@ -60,7 +60,7 @@ Endometriosis is found in many women undergoing fertility evaluation.
 - Lower back or leg pain linked to the cycle
 - Rarely, chest pain or shortness of breath during periods if endometriosis affects the diaphragm
 
-### When Should You Seek Help?
+### When should you seek help?
 
 Book a gynaecology appointment if:
 - Period pain stops you from normal activities
@@ -70,11 +70,11 @@ Book a gynaecology appointment if:
 - You have been trying to conceive without success
 - You have a family history of endometriosis
 
-### When Is It Urgent?
+### When is it urgent?
 
 Seek urgent care for sudden, severe pelvic pain, fever with pelvic pain, fainting, or pain with a positive pregnancy test. These need immediate assessment to rule out problems such as ovarian cyst rupture, torsion or ectopic pregnancy.
 
-### How Is It Evaluated?
+### How is it evaluated?
 
 A doctor takes a detailed history, may do a pelvic examination and orders an ultrasound. Endometriomas and deep disease can often be seen on a scan. In some cases, MRI or laparoscopy is used to confirm the diagnosis.
 
@@ -92,18 +92,17 @@ Your pain is real and deserves to be taken seriously. Getting a proper evaluatio
 ### FAQs
 
 1. **Is severe period pain always endometriosis?**
-   No. Severe period pain can have other causes, such as adenomyosis, fibroids or pelvic infection. However, pain that disrupts daily life should be checked. A doctor can find the cause and suggest the right treatment.
+         No. Severe period pain can have other causes, such as adenomyosis, fibroids or pelvic infection. However, pain that disrupts daily life should be checked. A doctor can find the cause and suggest the right treatment. No, but pain that stops normal life is not something to simply endure. Adenomyosis, fibroids and other causes look similar. A gynaecology review with a scan is the way to find out which it is.
 2. **Can endometriosis be seen on ultrasound?**
-   Ovarian cysts called endometriomas and some deep endometriosis can be seen on a good-quality ultrasound. Small surface patches may not be visible. Laparoscopy may be used if the diagnosis is unclear.
+         Ovarian cysts called endometriomas and some deep endometriosis can be seen on a good-quality ultrasound. Small surface patches may not be visible. Laparoscopy may be used if the diagnosis is unclear. Endometriotic cysts and deep nodules often can be, especially on a good transvaginal scan. Superficial deposits are invisible on scans and are found only at laparoscopy or suspected from symptoms.
 3. **At what age does endometriosis start?**
-   Symptoms often begin in the teens or twenties, sometimes with the first periods. Many women are diagnosed later because symptoms were dismissed. Teenagers with severe period pain also deserve evaluation.
+         Symptoms often begin in the teens or twenties, sometimes with the first periods. Many women are diagnosed later because symptoms were dismissed. Teenagers with severe period pain also deserve evaluation. It can begin in the teenage years and is most often diagnosed between 25 and 40. Symptoms may be present for years before the diagnosis, which is why persistent severe period pain deserves review.
 4. **Can endometriosis cause pain outside periods?**
-   Yes. Many women have pelvic or lower back pain at other times in the cycle, pain during sex or pain while passing stools. Pain patterns vary from person to person.
+         Yes. Many women have pelvic or lower back pain at other times in the cycle, pain during sex or pain while passing stools. Pain patterns vary from person to person. Yes. Some women have pain through the month, pain with intercourse, pain passing urine or opening bowels, or lower back pain. Cyclical worsening around periods is a typical clue.
 5. **Does endometriosis run in families?**
-   It can. Women whose mother or sister has endometriosis have a higher chance of developing it. If you have a family history and painful periods, mention it to your doctor.
+         It can. Women whose mother or sister has endometriosis have a higher chance of developing it. If you have a family history and painful periods, mention it to your doctor. It can. Having a mother or sister with endometriosis raises your risk several-fold, though most women with the condition have no family history. Genes are one factor among several.
 6. **Can endometriosis go away after pregnancy?**
-   Symptoms may improve during pregnancy and breastfeeding because of hormonal changes, but endometriosis often returns afterward. Pregnancy is not a treatment. Long-term management depends on your symptoms and plans.
-
+         Symptoms may improve during pregnancy and breastfeeding because of hormonal changes, but endometriosis often returns afterward. Pregnancy is not a treatment. Long-term management depends on your symptoms and plans. Pregnancy often quiets symptoms for a while, but endometriosis does not reliably disappear and frequently returns after periods restart. It is not a cure, despite the common advice.
 ### Sources and further reading
 
 - [NHS: Endometriosis](https://www.nhs.uk/conditions/endometriosis/)

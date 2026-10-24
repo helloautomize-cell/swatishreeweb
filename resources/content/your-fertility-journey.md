@@ -80,6 +80,10 @@ Under the ART (Regulation) Act, 2021, IUI and IVF are offered to married couples
 6. **How do I know if I should stop treatment?**
    That is a personal decision. We can review your results and your options at any point. Some couples pause, some change plans, and some stop. Dr. Swati supports each choice without pressure.
 
-Sources: ESHRE Guideline on Unexplained Infertility (2023); NICE Guideline CG156, Fertility problems: assessment and treatment; ASRM Practice Committee, Definition of infertility (2023); ART (Regulation) Act, 2021
+### Sources
+- ESHRE Guideline on Unexplained Infertility (2023)
+- NICE Guideline CG156, Fertility problems: assessment and treatment
+- ASRM Practice Committee, Definition of infertility (2023)
+- ART (Regulation) Act, 2021
 
 Reviewer note: reviewed by Dr. Swati Shree. Last reviewed 30 September 2026.

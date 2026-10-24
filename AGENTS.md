@@ -10,6 +10,9 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 # EVE project instructions
 
+- Before editing any code in this repo, always run `git fetch` and check for new remote commits, GitHub version differences, and local-vs-remote divergence (e.g. `git status -sb`, `git log main..origin/main`). Report what is incoming; pull only with a clean fast-forward when local changes do not overlap.
+
+
 - Current brief: `resources/docs/WINDSURF-MASTER-PROMPT-EVE.md` (v2). Visual authority: `resources/reference/eve-styleguide-final.html`, not the older reference.
 - Copy authority: `resources/docs/new-website-content.md`, copied unchanged from the root `new-website-content_swati.md`. Use `resources/docs/site-plan.md` for URLs and global copy, and `resources/docs/eve-client-data.md` for facts.
 - Approved resolutions: use the final HTML layouts, card dimensions and hover behavior; restrict named hospitals to About and the doctor profile, removing those names from Home only; map the manifest's menopause page to `/conditions/menopause-and-perimenopause/` and cervical-screening page to `/services/cervical-cancer-screening-hpv-vaccination/`.

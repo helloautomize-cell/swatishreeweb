@@ -26,11 +26,11 @@ Male infertility means a man's reproductive health is reducing the couple's chan
 
 This article is part of our [male infertility](/blog/male-infertility-causes-semen-analysis-treatment/) guide.
 
-### Why Does Male Fertility Matter?
+### Why does male fertility matter?
 
 Fertility is a shared issue. In many couples, male factors contribute alone or alongside female factors. Testing both partners together avoids unnecessary treatment for the woman and finds the full picture faster.
 
-### What Causes Male Infertility?
+### What causes male infertility?
 
 ## Sperm production problems
 
@@ -60,7 +60,7 @@ Some chromosome or gene changes can lead to very low or absent sperm.
 
 Smoking, heavy alcohol, recreational drugs, obesity, heat exposure, some medicines and anabolic steroids can reduce sperm quality.
 
-### Are There Any Symptoms?
+### Are there any symptoms?
 
 Most men feel completely normal. Possible signs include:
 - Difficulty with erection or ejaculation
@@ -72,7 +72,7 @@ Most men feel completely normal. Possible signs include:
 
 These signs should be checked by a doctor even if fertility is not the main concern.
 
-### When Should a Man Seek Help?
+### When should a man seek help?
 - After 12 months of trying without pregnancy
 - After 6 months if the female partner is 35 or older
 - Sooner if he has had testicular surgery, injury or infection
@@ -80,7 +80,7 @@ These signs should be checked by a doctor even if fertility is not the main conc
 - If he has had chemotherapy or radiation
 - If he has a known varicocele
 
-### What Happens at Evaluation?
+### What happens at evaluation?
 
 Evaluation usually starts with a semen analysis and a medical history. Depending on the results, hormone blood tests, a physical examination, scrotal ultrasound or genetic tests may follow.
 
@@ -98,18 +98,17 @@ Male infertility is common and often treatable, but it can only be addressed onc
 ### FAQs
 
 1. **Can a man look healthy and still be infertile?**
-   Yes. Most men with low sperm count or poor motility feel completely normal and have normal sexual function. A semen analysis is the only reliable way to check sperm health.
+         Yes. Most men with low sperm count or poor motility feel completely normal and have normal sexual function. A semen analysis is the only reliable way to check sperm health. Yes, most men with fertility problems have no symptoms at all. Normal health, erections and libido say nothing about sperm count or quality, which is why a semen analysis is the only way to know.
 2. **What lifestyle habits reduce male fertility?**
-   Smoking, heavy alcohol, recreational drugs, obesity, long exposure to heat and anabolic steroids can all reduce sperm quality. Improving these habits may help, though changes take around three months to show.
+         Smoking, heavy alcohol, recreational drugs, obesity, long exposure to heat and anabolic steroids can all reduce sperm quality. Improving these habits may help, though changes take around three months to show. Smoking, heavy alcohol, anabolic steroids, recreational drugs, obesity and regular heat exposure such as saunas or laptops on the lap. Reversing them helps, though sperm take about three months to renew.
 3. **Does age affect male fertility?**
    Yes, but more gradually than in women. Sperm quality and DNA integrity may decline with age, especially after the mid-forties. Age is one factor among many in a couple's evaluation.
 4. **Can male infertility be treated?**
    Many causes can be treated or improved, such as hormone problems, varicocele or lifestyle factors. When treatment is not enough, IUI or IVF with ICSI can help couples conceive.
 5. **Should men be tested before women start fertility treatment?**
-   Ideally, both partners should be tested at the start. A semen analysis is simple and low-cost, and its results can change which treatment is suitable for the couple.
+         Ideally, both partners should be tested at the start. A semen analysis is simple and low-cost, and its results can change which treatment is suitable for the couple. Yes, and it should happen at the same time as the woman's evaluation. A semen analysis is cheap and painless, and skipping it can mean months of treating the woman for a problem that is his.
 6. **Can stress affect sperm?**
-   Long-term stress may affect hormones and sexual function, which can influence fertility. Managing stress through sleep, exercise and support is helpful, but it is not usually the only cause of male infertility.
-
+         Long-term stress may affect hormones and sexual function, which can influence fertility. Managing stress through sleep, exercise and support is helpful, but it is not usually the only cause of male infertility. Severe prolonged stress may affect hormones and indirectly sperm, but it is a smaller factor than smoking, heat or illness. Worrying about stress itself is counterproductive during a workup.
 ### Sources and further reading
 
 - [WHO: Infertility fact sheet](https://www.who.int/news-room/fact-sheets/detail/infertility)

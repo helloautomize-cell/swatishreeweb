@@ -26,7 +26,7 @@ If your periods come irregularly, you are probably wondering whether PCOS is the
 
 This article is part of our [PCOS and fertility](/blog/pcos-fertility-ovulation-iui-ivf/) guide.
 
-### Why Does PCOS Make Periods Irregular?
+### Why does PCOS make periods irregular?
 
 A healthy cycle follows a sequence. A follicle, a fluid filled sac in the ovary, matures and releases an egg. About two weeks later, the uterine lining sheds as a period. In PCOS, follicles often begin to grow but stall before release. Raised androgens (male pattern hormones) and insulin resistance, both common in PCOS, can interrupt this sequence.
 
@@ -34,7 +34,7 @@ A healthy cycle follows a sequence. A follicle, a fluid filled sac in the ovary,
 
 It can. Bleeding may occur without an egg being released, so a period on its own does not confirm ovulation. Some women with PCOS bleed only every few months, and that pattern can hide whether ovulation is happening at all.
 
-### How Irregular Is Too Irregular?
+### How irregular is too irregular?
 
 | Cycle pattern | What it may suggest | Helpful next step |
 |---|---|---|
@@ -43,19 +43,19 @@ It can. Bleeding may occur without an egg being released, so a period on its own
 | No period for 3 months or more | Ovulation may be absent or rare | Seek a medical evaluation |
 
 
-### Why Does Irregular Ovulation Affect Conception?
+### Why does irregular ovulation affect conception?
 
 Timing is the core problem. An egg survives only briefly after release, and sperm must already be in the tubes to meet it. When ovulation is unpredictable, intercourse can easily miss the window.
 
 Home ovulation kits add to the confusion. Many women with PCOS have raised LH levels, the hormone these kits detect. A positive strip can appear even when no egg has been released.
 
-### How Is Ovulation Checked?
+### How is ovulation checked?
 
 A specialist usually starts with your cycle pattern, then adds blood tests and ultrasound. A progesterone test in the second half of the cycle can show whether ovulation took place. A follicular study uses serial scans to follow a developing follicle and estimate when it may release an egg.
 
 A raised AMH level reflects a larger number of small follicles. It tells the doctor about ovarian reserve, not about how likely you are to conceive.
 
-### What Treatments May Help Ovulation?
+### What treatments may help ovulation?
 
 For women who are overweight, gradual weight reduction can restore ovulation in some cases. Weight matters, but it is not the full picture. Women at a healthy weight can have ovulation problems as well.
 
@@ -63,37 +63,37 @@ If ovulation stays irregular, medicines that stimulate it may be considered. Let
 
 Ovulation induction is usually followed by scans, which help time intercourse or IUI. IUI may be considered once ovulation is achieved and other factors are suitable. IVF tends to come into the discussion when other options have not worked or are unsuitable, or when another fertility factor points that way. IVF laboratory steps take place at partner fertility centres, while Dr. Swati Shree guides the assessment and treatment.
 
-### What Happens at a Fertility Assessment?
+### What happens at a fertility assessment?
 - Review of your cycle pattern and medical history
 - Hormone blood tests and pelvic ultrasound
 - Semen analysis for your partner
 - Tubal assessment where clinically needed
 - Agreed next steps and follow up
 
-### Lifestyle, Diet and Emotional Wellbeing
+### Lifestyle, diet and emotional wellbeing
 
 Rice, dal, roti and sweets do not have to go. Balanced portions, enough protein and fibre, and plenty of vegetables work well within an Indian meal. Regular activity, sleep, giving up smoking and limiting alcohol all help hormone balance.
 
 Irregular cycles can be worrying, and questions from relatives can add pressure. Asking for support is a reasonable step. A counsellor can help if the waiting starts to feel heavy.
 
-### Risks, Side Effects and Limitations
+### Risks, side effects and limitations
 
 Ovulation medicines can increase the chance of twins or more. Fertility injections can cause ovarian hyperstimulation syndrome (OHSS) in some women. No treatment can promise a pregnancy, and some couples need more than one approach before they get there.
 
-### Common Myths and Mistakes
+### Common myths and mistakes
 - PCOS means you can never conceive. Most women with PCOS can, with the right care.
 - A period proves that you ovulated. It does not.
 - Herbal mixes can fix ovulation. No proven remedy replaces a medical assessment.
 - Only women need testing. Semen analysis is part of the couple's evaluation.
 
-### Questions to Ask Your Fertility Doctor
+### Questions to ask your fertility doctor
 - Am I ovulating, and how do you know?
 - Do we need tubal or semen tests?
 - Why this treatment first?
 - How will you monitor my response?
 - Which side effects should I report straight away?
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Consider an evaluation after 12 months of trying if you are under 35, or after 6 months if you are 35 or older. Do not wait that long if your periods are very irregular or have been absent for three months or more.
 

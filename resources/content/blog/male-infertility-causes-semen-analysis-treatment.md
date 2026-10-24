@@ -28,7 +28,7 @@ In most Indian homes, questions about a delayed pregnancy land on the wife. Fert
 
 Male factors play a part in a large share of couples who struggle to conceive. That is the reason fertility guidelines ask for both partners to be checked at the first visit.
 
-### Why Should Both Partners Be Tested for Infertility?
+### Why should both partners be tested for infertility?
 
 A pregnancy needs a healthy egg, healthy sperm, open fallopian tubes and a uterus that can hold an embryo. If any one of those is missing, it does not happen. Checking only the woman leaves half the picture blank.
 
@@ -42,7 +42,7 @@ The usual advice is to see a doctor after 12 months of regular unprotected sex w
 
 Men with certain histories should not wait that long. That includes a history of undescended testes (even if surgery fixed it in childhood), past surgery in the groin or scrotum, mumps after puberty with testicular swelling, chemotherapy or radiation, trouble with erections or ejaculation, low sex drive, or any use of testosterone injections or gym steroids. A previous low sperm count is another reason to come in early.
 
-### How Does Sperm Production Work?
+### How does sperm production work?
 
 A little biology makes the semen report far easier to follow.
 
@@ -54,7 +54,7 @@ Once mature, sperm move through the epididymis, a coiled storage tube behind eac
 
 Trouble anywhere along that route, from the brain's signals to the last stretch of tube, can cause infertility.
 
-### What Causes Male Infertility?
+### What causes male infertility?
 
 Doctors tend to sort the causes into four groups. The hormone signals may be weak. The testes themselves may not be producing well. A blockage may be trapping sperm inside. Or a sexual or ejaculation problem may be stopping sperm from reaching the egg.
 
@@ -106,7 +106,7 @@ Some jobs bring exposure to pesticides, heavy metals or industrial chemicals. Ce
 
 Age matters for men too, though less sharply than for women. Sperm quality tends to drift downward slowly over the years.
 
-### What Are the Symptoms of Male Infertility?
+### What are the symptoms of male infertility?
 
 For most men, there are none. Sex is normal, the semen looks normal, he feels fine. The only sign is a pregnancy that isn't happening.
 
@@ -114,7 +114,7 @@ A smaller group does notice something. Erections may be difficult, or sex drive 
 
 Sperm can only be seen under a microscope. How semen looks to the eye says nothing reliable about what is in it.
 
-### What Is a Semen Analysis and How Is It Done?
+### What is a semen analysis and how is it done?
 
 A semen analysis is a lab test that measures the volume of semen and checks the number, movement and shape of the sperm inside it. It is the first and most useful test for male fertility.
 
@@ -165,7 +165,7 @@ The morphology figure surprises people. Seeing "4% normal forms" sounds terrible
 
 Sperm counts swing quite a bit from one sample to the next. A recent fever, a stressful week or a short abstinence gap can all pull numbers down. When the first report comes back abnormal, doctors usually ask for a repeat after a few weeks to three months before deciding anything.
 
-### What Other Tests May Be Needed?
+### What other tests may be needed?
 
 An abnormal semen report often leads to a few more investigations. Which ones depends on what the first test showed.
 
@@ -184,7 +184,7 @@ Sperm DNA fragmentation testing is still argued over. It can help in particular 
 
 Assessing the male partner often brings in a urologist or andrologist, a doctor who focuses on male reproductive health. At EVE Women and Fertility Clinic, Dr. Swati Shree reviews semen reports as part of the couple's assessment and arranges referral to a male fertility specialist when the findings call for it.
 
-### What Does It Mean If No Sperm Is Found?
+### What does it mean if no sperm is found?
 
 The report says azoospermia. No sperm seen. For most men this is a hard thing to read, and it is natural to assume the worst. In many cases, though, it is not the end of the road to a biological child.
 
@@ -196,7 +196,7 @@ In non-obstructive azoospermia, the testes produce very little or nothing. Some 
 
 Hormone levels, testis size and genetic results help the doctor work out which type is more likely and what is worth trying.
 
-### What Are the Treatment Options for Male Infertility?
+### What are the treatment options for male infertility?
 
 The plan depends on the cause, how severe it is, the female partner's age and fertility, and how long the couple has been trying. Doctors generally aim for the least intensive route that has a fair chance of working.
 
@@ -230,7 +230,7 @@ When the semen contains no sperm, they can sometimes be taken directly from the 
 
 When no sperm can be retrieved, some couples consider donor sperm. In India this falls under the Assisted Reproductive Technology (Regulation) Act, 2021, and there are eligibility rules. A detailed discussion with the fertility specialist and a counsellor is the right place to start.
 
-### How Do IUI, IVF and ICSI Help With Male Infertility?
+### How do IUI, IVF and ICSI help with male infertility?
 
 All three help sperm and egg meet more effectively. The choice comes down mostly to how many good, moving sperm are available and how the female partner's fertility looks.
 
@@ -268,7 +268,7 @@ ICSI raises the chance of fertilisation when sperm are the main obstacle. It can
 
 EVE Women and Fertility Clinic is an ART Level 1 clinic. Assessment, counselling, follicle monitoring and IUI take place at EVE itself. For IVF or ICSI, Dr. Swati Shree evaluates the couple at EVE and then guides treatment through her partner fertility centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she works as a visiting consultant.
 
-### What Are the Risks and Limitations of Treatment?
+### What are the risks and limitations of treatment?
 
 No treatment comes with a guarantee. Results lean heavily on the woman's age and ovarian reserve, on sperm quality, and on a long list of smaller factors.
 
@@ -276,7 +276,7 @@ Varicocele surgery may leave the semen report unchanged. In non-obstructive azoo
 
 Fertility injections carry a small risk of ovarian hyperstimulation syndrome (OHSS) for the woman. Cost and time weigh on people too, especially when more than one cycle is needed.
 
-### Common Myths About Male Infertility
+### Common myths about male infertility
 
 ## Is infertility mostly the woman's problem?
 
@@ -306,7 +306,7 @@ They usually do the opposite. Testosterone taken from outside tends to suppress 
 
 There is no reliable evidence for unregulated herbal products in male infertility. Some have been found to contain hidden steroids, which can make things worse.
 
-### How Can Couples Look After Their Emotional Wellbeing?
+### How can couples look after their emotional wellbeing?
 
 An abnormal semen report can shake a man more than he lets on. Embarrassment and guilt are common. So is the feeling that his masculinity is somehow on trial, which is one reason many men put off the test in the first place.
 
@@ -316,7 +316,7 @@ Couples who attend appointments together tend to find it easier, and so do those
 
 For parents and in-laws, the most useful thing is patience and no blame in either direction.
 
-### Questions to Ask Your Fertility Doctor
+### Questions to ask your fertility doctor
 - Is my semen report normal, borderline or clearly abnormal?
 - Should I repeat the test, and when?
 - Do I need hormone tests, an ultrasound or genetic testing?
@@ -327,7 +327,7 @@ For parents and in-laws, the most useful thing is patience and no blame in eithe
 - Should I see a urologist or andrologist?
 - Can my sperm be frozen before surgery or cancer treatment?
 
-### When Should You See a Fertility Specialist?
+### When should you see a fertility specialist?
 
 Book an evaluation after 12 months of trying without a pregnancy, or after six months if the woman is 35 or older. Come sooner if the man has a known risk factor, such as past testicular surgery, undescended testes, cancer treatment, steroid use, or difficulty with erections or ejaculation.
 
