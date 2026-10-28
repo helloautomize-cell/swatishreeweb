@@ -15,10 +15,17 @@ declare global {
 const GA_ID = "G-SWXN3DHLER";
 const UTM_KEYS = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"];
 
-function gtag(...args: unknown[]): void {
+/*
+ * The stub must push the call's Arguments object, not a normal array:
+ * gtag.js only treats Arguments-typed dataLayer entries as commands, so a
+ * plain Array is stored as inert data and the queued consent/js/config
+ * calls silently never execute (the container loads but never collects).
+ */
+const gtag: (...args: unknown[]) => void = function () {
   window.dataLayer = window.dataLayer ?? [];
-  window.dataLayer.push(args);
-}
+  // eslint-disable-next-line prefer-rest-params -- gtag.js requires the Arguments object, see note above
+  window.dataLayer.push(arguments);
+};
 
 /** Query string with everything but utm_* stripped (Part 12: no PII in GA). */
 function cleanUrl(href: string): string {
