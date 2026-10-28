@@ -1,8 +1,9 @@
 /*
  * Consent-gated GA4 (Consent Mode v2) and the named events (master prompt
  * Part 12 "Analytics"). No gtag.js request happens before Accept; ad
- * signals stay denied always. `NEXT_PUBLIC_GA_ID` is the client-exposed
- * measurement id (a `[CONFIRM]` client input until the GA4 property exists).
+ * signals stay denied always. `NEXT_PUBLIC_GA_ID` overrides the built-in
+ * measurement id below when a different property should receive the data
+ * (e.g. a staging property on preview deployments).
  */
 
 declare global {
@@ -12,7 +13,7 @@ declare global {
   }
 }
 
-const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
+const GA_ID = process.env.NEXT_PUBLIC_GA_ID ?? "G-SWXN3DHLER";
 const UTM_KEYS = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"];
 
 function gtag(...args: unknown[]): void {
@@ -76,12 +77,14 @@ export function revokeAnalytics(): void {
 }
 
 export type AnalyticsEvent =
-  | "book_click"
-  | "call_click"
-  | "whatsapp_click"
+  | "appointment_click"
+  | "appointment_submit"
   | "directions_click"
+  | "email_click"
+  | "generate_lead"
   | "map_load"
-  | "generate_lead";
+  | "phone_click"
+  | "whatsapp_click";
 
 /** Fire a named event. No-ops until gtag has actually loaded (post-consent). */
 export function track(event: AnalyticsEvent, params?: Record<string, string>): void {

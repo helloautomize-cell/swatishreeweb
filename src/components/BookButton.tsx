@@ -2,7 +2,6 @@
 
 import { usePathname } from "next/navigation";
 import { CalendarDays } from "lucide-react";
-import { track } from "@/lib/analytics";
 import { bookingHref } from "@/lib/booking-context";
 
 /**
@@ -24,7 +23,6 @@ export default function BookButton({
       className="book"
       href={finalHref}
       aria-label={label}
-      onClick={() => track("book_click", { href: finalHref })}
     >
       <span className="ic">
         <CalendarDays size={22} strokeWidth={1.8} aria-hidden />

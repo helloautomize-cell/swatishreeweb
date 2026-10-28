@@ -8,6 +8,7 @@ import MobileActionBar from "@/components/shell/MobileActionBar";
 import WhatsAppFab from "@/components/shell/WhatsAppFab";
 import CookieBanner from "@/components/shell/CookieBanner";
 import Analytics from "@/components/Analytics";
+import AnalyticsEvents from "@/components/AnalyticsEvents";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
@@ -35,6 +36,7 @@ export const metadata: Metadata = {
     images: [{ url: "/og/default.png", width: 1200, height: 630, alt: site.name }],
   },
   twitter: { card: "summary_large_image" },
+  verification: { google: "AjFBRW-z7ndGcSH1rhUmmL71UvCBXZW4UbKYx9EpGw4" },
   robots: process.env.SITE_INDEXABLE === "1" ? undefined : { index: false, follow: false },
 };
 
@@ -62,6 +64,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <WhatsAppFab />
         <CookieBanner />
         <Analytics />
+        <AnalyticsEvents />
         {process.env.VERCEL ? <SpeedInsights /> : null}
       </body>
     </html>

@@ -8,7 +8,6 @@ import { ChevronDown, X } from "lucide-react";
 import { brand, site } from "@/lib/site-config";
 import { mobileMenu, type MegaMenu } from "@/lib/nav";
 import { bookingHref } from "@/lib/booking-context";
-import { track } from "@/lib/analytics";
 import { MaybeConfirm } from "@/components/ConfirmChip";
 
 function MenuAccordion({ menu }: { menu: MegaMenu }) {
@@ -118,7 +117,6 @@ export default function MobileMenu({ open, onClose }: { open: boolean; onClose: 
             <a
               className="book"
               href={bookingHref(pathname)}
-              onClick={() => track("book_click", { href: pathname })}
             >
               <span className="lb" style={{ display: "block", width: "100%", textAlign: "center" }}>
                 Book
@@ -127,7 +125,6 @@ export default function MobileMenu({ open, onClose }: { open: boolean; onClose: 
             <a
               className="call"
               href={`tel:${site.phones[0].e164}`}
-              onClick={() => track("call_click", { source: pathname })}
             >
               Call {site.phones[0].display}
             </a>

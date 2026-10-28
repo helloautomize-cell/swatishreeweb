@@ -1,9 +1,7 @@
-"use client";
-
 import type { ReactNode } from "react";
-import { track } from "@/lib/analytics";
 
-/** "Get directions" link with the `directions_click` event (Part 12). */
+/** "Get directions" link; the document-level listener in `AnalyticsEvents`
+ * reports the click as `directions_click` (Part 12). */
 export default function DirectionsLink({
   href,
   children,
@@ -11,9 +9,5 @@ export default function DirectionsLink({
   href: string;
   children: ReactNode;
 }) {
-  return (
-    <a href={href} onClick={() => track("directions_click")}>
-      {children}
-    </a>
-  );
+  return <a href={href}>{children}</a>;
 }

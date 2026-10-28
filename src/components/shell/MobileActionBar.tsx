@@ -7,7 +7,6 @@ import { site } from "@/lib/site-config";
 import { whatsappPrefill } from "@/lib/nav";
 import { bookingHref } from "@/lib/booking-context";
 import { resolveConfirm } from "@/lib/confirm";
-import { track } from "@/lib/analytics";
 
 const waNumber = resolveConfirm<string>(site.whatsapp);
 
@@ -66,7 +65,7 @@ export default function MobileActionBar() {
   return (
     <>
       <div className={`appbar${typing ? " hidden-while-typing" : ""}`} role="group" aria-label="Quick actions">
-        <a href={bookingHref(pathname)} onClick={() => track("book_click", { href: pathname })}>
+        <a href={bookingHref(pathname)}>
           <CalendarDays size={20} strokeWidth={1.8} aria-hidden />
           Book Now
         </a>
@@ -79,7 +78,6 @@ export default function MobileActionBar() {
             href={waHref}
             target="_blank"
             rel="noopener noreferrer"
-            onClick={() => track("whatsapp_click", { source: pathname })}
           >
             <MessageCircle size={20} strokeWidth={1.8} aria-hidden />
             WhatsApp
@@ -113,10 +111,7 @@ export default function MobileActionBar() {
             key={p.e164}
             className="num"
             href={`tel:${p.e164}`}
-            onClick={() => {
-              track("call_click", { source: pathname });
-              closeSheet();
-            }}
+            onClick={closeSheet}
           >
             <Phone size={18} strokeWidth={1.8} aria-hidden />
             {p.display}

@@ -5,7 +5,6 @@ import { MessageCircle } from "lucide-react";
 import { site } from "@/lib/site-config";
 import { whatsappPrefill } from "@/lib/nav";
 import { resolveConfirm } from "@/lib/confirm";
-import { track } from "@/lib/analytics";
 
 function pageTitle(pathname: string): string {
   const seg = pathname.split("/").filter(Boolean).pop();
@@ -36,7 +35,6 @@ export default function WhatsAppFab() {
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat on WhatsApp"
-      onClick={() => track("whatsapp_click", { source: pathname })}
     >
       <MessageCircle size={26} strokeWidth={1.8} aria-hidden />
     </a>

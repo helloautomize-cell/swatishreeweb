@@ -9,7 +9,6 @@ import EveImage from "@/components/EveImage";
 import { brand, site } from "@/lib/site-config";
 import { headerLinks, megaMenus, type MegaMenu } from "@/lib/nav";
 import { bookingHref } from "@/lib/booking-context";
-import { track } from "@/lib/analytics";
 import MobileMenu from "./MobileMenu";
 
 function DoctorMiniCard() {
@@ -155,7 +154,6 @@ export default function SiteHeader() {
               className="book"
               href={bookingHref(pathname)}
               aria-label="Book Consultation"
-              onClick={() => track("book_click", { href: pathname })}
             >
               <span className="ic">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden="true">
