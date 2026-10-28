@@ -1,9 +1,8 @@
 /*
  * Consent-gated GA4 (Consent Mode v2) and the named events (master prompt
  * Part 12 "Analytics"). No gtag.js request happens before Accept; ad
- * signals stay denied always. `NEXT_PUBLIC_GA_ID` overrides the built-in
- * measurement id below when a different property should receive the data
- * (e.g. a staging property on preview deployments).
+ * signals stay denied always. GA_ID below is the single measurement id for
+ * every environment; it is deliberately not env-configurable.
  */
 
 declare global {
@@ -13,7 +12,7 @@ declare global {
   }
 }
 
-const GA_ID = process.env.NEXT_PUBLIC_GA_ID ?? "G-SWXN3DHLER";
+const GA_ID = "G-SWXN3DHLER";
 const UTM_KEYS = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"];
 
 function gtag(...args: unknown[]): void {
