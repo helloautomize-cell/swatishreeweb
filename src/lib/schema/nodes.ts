@@ -5,7 +5,7 @@
  * still reported by launch-check / client-inputs-needed.
  */
 
-import { abs, entityStatement, site, siteUrl } from "../site-config";
+import { abs, brand, entityStatement, site, siteUrl } from "../site-config";
 import { facts } from "../facts";
 import { isConfirm, type ConfirmOr } from "../confirm";
 
@@ -25,6 +25,14 @@ export const IDS = {
 } as const;
 
 type Json = Record<string, unknown>;
+
+/*
+ * Neutral price-level placeholder for LocalBusiness priceRange: no fee is
+ * published anywhere on the site yet, so this carries the generic "₹₹"
+ * indicator until the client supplies the real consultation fee range.
+ * Kept here (schema-only module) so it never ships in the client bundle.
+ */
+const PRICE_RANGE = "₹₹";
 
 /** Drop CONFIRM leaves (and objects/arrays that become empty) from a node. */
 export function pruneConfirms<T>(v: T): T {
@@ -53,6 +61,24 @@ export function pruneConfirms<T>(v: T): T {
   return v;
 }
 
+const postalAddress = (): Json => ({
+  "@type": "PostalAddress",
+  streetAddress: `${site.address.line1}, ${site.address.line2}`,
+  addressLocality: "Bengaluru",
+  addressRegion: site.address.region,
+  postalCode: site.address.postalCode,
+  addressCountry: site.address.country,
+});
+
+const openingHours = (): Json[] => [
+  {
+    "@type": "OpeningHoursSpecification",
+    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    opens: site.opensTime,
+    closes: site.closesTime,
+  },
+];
+
 export function clinicNode(): Json {
   const geo = geoPoint();
   return {
@@ -65,7 +91,7 @@ export function clinicNode(): Json {
       "EVE Clinic Bengaluru",
     ],
     url: abs("/"),
-    logo: { "@type": "ImageObject", url: abs("/images/brand/logo-full.svg"), width: 1099, height: 338 },
+    logo: { "@type": "ImageObject", url: abs(`/images/${brand.logoFull}`), width: 1099, height: 338 },
     image: [abs("/images/clinic-reception-4x3-w768.webp"), abs("/images/clinic-consultation-room-4x3-w768.webp")],
     description: entityStatement,
     slogan: "Fertility care built around you",
@@ -105,25 +131,11 @@ export function clinicNode(): Json {
         availableLanguage: [...facts.languages],
       },
     ],
-    address: {
-      "@type": "PostalAddress",
-      streetAddress: `${site.address.line1}, ${site.address.line2}`,
-      addressLocality: "Bengaluru",
-      addressRegion: site.address.region,
-      postalCode: site.address.postalCode,
-      addressCountry: site.address.country,
-    },
+    address: postalAddress(),
     location: { "@id": IDS.place },
     geo: geoJson(geo),
     hasMap: site.mapsUrl,
-    openingHoursSpecification: [
-      {
-        "@type": "OpeningHoursSpecification",
-        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-        opens: site.opensTime,
-        closes: site.closesTime,
-      },
-    ],
+    openingHoursSpecification: openingHours(),
     areaServed: [
       {
         "@type": "GeoCircle",
@@ -155,6 +167,7 @@ export function clinicNode(): Json {
     ],
     paymentAccepted: site.paymentAccepted,
     currenciesAccepted: "INR",
+    priceRange: PRICE_RANGE,
     sameAs: [
       site.mapsUrl,
       site.instagram,
@@ -185,14 +198,7 @@ export function placeNode(): Json {
     "@type": "Place",
     "@id": IDS.place,
     name: `${site.name}, LG Complex Towers`,
-    address: {
-      "@type": "PostalAddress",
-      streetAddress: `${site.address.line1}, ${site.address.line2}`,
-      addressLocality: "Bengaluru",
-      addressRegion: site.address.region,
-      postalCode: site.address.postalCode,
-      addressCountry: site.address.country,
-    },
+    address: postalAddress(),
     geo: geoJson(geo),
     hasMap: site.mapsUrl,
     containedInPlace: { "@type": "AdministrativeArea", name: "Gunjur, Varthur, East Bengaluru" },
@@ -201,6 +207,7 @@ export function placeNode(): Json {
 }
 
 export function doctorNode(): Json {
+  const geo = geoPoint();
   return {
     "@type": ["Physician", "Person"],
     "@id": IDS.doctor,
@@ -214,7 +221,12 @@ export function doctorNode(): Json {
       value: facts.kmcRegistration,
     },
     url: abs("/dr-swati-shree/"),
-    image: abs("/images/doctors/dr-swati-shree-hero.jpg"),
+    image: abs("/images/doctor-meet-saree-4x5-w1600.webp"),
+    address: postalAddress(),
+    telephone: site.phones[0].e164,
+    geo: geoJson(geo),
+    openingHoursSpecification: openingHours(),
+    priceRange: PRICE_RANGE,
     medicalSpecialty: ["Gynecologic", "Obstetric"],
     knowsAbout: [
       "Reproductive medicine",

@@ -98,13 +98,9 @@ function breadcrumbNode(doc: PageDoc): Json | null {
       item: abs(HUB_SEGMENT[seg[0]].url),
     });
   }
-  if (doc.kind === "post" && doc.meta.cluster) {
-    items.push({
-      "@type": "ListItem",
-      position: items.length + 1,
-      name: doc.meta.cluster,
-    });
-  }
+  /* Post clusters render as a plain-text crumb on the page but have no
+   * canonical URL, so they can't be a valid middle ListItem (Google
+   * requires `item` on every non-final element). */
   items.push({ "@type": "ListItem", position: items.length + 1, name: doc.name });
   return {
     "@type": "BreadcrumbList",
