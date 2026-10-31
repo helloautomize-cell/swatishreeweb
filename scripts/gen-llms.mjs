@@ -93,10 +93,27 @@ for (const [name, re] of indexGroups) {
   }
   idx.push('');
 }
+idx.push(
+  '## Follow',
+  '',
+  '- [YouTube: Beyond Baby with Dr Swati Shree](https://www.youtube.com/@beyondbabywithdrswatishree)',
+  '- [Instagram: @dr_swati_shree](https://www.instagram.com/dr_swati_shree)',
+  '',
+);
 idx.push(CREDIT);
 writeFileSync(join(OUT, 'llms.txt'), idx.join('\n').replace(/\n{3,}/g, '\n\n'));
 
-const full = ['# EVE Women and Fertility Clinic', '', `> ${ENTITY}`, ''];
+const full = [
+  '# EVE Women and Fertility Clinic',
+  '',
+  `> ${ENTITY}`,
+  '',
+  '## Follow',
+  '',
+  '- [YouTube: Beyond Baby with Dr Swati Shree](https://www.youtube.com/@beyondbabywithdrswatishree)',
+  '- [Instagram: @dr_swati_shree](https://www.instagram.com/dr_swati_shree)',
+  '',
+];
 for (const p of pages) {
   full.push(`\n## ${strip(p.h1) || p.title.split(/\s*[\|·]\s*/)[0]}`, `URL: ${BASE}${p.url}`, '', strip(p.body), '');
 }

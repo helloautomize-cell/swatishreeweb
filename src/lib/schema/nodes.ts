@@ -8,6 +8,7 @@
 import { abs, brand, entityStatement, site, siteUrl } from "../site-config";
 import { facts } from "../facts";
 import { isConfirm, type ConfirmOr } from "../confirm";
+import { socialLinks } from "../social";
 
 /** site.geo literal type is ConfirmValue; widen so narrowing works. */
 const geoPoint = (): ConfirmOr<{ lat: number; lng: number }> => site.geo;
@@ -251,6 +252,7 @@ export function doctorNode(): Json {
     ],
     knowsLanguage: [...facts.languages],
     worksFor: { "@id": IDS.clinic },
+    sameAs: socialLinks.map((s) => s.href),
     /* alumniOf = the MBBS school only. AIIMS, Kanke and Sakra were jobs, not
      * schools; KJK Fellowship sits under hasCredential. */
     alumniOf: [
