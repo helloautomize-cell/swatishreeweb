@@ -1,6 +1,6 @@
 # Image todo
 
-Generated 2026-10-07 by scripts/process-images.mjs.
+Generated 2026-10-31 by scripts/process-images.mjs.
 
 ## Missing files (slot has no source)
 - C6: Coming from outside Bangalore lead

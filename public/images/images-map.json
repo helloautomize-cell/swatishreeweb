@@ -4283,5 +4283,47 @@
     },
     "restricted": false,
     "devOnly": false
+  },
+  "blog-pcos-and-getting-pregnant.png": {
+    "widths": [
+      320,
+      480,
+      768
+    ],
+    "source": {
+      "w": 1024,
+      "h": 576
+    },
+    "original": {
+      "w": 1024,
+      "h": 576
+    },
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1024,
+      "height": 576
+    },
+    "id": "B63",
+    "alt": "Smiling couple looking at a pregnancy test at home, beside illustrations of ovaries with cysts, a doctor consultation and a balanced meal.",
+    "altApproved": true,
+    "objectPosition": "50% 50%",
+    "ratio": "16:9",
+    "caption": null,
+    "illustrative": false,
+    "withheld": false,
+    "slots": [
+      {
+        "id": "B63",
+        "page": "/blog/pcos-and-getting-pregnant/",
+        "crop": "16:9"
+      }
+    ],
+    "blur": {
+      "color": "#f8f8e8",
+      "dataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoIAAUAA4BaJYwCdADyfDwAAPlIqzAhm8WwocA+L/prnpI4zwb3mgAgAAA="
+    },
+    "restricted": false,
+    "devOnly": false
   }
 }
