@@ -12,7 +12,7 @@ import type { PageDoc } from "@/lib/content/load";
 import { site } from "@/lib/site-config";
 import { resolveConfirm } from "@/lib/confirm";
 import { socialLinks } from "@/lib/social";
-import { YoutubeIcon } from "@/components/SocialIcons";
+import { YoutubeIcon, InstagramIcon } from "@/components/SocialIcons";
 import { whatsappPrefill } from "@/lib/nav";
 import { bookingReasonFor } from "@/lib/booking-context";
 
@@ -131,6 +131,7 @@ export default function ContactPage({ doc }: { doc: PageDoc }) {
                         rel="noopener noreferrer"
                         aria-label={`Dr. Swati Shree on ${s.label} (opens in a new tab)`}
                       >
+                        {s.id === "youtube" ? <YoutubeIcon size={16} /> : <InstagramIcon size={16} />}
                         {s.label}: {s.handle}
                       </a>
                     ))}

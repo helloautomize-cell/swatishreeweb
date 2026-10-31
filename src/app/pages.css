@@ -1135,8 +1135,14 @@
 }
 
 .ccard .ccard-social {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 8px;
   line-height: 1.5;
+}
+.ccard .ccard-social svg {
+  flex: none;
+  color: var(--primary-500);
 }
 
 .dr-hero .dr-social {
