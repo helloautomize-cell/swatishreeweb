@@ -70,14 +70,26 @@ const postalAddress = (): Json => ({
   addressCountry: site.address.country,
 });
 
-const openingHours = (): Json[] => [
-  {
-    "@type": "OpeningHoursSpecification",
-    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-    opens: site.opensTime,
-    closes: site.closesTime,
-  },
-];
+/*
+ * Opening hours are emitted only once the client confirms the days of the
+ * week: while site.openDays is a CONFIRM the whole specification is dropped
+ * (a partial one would state days we do not know). Setting openDays to the
+ * real list is the only change needed then.
+ */
+const openingHoursSpec = (): ConfirmOr<Json> =>
+  isConfirm(site.openDays)
+    ? site.openDays
+    : {
+        "@type": "OpeningHoursSpecification",
+        dayOfWeek: site.openDays,
+        opens: site.opensTime,
+        closes: site.closesTime,
+      };
+
+const openingHours = (): ConfirmOr<Json[]> => {
+  const spec = openingHoursSpec();
+  return isConfirm(spec) ? spec : [spec];
+};
 
 export function clinicNode(): Json {
   const geo = geoPoint();
@@ -122,7 +134,7 @@ export function clinicNode(): Json {
         telephone: site.phones[0].e164,
         availableLanguage: [...facts.languages],
         areaServed: "IN",
-        hoursAvailable: site.hours,
+        hoursAvailable: openingHoursSpec(),
       },
       {
         "@type": "ContactPoint",
@@ -319,7 +331,7 @@ export function consultationServiceNode(): Json {
         name: "Clinic visit",
       },
     ],
-    hoursAvailable: site.hours,
+    hoursAvailable: openingHoursSpec(),
   };
 }
 
