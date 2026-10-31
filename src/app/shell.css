@@ -67,6 +67,7 @@
     display: inline-flex;
     align-items: center;
     gap: 6px;
+    font-variant-numeric: tabular-nums;
   }
 }
 
@@ -482,6 +483,8 @@ html[data-textsize="lg"] {
   font-size: 13.5px;
   color: var(--ink-2);
   margin: 0;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
 
 /* ---------- mobile action bar ---------- */
@@ -672,6 +675,7 @@ html[data-textsize="lg"] {
   display: flex;
   gap: 10px;
   align-items: baseline;
+  font-variant-numeric: tabular-nums;
 }
 .sfooter .fcontact svg {
   flex: none;

@@ -26,15 +26,17 @@ export const site = {
   },
   foundingYear: 2025,
   foundingMonth: "December",
-  hours: confirm("OPD hours"),
+  hours: "11 am - 8 pm",
   /*
    * schema.org OpeningHoursSpecification.opens/closes need a 24-hour
    * "HH:MM" each, which can't be parsed out of the free-text `hours`
    * display string without guessing a format (Part 1.1 rule 3). Separate
-   * CONFIRM tokens so the client supplies both; see lib/schema/nodes.ts.
+   * fields for the machine-readable times; openDays stays a CONFIRM
+   * until the client supplies the days. See lib/schema/nodes.ts.
    */
-  opensTime: confirm("OPD opening time, 24-hour HH:MM"),
-  closesTime: confirm("OPD closing time, 24-hour HH:MM"),
+  opensTime: "11:00",
+  closesTime: "20:00",
+  openDays: confirm("OPD days of the week"),
   whatsapp: "+91 72049 21212",
   email: confirm("clinic email"),
   mapsUrl: "https://maps.app.goo.gl/8mygXauk59VyVmMN6",
@@ -60,6 +62,7 @@ export const site = {
   hours: ConfirmOr<string>;
   opensTime: ConfirmOr<string>;
   closesTime: ConfirmOr<string>;
+  openDays: ConfirmOr<string[]>;
   whatsapp: ConfirmOr<string>;
   email: ConfirmOr<string>;
   mapsUrl: ConfirmOr<string>;

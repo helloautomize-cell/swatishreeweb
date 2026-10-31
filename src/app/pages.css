@@ -1116,6 +1116,7 @@
   display: flex;
   gap: 14px;
   align-items: flex-start;
+  font-variant-numeric: tabular-nums;
 }
 
 .ccard svg {

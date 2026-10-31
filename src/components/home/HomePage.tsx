@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Award, Check, Clock, MapPin, MessageCircle, Phone, Stethoscope, User } from "lucide-react";
+import { ArrowRight, Award, Check, Clock, Mail, MapPin, MessageCircle, Phone, Stethoscope, User } from "lucide-react";
 import BookButton from "@/components/BookButton";
 import EveImage from "@/components/EveImage";
 import FaqAccordion from "@/components/FaqAccordion";
@@ -299,7 +299,7 @@ function ContactBlock({ d }: { d: ReturnType<typeof homeData> }) {
         <div className="hm-contact-rows">
           <div className="hm-crow"><Phone size={20} strokeWidth={1.75} aria-hidden /><div><b>Call</b><p><a href={`tel:${site.phones[0].e164}`}>{site.phones[0].display}</a> · <a href={`tel:${site.phones[1].e164}`}>{site.phones[1].display}</a></p></div></div>
           <div className="hm-crow"><MessageCircle size={20} strokeWidth={1.75} aria-hidden /><div><b>WhatsApp</b><p>{whatsapp ? <a href={`https://wa.me/${whatsapp.replace(/\D/g, "")}`}>{whatsapp}</a> : <ConfirmChip note="WhatsApp number" />}</p></div></div>
-          <div className="hm-crow"><User size={20} strokeWidth={1.75} aria-hidden /><div><b>Email</b><p><MaybeConfirm value={site.email} /></p></div></div>
+          <div className="hm-crow"><Mail size={20} strokeWidth={1.75} aria-hidden /><div><b>Email</b><p><MaybeConfirm value={site.email} /></p></div></div>
           <div className="hm-crow"><MapPin size={20} strokeWidth={1.75} aria-hidden /><div><b>Address</b><p>{site.name}, {site.address.line1}, {site.address.line2}, {site.address.city} {site.address.postalCode}{" "}
             {maps ? <a className="link" href={maps} target="_blank" rel="noopener noreferrer">Get directions</a> : <ConfirmChip note="Google Maps link" />}</p></div></div>
           <div className="hm-crow"><Clock size={20} strokeWidth={1.75} aria-hidden /><div><b>Hours</b><p><MaybeConfirm value={site.hours} /></p></div></div>
