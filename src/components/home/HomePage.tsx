@@ -250,7 +250,7 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
   );
 }
 
-function BlogStrip({ d }: { d: ReturnType<typeof homeData> }) {
+function BlogStrip() {
   const posts = loadPages()
     .filter((p) => p.kind === "post")
     .sort(
@@ -281,7 +281,7 @@ function BlogStrip({ d }: { d: ReturnType<typeof homeData> }) {
           />
         ))}
       </AutoScrollRow>
-      <p className="hm-more"><Link className="link" href="/blog/">{d.blogLink || "Read the blog"} <ArrowRight size={16} strokeWidth={1.75} aria-hidden /></Link></p>
+      <p className="hm-more hm-more--cta"><Link className="btn btn-s" href="/blog/">View all guides <ArrowRight size={18} strokeWidth={1.75} aria-hidden /></Link></p>
     </section>
   );
 }
@@ -393,7 +393,7 @@ export default function HomePage({ doc }: { doc: PageDoc }) {
           </AutoScrollRow>
         </section>
 
-        <BlogStrip d={d} />
+        <BlogStrip />
 
         <section className="hm-sec">
           <Reveal className="sec-h">

@@ -447,6 +447,10 @@
   .hm-post:hover .hm-post-cover img {
     transform: none;
   }
+  .hm-more--cta .btn:hover,
+  .hm-more--cta .btn:hover svg {
+    transform: none;
+  }
 }
 
 .hm-post-cat {
@@ -482,6 +486,11 @@
   align-items: center;
   gap: 6px;
   text-decoration: none;
+}
+
+.hm-more--cta {
+  margin-top: 40px;
+  text-align: center;
 }
 
 /* contact block */
@@ -800,5 +809,8 @@
   .hm-post {
     flex: 0 0 min(82vw, 320px);
     scroll-snap-align: start;
+  }
+  .hm-more--cta {
+    margin-top: 32px;
   }
 }
