@@ -314,6 +314,28 @@
   margin: 0;
 }
 
+/* 7-stop journey timeline on the homepage doctor card only */
+@media (min-width: 861px) {
+  .hm-doctor .path {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .hm-doctor .path div,
+  .hm-doctor .path b {
+    font-size: 12px;
+  }
+}
+
+.hm-doctor.in .path div:nth-child(5)::before {
+  animation-delay: 1.15s;
+}
+.hm-doctor.in .path div:nth-child(6)::before {
+  animation-delay: 1.3s;
+}
+.hm-doctor.in .path div:nth-child(7)::before {
+  animation-delay: 1.45s;
+}
+
 /* 06 / plan panel */
 
 .hm-plan-panel {

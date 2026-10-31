@@ -229,6 +229,9 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
             <div><b>AIIMS</b>Junior Resident, 2011</div>
             <div><b>Sakra World Hospital</b>Senior Resident, 2019</div>
             <div><b>KJK Hospital</b>Fellowship, Trivandrum</div>
+            <div><b>Garbhagudi IVF Centre</b>Consultant, 2021</div>
+            <div><b>Apollo Fertility</b>Consultant, 2022</div>
+            <div><b>Motherhood Fertility</b>Consultant, 2024</div>
             <div><b>EVE, Gunjur</b>Founded {clinicOpenedShort}</div>
           </div>
           <div className="chips">
