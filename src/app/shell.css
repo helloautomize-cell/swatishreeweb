@@ -685,6 +685,35 @@ html[data-textsize="lg"] {
 .sfooter .fcontact .confirm {
   font-size: 12.5px;
 }
+.sfooter .fcontact .fsocial {
+  align-items: center;
+  gap: 12px;
+}
+.sfooter .fcontact .fsocial-label {
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--brown);
+}
+.sfooter .fcontact .fsocial-links {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+.sfooter .fcontact .fsocial-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  color: var(--sage-deep);
+}
+.sfooter .fcontact .fsocial-links a:hover {
+  color: var(--brown);
+  text-decoration: none;
+}
 .sfooter .fcols {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));

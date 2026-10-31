@@ -54,9 +54,9 @@ export const site = {
   legalLastUpdated: confirm("legal pages last-updated date"),
   paymentAccepted: confirm("payment methods accepted"),
   languages: languagesDisplay,
-  instagram: confirm("Instagram URL"),
+  instagram: "https://www.instagram.com/dr_swati_shree",
   facebook: confirm("Facebook URL"),
-  youtube: confirm("YouTube URL"),
+  youtube: "https://www.youtube.com/@beyondbabywithdrswatishree",
   linkedin: confirm("LinkedIn URL"),
 } satisfies Record<string, unknown> & {
   hours: ConfirmOr<string>;

@@ -6,6 +6,8 @@ import { clinicOpenedDisplay, kmcRegLine } from "@/lib/facts";
 import { footerColumns, legalLinks } from "@/lib/nav";
 import { MaybeConfirm, WithConfirms } from "@/components/ConfirmChip";
 import { isConfirm } from "@/lib/confirm";
+import { socialLinks } from "@/lib/social";
+import { InstagramIcon, YoutubeIcon } from "@/components/SocialIcons";
 import { CookieSettingsButton } from "./CookieBanner";
 import EmailLink from "./EmailLink";
 
@@ -72,6 +74,25 @@ export default function SiteFooter() {
                 <EmailLink address={site.email} />
               )}
             </div>
+            {socialLinks.length > 0 && (
+              <div className="fline fsocial">
+                <span className="fsocial-label">Follow Dr. Swati</span>
+                <span className="fsocial-links">
+                  {socialLinks.map((s) => (
+                    <a
+                      key={s.id}
+                      href={s.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`Dr. Swati Shree on ${s.label} (opens in a new tab)`}
+                      title={`Dr. Swati Shree on ${s.label}`}
+                    >
+                      {s.id === "youtube" ? <YoutubeIcon size={20} /> : <InstagramIcon size={20} />}
+                    </a>
+                  ))}
+                </span>
+              </div>
+            )}
           </div>
         </div>
 
