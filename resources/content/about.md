@@ -52,7 +52,7 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 - **Doctor:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), fellowship in reproductive medicine
 - **Experience:** 16 years in practice
 - **Phone:** 72049 21212 · 72049 21516
-- **Hours:** `[CONFIRM]`
+- **Hours:** 11 am - 8 pm
 - **Registration:** Karnataka Medical Council Reg. No. DLH20090000353KTK · National ART and Surrogacy Registry no. `[CONFIRM]`
 - **Areas served:** Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and the rest of Bangalore; patients travel from other cities `[CONFIRM: catchment]`
 

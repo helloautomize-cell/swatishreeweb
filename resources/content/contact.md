@@ -19,7 +19,7 @@ Emergency notice above the form: This form is not for emergencies. In a medical 
 - Age, in years
 - Reason for visit (dropdown, see site plan section 8)
 - Preferred date (today to 60 days ahead)
-- Preferred time: Morning · Afternoon · Evening `[CONFIRM: hours]`
+- Preferred time: Morning · Afternoon · Evening
 - Town or city (optional)
 - "The patient is under 18": guardian name (required if ticked) + "I am the parent or legal guardian and I consent to EVE Women and Fertility Clinic using these details to arrange care for this patient."
 - Consent checkbox (global line)
@@ -32,7 +32,7 @@ Emergency notice above the form: This form is not for emergencies. In a medical 
 - **WhatsApp** `[CONFIRM: number]`
 - **Email** `[CONFIRM: obfuscated clinic email]`
 - **Address** EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087 · Get directions
-- **Hours** `[CONFIRM]`
+- **Hours** 11 am - 8 pm
 - Line: Coming from outside Bangalore? [Plan your visit]
 
 Map: Show map (click to load; pin from `[CONFIRM: Google Maps share URL]`)

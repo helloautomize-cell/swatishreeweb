@@ -12,8 +12,8 @@ Intro: EVE Women and Fertility Clinic is on the 1st floor of LG Complex Towers, 
 
 ### Timings
 
-- **OPD hours:** `[CONFIRM]`
-- **Phone and WhatsApp hours:** `[CONFIRM]`
+- **OPD hours:** 11 am - 8 pm
+- **Phone and WhatsApp hours:** 11 am - 8 pm
 - **Holidays:** Holiday hours may change. Please call before you visit. `[CONFIRM]`
 
 ### Address and directions

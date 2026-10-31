@@ -86,7 +86,7 @@ Cards (6):
 
 H2: A founder-led clinic in *Gunjur*
 
-Photo labels (placed off faces): "Caring for East Bangalore since December 2025" · `[CONFIRM: opening hours line]`
+Photo labels (placed off faces): "Caring for East Bangalore since December 2025" · Open 11 am - 8 pm
 
 Paragraph: Dr. Swati Shree opened EVE Women and Fertility Clinic in December 2025 at LG Complex Towers, Gunjur, in East Bangalore. She trained in obstetrics and gynaecology, completed a fellowship in reproductive medicine at KJK Hospital in Trivandrum, and earned the MRCOG from the Royal College of Obstetricians and Gynaecologists in the UK. After years as a consultant in busy fertility centres, she built EVE around one idea: patients deserve time, plain explanations and a plan that respects their choices.
 
@@ -154,7 +154,7 @@ Steps (6, with the step photos listed in IMAGE-RESOURCES-NEEDED):
 
 H2: Visit us in *Gunjur*
 Text: EVE is on the 1st floor of LG Complex Towers, Gunjur, Bangalore 560087, close to Varthur, Balagere, Whitefield and Sarjapur Road. `[CONFIRM: landmark and parking]`
-Hours: `[CONFIRM: OPD hours]`
+Hours: 11 am - 8 pm
 Buttons: [Get directions] [Plan your visit]
 
 ### 05 / Meet your doctor
@@ -204,7 +204,7 @@ Title: Talk to us
 - **WhatsApp** `[CONFIRM: number]`
 - **Email** `[CONFIRM: clinic email]`
 - **Address** EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087 · Get directions
-- **Hours** `[CONFIRM]`
+- **Hours** 11 am - 8 pm
 
 ### CTA band
 
@@ -268,7 +268,7 @@ EVE is on the 1st floor of LG Complex Towers in Gunjur, East Bangalore. It is an
 - **Doctor:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), fellowship in reproductive medicine
 - **Experience:** 16 years in practice
 - **Phone:** 72049 21212 · 72049 21516
-- **Hours:** `[CONFIRM]`
+- **Hours:** 11 am - 8 pm
 - **Registration:** Karnataka Medical Council Reg. No. DLH20090000353KTK · National ART and Surrogacy Registry no. `[CONFIRM]`
 - **Areas served:** Gunjur, Varthur, Whitefield, Sarjapur Road, Bellandur and the rest of Bangalore; patients travel from other cities `[CONFIRM: catchment]`
 
@@ -666,8 +666,8 @@ Intro: EVE Women and Fertility Clinic is on the 1st floor of LG Complex Towers, 
 
 ### Timings
 
-- **OPD hours:** `[CONFIRM]`
-- **Phone and WhatsApp hours:** `[CONFIRM]`
+- **OPD hours:** 11 am - 8 pm
+- **Phone and WhatsApp hours:** 11 am - 8 pm
 - **Holidays:** Holiday hours may change. Please call before you visit. `[CONFIRM]`
 
 ### Address and directions
@@ -806,7 +806,7 @@ Emergency notice above the form: This form is not for emergencies. In a medical 
 - Age, in years
 - Reason for visit (dropdown, see site plan section 8)
 - Preferred date (today to 60 days ahead)
-- Preferred time: Morning · Afternoon · Evening `[CONFIRM: hours]`
+- Preferred time: Morning · Afternoon · Evening
 - Town or city (optional)
 - "The patient is under 18": guardian name (required if ticked) + "I am the parent or legal guardian and I consent to EVE Women and Fertility Clinic using these details to arrange care for this patient."
 - Consent checkbox (global line)
@@ -819,7 +819,7 @@ Emergency notice above the form: This form is not for emergencies. In a medical 
 - **WhatsApp** `[CONFIRM: number]`
 - **Email** `[CONFIRM: obfuscated clinic email]`
 - **Address** EVE Women and Fertility Clinic, 1st Floor, LG Complex Towers, Gunjur, Bangalore 560087 · Get directions
-- **Hours** `[CONFIRM]`
+- **Hours** 11 am - 8 pm
 - Line: Coming from outside Bangalore? [Plan your visit]
 
 Map: Show map (click to load; pin from `[CONFIRM: Google Maps share URL]`)
