@@ -122,19 +122,20 @@ export default function ContactPage({ doc }: { doc: PageDoc }) {
                   <YoutubeIcon size={18} />
                   <div>
                     <b>Follow Dr. Swati</b>
-                    {socialLinks.map((s) => (
-                      <a
-                        key={s.id}
-                        className="ccard-social"
-                        href={s.href}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        aria-label={`Dr. Swati Shree on ${s.label} (opens in a new tab)`}
-                      >
-                        {s.id === "youtube" ? <YoutubeIcon size={16} /> : <InstagramIcon size={16} />}
-                        {s.label}: {s.handle}
-                      </a>
-                    ))}
+                    <span className="ccard-socials">
+                      {socialLinks.map((s) => (
+                        <a
+                          key={s.id}
+                          href={s.href}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label={`Dr. Swati Shree on ${s.label} (opens in a new tab)`}
+                          title={`${s.label}: ${s.handle}`}
+                        >
+                          {s.id === "youtube" ? <YoutubeIcon size={20} /> : <InstagramIcon size={20} />}
+                        </a>
+                      ))}
+                    </span>
                   </div>
                 </div>
               )}

@@ -1134,15 +1134,23 @@
   color: var(--primary-500);
 }
 
-.ccard .ccard-social {
+.ccard .ccard-socials {
   display: flex;
   align-items: center;
   gap: 8px;
-  line-height: 1.5;
+  margin-top: 4px;
 }
-.ccard .ccard-social svg {
-  flex: none;
-  color: var(--primary-500);
+.ccard .ccard-socials a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  color: var(--sage-deep);
+}
+.ccard .ccard-socials a:hover {
+  color: var(--primary-700);
 }
 
 .dr-hero .dr-social {
@@ -1153,12 +1161,14 @@
 .dr-hero .dr-social a {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  color: var(--ink-2);
+  justify-content: center;
+  padding: 7px;
+  margin: -4px 0;
+  border-radius: 8px;
+  color: var(--primary-500);
 }
 .dr-hero .dr-social a svg {
   flex: none;
-  color: var(--primary-500);
 }
 .dr-hero .dr-social a:hover {
   color: var(--primary-500);

@@ -92,9 +92,9 @@ export default function DoctorPage({ doc }: { doc: PageDoc }) {
                       target="_blank"
                       rel="noopener noreferrer"
                       aria-label={`Dr. Swati Shree on ${s.label} (opens in a new tab)`}
+                      title={s.label}
                     >
-                      {s.id === "youtube" ? <YoutubeIcon size={16} /> : <InstagramIcon size={16} />}
-                      {s.label}
+                      {s.id === "youtube" ? <YoutubeIcon size={18} /> : <InstagramIcon size={18} />}
                     </a>
                   </span>
                 ))}
