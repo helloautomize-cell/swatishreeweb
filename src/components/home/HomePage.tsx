@@ -253,7 +253,13 @@ function DoctorHome({ d }: { d: ReturnType<typeof homeData> }) {
 function BlogStrip({ d }: { d: ReturnType<typeof homeData> }) {
   const posts = loadPages()
     .filter((p) => p.kind === "post")
-    .sort((a, b) => a.num - b.num);
+    .sort(
+      (a, b) =>
+        Number(b.meta.pillar === true) - Number(a.meta.pillar === true) ||
+        (b.meta.datePublished ?? "").localeCompare(a.meta.datePublished ?? "") ||
+        b.num - a.num,
+    )
+    .slice(0, 3);
   return (
     <section className="hm-sec">
       <Reveal className="sec-h">
