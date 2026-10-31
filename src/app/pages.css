@@ -1134,6 +1134,31 @@
   color: var(--primary-500);
 }
 
+.ccard .ccard-social {
+  display: block;
+  line-height: 1.5;
+}
+
+.dr-hero .dr-social {
+  margin: 14px 0 0;
+  font-size: 0.95rem;
+  color: var(--ink-2);
+}
+.dr-hero .dr-social a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--ink-2);
+}
+.dr-hero .dr-social a svg {
+  flex: none;
+  color: var(--primary-500);
+}
+.dr-hero .dr-social a:hover {
+  color: var(--primary-500);
+  text-decoration: underline;
+}
+
 .ccard-more {
   font-size: 0.95rem;
   color: var(--ink-2);

@@ -11,6 +11,8 @@ import { InlineText } from "@/lib/content/render";
 import type { PageDoc } from "@/lib/content/load";
 import { site } from "@/lib/site-config";
 import { resolveConfirm } from "@/lib/confirm";
+import { socialLinks } from "@/lib/social";
+import { YoutubeIcon } from "@/components/SocialIcons";
 import { whatsappPrefill } from "@/lib/nav";
 import { bookingReasonFor } from "@/lib/booking-context";
 
@@ -114,6 +116,27 @@ export default function ContactPage({ doc }: { doc: PageDoc }) {
                   {hours ? <span>{hours}</span> : <ConfirmChip note="OPD hours" />}
                 </div>
               </div>
+
+              {socialLinks.length > 0 && (
+                <div className="ccard">
+                  <YoutubeIcon size={18} />
+                  <div>
+                    <b>Follow Dr. Swati</b>
+                    {socialLinks.map((s) => (
+                      <a
+                        key={s.id}
+                        className="ccard-social"
+                        href={s.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label={`Dr. Swati Shree on ${s.label} (opens in a new tab)`}
+                      >
+                        {s.label}: {s.handle}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              )}
 
               <p className="ccard-more">
                 Coming from outside Bangalore?{" "}

@@ -9,6 +9,8 @@ import { WithConfirms } from "@/components/ConfirmChip";
 import { InlineText, Markdown } from "@/lib/content/render";
 import type { PageDoc, Section } from "@/lib/content/load";
 import { site } from "@/lib/site-config";
+import { socialLinks } from "@/lib/social";
+import { InstagramIcon, YoutubeIcon } from "@/components/SocialIcons";
 import ChipGroups from "./ChipGroups";
 import { CtaBand, ReviewerBox } from "./PageFoot";
 
@@ -79,6 +81,25 @@ export default function DoctorPage({ doc }: { doc: PageDoc }) {
                 <Phone size={18} strokeWidth={1.75} aria-hidden /> Call {site.phones[0].display}
               </a>
             </div>
+            {socialLinks.length > 0 && (
+              <p className="dr-social">
+                Watch and follow:{" "}
+                {socialLinks.map((s, i) => (
+                  <span key={s.id}>
+                    {i > 0 && " · "}
+                    <a
+                      href={s.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`Dr. Swati Shree on ${s.label} (opens in a new tab)`}
+                    >
+                      {s.id === "youtube" ? <YoutubeIcon size={16} /> : <InstagramIcon size={16} />}
+                      {s.label}
+                    </a>
+                  </span>
+                ))}
+              </p>
+            )}
             {facts.length > 0 && (
               <dl className="dr-facts">
                 {facts.map((f) => (
