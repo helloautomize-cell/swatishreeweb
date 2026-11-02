@@ -51,7 +51,7 @@ Here is where IVF typically enters the discussion.
 
 An IVF cycle means stimulating the ovaries, tracking follicle growth with ultrasound and blood tests, retrieving the eggs, fertilising them in the laboratory and transferring an embryo into the uterus. Women with PCOS can respond briskly to stimulation, which is why the protocol is planned with care to reduce the risk of ovarian hyperstimulation syndrome (OHSS). A higher risk is not the same as a certainty.
 
-Dr. Swati Shree can assess you at EVE Women and Fertility Clinic in Gunjur, Bangalore, and guide your IVF treatment from there. The laboratory stages are carried out at partner centres, Apollo Fertility and Motherhood Fertility.
+Dr. Swati Shree can assess you at EVE Women and Fertility Clinic in Gunjur, Bangalore, and guide your IVF treatment from there. The laboratory stages are carried out at associated, registered ART centres.
 
 ### Is IVF better than IUI for PCOS?
 
@@ -97,7 +97,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Is IVF risky for women with PCOS?**
    IVF is widely used, but women with PCOS have a higher chance of ovarian hyperstimulation syndrome, since their ovaries can react strongly to stimulation medicines. Protocols are adjusted and monitored closely to lower that risk. Severe abdominal pain, rapid swelling, breathlessness or reduced urine after treatment needs prompt medical review.
 5. **Where can I get PCOS fertility care in East Bangalore?**
-   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore. Ovulation induction, follicle monitoring and IUI are offered within the clinic's ART Level 1 scope, and IVF is guided through partner fertility centres in Bangalore. Patients from Whitefield, Varthur and Sarjapur Road can book a consultation to talk through their cycle history.
+   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore. Ovulation induction, follicle monitoring and IUI are offered at the clinic, and IVF laboratory procedures are carried out at associated, registered ART centres. Patients from Whitefield, Varthur and Sarjapur Road can book a consultation to talk through their cycle history.
 
 ### Sources and further reading
 

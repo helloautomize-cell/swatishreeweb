@@ -61,7 +61,7 @@ For women who are overweight, gradual weight reduction can restore ovulation in 
 
 If ovulation stays irregular, medicines that stimulate it may be considered. Letrozole is often the preferred first medicine in current international PCOS guidance. The dose and monitoring depend on the individual, so do not start, stop or adjust any medicine without your doctor.
 
-Ovulation induction is usually followed by scans, which help time intercourse or IUI. IUI may be considered once ovulation is achieved and other factors are suitable. IVF tends to come into the discussion when other options have not worked or are unsuitable, or when another fertility factor points that way. IVF laboratory steps take place at partner fertility centres, while Dr. Swati Shree guides the assessment and treatment.
+Ovulation induction is usually followed by scans, which help time intercourse or IUI. IUI may be considered once ovulation is achieved and other factors are suitable. IVF tends to come into the discussion when other options have not worked or are unsuitable, or when another fertility factor points that way. IVF laboratory steps take place at associated, registered ART centres, while Dr. Swati Shree guides the assessment and treatment.
 
 ### What happens at a fertility assessment?
 - Review of your cycle pattern and medical history
@@ -119,7 +119,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 2. **Does PCOS always lead to IVF?**
    Usually not. Many women begin with lifestyle changes and ovulation induction, and some move on to IUI once ovulation is achieved and other factors look favourable. IVF is considered when those options are unsuitable or have not worked, or when another factor makes it the better fit. The decision rests on a full assessment of both partners.
 3. **Where can I get a PCOS fertility evaluation in East Bangalore?**
-   Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, sees women with PCOS, irregular periods and ovulation concerns. Consultations may include cycle review, hormone tests and follicular monitoring when needed. Advanced IVF procedures are carried out at partner fertility centres. A consultation is the most reliable way to learn what applies to your situation.
+   Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, sees women with PCOS, irregular periods and ovulation concerns. Consultations may include cycle review, hormone tests and follicular monitoring when needed. Advanced IVF laboratory procedures are carried out at associated, registered ART centres. A consultation is the most reliable way to learn what applies to your situation.
 4. **Are ovulation kits reliable for PCOS?**
    Often they are not. The raised LH levels seen in PCOS can produce a positive result even when no egg is released, and a negative reading may miss rare ovulation. Kits can still offer some guidance, but they work best alongside a progesterone blood test or a follicular study. Ask your doctor how to read your results.
 5. **Can weight loss restore ovulation in PCOS?**

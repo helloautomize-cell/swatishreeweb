@@ -390,9 +390,9 @@ Seek urgent medical advice if you develop:
 
 These symptoms can sometimes occur with complications such as OHSS, ectopic pregnancy, bleeding or infection.
 
-EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI within its documented ART Level 1 scope. Pasted text
+EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI.
 
-For advanced ART procedures, the care pathway is different. Egg retrieval, IVF, ICSI, embryo culture, embryo freezing and embryo transfer are performed through EVE's partner facilities, Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant. Pasted text
+For advanced ART procedures, egg retrieval, ICSI, embryo culture, embryo freezing and embryo transfer are carried out at associated, registered ART centres, not at the clinic.
 
 This distinction is worth understanding before treatment begins. A fertility plan can involve several stages, and those stages do not necessarily take place at the same facility.
 - PCOS does not automatically mean infertility.
@@ -444,7 +444,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 7. **When should a woman with PCOS see a fertility specialist?**
    Earlier assessment may be useful when periods are very irregular or absent. In general, evaluation is considered after 12 months of trying for women under 35 and after 6 months for women aged 35 or older. Known fertility concerns may justify earlier evaluation.
 8. **Where can I get fertility care for PCOS in East Bangalore?**
-   EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, ovulation induction, follicle monitoring and IUI within its documented ART Level 1 scope. Advanced IVF procedures are carried out through the clinic's documented partner fertility centres. Pasted text
+   EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, ovulation induction, follicle monitoring and IUI. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Sources and further reading
 

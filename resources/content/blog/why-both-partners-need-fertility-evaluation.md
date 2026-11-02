@@ -84,7 +84,7 @@ Fertility is a shared goal, and evaluation should be shared too. Testing both pa
 2. **Is male infertility common?**
          Yes. Male factors contribute in many couples who struggle to conceive, either alone or along with female factors. Testing both partners is the standard approach recommended by fertility specialists. Yes, it contributes to roughly a third of cases and is the sole cause in a good share of them. It is common enough that a semen analysis belongs in the first round of every evaluation.
 3. **What is the first test for men?**
-         A semen analysis is the first test. It checks sperm count, movement and shape. It is quick, painless and gives important information for planning treatment. A semen analysis after two to seven days of abstinence. It reports count, movement and shape in one cheap, quick test, and abnormal results lead to an exam and possibly hormone blood tests.
+         A semen analysis is the first test. It checks sperm count, movement and shape. It is quick and comfortable, and gives important information for planning treatment. A semen analysis after two to seven days of abstinence. It reports count, movement and shape in one cheap, quick test, and abnormal results lead to an exam and possibly hormone blood tests.
 4. **Can both partners be tested on the same visit?**
          Yes. Many clinics arrange the woman's scan and blood tests and the man's semen analysis around the same visit. This speeds up the process and allows results to be reviewed together. Yes, and that is how it should work. The woman's blood tests and scan can be planned by cycle day while the man gives a semen sample, so most of the workup finishes inside one cycle.
 5. **What if both partners have normal tests?**

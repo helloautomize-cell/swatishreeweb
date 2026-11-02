@@ -61,7 +61,7 @@ There is no single age cutoff. A specialist looks at your age, cycle pattern, ov
 
 ### What treatment options are usually discussed?
 
-The assessment shapes the plan. When ovulation is irregular and other tests are normal, ovulation induction with oral medicines is often the first step. Follicular monitoring then helps time intercourse or IUI. IVF may come up sooner if age, ovarian reserve or another factor makes it the better fit. Dr. Swati Shree evaluates patients at EVE and guides IVF treatment through her partner fertility centres in Bangalore.
+The assessment shapes the plan. When ovulation is irregular and other tests are normal, ovulation induction with oral medicines is often the first step. Follicular monitoring then helps time intercourse or IUI. IVF may come up sooner if age, ovarian reserve or another factor makes it the better fit. Dr. Swati Shree evaluates patients at EVE, and IVF laboratory work is carried out at associated, registered ART centres.
 
 ### Can everyday habits help?
 
@@ -101,7 +101,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Do I need IVF straight away after 30 with PCOS?**
    Usually not. Many women with PCOS begin with ovulation induction and monitoring, and IUI may be considered in suitable cases. IVF comes into the picture when other factors make it more appropriate, such as tubal problems, a significant semen issue, age-related concerns or earlier treatment that did not lead to pregnancy.
 5. **Where can I get a PCOS fertility assessment in Bangalore?**
-   EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultation, ovulation induction, follicle monitoring and IUI under Dr. Swati Shree. Bring previous blood test reports and ultrasound records to your first visit. For IVF, she guides treatment through partner fertility centres in Bangalore.
+   EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultation, ovulation induction, follicle monitoring and IUI under Dr. Swati Shree. Bring previous blood test reports and ultrasound records to your first visit. For IVF, laboratory work is carried out at associated, registered ART centres.
 
 ### Sources and further reading
 

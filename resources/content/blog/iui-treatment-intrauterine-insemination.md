@@ -515,7 +515,7 @@ The useful question is not just, "Can we do IUI?" It is, "Does IUI make sense fo
 
 That answer comes from looking at the couple as a whole: ovulation, fallopian tubes, sperm health, ovarian reserve, age, previous treatment and the reason pregnancy has not occurred.
 
-For couples considering IUI treatment in Bangalore, a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur can help clarify the available treatment options. EVE's stated fertility services include fertility assessment, ovulation induction, follicle monitoring and IUI. Pasted text(20261003-114820)
+For couples considering IUI treatment in Bangalore, a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur can help clarify the available treatment options. EVE's stated fertility services include fertility assessment, ovulation induction, follicle monitoring and IUI.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -542,7 +542,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Is IUI better than IVF?**
    IUI and IVF serve different purposes. IUI places prepared sperm inside the uterus, while IVF involves retrieving eggs and fertilising them in a laboratory. IUI may be appropriate for some couples, while IVF may be more suitable when there are factors such as significant sperm problems, blocked tubes or other fertility concerns.
 7. **Where can I get IUI treatment in Bangalore?**
-   EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, ovulation induction, follicle monitoring and IUI within its stated ART Level 1 scope. A consultation with Dr. Swati Shree can help determine whether IUI fits your fertility history and what investigations may be needed before treatment. Pasted text(20261003-114820)
+   EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, ovulation induction, follicle monitoring and IUI. A consultation with Dr. Swati Shree can help determine whether IUI fits your fertility history and what investigations may be needed before treatment.
 
 ### Sources and further reading
 

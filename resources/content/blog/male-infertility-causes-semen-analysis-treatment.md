@@ -238,7 +238,7 @@ All three help sperm and egg meet more effectively. The choice comes down mostly
 
 For IUI, the semen sample is washed and concentrated in the lab so that the best swimmers are separated out. Around the time of ovulation, these are placed directly into the uterus through a thin, soft tube. It takes a few minutes, needs no anaesthesia, and most women describe it as mildly uncomfortable at worst.
 
-IUI suits mild male factor problems, provided the woman's tubes are open and she is ovulating. When counts or motility are very low, it has less to offer. EVE Women and Fertility Clinic offers IUI and follicle monitoring in Gunjur as part of its ART Level 1 services.
+IUI suits mild male factor problems, provided the woman's tubes are open and she is ovulating. When counts or motility are very low, it has less to offer. EVE Women and Fertility Clinic offers IUI and follicle monitoring in Gunjur.
 
 ## IVF (in vitro fertilisation)
 
@@ -266,7 +266,7 @@ ICSI raises the chance of fertilisation when sperm are the main obstacle. It can
 
 ## Where IVF and ICSI happen for EVE patients
 
-EVE Women and Fertility Clinic is an ART Level 1 clinic. Assessment, counselling, follicle monitoring and IUI take place at EVE itself. For IVF or ICSI, Dr. Swati Shree evaluates the couple at EVE and then guides treatment through her partner fertility centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she works as a visiting consultant.
+Assessment, counselling, follicle monitoring and IUI take place at EVE. For IVF or ICSI, Dr. Swati Shree evaluates the couple at EVE and then guides treatment; the laboratory work is carried out at associated, registered ART centres.
 
 ### What are the risks and limitations of treatment?
 
@@ -335,7 +335,7 @@ Men about to start cancer treatment should ask about sperm freezing before the f
 
 Get urgent medical care for any of the following.
 - Sudden, severe pain in a testicle, which can be testicular torsion and needs emergency treatment
-- A painless lump or hard area in a testicle
+- A lump or hard area in a testicle that does not hurt
 - Fever with a painful, swollen scrotum
 
 For the female partner on ovulation medicines or IVF injections, severe abdominal pain, marked bloating, breathlessness or passing much less urine than usual need urgent attention, as these can be signs of OHSS.
@@ -384,7 +384,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Can gym supplements or testosterone injections lower sperm count?**
    They can, and often quite sharply. Testosterone injections, anabolic steroids and some gym products with hidden steroids signal the brain to stop driving sperm production, sometimes down to zero. Production frequently comes back after stopping, though it may take months. Anyone on prescribed testosterone should speak to their doctor before stopping it.
 7. **Where can couples get a fertility evaluation in East Bangalore?**
-   Couples from Gunjur, Varthur, Whitefield, Sarjapur Road and nearby areas can see Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore. The consultation looks at both partners, including guidance on the semen analysis, and EVE provides follicle monitoring and IUI. When IVF or ICSI is needed, she guides treatment through her partner fertility centres in Bangalore.
+   Couples from Gunjur, Varthur, Whitefield, Sarjapur Road and nearby areas can see Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore. The consultation looks at both partners, including guidance on the semen analysis, and EVE provides follicle monitoring and IUI. When IVF or ICSI is needed, the laboratory procedures are carried out at associated, registered ART centres.
 8. **Does a man need a separate doctor for male infertility?**
    The first visit is often with a fertility specialist who sees both partners and reviews the semen report. If it points to something significant, such as no sperm, a varicocele, a hormone problem or a possible blockage, the next step may be a urologist or andrologist. These specialists handle male examinations, surgery and sperm retrieval procedures.
 

@@ -3577,7 +3577,7 @@ Fertility and women's health decisions are important. People need information th
 
 ### 2. Who writes and reviews
 
-- **Written by:** the clinic's content team, working from guidelines and Dr. Swati's clinical approach `[CONFIRM: authorship wording]`
+- **Written by:** Pages are drafted by the clinic's content team with the help of AI writing tools, then checked, edited and approved by Dr. Swati Shree before publication. No patient photographs, stories or reviews on this site are AI-generated.
 - **Medically reviewed by:** Dr. Swati Shree, MBBS, DNB (OBG), MRCOG (UK), Karnataka Medical Council Reg. No. DLH20090000353KTK
 - Her review checks accuracy, tone, and whether the page matches how she practises
 
@@ -4340,9 +4340,9 @@ Before you start, ask for a written estimate that spells out what's included and
 
 At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree starts with a full evaluation of both partners. She goes through your history, AMH and hormone results, ultrasound findings and semen report, and looks first at whether ovulation induction or IUI could reasonably work for you.
 
-If IVF is the right next step, Dr. Swati Shree assesses you at EVE and guides your IVF treatment through her partner fertility centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she is a visiting consultant. Egg collection, the IVF laboratory work, embryo freezing and embryo transfer are carried out at these partner centres, while the same doctor stays with you through the whole process.
+If IVF is the right next step, Dr. Swati Shree assesses you at EVE and guides your IVF treatment. Egg collection, the IVF laboratory work, embryo freezing and embryo transfer are carried out at associated, registered ART centres, while the same doctor stays with you through the whole process.
 
-EVE is a registered ART Level 1 clinic, close to Varthur, Whitefield, Sarjapur Road and Bellandur.
+EVE is in Gunjur, close to Varthur, Whitefield, Sarjapur Road and Bellandur.
 
 ### When should you get urgent medical help during IVF?
 
@@ -4407,7 +4407,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **When can I take a pregnancy test after IVF?**
    The beta hCG blood test is usually done 9 to 14 days after embryo transfer, depending on the embryo's stage and your clinic's advice. Home tests taken earlier can mislead you. The trigger injection may cause a false positive in the first days, and testing too soon can also give a false negative.
 7. **Where can I see a fertility specialist about IVF in East Bangalore?**
-   Dr. Swati Shree consults at EVE Women and Fertility Clinic in Gunjur, which is convenient from Varthur, Whitefield, Sarjapur Road and Bellandur. She evaluates couples at EVE, and when IVF is needed she manages treatment through her partner fertility centres in Bangalore, so the same specialist oversees your care from start to finish.
+   Dr. Swati Shree consults at EVE Women and Fertility Clinic in Gunjur, which is convenient from Varthur, Whitefield, Sarjapur Road and Bellandur. She evaluates couples at EVE, and when IVF is needed the laboratory steps are carried out at associated, registered ART centres, so the same specialist oversees your care from start to finish.
 
 ### Sources and further reading
 
@@ -4483,7 +4483,7 @@ IVF cannot improve egg quality on its own. A polyp, a fibroid pressing into the 
 
 ### How is the decision made at EVE?
 
-At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree usually evaluates both partners before any plan is made. If IVF is the right step, she assesses you at EVE and guides your treatment through her partner fertility centres, Apollo Fertility and Motherhood Fertility. Egg collection, laboratory work and embryo transfer take place at those centres.
+At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree usually evaluates both partners before any plan is made. If IVF is the right step, she assesses you at EVE and guides your treatment. Egg collection, laboratory work and embryo transfer take place at associated, registered ART centres.
 
 ### When should you see a fertility specialist?
 
@@ -4513,7 +4513,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Is IVF recommended for men with a low sperm count?**
    It may be, when sperm problems are severe, because ICSI can fertilise an egg using a single sperm. Milder male factor issues often respond to IUI. A semen analysis is usually among the first tests, since the report helps decide between IUI, IVF and ICSI. Stopping smoking and cutting back on alcohol may support sperm quality. A specialist can explain what applies to you.
 5. **Where can I get a fertility evaluation for IVF in East Bangalore?**
-   You can book a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, which is convenient from Varthur, Whitefield, Sarjapur Road and Bellandur. She reviews your reports at EVE and, if IVF is needed, guides treatment through partner fertility centres in Bangalore. Having one specialist oversee your care from start to finish can make the process easier to follow.
+   You can book a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, which is convenient from Varthur, Whitefield, Sarjapur Road and Bellandur. She reviews your reports at EVE and, if IVF is needed, guides treatment; the laboratory steps are carried out at associated, registered ART centres. Having one specialist oversee your care from start to finish can make the process easier to follow.
 
 ### Sources and further reading
 
@@ -4573,7 +4573,7 @@ Over 8 to 14 days, you inject a hormone medicine every day, usually into the ski
 
 The trigger injection helps the eggs complete their final stage of maturing. Its timing is strict, so set an alarm for the exact hour your clinic gives you. Collection follows 34 to 36 hours later. Under sedation, a fine needle guided by ultrasound draws fluid from each follicle. The procedure takes 15 to 30 minutes, and most women go home the same day with cramping that eases within a day or two.
 
-Collection and IVF laboratory work take place at partner centres, Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant.
+Egg collection and IVF laboratory work take place at associated, registered ART centres.
 
 ### Step 5: Fertilisation and embryo culture
 
@@ -4638,7 +4638,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 5. **Can I take a home pregnancy test after embryo transfer?**
    It is better to wait for the blood test, done 9 to 14 days after transfer. The trigger injection can leave hormone traces that cause a false positive early on, and testing too soon can also miss a pregnancy. If you notice bleeding or symptoms in the meantime, call your doctor rather than testing again and again. Keep taking progesterone until your team advises otherwise.
 6. **Where can I get an IVF evaluation in East Bangalore?**
-   Dr. Swati Shree consults at EVE Women and Fertility Clinic in Gunjur, Bangalore, which is within easy reach of Varthur, Whitefield, Sarjapur Road and Bellandur. Where IVF is recommended, she guides treatment through partner fertility centres in Bangalore, including Apollo Fertility and Motherhood Fertility, where she is a visiting consultant. A consultation lets her build the plan around your own reports.
+   Dr. Swati Shree consults at EVE Women and Fertility Clinic in Gunjur, Bangalore, which is within easy reach of Varthur, Whitefield, Sarjapur Road and Bellandur. Where IVF is recommended, the laboratory procedures are carried out at associated, registered ART centres while she guides your treatment throughout. A consultation lets her build the plan around your own reports.
 
 ### Sources and further reading
 
@@ -4736,7 +4736,7 @@ Call your clinic or doctor without delay if you notice:
 
 ### Final Thoughts
 
-The wait after transfer is hard for most couples, and feeling drained is understandable. Talking it through with your partner, or with a counsellor, often helps more than trying to stay calm alone. If you are considering IVF, a consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, can show how this timeline applies to your own reports. She can evaluate you at EVE and guide your IVF treatment through her partner fertility centres in Bangalore.
+The wait after transfer is hard for most couples, and feeling drained is understandable. Talking it through with your partner, or with a counsellor, often helps more than trying to stay calm alone. If you are considering IVF, a consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, can show how this timeline applies to your own reports. She can evaluate you at EVE and guide your IVF treatment; laboratory work is carried out at associated, registered ART centres.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -4751,7 +4751,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Is it safe to take a home pregnancy test before the blood test?**
    Waiting for the scheduled blood test gives the clearest answer. The trigger shot can leave a hormone similar to hCG in the body for several days, so an early home test may read positive without a pregnancy. A test taken too soon can also read negative even when a pregnancy has started. Report any worrying symptoms to your clinic rather than relying on a home kit.
 5. **Where can I get IVF timeline guidance in East Bangalore?**
-   Gunjur sits in East Bangalore, close to Varthur and Whitefield. EVE Women and Fertility Clinic offers fertility consultations there, and IVF treatment can be guided through partner fertility centres in Bangalore. Bringing previous test reports to the first visit lets the timeline reflect your own situation.
+   Gunjur sits in East Bangalore, close to Varthur and Whitefield. EVE Women and Fertility Clinic offers fertility consultations there, and IVF laboratory work is carried out at associated, registered ART centres. Bringing previous test reports to the first visit lets the timeline reflect your own situation.
 
 ### Sources and further reading
 
@@ -4846,7 +4846,7 @@ Do not wait too long if you are 35 or older, have had two or more miscarriages, 
 
 ### Final Thoughts
 
-Most couples feel overwhelmed the first time they see these numbers. The aim here is not to hand you a verdict. It is to help you ask sharper questions and plan with a clearer picture. If you would like a detailed review of your reports, you can book a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore. She assesses you at EVE and guides IVF treatment through her partner fertility centres in Bangalore.
+Most couples feel overwhelmed the first time they see these numbers. The aim here is not to hand you a verdict. It is to help you ask sharper questions and plan with a clearer picture. If you would like a detailed review of your reports, you can book a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore. She assesses you at EVE and guides IVF treatment; laboratory work is carried out at associated, registered ART centres.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -4863,7 +4863,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 5. **Do lifestyle changes make a real difference?**
    They can, especially for sperm and the uterine lining. Quitting smoking, cutting back on alcohol, reaching a healthy weight and keeping thyroid disease or diabetes under control all help. Skip herbal powders and supplements your doctor has not prescribed, because some can interfere with IVF medicines or affect the body in unexpected ways.
 6. **Where can I get an IVF evaluation in East Bangalore?**
-   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, a practical choice for people in Varthur, Whitefield, Sarjapur Road and Bellandur. She evaluates both partners at EVE. If IVF is the right next step, she guides treatment through her partner fertility centres in Bangalore, so the same doctor follows you from start to finish.
+   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, a practical choice for people in Varthur, Whitefield, Sarjapur Road and Bellandur. She evaluates both partners at EVE. If IVF is the right next step, the laboratory work is carried out at associated, registered ART centres, so the same doctor follows you from start to finish.
 
 ### Sources and further reading
 
@@ -4947,7 +4947,7 @@ A positive result usually leads to a repeat blood test after two or three days, 
 
 ### Final Thoughts
 
-Feeling both hopeful and frightened during this wait is completely understandable. If a symptom worries you, call the clinic rather than searching for answers late at night. If your IVF cycle was carried out at a partner centre, you can still bring your reports to Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, for review and guidance.
+Feeling both hopeful and frightened during this wait is completely understandable. If a symptom worries you, call the clinic rather than searching for answers late at night. If your IVF cycle was carried out at an associated ART centre, you can still bring your reports to Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, for review and guidance.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -4962,7 +4962,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Is bed rest necessary after embryo transfer?**
          No. Studies have not shown that bed rest improves implantation. Walking and normal daily routines are generally fine. Avoid heavy lifting and strenuous exercise until your doctor confirms it is safe for you. No. Studies show strict bed rest does not improve implantation and may even reduce blood flow. Normal daily activity is fine; avoid heavy lifting, intense workouts and heat on the abdomen for a few days.
 5. **Where can I get post-transfer care in East Bangalore?**
-   Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultations and follow-up guidance, including for patients whose IVF cycles were done at partner centres. Gunjur is close to Varthur and Whitefield. Bring your transfer details, current medicine list, and recent blood reports to the appointment.
+   Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultations and follow-up guidance, including for patients whose IVF cycles were done at associated, registered ART centres. Gunjur is close to Varthur and Whitefield. Bring your transfer details, current medicine list, and recent blood reports to the appointment.
 
 ### Sources and further reading
 
@@ -5368,9 +5368,9 @@ Seek urgent medical advice if you develop:
 
 These symptoms can sometimes occur with complications such as OHSS, ectopic pregnancy, bleeding or infection.
 
-EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI within its documented ART Level 1 scope. Pasted text
+EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI.
 
-For advanced ART procedures, the care pathway is different. Egg retrieval, IVF, ICSI, embryo culture, embryo freezing and embryo transfer are performed through EVE's partner facilities, Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant. Pasted text
+For advanced ART procedures, egg retrieval, ICSI, embryo culture, embryo freezing and embryo transfer are carried out at associated, registered ART centres, not at the clinic.
 
 This distinction is worth understanding before treatment begins. A fertility plan can involve several stages, and those stages do not necessarily take place at the same facility.
 - PCOS does not automatically mean infertility.
@@ -5422,7 +5422,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 7. **When should a woman with PCOS see a fertility specialist?**
    Earlier assessment may be useful when periods are very irregular or absent. In general, evaluation is considered after 12 months of trying for women under 35 and after 6 months for women aged 35 or older. Known fertility concerns may justify earlier evaluation.
 8. **Where can I get fertility care for PCOS in East Bangalore?**
-   EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, ovulation induction, follicle monitoring and IUI within its documented ART Level 1 scope. Advanced IVF procedures are carried out through the clinic's documented partner fertility centres. Pasted text
+   EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, ovulation induction, follicle monitoring and IUI. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Sources and further reading
 
@@ -5523,7 +5523,7 @@ Seek urgent care for severe pelvic pain, rapid abdominal swelling, breathlessnes
 
 Trying to conceive with irregular cycles can wear you down, especially when every month brings the same question. Clarity helps. Once you know whether and when you ovulate, the next steps tend to become much easier to plan.
 
-If you are in Gunjur or nearby East Bangalore, Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore, can review your cycle history and plan the right tests with you. Advanced IVF is carried out through partner fertility centres.
+If you are in Gunjur or nearby East Bangalore, Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore, can review your cycle history and plan the right tests with you. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -5540,7 +5540,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 5. **How does IUI work for women with PCOS?**
    IUI is considered in selected cases, usually once ovulation has been induced or is being closely monitored. Sperm is washed and prepared in the laboratory, then placed into the uterus close to the time of ovulation. Fertilisation still happens inside the body. Age, sperm quality, tube status and earlier treatment all shape whether it suits you.
 6. **Where can I get PCOS fertility care in East Bangalore?**
-   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore. Care includes fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. If IVF becomes the plan, egg retrieval and embryo transfer take place at partner fertility centres, and your care team explains that pathway step by step.
+   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore. Care includes fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. If IVF becomes the plan, egg retrieval and embryo transfer take place at associated, registered ART centres, and your care team explains that pathway step by step.
 
 ### Sources and further reading
 
@@ -5617,7 +5617,7 @@ For women who are overweight, gradual weight reduction can restore ovulation in 
 
 If ovulation stays irregular, medicines that stimulate it may be considered. Letrozole is often the preferred first medicine in current international PCOS guidance. The dose and monitoring depend on the individual, so do not start, stop or adjust any medicine without your doctor.
 
-Ovulation induction is usually followed by scans, which help time intercourse or IUI. IUI may be considered once ovulation is achieved and other factors are suitable. IVF tends to come into the discussion when other options have not worked or are unsuitable, or when another fertility factor points that way. IVF laboratory steps take place at partner fertility centres, while Dr. Swati Shree guides the assessment and treatment.
+Ovulation induction is usually followed by scans, which help time intercourse or IUI. IUI may be considered once ovulation is achieved and other factors are suitable. IVF tends to come into the discussion when other options have not worked or are unsuitable, or when another fertility factor points that way. IVF laboratory steps take place at associated, registered ART centres, while Dr. Swati Shree guides the assessment and treatment.
 
 ### What happens at a fertility assessment?
 - Review of your cycle pattern and medical history
@@ -5675,7 +5675,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 2. **Does PCOS always lead to IVF?**
    Usually not. Many women begin with lifestyle changes and ovulation induction, and some move on to IUI once ovulation is achieved and other factors look favourable. IVF is considered when those options are unsuitable or have not worked, or when another factor makes it the better fit. The decision rests on a full assessment of both partners.
 3. **Where can I get a PCOS fertility evaluation in East Bangalore?**
-   Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, sees women with PCOS, irregular periods and ovulation concerns. Consultations may include cycle review, hormone tests and follicular monitoring when needed. Advanced IVF procedures are carried out at partner fertility centres. A consultation is the most reliable way to learn what applies to your situation.
+   Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, sees women with PCOS, irregular periods and ovulation concerns. Consultations may include cycle review, hormone tests and follicular monitoring when needed. Advanced IVF laboratory procedures are carried out at associated, registered ART centres. A consultation is the most reliable way to learn what applies to your situation.
 4. **Are ovulation kits reliable for PCOS?**
    Often they are not. The raised LH levels seen in PCOS can produce a positive result even when no egg is released, and a negative reading may miss rare ovulation. Kits can still offer some guidance, but they work best alongside a progesterone blood test or a follicular study. Ask your doctor how to read your results.
 5. **Can weight loss restore ovulation in PCOS?**
@@ -5791,9 +5791,9 @@ Medical Disclaimer: This article is for education only and does not replace prof
 2. **How long before you know whether letrozole has worked?**
    The response is usually judged across one or more cycles. Follicular scans and symptoms show whether ovulation occurred, and a pregnancy test is taken at the recommended time, typically about two weeks after ovulation. A cycle without pregnancy is common and does not signal permanent failure. Your doctor will review what happened before recommending the next step.
 3. **Is letrozole with IUI available in Bangalore?**
-   Yes, for suitable couples. It is often used alongside IUI when ovulation can be induced and tracked on scans, and when semen quality and tubal status look appropriate. EVE Women and Fertility Clinic in Gunjur offers ovulation induction, follicle monitoring and IUI within its ART Level 1 scope. Patients from East Bangalore can book a consultation with Dr. Swati Shree to discuss whether this suits them.
+   Yes, for suitable couples. It is often used alongside IUI when ovulation can be induced and tracked on scans, and when semen quality and tubal status look appropriate. EVE Women and Fertility Clinic in Gunjur offers ovulation induction, follicle monitoring and IUI. Patients from East Bangalore can book a consultation with Dr. Swati Shree to discuss whether this suits them.
 4. **What happens if letrozole does not lead to pregnancy?**
-   The next step depends on what the cycles showed. Options can include adjusting the dosing schedule, adding closer monitoring, moving to IUI, or checking other factors such as sperm quality and the fallopian tubes. IVF is usually discussed when ovulation treatments have not worked or another factor makes it more appropriate. Advanced IVF procedures are carried out through EVE's partner fertility centres.
+   The next step depends on what the cycles showed. Options can include adjusting the dosing schedule, adding closer monitoring, moving to IUI, or checking other factors such as sperm quality and the fallopian tubes. IVF is usually discussed when ovulation treatments have not worked or another factor makes it more appropriate. Advanced IVF laboratory procedures are carried out at associated, registered ART centres.
 5. **Can letrozole be used for irregular periods without PCOS?**
    It can be considered, but only once the cause is clear. Irregular periods may stem from thyroid disease, raised prolactin or other hormonal conditions, and these need investigation first. If a specialist confirms that ovulation is the problem, letrozole may be an option. The decision rests on your full clinical picture, not on your period pattern alone.
 
@@ -5862,7 +5862,7 @@ Here is where IVF typically enters the discussion.
 
 An IVF cycle means stimulating the ovaries, tracking follicle growth with ultrasound and blood tests, retrieving the eggs, fertilising them in the laboratory and transferring an embryo into the uterus. Women with PCOS can respond briskly to stimulation, which is why the protocol is planned with care to reduce the risk of ovarian hyperstimulation syndrome (OHSS). A higher risk is not the same as a certainty.
 
-Dr. Swati Shree can assess you at EVE Women and Fertility Clinic in Gunjur, Bangalore, and guide your IVF treatment from there. The laboratory stages are carried out at partner centres, Apollo Fertility and Motherhood Fertility.
+Dr. Swati Shree can assess you at EVE Women and Fertility Clinic in Gunjur, Bangalore, and guide your IVF treatment from there. The laboratory stages are carried out at associated, registered ART centres.
 
 ### Is IVF better than IUI for PCOS?
 
@@ -5908,7 +5908,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Is IVF risky for women with PCOS?**
    IVF is widely used, but women with PCOS have a higher chance of ovarian hyperstimulation syndrome, since their ovaries can react strongly to stimulation medicines. Protocols are adjusted and monitored closely to lower that risk. Severe abdominal pain, rapid swelling, breathlessness or reduced urine after treatment needs prompt medical review.
 5. **Where can I get PCOS fertility care in East Bangalore?**
-   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore. Ovulation induction, follicle monitoring and IUI are offered within the clinic's ART Level 1 scope, and IVF is guided through partner fertility centres in Bangalore. Patients from Whitefield, Varthur and Sarjapur Road can book a consultation to talk through their cycle history.
+   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore. Ovulation induction, follicle monitoring and IUI are offered at the clinic, and IVF laboratory procedures are carried out at associated, registered ART centres. Patients from Whitefield, Varthur and Sarjapur Road can book a consultation to talk through their cycle history.
 
 ### Sources and further reading
 
@@ -5985,7 +5985,7 @@ There is no single age cutoff. A specialist looks at your age, cycle pattern, ov
 
 ### What treatment options are usually discussed?
 
-The assessment shapes the plan. When ovulation is irregular and other tests are normal, ovulation induction with oral medicines is often the first step. Follicular monitoring then helps time intercourse or IUI. IVF may come up sooner if age, ovarian reserve or another factor makes it the better fit. Dr. Swati Shree evaluates patients at EVE and guides IVF treatment through her partner fertility centres in Bangalore.
+The assessment shapes the plan. When ovulation is irregular and other tests are normal, ovulation induction with oral medicines is often the first step. Follicular monitoring then helps time intercourse or IUI. IVF may come up sooner if age, ovarian reserve or another factor makes it the better fit. Dr. Swati Shree evaluates patients at EVE, and IVF laboratory work is carried out at associated, registered ART centres.
 
 ### Can everyday habits help?
 
@@ -6025,7 +6025,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Do I need IVF straight away after 30 with PCOS?**
    Usually not. Many women with PCOS begin with ovulation induction and monitoring, and IUI may be considered in suitable cases. IVF comes into the picture when other factors make it more appropriate, such as tubal problems, a significant semen issue, age-related concerns or earlier treatment that did not lead to pregnancy.
 5. **Where can I get a PCOS fertility assessment in Bangalore?**
-   EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultation, ovulation induction, follicle monitoring and IUI under Dr. Swati Shree. Bring previous blood test reports and ultrasound records to your first visit. For IVF, she guides treatment through partner fertility centres in Bangalore.
+   EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultation, ovulation induction, follicle monitoring and IUI under Dr. Swati Shree. Bring previous blood test reports and ultrasound records to your first visit. For IVF, laboratory work is carried out at associated, registered ART centres.
 
 ### Sources and further reading
 
@@ -6085,7 +6085,7 @@ Secondary infertility catches a lot of couples off guard. Having a child already
 
 No, and this belief causes real harm in Indian families. Infertility can sit with the woman, the man, both of them, or neither in any way tests can detect. Problems with sperm play a part for a large share of couples.
 
-That's why a proper evaluation includes both partners from the first visit. A semen test is quick and painless. Skipping it can mean months of scans and medicines for the woman that were never going to solve the problem.
+That's why a proper evaluation includes both partners from the first visit. A semen test is quick and comfortable. Skipping it can mean months of scans and medicines for the woman that were never going to solve the problem.
 
 ### Why it helps to get checked sooner
 
@@ -6249,7 +6249,7 @@ During IVF, injections stimulate the ovaries to grow several eggs. These are col
 
 IVF is usually considered for blocked tubes, severe endometriosis, low ovarian reserve, significant male factor, unexplained infertility after simpler treatment hasn't worked, or when age makes time a bigger concern.
 
-At EVE Women and Fertility Clinic in Gunjur, Dr. Swati Shree can carry out your evaluation, plan treatment and guide your IVF through her partner centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she is a visiting consultant.
+At EVE Women and Fertility Clinic in Gunjur, Dr. Swati Shree can carry out your evaluation and plan treatment. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ## Donor eggs and egg freezing
 
@@ -6384,7 +6384,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Does low AMH mean I can't get pregnant?**
    No. Low AMH means your ovaries hold fewer eggs than average for your age. It doesn't measure egg quality and doesn't rule out pregnancy, and many women with low AMH conceive either naturally or with treatment. Doctors mainly use AMH to judge how your ovaries may respond to fertility medicines and how soon to start treatment.
 7. **Where can I get a fertility consultation in East Bangalore?**
-   If you live in Gunjur, Varthur, Whitefield, Sarjapur Road or nearby, you can see Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur. The clinic provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. When IVF is needed, Dr. Swati Shree guides treatment through her partner fertility centres in Bangalore.
+   If you live in Gunjur, Varthur, Whitefield, Sarjapur Road or nearby, you can see Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur. The clinic provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. When IVF is needed, the laboratory procedures are carried out at associated, registered ART centres.
 8. **Can stress cause infertility in women?**
    Stress by itself is rarely the main cause, and feeling anxious doesn't mean you caused the problem. Severe stress combined with very low food intake or intense exercise can sometimes disturb ovulation. More often it works the other way round, with infertility causing the stress. Counselling, rest and honest conversations with your partner can make treatment easier to get through.
 
@@ -7286,7 +7286,7 @@ This is why a fertility specialist may discuss realistic expectations rather tha
 
 If IVF is recommended, the treatment pathway should also be explained clearly, including what happens at the fertility centre and what the ovarian reserve result means for stimulation and egg retrieval.
 
-At EVE Women and Fertility Clinic, advanced IVF laboratory procedures are performed through partner fertility centres rather than within the Level 1 ART clinic. Dr. Swati Shree can evaluate patients at EVE and guide appropriate IVF treatment through her partner centres in Bangalore. Pasted text
+At EVE Women and Fertility Clinic, Dr. Swati Shree evaluates patients and guides IVF treatment. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Should you consider egg freezing with low AMH?
 
@@ -7300,7 +7300,7 @@ Your age, reproductive plans, medical history and ovarian reserve all need to be
 
 If you are thinking about delaying pregnancy or are considering egg freezing, it is reasonable to discuss your options before making assumptions based on an AMH report.
 
-Fertility preservation is one of the focus areas identified for EVE Women and Fertility Clinic. Pasted text
+Fertility preservation is one of the focus areas identified for EVE Women and Fertility Clinic.
 
 ### Can low AMH be increased?
 
@@ -7507,11 +7507,11 @@ These symptoms can have several causes, but some require urgent assessment.
 
 If you are looking for fertility evaluation in Bangalore, low AMH can be assessed as part of a broader fertility consultation.
 
-EVE Women and Fertility Clinic in Gunjur provides fertility assessment and counselling, along with services such as ovulation induction, follicle monitoring and IUI within its ART Level 1 scope. Pasted text
+EVE Women and Fertility Clinic in Gunjur provides fertility assessment and counselling, along with services such as ovulation induction, follicle monitoring and IUI.
 
 For women concerned about ovarian reserve, the aim is to understand the AMH result alongside age, menstrual history, ultrasound findings and other relevant fertility factors.
 
-If IVF becomes part of the discussion, Dr. Swati Shree can assess you at EVE and guide IVF treatment through her partner fertility centres in Bangalore. The advanced IVF laboratory procedures are performed at those partner facilities, not at the EVE Level 1 clinic. Pasted text
+If IVF becomes part of the discussion, Dr. Swati Shree can assess you at EVE and guide IVF treatment. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Key Takeaways
 - Low AMH usually indicates reduced ovarian reserve.
@@ -8267,7 +8267,7 @@ Doctors usually start talking about IVF when one or more of these apply. The tub
 
 ICSI (intracytoplasmic sperm injection) is a type of IVF where one sperm is injected straight into each egg. It's mainly used for significant sperm problems or when eggs didn't fertilise well in an earlier cycle.
 
-EVE is an ART Level 1 clinic, so the IVF laboratory steps aren't done on site. Dr. Swati Shree assesses you at EVE and then guides your IVF through her partner centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she consults. Egg collection, lab work and embryo transfer happen there.
+Dr. Swati Shree assesses you at EVE and then guides your IVF. IVF laboratory procedures are carried out at associated, registered ART centres, including egg collection, lab work and embryo transfer.
 
 ## What does an IVF cycle look like with endometriosis?
 
@@ -8412,7 +8412,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Will taking hormonal pills for endometriosis help me conceive later?**
    They won't improve your fertility. Hormonal pills and similar medicines ease pain and may slow the disease, but they stop ovulation while you're taking them, and they don't raise your chances once you stop. They're useful for keeping symptoms under control until you're ready to try. Check with your doctor before starting or stopping any of them.
 7. **Where can I get an endometriosis and fertility consultation in East Bangalore?**
-   Dr. Swati Shree, a reproductive medicine specialist, sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore, close to Varthur, Whitefield and Sarjapur Road. Evaluation, follicle monitoring, ovulation induction and IUI are done at EVE. When IVF is needed, Dr. Swati guides treatment through her partner fertility centres in Bangalore.
+   Dr. Swati Shree, a reproductive medicine specialist, sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore, close to Varthur, Whitefield and Sarjapur Road. Evaluation, follicle monitoring, ovulation induction and IUI are done at EVE. When IVF is needed, the laboratory procedures are carried out at associated, registered ART centres.
 
 ### Sources and further reading
 
@@ -9498,7 +9498,7 @@ The useful question is not just, "Can we do IUI?" It is, "Does IUI make sense fo
 
 That answer comes from looking at the couple as a whole: ovulation, fallopian tubes, sperm health, ovarian reserve, age, previous treatment and the reason pregnancy has not occurred.
 
-For couples considering IUI treatment in Bangalore, a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur can help clarify the available treatment options. EVE's stated fertility services include fertility assessment, ovulation induction, follicle monitoring and IUI. Pasted text(20261003-114820)
+For couples considering IUI treatment in Bangalore, a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur can help clarify the available treatment options. EVE's stated fertility services include fertility assessment, ovulation induction, follicle monitoring and IUI.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -9525,7 +9525,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Is IUI better than IVF?**
    IUI and IVF serve different purposes. IUI places prepared sperm inside the uterus, while IVF involves retrieving eggs and fertilising them in a laboratory. IUI may be appropriate for some couples, while IVF may be more suitable when there are factors such as significant sperm problems, blocked tubes or other fertility concerns.
 7. **Where can I get IUI treatment in Bangalore?**
-   EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, ovulation induction, follicle monitoring and IUI within its stated ART Level 1 scope. A consultation with Dr. Swati Shree can help determine whether IUI fits your fertility history and what investigations may be needed before treatment. Pasted text(20261003-114820)
+   EVE Women and Fertility Clinic in Gunjur, Bangalore provides fertility assessment, ovulation induction, follicle monitoring and IUI. A consultation with Dr. Swati Shree can help determine whether IUI fits your fertility history and what investigations may be needed before treatment.
 
 ### Sources and further reading
 
@@ -10364,7 +10364,7 @@ All three help sperm and egg meet more effectively. The choice comes down mostly
 
 For IUI, the semen sample is washed and concentrated in the lab so that the best swimmers are separated out. Around the time of ovulation, these are placed directly into the uterus through a thin, soft tube. It takes a few minutes, needs no anaesthesia, and most women describe it as mildly uncomfortable at worst.
 
-IUI suits mild male factor problems, provided the woman's tubes are open and she is ovulating. When counts or motility are very low, it has less to offer. EVE Women and Fertility Clinic offers IUI and follicle monitoring in Gunjur as part of its ART Level 1 services.
+IUI suits mild male factor problems, provided the woman's tubes are open and she is ovulating. When counts or motility are very low, it has less to offer. EVE Women and Fertility Clinic offers IUI and follicle monitoring in Gunjur.
 
 ## IVF (in vitro fertilisation)
 
@@ -10392,7 +10392,7 @@ ICSI raises the chance of fertilisation when sperm are the main obstacle. It can
 
 ## Where IVF and ICSI happen for EVE patients
 
-EVE Women and Fertility Clinic is an ART Level 1 clinic. Assessment, counselling, follicle monitoring and IUI take place at EVE itself. For IVF or ICSI, Dr. Swati Shree evaluates the couple at EVE and then guides treatment through her partner fertility centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she works as a visiting consultant.
+Assessment, counselling, follicle monitoring and IUI take place at EVE. For IVF or ICSI, Dr. Swati Shree evaluates the couple at EVE and then guides treatment; the laboratory work is carried out at associated, registered ART centres.
 
 ### What are the risks and limitations of treatment?
 
@@ -10461,7 +10461,7 @@ Men about to start cancer treatment should ask about sperm freezing before the f
 
 Get urgent medical care for any of the following.
 - Sudden, severe pain in a testicle, which can be testicular torsion and needs emergency treatment
-- A painless lump or hard area in a testicle
+- A lump or hard area in a testicle that does not hurt
 - Fever with a painful, swollen scrotum
 
 For the female partner on ovulation medicines or IVF injections, severe abdominal pain, marked bloating, breathlessness or passing much less urine than usual need urgent attention, as these can be signs of OHSS.
@@ -10510,7 +10510,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Can gym supplements or testosterone injections lower sperm count?**
    They can, and often quite sharply. Testosterone injections, anabolic steroids and some gym products with hidden steroids signal the brain to stop driving sperm production, sometimes down to zero. Production frequently comes back after stopping, though it may take months. Anyone on prescribed testosterone should speak to their doctor before stopping it.
 7. **Where can couples get a fertility evaluation in East Bangalore?**
-   Couples from Gunjur, Varthur, Whitefield, Sarjapur Road and nearby areas can see Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore. The consultation looks at both partners, including guidance on the semen analysis, and EVE provides follicle monitoring and IUI. When IVF or ICSI is needed, she guides treatment through her partner fertility centres in Bangalore.
+   Couples from Gunjur, Varthur, Whitefield, Sarjapur Road and nearby areas can see Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore. The consultation looks at both partners, including guidance on the semen analysis, and EVE provides follicle monitoring and IUI. When IVF or ICSI is needed, the laboratory procedures are carried out at associated, registered ART centres.
 8. **Does a man need a separate doctor for male infertility?**
    The first visit is often with a fertility specialist who sees both partners and reviews the semen report. If it points to something significant, such as no sperm, a varicocele, a hormone problem or a possible blockage, the next step may be a urologist or andrologist. These specialists handle male examinations, surgery and sperm retrieval procedures.
 
@@ -10634,7 +10634,7 @@ Male infertility is common and often treatable, but it can only be addressed onc
 4. **Can male infertility be treated?**
    Many causes can be treated or improved, such as hormone problems, varicocele or lifestyle factors. When treatment is not enough, IUI or IVF with ICSI can help couples conceive.
 5. **Should men be tested before women start fertility treatment?**
-         Ideally, both partners should be tested at the start. A semen analysis is simple and low-cost, and its results can change which treatment is suitable for the couple. Yes, and it should happen at the same time as the woman's evaluation. A semen analysis is cheap and painless, and skipping it can mean months of treating the woman for a problem that is his.
+         Ideally, both partners should be tested at the start. A semen analysis is simple and low-cost, and its results can change which treatment is suitable for the couple. Yes, and it should happen at the same time as the woman's evaluation. A semen analysis is quick and comfortable, and skipping it can mean months of treating the woman for a problem that is his.
 6. **Can stress affect sperm?**
          Long-term stress may affect hormones and sexual function, which can influence fertility. Managing stress through sleep, exercise and support is helpful, but it is not usually the only cause of male infertility. Severe prolonged stress may affect hormones and indirectly sperm, but it is a smaller factor than smoking, heat or illness. Worrying about stress itself is counterproductive during a workup.
 ### Sources and further reading
@@ -11076,7 +11076,7 @@ Fertility is a shared goal, and evaluation should be shared too. Testing both pa
 2. **Is male infertility common?**
          Yes. Male factors contribute in many couples who struggle to conceive, either alone or along with female factors. Testing both partners is the standard approach recommended by fertility specialists. Yes, it contributes to roughly a third of cases and is the sole cause in a good share of them. It is common enough that a semen analysis belongs in the first round of every evaluation.
 3. **What is the first test for men?**
-         A semen analysis is the first test. It checks sperm count, movement and shape. It is quick, painless and gives important information for planning treatment. A semen analysis after two to seven days of abstinence. It reports count, movement and shape in one cheap, quick test, and abnormal results lead to an exam and possibly hormone blood tests.
+         A semen analysis is the first test. It checks sperm count, movement and shape. It is quick and comfortable, and gives important information for planning treatment. A semen analysis after two to seven days of abstinence. It reports count, movement and shape in one cheap, quick test, and abnormal results lead to an exam and possibly hormone blood tests.
 4. **Can both partners be tested on the same visit?**
          Yes. Many clinics arrange the woman's scan and blood tests and the man's semen analysis around the same visit. This speeds up the process and allows results to be reviewed together. Yes, and that is how it should work. The woman's blood tests and scan can be planned by cycle day while the man gives a semen sample, so most of the workup finishes inside one cycle.
 5. **What if both partners have normal tests?**
@@ -11510,7 +11510,7 @@ Your doctor can look at the complete picture, including your IVF protocol, embry
 
 For patients in Gunjur and other parts of Bangalore, Dr. Swati Shree provides fertility evaluation and counselling at EVE Women and Fertility Clinic.
 
-EVE is an ART Level 1 certified clinic. Advanced IVF laboratory procedures such as egg retrieval, IVF, ICSI, embryo culture, embryo freezing and embryo transfer are carried out through EVE's partner fertility centres, Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant. Pasted text
+IVF laboratory procedures such as egg retrieval, ICSI, embryo culture, embryo freezing and embryo transfer are carried out at associated, registered ART centres.
 
 ### Key Takeaways
 - Embryo transfer does not immediately confirm pregnancy.
@@ -11566,7 +11566,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 7. **Is early pregnancy monitoring different after frozen embryo transfer?**
    The treatment used to prepare the uterus can differ between frozen embryo transfer cycles, but the main principles of early pregnancy monitoring remain similar. hCG testing and an ultrasound may be used to assess pregnancy development and location. Your doctor will determine the appropriate schedule.
 8. **Where can I get fertility and early pregnancy guidance in East Bangalore?**
-   Dr. Swati Shree provides fertility evaluation and counselling at EVE Women and Fertility Clinic in Gunjur, Bangalore. Advanced IVF laboratory procedures are performed through EVE's partner fertility centres, including Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant. Pasted text
+   Dr. Swati Shree provides fertility evaluation and counselling at EVE Women and Fertility Clinic in Gunjur, Bangalore. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Sources and further reading
 
@@ -11978,7 +11978,7 @@ Your doctor chooses the plan based on your cycle and history.
 
 ### What happens on transfer day?
 
-The embryo is thawed in the laboratory and assessed. You lie down, a speculum is placed, and under ultrasound guidance a soft catheter places the embryo in the womb. The procedure is quick and usually painless, similar to a Pap smear. You may rest briefly afterward.
+The embryo is thawed in the laboratory and assessed. You lie down, a speculum is placed, and under ultrasound guidance a soft catheter places the embryo in the womb. The procedure is quick and most women feel little or no discomfort, similar to a Pap smear. You may rest briefly afterward.
 
 ### What happens after the transfer?
 
@@ -11999,7 +11999,7 @@ Modern freezing, called vitrification, preserves embryos very well, and most emb
 ### Key Takeaways
 - FET uses embryos frozen from a previous cycle.
 - The lining is prepared using natural or hormonal cycles.
-- The transfer is quick and usually painless.
+- The transfer is quick and most women feel little or no discomfort.
 - A pregnancy test follows about ten to fourteen days later.
 - Single embryo transfer lowers multiple pregnancy risk.
 
@@ -12014,7 +12014,7 @@ Frozen embryo transfer gives flexibility and, for many patients, a gentler path.
 2. **How long can embryos stay frozen?**
          Embryos can remain frozen for many years without losing viability when stored properly. Storage duration is governed by clinic policy and applicable regulations. Your clinic will explain the details. Many years. Survival on thawing is excellent with modern vitrification, and healthy babies are born from embryos frozen for over a decade. Storage has annual consent and paperwork requirements.
 3. **Is frozen embryo transfer painful?**
-         The transfer is usually painless or mildly uncomfortable, similar to a Pap smear. You do not need anaesthesia. The hormone medicines may cause side effects such as bloating. No. It is a quick procedure like a Pap smear, placing the thawed embryo through a thin catheter without sedation. Most women feel nothing beyond mild discomfort and return to normal activity.
+         The transfer usually brings little or no discomfort, similar to a Pap smear. You do not need anaesthesia. The hormone medicines may cause side effects such as bloating. No. It is a quick procedure like a Pap smear, placing the thawed embryo through a thin catheter without sedation. Most women feel nothing beyond mild discomfort and return to normal activity.
 4. **When should I take a pregnancy test after FET?**
          A blood pregnancy test is usually done about ten to fourteen days after the transfer, depending on the embryo's stage and your clinic's protocol. Testing too early can give misleading results. On the date your clinic sets, usually nine to twelve days after a day-5 embryo transfer. Testing sooner risks false negatives and, if a trigger was used, a misleading positive.
 5. **Can I resume normal activities after embryo transfer?**
@@ -12464,7 +12464,7 @@ Factors that may influence the discussion include:
 
 IVF also cannot guarantee that miscarriage will not occur.
 
-For patients who need advanced ART, Dr. Swati Shree can evaluate them at EVE Women and Fertility Clinic and guide treatment through partner fertility centres in Bangalore. EVE's ART Level 1 scope includes fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. Advanced IVF laboratory procedures are carried out through partner facilities. Pasted text(20261003-120516)
+For patients who need advanced ART, Dr. Swati Shree evaluates them at EVE Women and Fertility Clinic, which provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Does embryo genetic testing prevent miscarriage?
 
@@ -13386,7 +13386,7 @@ After 35, IVF usually comes up when IUI hasn't worked, when tubes are blocked or
 
 IVF gets around many fertility problems. It can't make eggs younger. Using your own eggs, success rates generally fall as age rises, and some women need more than one cycle.
 
-At EVE Women and Fertility Clinic, Dr. Swati Shree handles your evaluation, counselling and monitoring. The IVF lab work itself, including egg retrieval, embryo culture, embryo freezing and embryo transfer, is done at her partner fertility centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she is a visiting consultant.
+At EVE Women and Fertility Clinic, Dr. Swati Shree handles your evaluation, counselling and monitoring. The IVF lab work itself, including egg retrieval, embryo culture, embryo freezing and embryo transfer, is carried out at associated, registered ART centres.
 
 ## IUI vs IVF after 35: how do they compare?
 
@@ -13556,9 +13556,9 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 5. **Is egg freezing worth it at 35?**
    It can be, if you want to delay pregnancy. Eggs frozen at 35 generally give better chances later than eggs frozen in your 40s. Freezing doesn't guarantee a baby, and how many eggs you'd need varies from woman to woman. Ovarian reserve testing and a consultation will help you decide whether it's right for you.
 6. **Does my husband's age matter when trying to conceive?**
-   Yes, although usually less than a woman's age does. Older men can have lower semen quality and more sperm DNA damage. Male factors play a part in a large number of couples who struggle to conceive, at any age. A semen analysis is simple and painless and should be done early in the evaluation.
+   Yes, although usually less than a woman's age does. Older men can have lower semen quality and more sperm DNA damage. Male factors play a part in a large number of couples who struggle to conceive, at any age. A semen analysis is simple and comfortable, and should be done early in the evaluation.
 7. **Where can I get a fertility evaluation in East Bangalore?**
-   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, close to Varthur, Whitefield and Sarjapur Road. The clinic offers fertility evaluation, counselling, ovulation monitoring and IUI. For IVF, she guides treatment through her partner fertility centres in Bangalore. You can book a consultation to go over your tests and next steps.
+   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, close to Varthur, Whitefield and Sarjapur Road. The clinic offers fertility evaluation, counselling, ovulation monitoring and IUI. For IVF, the laboratory procedures are carried out at associated, registered ART centres. You can book a consultation to go over your tests and next steps.
 
 ### Sources and further reading
 

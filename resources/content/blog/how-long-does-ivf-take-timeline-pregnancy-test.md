@@ -82,7 +82,7 @@ Call your clinic or doctor without delay if you notice:
 
 ### Final Thoughts
 
-The wait after transfer is hard for most couples, and feeling drained is understandable. Talking it through with your partner, or with a counsellor, often helps more than trying to stay calm alone. If you are considering IVF, a consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, can show how this timeline applies to your own reports. She can evaluate you at EVE and guide your IVF treatment through her partner fertility centres in Bangalore.
+The wait after transfer is hard for most couples, and feeling drained is understandable. Talking it through with your partner, or with a counsellor, often helps more than trying to stay calm alone. If you are considering IVF, a consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, can show how this timeline applies to your own reports. She can evaluate you at EVE and guide your IVF treatment; laboratory work is carried out at associated, registered ART centres.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -97,7 +97,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Is it safe to take a home pregnancy test before the blood test?**
    Waiting for the scheduled blood test gives the clearest answer. The trigger shot can leave a hormone similar to hCG in the body for several days, so an early home test may read positive without a pregnancy. A test taken too soon can also read negative even when a pregnancy has started. Report any worrying symptoms to your clinic rather than relying on a home kit.
 5. **Where can I get IVF timeline guidance in East Bangalore?**
-   Gunjur sits in East Bangalore, close to Varthur and Whitefield. EVE Women and Fertility Clinic offers fertility consultations there, and IVF treatment can be guided through partner fertility centres in Bangalore. Bringing previous test reports to the first visit lets the timeline reflect your own situation.
+   Gunjur sits in East Bangalore, close to Varthur and Whitefield. EVE Women and Fertility Clinic offers fertility consultations there, and IVF laboratory work is carried out at associated, registered ART centres. Bringing previous test reports to the first visit lets the timeline reflect your own situation.
 
 ### Sources and further reading
 

@@ -340,7 +340,7 @@ This is why a fertility specialist may discuss realistic expectations rather tha
 
 If IVF is recommended, the treatment pathway should also be explained clearly, including what happens at the fertility centre and what the ovarian reserve result means for stimulation and egg retrieval.
 
-At EVE Women and Fertility Clinic, advanced IVF laboratory procedures are performed through partner fertility centres rather than within the Level 1 ART clinic. Dr. Swati Shree can evaluate patients at EVE and guide appropriate IVF treatment through her partner centres in Bangalore. Pasted text
+At EVE Women and Fertility Clinic, Dr. Swati Shree evaluates patients and guides IVF treatment. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Should you consider egg freezing with low AMH?
 
@@ -354,7 +354,7 @@ Your age, reproductive plans, medical history and ovarian reserve all need to be
 
 If you are thinking about delaying pregnancy or are considering egg freezing, it is reasonable to discuss your options before making assumptions based on an AMH report.
 
-Fertility preservation is one of the focus areas identified for EVE Women and Fertility Clinic. Pasted text
+Fertility preservation is one of the focus areas identified for EVE Women and Fertility Clinic.
 
 ### Can low AMH be increased?
 
@@ -561,11 +561,11 @@ These symptoms can have several causes, but some require urgent assessment.
 
 If you are looking for fertility evaluation in Bangalore, low AMH can be assessed as part of a broader fertility consultation.
 
-EVE Women and Fertility Clinic in Gunjur provides fertility assessment and counselling, along with services such as ovulation induction, follicle monitoring and IUI within its ART Level 1 scope. Pasted text
+EVE Women and Fertility Clinic in Gunjur provides fertility assessment and counselling, along with services such as ovulation induction, follicle monitoring and IUI.
 
 For women concerned about ovarian reserve, the aim is to understand the AMH result alongside age, menstrual history, ultrasound findings and other relevant fertility factors.
 
-If IVF becomes part of the discussion, Dr. Swati Shree can assess you at EVE and guide IVF treatment through her partner fertility centres in Bangalore. The advanced IVF laboratory procedures are performed at those partner facilities, not at the EVE Level 1 clinic. Pasted text
+If IVF becomes part of the discussion, Dr. Swati Shree can assess you at EVE and guide IVF treatment. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Key Takeaways
 - Low AMH usually indicates reduced ovarian reserve.

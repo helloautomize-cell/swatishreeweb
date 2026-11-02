@@ -296,9 +296,9 @@ Before you start, ask for a written estimate that spells out what's included and
 
 At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree starts with a full evaluation of both partners. She goes through your history, AMH and hormone results, ultrasound findings and semen report, and looks first at whether ovulation induction or IUI could reasonably work for you.
 
-If IVF is the right next step, Dr. Swati Shree assesses you at EVE and guides your IVF treatment through her partner fertility centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she is a visiting consultant. Egg collection, the IVF laboratory work, embryo freezing and embryo transfer are carried out at these partner centres, while the same doctor stays with you through the whole process.
+If IVF is the right next step, Dr. Swati Shree assesses you at EVE and guides your IVF treatment. Egg collection, the IVF laboratory work, embryo freezing and embryo transfer are carried out at associated, registered ART centres, while the same doctor stays with you through the whole process.
 
-EVE is a registered ART Level 1 clinic, close to Varthur, Whitefield, Sarjapur Road and Bellandur.
+EVE is in Gunjur, close to Varthur, Whitefield, Sarjapur Road and Bellandur.
 
 ### When should you get urgent medical help during IVF?
 
@@ -363,7 +363,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **When can I take a pregnancy test after IVF?**
    The beta hCG blood test is usually done 9 to 14 days after embryo transfer, depending on the embryo's stage and your clinic's advice. Home tests taken earlier can mislead you. The trigger injection may cause a false positive in the first days, and testing too soon can also give a false negative.
 7. **Where can I see a fertility specialist about IVF in East Bangalore?**
-   Dr. Swati Shree consults at EVE Women and Fertility Clinic in Gunjur, which is convenient from Varthur, Whitefield, Sarjapur Road and Bellandur. She evaluates couples at EVE, and when IVF is needed she manages treatment through her partner fertility centres in Bangalore, so the same specialist oversees your care from start to finish.
+   Dr. Swati Shree consults at EVE Women and Fertility Clinic in Gunjur, which is convenient from Varthur, Whitefield, Sarjapur Road and Bellandur. She evaluates couples at EVE, and when IVF is needed the laboratory steps are carried out at associated, registered ART centres, so the same specialist oversees your care from start to finish.
 
 ### Sources and further reading
 

@@ -85,7 +85,7 @@ Seek urgent care for severe pelvic pain, rapid abdominal swelling, breathlessnes
 
 Trying to conceive with irregular cycles can wear you down, especially when every month brings the same question. Clarity helps. Once you know whether and when you ovulate, the next steps tend to become much easier to plan.
 
-If you are in Gunjur or nearby East Bangalore, Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore, can review your cycle history and plan the right tests with you. Advanced IVF is carried out through partner fertility centres.
+If you are in Gunjur or nearby East Bangalore, Dr. Swati Shree at EVE Women and Fertility Clinic, Gunjur, Bangalore, can review your cycle history and plan the right tests with you. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -102,7 +102,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 5. **How does IUI work for women with PCOS?**
    IUI is considered in selected cases, usually once ovulation has been induced or is being closely monitored. Sperm is washed and prepared in the laboratory, then placed into the uterus close to the time of ovulation. Fertilisation still happens inside the body. Age, sperm quality, tube status and earlier treatment all shape whether it suits you.
 6. **Where can I get PCOS fertility care in East Bangalore?**
-   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore. Care includes fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. If IVF becomes the plan, egg retrieval and embryo transfer take place at partner fertility centres, and your care team explains that pathway step by step.
+   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore. Care includes fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. If IVF becomes the plan, egg retrieval and embryo transfer take place at associated, registered ART centres, and your care team explains that pathway step by step.
 
 ### Sources and further reading
 

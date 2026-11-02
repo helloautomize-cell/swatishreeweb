@@ -44,7 +44,7 @@ Secondary infertility catches a lot of couples off guard. Having a child already
 
 No, and this belief causes real harm in Indian families. Infertility can sit with the woman, the man, both of them, or neither in any way tests can detect. Problems with sperm play a part for a large share of couples.
 
-That's why a proper evaluation includes both partners from the first visit. A semen test is quick and painless. Skipping it can mean months of scans and medicines for the woman that were never going to solve the problem.
+That's why a proper evaluation includes both partners from the first visit. A semen test is quick and comfortable. Skipping it can mean months of scans and medicines for the woman that were never going to solve the problem.
 
 ### Why it helps to get checked sooner
 
@@ -208,7 +208,7 @@ During IVF, injections stimulate the ovaries to grow several eggs. These are col
 
 IVF is usually considered for blocked tubes, severe endometriosis, low ovarian reserve, significant male factor, unexplained infertility after simpler treatment hasn't worked, or when age makes time a bigger concern.
 
-At EVE Women and Fertility Clinic in Gunjur, Dr. Swati Shree can carry out your evaluation, plan treatment and guide your IVF through her partner centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she is a visiting consultant.
+At EVE Women and Fertility Clinic in Gunjur, Dr. Swati Shree can carry out your evaluation and plan treatment. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ## Donor eggs and egg freezing
 
@@ -343,7 +343,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Does low AMH mean I can't get pregnant?**
    No. Low AMH means your ovaries hold fewer eggs than average for your age. It doesn't measure egg quality and doesn't rule out pregnancy, and many women with low AMH conceive either naturally or with treatment. Doctors mainly use AMH to judge how your ovaries may respond to fertility medicines and how soon to start treatment.
 7. **Where can I get a fertility consultation in East Bangalore?**
-   If you live in Gunjur, Varthur, Whitefield, Sarjapur Road or nearby, you can see Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur. The clinic provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. When IVF is needed, Dr. Swati Shree guides treatment through her partner fertility centres in Bangalore.
+   If you live in Gunjur, Varthur, Whitefield, Sarjapur Road or nearby, you can see Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur. The clinic provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. When IVF is needed, the laboratory procedures are carried out at associated, registered ART centres.
 8. **Can stress cause infertility in women?**
    Stress by itself is rarely the main cause, and feeling anxious doesn't mean you caused the problem. Severe stress combined with very low food intake or intense exercise can sometimes disturb ovulation. More often it works the other way round, with infertility causing the stress. Counselling, rest and honest conversations with your partner can make treatment easier to get through.
 

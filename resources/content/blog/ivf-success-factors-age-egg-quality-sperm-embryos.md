@@ -79,7 +79,7 @@ Do not wait too long if you are 35 or older, have had two or more miscarriages, 
 
 ### Final Thoughts
 
-Most couples feel overwhelmed the first time they see these numbers. The aim here is not to hand you a verdict. It is to help you ask sharper questions and plan with a clearer picture. If you would like a detailed review of your reports, you can book a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore. She assesses you at EVE and guides IVF treatment through her partner fertility centres in Bangalore.
+Most couples feel overwhelmed the first time they see these numbers. The aim here is not to hand you a verdict. It is to help you ask sharper questions and plan with a clearer picture. If you would like a detailed review of your reports, you can book a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore. She assesses you at EVE and guides IVF treatment; laboratory work is carried out at associated, registered ART centres.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -96,7 +96,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 5. **Do lifestyle changes make a real difference?**
    They can, especially for sperm and the uterine lining. Quitting smoking, cutting back on alcohol, reaching a healthy weight and keeping thyroid disease or diabetes under control all help. Skip herbal powders and supplements your doctor has not prescribed, because some can interfere with IVF medicines or affect the body in unexpected ways.
 6. **Where can I get an IVF evaluation in East Bangalore?**
-   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, a practical choice for people in Varthur, Whitefield, Sarjapur Road and Bellandur. She evaluates both partners at EVE. If IVF is the right next step, she guides treatment through her partner fertility centres in Bangalore, so the same doctor follows you from start to finish.
+   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, a practical choice for people in Varthur, Whitefield, Sarjapur Road and Bellandur. She evaluates both partners at EVE. If IVF is the right next step, the laboratory work is carried out at associated, registered ART centres, so the same doctor follows you from start to finish.
 
 ### Sources and further reading
 

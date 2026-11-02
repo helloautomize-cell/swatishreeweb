@@ -106,7 +106,7 @@ Male infertility is common and often treatable, but it can only be addressed onc
 4. **Can male infertility be treated?**
    Many causes can be treated or improved, such as hormone problems, varicocele or lifestyle factors. When treatment is not enough, IUI or IVF with ICSI can help couples conceive.
 5. **Should men be tested before women start fertility treatment?**
-         Ideally, both partners should be tested at the start. A semen analysis is simple and low-cost, and its results can change which treatment is suitable for the couple. Yes, and it should happen at the same time as the woman's evaluation. A semen analysis is cheap and painless, and skipping it can mean months of treating the woman for a problem that is his.
+         Ideally, both partners should be tested at the start. A semen analysis is simple and low-cost, and its results can change which treatment is suitable for the couple. Yes, and it should happen at the same time as the woman's evaluation. A semen analysis is quick and comfortable, and skipping it can mean months of treating the woman for a problem that is his.
 6. **Can stress affect sperm?**
          Long-term stress may affect hormones and sexual function, which can influence fertility. Managing stress through sleep, exercise and support is helpful, but it is not usually the only cause of male infertility. Severe prolonged stress may affect hormones and indirectly sperm, but it is a smaller factor than smoking, heat or illness. Worrying about stress itself is counterproductive during a workup.
 ### Sources and further reading

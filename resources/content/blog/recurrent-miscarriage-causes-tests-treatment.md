@@ -307,7 +307,7 @@ Factors that may influence the discussion include:
 
 IVF also cannot guarantee that miscarriage will not occur.
 
-For patients who need advanced ART, Dr. Swati Shree can evaluate them at EVE Women and Fertility Clinic and guide treatment through partner fertility centres in Bangalore. EVE's ART Level 1 scope includes fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. Advanced IVF laboratory procedures are carried out through partner facilities. Pasted text(20261003-120516)
+For patients who need advanced ART, Dr. Swati Shree evaluates them at EVE Women and Fertility Clinic, which provides fertility assessment, counselling, ovulation induction, follicle monitoring and IUI. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Does embryo genetic testing prevent miscarriage?
 

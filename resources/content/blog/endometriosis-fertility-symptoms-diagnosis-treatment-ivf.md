@@ -174,7 +174,7 @@ Doctors usually start talking about IVF when one or more of these apply. The tub
 
 ICSI (intracytoplasmic sperm injection) is a type of IVF where one sperm is injected straight into each egg. It's mainly used for significant sperm problems or when eggs didn't fertilise well in an earlier cycle.
 
-EVE is an ART Level 1 clinic, so the IVF laboratory steps aren't done on site. Dr. Swati Shree assesses you at EVE and then guides your IVF through her partner centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she consults. Egg collection, lab work and embryo transfer happen there.
+Dr. Swati Shree assesses you at EVE and then guides your IVF. IVF laboratory procedures are carried out at associated, registered ART centres, including egg collection, lab work and embryo transfer.
 
 ## What does an IVF cycle look like with endometriosis?
 
@@ -319,7 +319,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 6. **Will taking hormonal pills for endometriosis help me conceive later?**
    They won't improve your fertility. Hormonal pills and similar medicines ease pain and may slow the disease, but they stop ovulation while you're taking them, and they don't raise your chances once you stop. They're useful for keeping symptoms under control until you're ready to try. Check with your doctor before starting or stopping any of them.
 7. **Where can I get an endometriosis and fertility consultation in East Bangalore?**
-   Dr. Swati Shree, a reproductive medicine specialist, sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore, close to Varthur, Whitefield and Sarjapur Road. Evaluation, follicle monitoring, ovulation induction and IUI are done at EVE. When IVF is needed, Dr. Swati guides treatment through her partner fertility centres in Bangalore.
+   Dr. Swati Shree, a reproductive medicine specialist, sees patients at EVE Women and Fertility Clinic in Gunjur, Bangalore, close to Varthur, Whitefield and Sarjapur Road. Evaluation, follicle monitoring, ovulation induction and IUI are done at EVE. When IVF is needed, the laboratory procedures are carried out at associated, registered ART centres.
 
 ### Sources and further reading
 

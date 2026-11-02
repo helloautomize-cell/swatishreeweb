@@ -413,7 +413,7 @@ Your doctor can look at the complete picture, including your IVF protocol, embry
 
 For patients in Gunjur and other parts of Bangalore, Dr. Swati Shree provides fertility evaluation and counselling at EVE Women and Fertility Clinic.
 
-EVE is an ART Level 1 certified clinic. Advanced IVF laboratory procedures such as egg retrieval, IVF, ICSI, embryo culture, embryo freezing and embryo transfer are carried out through EVE's partner fertility centres, Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant. Pasted text
+IVF laboratory procedures such as egg retrieval, ICSI, embryo culture, embryo freezing and embryo transfer are carried out at associated, registered ART centres.
 
 ### Key Takeaways
 - Embryo transfer does not immediately confirm pregnancy.
@@ -469,7 +469,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 7. **Is early pregnancy monitoring different after frozen embryo transfer?**
    The treatment used to prepare the uterus can differ between frozen embryo transfer cycles, but the main principles of early pregnancy monitoring remain similar. hCG testing and an ultrasound may be used to assess pregnancy development and location. Your doctor will determine the appropriate schedule.
 8. **Where can I get fertility and early pregnancy guidance in East Bangalore?**
-   Dr. Swati Shree provides fertility evaluation and counselling at EVE Women and Fertility Clinic in Gunjur, Bangalore. Advanced IVF laboratory procedures are performed through EVE's partner fertility centres, including Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant. Pasted text
+   Dr. Swati Shree provides fertility evaluation and counselling at EVE Women and Fertility Clinic in Gunjur, Bangalore. IVF laboratory procedures are carried out at associated, registered ART centres.
 
 ### Sources and further reading
 

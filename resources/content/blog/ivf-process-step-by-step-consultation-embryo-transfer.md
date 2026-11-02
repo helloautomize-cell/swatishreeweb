@@ -44,7 +44,7 @@ Over 8 to 14 days, you inject a hormone medicine every day, usually into the ski
 
 The trigger injection helps the eggs complete their final stage of maturing. Its timing is strict, so set an alarm for the exact hour your clinic gives you. Collection follows 34 to 36 hours later. Under sedation, a fine needle guided by ultrasound draws fluid from each follicle. The procedure takes 15 to 30 minutes, and most women go home the same day with cramping that eases within a day or two.
 
-Collection and IVF laboratory work take place at partner centres, Apollo Fertility and Motherhood Fertility, where Dr. Swati Shree is a visiting consultant.
+Egg collection and IVF laboratory work take place at associated, registered ART centres.
 
 ### Step 5: Fertilisation and embryo culture
 
@@ -109,7 +109,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 5. **Can I take a home pregnancy test after embryo transfer?**
    It is better to wait for the blood test, done 9 to 14 days after transfer. The trigger injection can leave hormone traces that cause a false positive early on, and testing too soon can also miss a pregnancy. If you notice bleeding or symptoms in the meantime, call your doctor rather than testing again and again. Keep taking progesterone until your team advises otherwise.
 6. **Where can I get an IVF evaluation in East Bangalore?**
-   Dr. Swati Shree consults at EVE Women and Fertility Clinic in Gunjur, Bangalore, which is within easy reach of Varthur, Whitefield, Sarjapur Road and Bellandur. Where IVF is recommended, she guides treatment through partner fertility centres in Bangalore, including Apollo Fertility and Motherhood Fertility, where she is a visiting consultant. A consultation lets her build the plan around your own reports.
+   Dr. Swati Shree consults at EVE Women and Fertility Clinic in Gunjur, Bangalore, which is within easy reach of Varthur, Whitefield, Sarjapur Road and Bellandur. Where IVF is recommended, the laboratory procedures are carried out at associated, registered ART centres while she guides your treatment throughout. A consultation lets her build the plan around your own reports.
 
 ### Sources and further reading
 

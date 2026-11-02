@@ -60,7 +60,7 @@ IVF cannot improve egg quality on its own. A polyp, a fibroid pressing into the 
 
 ### How is the decision made at EVE?
 
-At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree usually evaluates both partners before any plan is made. If IVF is the right step, she assesses you at EVE and guides your treatment through her partner fertility centres, Apollo Fertility and Motherhood Fertility. Egg collection, laboratory work and embryo transfer take place at those centres.
+At EVE Women and Fertility Clinic in Gunjur, Bangalore, Dr. Swati Shree usually evaluates both partners before any plan is made. If IVF is the right step, she assesses you at EVE and guides your treatment. Egg collection, laboratory work and embryo transfer take place at associated, registered ART centres.
 
 ### When should you see a fertility specialist?
 
@@ -90,7 +90,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Is IVF recommended for men with a low sperm count?**
    It may be, when sperm problems are severe, because ICSI can fertilise an egg using a single sperm. Milder male factor issues often respond to IUI. A semen analysis is usually among the first tests, since the report helps decide between IUI, IVF and ICSI. Stopping smoking and cutting back on alcohol may support sperm quality. A specialist can explain what applies to you.
 5. **Where can I get a fertility evaluation for IVF in East Bangalore?**
-   You can book a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, which is convenient from Varthur, Whitefield, Sarjapur Road and Bellandur. She reviews your reports at EVE and, if IVF is needed, guides treatment through partner fertility centres in Bangalore. Having one specialist oversee your care from start to finish can make the process easier to follow.
+   You can book a fertility consultation with Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, which is convenient from Varthur, Whitefield, Sarjapur Road and Bellandur. She reviews your reports at EVE and, if IVF is needed, guides treatment; the laboratory steps are carried out at associated, registered ART centres. Having one specialist oversee your care from start to finish can make the process easier to follow.
 
 ### Sources and further reading
 

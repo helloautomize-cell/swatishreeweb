@@ -159,7 +159,7 @@ After 35, IVF usually comes up when IUI hasn't worked, when tubes are blocked or
 
 IVF gets around many fertility problems. It can't make eggs younger. Using your own eggs, success rates generally fall as age rises, and some women need more than one cycle.
 
-At EVE Women and Fertility Clinic, Dr. Swati Shree handles your evaluation, counselling and monitoring. The IVF lab work itself, including egg retrieval, embryo culture, embryo freezing and embryo transfer, is done at her partner fertility centres in Bangalore, Apollo Fertility and Motherhood Fertility, where she is a visiting consultant.
+At EVE Women and Fertility Clinic, Dr. Swati Shree handles your evaluation, counselling and monitoring. The IVF lab work itself, including egg retrieval, embryo culture, embryo freezing and embryo transfer, is carried out at associated, registered ART centres.
 
 ## IUI vs IVF after 35: how do they compare?
 
@@ -329,9 +329,9 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 5. **Is egg freezing worth it at 35?**
    It can be, if you want to delay pregnancy. Eggs frozen at 35 generally give better chances later than eggs frozen in your 40s. Freezing doesn't guarantee a baby, and how many eggs you'd need varies from woman to woman. Ovarian reserve testing and a consultation will help you decide whether it's right for you.
 6. **Does my husband's age matter when trying to conceive?**
-   Yes, although usually less than a woman's age does. Older men can have lower semen quality and more sperm DNA damage. Male factors play a part in a large number of couples who struggle to conceive, at any age. A semen analysis is simple and painless and should be done early in the evaluation.
+   Yes, although usually less than a woman's age does. Older men can have lower semen quality and more sperm DNA damage. Male factors play a part in a large number of couples who struggle to conceive, at any age. A semen analysis is simple and comfortable, and should be done early in the evaluation.
 7. **Where can I get a fertility evaluation in East Bangalore?**
-   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, close to Varthur, Whitefield and Sarjapur Road. The clinic offers fertility evaluation, counselling, ovulation monitoring and IUI. For IVF, she guides treatment through her partner fertility centres in Bangalore. You can book a consultation to go over your tests and next steps.
+   Dr. Swati Shree sees patients at EVE Women and Fertility Clinic in Gunjur, close to Varthur, Whitefield and Sarjapur Road. The clinic offers fertility evaluation, counselling, ovulation monitoring and IUI. For IVF, the laboratory procedures are carried out at associated, registered ART centres. You can book a consultation to go over your tests and next steps.
 
 ### Sources and further reading
 

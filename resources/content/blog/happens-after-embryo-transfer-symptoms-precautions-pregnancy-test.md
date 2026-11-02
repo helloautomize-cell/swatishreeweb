@@ -68,7 +68,7 @@ A positive result usually leads to a repeat blood test after two or three days, 
 
 ### Final Thoughts
 
-Feeling both hopeful and frightened during this wait is completely understandable. If a symptom worries you, call the clinic rather than searching for answers late at night. If your IVF cycle was carried out at a partner centre, you can still bring your reports to Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, for review and guidance.
+Feeling both hopeful and frightened during this wait is completely understandable. If a symptom worries you, call the clinic rather than searching for answers late at night. If your IVF cycle was carried out at an associated ART centre, you can still bring your reports to Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, for review and guidance.
 
 Medical Disclaimer: This article is for educational purposes only and does not replace professional medical advice. Fertility treatment outcomes vary from person to person. Please consult a qualified doctor for diagnosis and treatment.
 
@@ -83,7 +83,7 @@ Medical Disclaimer: This article is for educational purposes only and does not r
 4. **Is bed rest necessary after embryo transfer?**
          No. Studies have not shown that bed rest improves implantation. Walking and normal daily routines are generally fine. Avoid heavy lifting and strenuous exercise until your doctor confirms it is safe for you. No. Studies show strict bed rest does not improve implantation and may even reduce blood flow. Normal daily activity is fine; avoid heavy lifting, intense workouts and heat on the abdomen for a few days.
 5. **Where can I get post-transfer care in East Bangalore?**
-   Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultations and follow-up guidance, including for patients whose IVF cycles were done at partner centres. Gunjur is close to Varthur and Whitefield. Bring your transfer details, current medicine list, and recent blood reports to the appointment.
+   Dr. Swati Shree at EVE Women and Fertility Clinic in Gunjur, Bangalore, offers fertility consultations and follow-up guidance, including for patients whose IVF cycles were done at associated, registered ART centres. Gunjur is close to Varthur and Whitefield. Bring your transfer details, current medicine list, and recent blood reports to the appointment.
 
 ### Sources and further reading
 

@@ -48,7 +48,7 @@ Your doctor chooses the plan based on your cycle and history.
 
 ### What happens on transfer day?
 
-The embryo is thawed in the laboratory and assessed. You lie down, a speculum is placed, and under ultrasound guidance a soft catheter places the embryo in the womb. The procedure is quick and usually painless, similar to a Pap smear. You may rest briefly afterward.
+The embryo is thawed in the laboratory and assessed. You lie down, a speculum is placed, and under ultrasound guidance a soft catheter places the embryo in the womb. The procedure is quick and most women feel little or no discomfort, similar to a Pap smear. You may rest briefly afterward.
 
 ### What happens after the transfer?
 
@@ -69,7 +69,7 @@ Modern freezing, called vitrification, preserves embryos very well, and most emb
 ### Key Takeaways
 - FET uses embryos frozen from a previous cycle.
 - The lining is prepared using natural or hormonal cycles.
-- The transfer is quick and usually painless.
+- The transfer is quick and most women feel little or no discomfort.
 - A pregnancy test follows about ten to fourteen days later.
 - Single embryo transfer lowers multiple pregnancy risk.
 
@@ -84,7 +84,7 @@ Frozen embryo transfer gives flexibility and, for many patients, a gentler path.
 2. **How long can embryos stay frozen?**
          Embryos can remain frozen for many years without losing viability when stored properly. Storage duration is governed by clinic policy and applicable regulations. Your clinic will explain the details. Many years. Survival on thawing is excellent with modern vitrification, and healthy babies are born from embryos frozen for over a decade. Storage has annual consent and paperwork requirements.
 3. **Is frozen embryo transfer painful?**
-         The transfer is usually painless or mildly uncomfortable, similar to a Pap smear. You do not need anaesthesia. The hormone medicines may cause side effects such as bloating. No. It is a quick procedure like a Pap smear, placing the thawed embryo through a thin catheter without sedation. Most women feel nothing beyond mild discomfort and return to normal activity.
+         The transfer usually brings little or no discomfort, similar to a Pap smear. You do not need anaesthesia. The hormone medicines may cause side effects such as bloating. No. It is a quick procedure like a Pap smear, placing the thawed embryo through a thin catheter without sedation. Most women feel nothing beyond mild discomfort and return to normal activity.
 4. **When should I take a pregnancy test after FET?**
          A blood pregnancy test is usually done about ten to fourteen days after the transfer, depending on the embryo's stage and your clinic's protocol. Testing too early can give misleading results. On the date your clinic sets, usually nine to twelve days after a day-5 embryo transfer. Testing sooner risks false negatives and, if a trigger was used, a misleading positive.
 5. **Can I resume normal activities after embryo transfer?**
