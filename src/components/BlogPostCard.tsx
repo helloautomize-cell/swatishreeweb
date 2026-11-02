@@ -32,7 +32,13 @@ export default function BlogPostCard({ post: p }: { post: BlogCardPost }) {
       {p.category && <span className="hm-post-cat">{p.category}</span>}
       <span className="hm-post-t">{p.name}</span>
       <span className="hm-post-meta">
-        Written by {site.doctor} · <WithConfirms text={p.datePublished ?? ""} />
+        Written by {site.doctor}
+        {p.datePublished ? (
+          <>
+            {" "}
+            · <WithConfirms text={p.datePublished} />
+          </>
+        ) : null}
         {p.readingTime ? ` · ${p.readingTime} min read` : ""}
       </span>
     </Link>

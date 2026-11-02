@@ -10,7 +10,7 @@ import DirectionsLink from "@/components/DirectionsLink";
 import { InlineText } from "@/lib/content/render";
 import type { PageDoc } from "@/lib/content/load";
 import { site } from "@/lib/site-config";
-import { resolveConfirm } from "@/lib/confirm";
+import { isConfirm, resolveConfirm } from "@/lib/confirm";
 import { socialLinks } from "@/lib/social";
 import { YoutubeIcon, InstagramIcon } from "@/components/SocialIcons";
 import { whatsappPrefill } from "@/lib/nav";
@@ -85,13 +85,15 @@ export default function ContactPage({ doc }: { doc: PageDoc }) {
                 </div>
               </div>
 
-              <div className="ccard">
-                <Mail size={18} strokeWidth={1.75} aria-hidden />
-                <div>
-                  <b>Email</b>
-                  {email ? <EmailLink address={email} /> : <ConfirmChip note="clinic email" />}
+              {(!isConfirm(site.email) || process.env.NODE_ENV !== "production") && (
+                <div className="ccard">
+                  <Mail size={18} strokeWidth={1.75} aria-hidden />
+                  <div>
+                    <b>Email</b>
+                    {email ? <EmailLink address={email} /> : <ConfirmChip note="clinic email" />}
+                  </div>
                 </div>
-              </div>
+              )}
 
               <div className="ccard">
                 <MapPin size={18} strokeWidth={1.75} aria-hidden />

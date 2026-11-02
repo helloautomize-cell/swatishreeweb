@@ -66,14 +66,16 @@ export default function SiteFooter() {
                 </a>
               )}
             </div>
-            <div className="fline">
-              <Mail size={17} strokeWidth={1.8} aria-hidden />
-              {isConfirm(site.email) ? (
-                <MaybeConfirm value={site.email} />
-              ) : (
-                <EmailLink address={site.email} />
-              )}
-            </div>
+            {(!isConfirm(site.email) || process.env.NODE_ENV !== "production") && (
+              <div className="fline">
+                <Mail size={17} strokeWidth={1.8} aria-hidden />
+                {isConfirm(site.email) ? (
+                  <MaybeConfirm value={site.email} />
+                ) : (
+                  <EmailLink address={site.email} />
+                )}
+              </div>
+            )}
             {socialLinks.length > 0 && (
               <div className="fline fsocial">
                 <span className="fsocial-label">Follow Dr. Swati</span>

@@ -63,6 +63,64 @@ export type PageDoc = {
   confirms: { note: string; where: string }[];
 };
 
+const CONFIRM_INLINE = /`?\[CONFIRM(?::[^\]]*)?\]`?|`?\[date\]`?/g;
+const CONFIRM_TEST = /`?\[CONFIRM(?::[^\]]*)?\]`?|`?\[date\]`?/;
+const LINE_MARKER = /^(\s*(?:[-*+>]|\d+[.)])\s+)([\s\S]*)$/;
+const DANGLING_END =
+  /(?:\b(?:to|within|by|for|is|are|of|the|a|an|and|or|at|in|on|contact|no|number|accept|under|from|with|via|per|through|about|into|up|early|before|after)\.?|:)\s*$/i;
+
+/*
+ * Production render of a CONFIRM-dependent sentence must not leave a broken
+ * fragment ("Privacy contact:.", "up to months", "write to."). Dev keeps the
+ * [CONFIRM] chips; in production the whole segment that depended on the
+ * value is removed. Tokens that merely annotate a complete clause are
+ * stripped while the clause stays.
+ */
+export function stripConfirmLines(md: string): string {
+  const out: string[] = [];
+  for (const line of md.split("\n")) {
+    if (!CONFIRM_TEST.test(line)) {
+      out.push(line);
+      continue;
+    }
+    const m = line.match(LINE_MARKER);
+    const prefix = m?.[1] ?? "";
+    const body = m ? m[2] : line;
+    const parts = body.split(/((?<=[.!?·])\s+|\s+·\s+)/);
+    const keep: string[] = [];
+    const delims: string[] = [];
+    for (let i = 0; i < parts.length; i += 2) {
+      const seg = parts[i];
+      const delim = i > 0 ? parts[i - 1] : "";
+      if (!CONFIRM_TEST.test(seg)) {
+        keep.push(seg);
+        delims.push(delim);
+        continue;
+      }
+      const stripped = seg.replace(CONFIRM_INLINE, "").replace(/\s+/g, " ").trim();
+      if (!/[A-Za-z0-9]/.test(stripped)) continue;
+      const tm = seg.match(CONFIRM_TEST)!;
+      const before = seg.slice(0, tm.index);
+      const after = seg.slice((tm.index ?? 0) + tm[0].length);
+      const interior =
+        /[A-Za-z0-9]/.test(before) && /[A-Za-z0-9]/.test(after.replace(/[.,:;)\]\s*`]+$/g, ""));
+      if (interior) continue;
+      if (DANGLING_END.test(stripped)) continue;
+      if (stripped.split(/\s+/).filter((w) => /[A-Za-z0-9]/.test(w)).length < 3) continue;
+      keep.push(stripped);
+      delims.push(delim);
+    }
+    if (!keep.join("").trim()) continue;
+    let rebuilt = keep[0];
+    for (let i = 1; i < keep.length; i++) {
+      rebuilt += delims[i].includes("·") ? " · " : " ";
+      rebuilt += keep[i];
+    }
+    out.push(prefix + rebuilt);
+  }
+  return out.join("\n").replace(/\n{3,}/g, "\n\n");
+}
+
 /** Plain text for JSON-LD / equality checks: markdown and CONFIRM stripped. */
 export function plainText(md: string): string {
   return md
@@ -213,9 +271,13 @@ export function loadPages(): PageDoc[] {
       reviewerNoteRaw && !/use global text/i.test(reviewerNoteRaw) ? reviewerNoteRaw : null;
     const sourcesLine = trailing.find((t) => t.label.startsWith("Sources"))?.value;
 
+    const isProd = process.env.NODE_ENV === "production";
+    const clean = (md: string) => (isProd ? stripConfirmLines(md) : md);
+
     // Split into lead + ### sections.
     const chunks = body.split(/^### (.+)$/m);
-    const { fields: leadFields, markdown: leadMd } = extractFields(chunks[0]);
+    const { fields: leadFields, markdown: leadMdRaw } = extractFields(chunks[0]);
+    const leadMd = clean(leadMdRaw);
     const sections: Section[] = [];
     let faqs: FaqItem[] = [];
     let sources: string[] = sourcesLine
@@ -224,7 +286,10 @@ export function loadPages(): PageDoc[] {
 
     for (let i = 1; i + 1 < chunks.length; i += 2) {
       const rawHeading = chunks[i].trim();
-      const { fields, markdown } = extractFields(chunks[i + 1]);
+      const { fields, markdown: rawSectionMd } = extractFields(chunks[i + 1]);
+      const markdown = clean(rawSectionMd);
+      // A section whose whole body was CONFIRM-dependent has nothing to show.
+      if (!markdown.trim() && !fields.length) continue;
       const numMatch = rawHeading.match(/^(\d+)\s*\/\s*(.+)$/);
       const anchor = rawHeading.match(/#([a-z0-9-]+)/i)?.[1];
       const heading = (numMatch ? numMatch[2] : rawHeading)

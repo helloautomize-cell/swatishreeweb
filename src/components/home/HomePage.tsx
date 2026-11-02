@@ -16,7 +16,7 @@ import { InlineText, Markdown } from "@/lib/content/render";
 import type { PageDoc } from "@/lib/content/load";
 import { loadPages } from "@/lib/content/load";
 import { homeData } from "@/lib/home";
-import { resolveConfirm } from "@/lib/confirm";
+import { isConfirm, resolveConfirm } from "@/lib/confirm";
 import { clinicOpenedShort, kmcRegLine } from "@/lib/facts";
 import { badgeFor } from "@/lib/service-badges";
 import { imageEntry, pageLeadImage } from "@/lib/images";
@@ -136,7 +136,9 @@ function AboutStrip({ d }: { d: ReturnType<typeof homeData> }) {
           </div>
           {!d.about.labels.length ? null : (
             <div className="hm-labels">
-              {d.about.labels.map((l) => (
+              {d.about.labels
+                .filter((l) => l.replace(/`?\[(?:CONFIRM(?::[^\]]*)?|date)\]`?/g, "").trim() !== "" || process.env.NODE_ENV !== "production")
+                .map((l) => (
                 <span className="glasschip" key={l}><WithConfirms text={l} /></span>
               ))}
             </div>
@@ -178,7 +180,9 @@ function VisitBand({ d }: { d: ReturnType<typeof homeData> }) {
       <div className="hm-band-card">
         <h2><InlineText source={d.visitBand.h2} /></h2>
         <p><WithConfirms text={d.visitBand.text} /></p>
-        <p className="hm-band-hours"><WithConfirms text={d.visitBand.hours} /></p>
+        {(d.visitBand.hours.replace(/`?\[(?:CONFIRM(?::[^\]]*)?|date)\]`?/g, "").trim() !== "" || process.env.NODE_ENV !== "production") && (
+          <p className="hm-band-hours"><WithConfirms text={d.visitBand.hours} /></p>
+        )}
         <div className="btns">
           {maps ? (
             <a className="btn btn-s" href={maps} target="_blank" rel="noopener noreferrer">
@@ -302,7 +306,9 @@ function ContactBlock({ d }: { d: ReturnType<typeof homeData> }) {
         <div className="hm-contact-rows">
           <div className="hm-crow"><Phone size={20} strokeWidth={1.75} aria-hidden /><div><b>Call</b><p><a href={`tel:${site.phones[0].e164}`}>{site.phones[0].display}</a> · <a href={`tel:${site.phones[1].e164}`}>{site.phones[1].display}</a></p></div></div>
           <div className="hm-crow"><MessageCircle size={20} strokeWidth={1.75} aria-hidden /><div><b>WhatsApp</b><p>{whatsapp ? <a href={`https://wa.me/${whatsapp.replace(/\D/g, "")}`}>{whatsapp}</a> : <ConfirmChip note="WhatsApp number" />}</p></div></div>
-          <div className="hm-crow"><Mail size={20} strokeWidth={1.75} aria-hidden /><div><b>Email</b><p><MaybeConfirm value={site.email} /></p></div></div>
+          {(!isConfirm(site.email) || process.env.NODE_ENV !== "production") && (
+            <div className="hm-crow"><Mail size={20} strokeWidth={1.75} aria-hidden /><div><b>Email</b><p><MaybeConfirm value={site.email} /></p></div></div>
+          )}
           <div className="hm-crow"><MapPin size={20} strokeWidth={1.75} aria-hidden /><div><b>Address</b><p>{site.name}, {site.address.line1}, {site.address.line2}, {site.address.city} {site.address.postalCode}{" "}
             {maps ? <a className="link" href={maps} target="_blank" rel="noopener noreferrer">Get directions</a> : <ConfirmChip note="Google Maps link" />}</p></div></div>
           <div className="hm-crow"><Clock size={20} strokeWidth={1.75} aria-hidden /><div><b>Hours</b><p><MaybeConfirm value={site.hours} /></p></div></div>
